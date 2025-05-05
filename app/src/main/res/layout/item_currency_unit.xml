@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutItem"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_5sdp"
+    android:background="@drawable/shape_bg_color_white_corner_16"
+    android:elevation="@dimen/_2sdp"
+    android:paddingHorizontal="@dimen/_10sdp"
+    android:paddingVertical="@dimen/_10sdp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/icLang"
+            android:layout_width="32sp"
+            android:layout_height="32sp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_english_flag"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="@dimen/_10sdp"
+            android:layout_toStartOf="@id/nameUnit"
+            android:layout_toEndOf="@+id/icLang"
+            android:fontFamily="@font/inter_semibold"
+            android:textColor="@color/color_2D3640"
+            android:textSize="@dimen/_16ssp"
+            tools:text="GBP" />
+
+        <TextView
+            android:id="@+id/nameUnit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="@font/inter_regular"
+            android:textColor="@color/color_8d99a6"
+            android:textSize="@dimen/_16ssp"
+            tools:text="UK Pound" />
+
+
+    </RelativeLayout>
+</LinearLayout>

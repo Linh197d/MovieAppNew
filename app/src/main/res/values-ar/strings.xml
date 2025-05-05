@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_this_action_can_contain_ads">يمكن أن يحتوي هذا الإجراء على إعلانات</string>
+    <string name="string_language">اللغة</string>
+    <string name="string_next">التالي</string>
+    <string name="string_permission">الإذن</string>
+    <string name="string_location">الموقع</string>
+    <string name="string_appear_on_top">تظهر في الأعلى</string>
+    <string name="string_allow_notification">السماح بالإشعار</string>
+    <string name="string_you_need_to_accept_full_permission">تحتاج إلى قبول الإذن الكامل لاستخدام التطبيق</string>
+    <string name="string_you_need_to_enable_permission_to_use_this_features">تحتاج إلى تمكين الإذن لاستخدام هذه الميزات</string>
+    <string name="go_to_setting">انتقل إلى الإعداد</string>
+    <string name="string_cancel">إلغاء</string>
+    <string name="string_save">حفظ</string>
+    <string name="string_juristic_method">المنهج القانوني</string>
+    <string name="string_adjust_islamic_calendar">ضبط التقويم الإسلامي</string>
+
+    <!--أذكار-->
+    <string name="string_azkar">الأذكار</string>
+    <string name="string_daily_dhikr">الذكر اليومي</string>
+    <string name="string_daily_dhikr_1">دارود الإبراهيمي</string>
+    <string name="string_daily_dhikr_2">ابتر صلاح(الباير) التسبيح</string>
+    <string name="string_daily_dhikr_3">أدعية يومية</string>
+    <string name="string_daily_dhikr_4">قبل البدء بأي شيء</string>
+    <string name="string_daily_dhikr_5">لهذه الكلمة والآخرة</string>
+    <string name="string_daily_dhikr_6">للحماية والعون من الله</string>
+    <string name="string_daily_dhikr_7">ثواب ثلث القرآن</string>
+
+    <string name="string_daily_rememberence">التذكر اليومي</string>
+    <string name="string_daily_rememberence_1">أذكار الصباح</string>
+    <string name="string_daily_rememberence_2">أذكار المساء</string>
+
+    <string name="string_after_prayer">بعد الصلاة</string>
+    <string name="string_after_prayer_1">التسبيح بعد الصلاة</string>
+    <string name="string_after_prayer_2">أذكار ما بعد الصلاة</string>
+    <string name="string_after_prayer_3">صلِّ الصلاة بانتظام</string>
+    <string name="string_after_prayer_4">للحماية والعون من الله</string>
+
+    <string name="string_Rizq_sustenance">رزق (رزق)</string>
+    <string name="string_Rizq_sustenance_1">لرزق (الرزق)</string>
+    <string name="string_Rizq_sustenance_2">عندما تكون في حاجة</string>
+    <string name="string_Rizq_sustenance_3">للمغفرة ورحمة الله</string>
+    <string name="string_Rizq_sustenance_4">للحمد لله</string>
+    <string name="string_Rizq_sustenance_5">للنجاح</string>
+
+    <string name="string_knowledge">المعرفة</string>
+    <string name="string_knowledge_1">زيادة المعرفة</string>
+    <string name="string_knowledge_2">امنحني الثقة والبلاغة</string>
+    <string name="string_knowledge_3">للحماية من الجهل</string>
+    <string name="string_knowledge_4">الحماية من الحماقة</string>
+
+    <string name="string_faith">الإيمان</string>
+    <string name="string_faith_1">تقوي إيمانك</string>
+    <string name="string_faith_2">لتجعلنا مسلمين ملتزمين</string>
+    <string name="string_faith_3">استغفر وقوي إيمانك</string>
+    <string name="string_faith_4">المبايعة لله</string>
+    <string name="string_faith_5">للشركة الصالحة</string>
+
+    <string name="string_day_of_judgement">يوم القيامة</string>
+    <string name="string_day_of_judgement_1">للدنيا والآخرة</string>
+    <string name="string_day_of_judgement_2">طلب المغفرة والعتق من الجحيم</string>
+    <string name="string_day_of_judgement_3">الاستغفار لوالديك ولجميع المسلمين</string>
+    <string name="string_day_of_judgement_4">للجنة</string>
+    <string name="string_forgiveness">مغفرة</string>
+    <string name="string_forgiveness_1">اطلب المغفرة وقوي إيمانك</string>
+    <string name="string_forgiveness_2">من أجل المغفرة</string>
+    <string name="string_forgiveness_3">للمغفرة ورحمة الله</string>
+    <string name="string_forgiveness_4">طلب المغفرة والحماية من الجحيم</string>
+    <string name="string_forgiveness_5">من أجل المغفرة لوالديك ولجميع المسلمين</string>
+    <string name="string_forgiveness_6">المغفرة لإخوانك</string>
+    <string name="string_forgiveness_7">لطلب المغفرة لنفسك ولأي شخص يدخل منزلك</string>
+    <string name="string_forgiveness_8">للتوبة</string>
+    <string name="string_forgiveness_9">تقوية إيمانك</string>
+    <string name="string_forgiveness_10">اسعى لرضا الله</string>
+
+    <string name="string_praising_allah">الحمد لله</string>
+    <string name="string_praising_allah_1">لتحميد الله وتمجيده</string>
+    <string name="string_praising_allah_2">لشكر الله</string>
+    <string name="string_praising_allah_3">لكونك شاكرا لله</string>
+    <string name="string_praising_allah_4">على سماع الأخبار الجيدة</string>
+    <string name="string_praising_allah_5">لرزق (الرزق)</string>
+    <string name="string_praising_allah_6">لترك كل شيء في يد الله</string>
+
+    <string name="string_protection">حماية</string>
+    <string name="string_protection_1">الحماية والمساعدة من الله</string>
+    <string name="string_protection_2">طلب المغفرة والحماية من الجحيم</string>
+    <string name="string_protection_3">للحماية من الشيطان/الشيطان</string>
+    <string name="string_protection_4">للحماية من العين الشريرة</string>
+    <string name="string_protection_5">للحفاظ على عائلتك آمنة من المخالفين</string>
+    <string name="string_protection_6">لحماية طفلك</string>
+    <string name="string_protection_7">للحماية من الظالمين</string>
+    <string name="string_protection_8">للحماية من الأعداء</string>
+    <string name="string_protection_9">من أجل كبح الخوف</string>
+    <string name="string_protection_10">للحماية من الظالمين</string>
+    <string name="string_protection_11">للوالدين</string>
+    <string name="string_protection_12">خوفاً من ارتكاب الشرك</string>
+    <string name="string_protection_13">لهذا العالم والآخرة</string>
+    <string name="string_protection_14">أن يكون مسلماً تقياً</string>
+    <string name="string_protection_15">لشركة الصالحين</string>
+    <string name="string_protection_16">الحماية من الكوارث الطبيعية &amp; الكوارث</string>
+
+    <string name="string_family">عائلة</string>
+    <string name="string_family_1">للوالدين</string>
+    <string name="string_family_2">من أجل المغفرة لوالديك ولجميع المسلمين</string>
+    <string name="string_family_3">العفو لكم أيها الإخوة</string>
+    <string name="string_family_4">من أجل عائلة سعيدة</string>
+    <string name="string_family_5">اسأل الله أن يرزقك بطفل</string>
+    <string name="string_family_6">لحماية طفلك</string>
+
+    <string name="string_health_liness">الصحة/السلامة</string>
+    <string name="string_health_liness_1">من أجل حياة صحية</string>
+    <string name="string_health_liness_2">عند زيارة المرضى</string>
+    <string name="string_health_liness_3">لتخفيف الألم</string>
+    <string name="string_health_liness_4">أثناء المرض</string>
+    <string name="string_health_liness_5">عند رؤية شخص يمر بمحنة أو محنة</string>
+    <string name="string_health_liness_6">إذا وقعت في الأوقات الصعبة</string>
+    <string name="string_health_liness_7">عندما تقترب من وفاتك</string>
+    <string name="string_health_liness_8">عند زيارة القبور</string>
+
+    <string name="string_loss_failure">الخسارة / الفشل</string>
+    <string name="string_loss_failure_1">عندما تفشل أو تخسر في شيء ما</string>
+    <string name="string_loss_failure_2">عندما تحدث الخسارة</string>
+    <string name="string_loss_failure_3">عندما تصاب بالمأساة</string>
+    <string name="string_loss_failure_4">عند رؤية شخص يمر بمحنة أو محنة</string>
+    <string name="string_loss_failure_5">لطلب العون من الله</string>
+
+    <string name="string_sorrow_joy">حزن / فرح</string>
+    <string name="string_sorrow_joy_1">في وقت القلق والأسف</string>
+    <string name="string_sorrow_joy_2">عندما تكون في محنة</string>
+    <string name="string_sorrow_joy_3">للتغلب على نقاط الضعف لديك</string>
+    <string name="string_sorrow_joy_4">عندما تصاب بالمأساة</string>
+    <string name="string_sorrow_joy_5">عند رؤية شخص يمر بمحنة أو محنة</string>
+    <string name="string_sorrow_joy_6">عند سماع أخبار سيئة</string>
+    <string name="string_sorrow_joy_7">إذا وقعت في الأوقات الصعبة</string>
+    <string name="string_sorrow_joy_8">للصبر في الأوقات الصعبة</string>
+    <string name="string_sorrow_joy_9">عندما يهينك شخص ما</string>
+    <string name="string_sorrow_joy_10">عند الشعور بالخوف</string>
+    <string name="string_sorrow_joy_11">للحماية من الظالمين</string>
+    <string name="string_sorrow_joy_12">لطلب العون من الله</string>
+    <string name="string_sorrow_joy_13">التوكل على الله</string>
+    <string name="string_sorrow_joy_14">على سماع الأخبار الجيدة</string>
+    <string name="string_sorrow_joy_15">عندما يمدحك شخص ما</string>
+
+    <string name="string_patience">الصبر</string>
+    <string name="string_patience_1">للصبر</string>
+    <string name="string_patience_2">للصبر في الأوقات الصعبة</string>
+    <string name="string_patience_3">للسيطرة على غضبك</string>
+    <string name="string_patience_4">عندما يهينك شخص ما</string>
+
+    <string name="string_debt">دَين</string>
+    <string name="string_debt_1">تسوية الديون</string>
+    <string name="string_debt_2">لشخص عدسة لك المال</string>
+    <string name="string_debt_3">للنجاح</string>
+    <string name="string_debt_4">لرزق (الرزق)</string>
+
+    <string name="string_during_menstruation">أثناء الحيض</string>
+    <string name="string_during_menstruation_1">دارود الإبراهيمي</string>
+    <string name="string_during_menstruation_2">لهذه الدنيا والآخرة</string>
+    <string name="string_during_menstruation_3">للمغفرة ورحمة الله</string>
+    <string name="string_during_menstruation_4">تقوية إيمانك</string>
+    <string name="string_during_menstruation_5">لجعلنا مسلمين ممارسين</string>
+    <string name="string_during_menstruation_6">لشكر الله</string>
+    <string name="string_during_menstruation_7">أن نكون مسلمين تقيين</string>
+    <string name="string_during_menstruation_8">من أجل حياة صحية</string>
+    <string name="string_during_menstruation_9">لتخفيف الألم</string>
+    <string name="string_during_menstruation_10">إذا وقعت في الأوقات الصعبة</string>
+    <string name="string_during_menstruation_11">لطلب العون من الله</string>
+    <string name="string_during_menstruation_12">عندما تكون في محنة</string>
+    <string name="string_during_menstruation_13">للصبر في الأوقات الصعبة</string>
+    <string name="string_during_menstruation_14">التوكل على الله</string>
+
+    <!--Duas-->
+    <string name="string_duas">ادعية</string>
+    <string name="string_daily">يوميًا</string>
+
+    <string name="string_sleeping">نائم</string>
+    <string name="string_sleeping_1">عندما تستيقظ</string>
+    <string name="string_sleeping_2">قبل النوم</string>
+
+    <string name="string_toilet">الحمام</string>
+    <string name="string_toilet_1">قبل دخول المرحاض</string>
+    <string name="string_toilet_2">بعد مغادرة المرحاض</string>
+
+    <string name="string_ablution">الوضوء</string>
+    <string name="string_ablution_1">متى يبدأ الوضوء</string>
+    <string name="string_ablution_2">عند الانتهاء من الوضوء</string>
+
+    <string name="string_mosque">مسجد</string>
+    <string name="string_mosque_1">عند الذهاب إلى المسجد</string>
+    <string name="string_mosque_2">عند دخول المسجد</string>
+    <string name="string_mosque_3">عند الخروج من المسجد</string>
+
+    <string name="string_prayer">دعاء</string>
+    <string name="string_prayer_1">أثناء الأذان</string>
+    <string name="string_prayer_2">بعد سماع الأذان</string>
+    <string name="string_prayer_3">بعد التكبير (بدء الصلاة)</string>
+    <string name="string_prayer_4">أثناء الركوع (الركوع في الصلاة)</string>
+    <string name="string_prayer_5">أثناء السجود أمام الله (في السجود)</string>
+    <string name="string_prayer_6">عند الجلوس بين السجدتين</string>
+    <string name="string_prayer_7">السجود أثناء تلاوة القرآن</string>
+    <string name="string_prayer_8">عند الجلوس في التشهد (التشهد)</string>
+    <string name="string_prayer_9">دارود الإبراهيمي</string>
+    <string name="string_prayer_10">بعد التشهد</string>
+    <string name="string_prayer_11">دعاء القنوت (يقرأ في صلاة الوتر)</string>
+    <string name="string_prayer_12">بعد صلاة الفجر</string>
+
+    <string name="string_home">بيت</string>
+    <string name="string_home_1">عند مغادرة المنزل</string>
+    <string name="string_home_2">عند دخول المنزل</string>
+    <string name="string_home_3">عند صعود الدرج / الصعود إلى مكان ما</string>
+    <string name="string_home_4">عند النزول من الدرج / النزول من مكان مرتفع</string>
+
+    <string name="string_garment">ملابس</string>
+    <string name="string_garment_1">أثناء ارتداء الملابس</string>
+    <string name="string_garment_2">عند ارتداء الملابس الجديدة</string>
+    <string name="string_garment_3">عند النظر في المرآة</string>
+
+    <string name="string_travel">يسافر</string>
+    <string name="string_travel_1">للسفر</string>
+    <string name="string_travel_2">أثناء العودة من نموذج السفر</string>
+    <string name="string_travel_3">عندما يقترب الليل أثناء السفر</string>
+    <string name="string_travel_4">للإقامة</string>
+    <string name="string_travel_5">قبل النوم ليلا أثناء Traval</string>
+
+    <string name="string_food">طعام</string>
+    <string name="string_food_1">عند البدء بالوجبة</string>
+    <string name="string_food_2">إذا نسي أحد أن يذكر الله في البداية</string>
+    <string name="string_food_3">بعد الانتهاء من الوجبة</string>
+    <string name="string_food_4">عندما تعطى الشراب</string>
+    <string name="string_food_5">عند شرب الحليب</string>
+    <string name="string_food_6">عند الشرب في منزل شخص ما</string>
+    <string name="string_food_7">لشخص يقدم لك وجبة</string>
+    <string name="string_food_8">عند فتح صيامك</string>
+    <string name="string_food_9">لمن يقدم لك الإفطار</string>
+    <string name="string_occasional">في بعض الأحيان</string>
+
+    <string name="string_deceased">فقيد</string>
+    <string name="string_deceased_1">عندما تحدث الخسارة</string>
+    <string name="string_deceased_2">عند زيارة القبور</string>
+    <string name="string_deceased_3">عند تقديم كوندولينكا</string>
+    <string name="string_deceased_4">عند غلق عيون الميت</string>
+    <string name="string_deceased_5">للميت في صلاة الجنازة</string>
+    <string name="string_deceased_6">عند وضع الميت في القبر</string>
+
+    <string name="string_haj_umrah">الحج / العمرة</string>
+    <string name="string_haj_umrah_1">طابية</string>
+    <string name="string_haj_umrah_2">التكبير عند المرور بالحجر الأسود</string>
+    <string name="string_haj_umrah_3">عند الوصول إلى الركن اليماني أثناء الطواف</string>
+    <string name="string_haj_umrah_4">أثناء الذهاب إلى جبل الصفا</string>
+    <string name="string_haj_umrah_5">عند جبل الصفا وجبل المروة</string>
+    <string name="string_haj_umrah_6">للقراءة في المشعر الحرام (مزدلفة)</string>
+    <string name="string_haj_umrah_7">عند رمي الجمرات</string>
+    <string name="string_haj_umrah_8">عند عرفات</string>
+    <string name="string_haj_umrah_9">عند التضحية بالحيوان</string>
+
+    <string name="string_ramadan">رمضان</string>
+    <string name="string_ramadan_1">عند فتح صيامك</string>
+    <string name="string_ramadan_2">لليلة القدر (ليلة القدر)</string>
+    <string name="string_ramadan_3">لمن يقدم لك الإفطار</string>
+    <string name="string_ramadan_4">حول رؤية الهلال</string>
+
+    <string name="string_nature">طبيعة</string>
+    <string name="string_nature_1">للمطر</string>
+    <string name="string_nature_2">عندما تمطر</string>
+    <string name="string_nature_3">بعد هطول الأمطار</string>
+    <string name="string_nature_4">عندما يكون هناك أمطار غزيرة</string>
+    <string name="string_nature_5">عند سماع الرعد</string>
+    <string name="string_nature_6">خلال عاصفة رياح</string>
+
+    <string name="string_good_ettiquete">آداب جيدة</string>
+    <string name="string_good_ettiquete_1">لتحية الناس</string>
+    <string name="string_good_ettiquete_2">عند الرد على السلام</string>
+    <string name="string_good_ettiquete_3">من أجل ثانهينج شخص ما</string>
+    <string name="string_good_ettiquete_4">عند العطس</string>
+    <string name="string_good_ettiquete_5">عند سماع شخص يعطس</string>
+    <string name="string_good_ettiquete_6">العطاس يرد مرة أخرى</string>
+    <string name="string_good_ettiquete_7">عند دخول السوق</string>
+    <string name="string_good_ettiquete_8">في نهاية التجمع/المجلس</string>
+    <string name="string_good_ettiquete_9">عندما يمدحك شخص ما</string>
+
+    <string name="string_decision_guidance">القرار/التوجيه</string>
+    <string name="string_decision_guidance_1">للاستخارة</string>
+    <string name="string_decision_guidance_2">للعدالة</string>
+    <string name="string_decision_guidance_3">اطلب الهداية من الله</string>
+    <string name="string_decision_guidance_4">اسعى لرضا الله</string>
+    <string name="string_decision_guidance_5">للنجاح</string>
+    <string name="string_decision_guidance_6">تقوية إيمانك</string>
+
+    <string name="app_widget_description_time">القطعة وقت صلاة المسلمين</string>
+    <string name="app_widget_description_azkar">القطعة مسلم أذكار</string>
+
+    <!--    When you wake up-->
+    <string name="text_wake_up_1" translatable="false">الحمد لله الذي رد لي صحتي ورد روحي وأذن لي بذكره.</string>
+    <string name="text_wake_up_2" translatable="false">قال النبي صلى الله عليه وسلم: «من استيقظ من الليل فقال: لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير». ما أكمل الله، والحمد لله، ولا إله إلا الله، الله أكبر ولا حول ولا قوة إلا بالله العلي العظيم، ثم يدعو: "رب اغفر لي" "... يغفر له" أو قال: "ثم سأل فيستجيب له، فإن توضأ وصلى قبلت صلاته".</string>
+    <string name="text_wake_up_3" translatable="false">الحمد لله الذي أحيانا بعد أن أخذه منا وإليه النشور.</string>
+    <!--    Before  sleeping-->
+    <string name="text_sleeping_1" translatable="false">باسمك ربي اضطجعت، وباسمك رفعت، فإن قبضت نفسي فارحمها، وإن رددتها فاحفظها كما تفعل مع عبادك الصالحين.</string>
+    <string name="text_sleeping_2" translatable="false">اللهم إنك خلقت روحي وأنت تقبضها، ولك محياها ومماتها. إن أحييت نفسي فاحفظها، وإن أزهقتها فاغفر لها. "اللهم إني أسألك العافية".</string>
+    <string name="text_sleeping_3" translatable="false">اللهم قني عذابك يوم تبعث عبادك.</string>
+    <string name="text_sleeping_4" translatable="false">باسمك اللهم أحيي وأموت.</string>
+    <string name="text_sleeping_5" translatable="false">الحمد لله الذي أطعمنا وسقانا، وكفانا وآوانا، فكم ممن لا كافي له ولا مؤوي.</string>
+    <string name="text_sleeping_6" translatable="false">اللهم عالم الغيب والشهادة، فاطر السموات والأرض، رب كل شيء ومليكه، أشهد أن لا إله إلا أنت. أعوذ بك من شر نفسي، ومن شر الشيطان وشركه، وأن أقترف على نفسي سوءًا أو أقترفه على مسلم.» الشرك: أن أشرك بالله فيما يختص به. له. وهذا يمكن أن يكون في (1) الاعتقاد، مثلاً. - اعتقاد أن لغير الله قدرة على النفع والضر، (2) الكلام، مثل: الحلف بغير الله و (3) العمل، مثلا. الركوع أو السجود لغير الله.</string>
+    <string name="text_sleeping_7" translatable="false">اللَّهُمَّ أسلمت نفسي إليك، وفوضت أمري إليك، ووجهت وجهي إليك، وعليك توكلت تماماً، رجاءً وخوفاً منك. فإنه لا ملجأ ولا منجا منك إلا إليك. آمنت بكتابك الذي أنزلت، ونبيك الذي أرسلت.</string>
+    <string name="text_sleeping_8" translatable="false">الله! فلا إله إلا هو الحي القيوم الذي يحفظ جميع الكائنات ويحفظها. لا تأخذه سنة ولا نوم. له ما في السماوات وما في الأرض. ومن ذا الذي يشفع عنده إلا بإذنه؟ فهو يعلم ما يحدث لهم في الدنيا، وما سيحدث لهم في الآخرة. ولن يحيطوا بشيء من علمه إلا بما شاء. وسع كرسيه السماوات والأرض، ولا يؤوده حفظهما وحفظهما. وهو العلي العظيم .</string>
+    <!--    Before entering toilet-->
+    <string name="text_entering_toilet_1" translatable="false">(بسم الله). اللهم إني أعوذ بك من كل شر وفاعله.</string>
+    <!--    After leaving toilet-->
+    <string name="text_leaving_toilet_1" translatable="false">أسألك (الله) المغفرة.</string>
+    <!--    When starting ablution-->
+    <string name="text_starting_ablution_1" translatable="false">بسم الله.</string>
+    <!--    when completing ablution-->
+    <string name="text_completing_ablution_1" translatable="false">وأشهد أن لا إله إلا الله وحده لا شريك له، وأشهد أن محمداً عبده ورسوله.</string>
+    <string name="text_completing_ablution_2" translatable="false">اللهم اجعلني ممن يكثر التائبين إليك، واجعلني من المتطهرين الطاهرين.</string>
+    <string name="text_completing_ablution_3" translatable="false">كم أنت كامل، اللهم وبحمدك، وأشهد أن لا إله إلا أنت، أستغفرك وأتوب إليك.</string>
+    <!--    When going to Mosque-->
+    <string name="text_going_to_mosque_1" translatable="false">اللهمّ اجعل في قلبي نوراً، وفي لساني نوراً، وفي أذني نوراً، وفي عيني نوراً، واجعل خلفي نوراً، وأمامي نوراً، ومن فوقي نوراً، ومن تحتي نوراً. اللهمّ أعطني نورًا.</string>
+    <!--    Upon entering Mosque-->
+    <string name="text_entering_osque1" translatable="false">أعوذ بالله العظيم وبوجهه الكريم وسلطانه القديم من الشيطان الرجيم. بسم الله والصلاة والسلام على رسول الله. اللهمّ افتح لي أبواب رحمتك.</string>
+    <!--    Upon Leaving Mosque-->
+    <string name="text_leaving_mosque_1" translatable="false">بسم الله والصلاة والسلام على رسول الله. اللهم إني أسألك من فضلك. اللهم اعصمني من الشيطان الرجيم.</string>
+    <!--    During athan-->
+    <string name="text_during_athan_1" translatable="false">ولا حول ولا قوة إلا بالله.</string>
+    <!--    after listening athan-->
+    <string name="text_listening_athan_1" translatable="false">اللهم رب هذه الدعوة التامة والصلاة القائمة. آت محمداً الشفاعة والفضل، وابعثه المقام الكريم الذي وعدته [إنك لا تخلف الميعاد].</string>
+    <!--    After Takbeer-->
+    <string name="text_after_takbeer_1" translatable="false">إني وجهت وجهي مخلصا للذي فطر السماوات والأرض وما أنا من المشركين. إن صلاتي ونسكي ومحياي ومماتي لله رب العالمين لا شريك له، وبهذا أمرت وأنا من المسلمين. اللهم أنت الملك لا إله إلا أنت. أنت ربي وأنا عبدك ظلمت نفسي واعترفت بذنبي فاغفر لي ذنوبي كلها فإنه لا يغفر الذنوب إلا أنت. اهدني إلى أحسن الأخلاق فإنه لا يهدي إليها إلا أنت، ونجني من شر الأخلاق فإنه لا ينقذني منها إلا أنت. وها أنا ذا، استجابة لندائك، سعيد بخدمتك. الخير كله في يديك، والشر ليس منك. أنا موجود بإرادتك وسأعود إليك. تباركت وتعالى أستغفرك وأتوب إليك</string>
+    <string name="text_after_takbeer_2" translatable="false">يا الله! فرق بيني وبين خطاياي كما باعدت بين المشرق والمغرب. اللهم نقني من خطاياي كما ينقى الثوب الأبيض من الدنس. يا الله! اغسل خطاياي بالثلج والماء والصقيع.</string>
+    <string name="text_after_takbeer_3" translatable="false">سبحانك اللهم وبحمده. تبارك اسمك وتعالى جلالتك. لا يوجد أحد يستحق العبادة إلا أنت.</string>
+    <!--    During Ruku-->
+    <string name="text_during_ruku_1" translatable="false">سبحان ربي الأعلى .</string>
+    <string name="text_during_ruku_2" translatable="false">سبحانك اللهم ربنا ولك الحمد . اللهم اغفر لي.</string>
+    <string name="text_during_ruku_3" translatable="false">سبحانك قدوس رب الملائكة والروح.</string>
+    <string name="text_during_ruku_4" translatable="false">يا الله! لك أركع، وبك آمنت، ولك أسلمت. لك خشع سمعي، وبصري، وعقلي، وعظامي، وأعصابي، وما وطأت عليه قدمي.</string>
+    <string name="text_during_ruku_5" translatable="false">سبحانك يا مالك القدرة والملكوت والجلال والعظمة.</string>
+    //While prostrating before Allah
+    <string name="text_before_allah_1" translatable="false">سبحان ربي الأعلى .</string>
+    <string name="text_before_allah_2" translatable="false">سبحانك اللهم ربنا ولك الحمد . اللهم اغفر لي.</string>
+    <string name="text_before_allah_3" translatable="false">سبحانك قدوس رب الملائكة والروح.</string>
+    <string name="text_before_allah_4" translatable="false">اللهم لك سجدت وبك آمنت. إليك قدمت. سجد وجهي للذي خلقه وصوره وأعطاه السمع والبصر. تبارك الله أحسن الخالقين.</string>
+    <string name="text_before_allah_5" translatable="false">سبحانك يا مالك القدرة والملكوت والجلال والعظمة.</string>
+    <string name="text_before_allah_6" translatable="false">اللهم إني أعوذ برضاك من سخطك، وأعوذ بمغفرتك من عقوبتك. أعوذ بك منك. لا أستطيع أن أحصي ثناءك. أنت كما أثنيت على نفسك .</string>
+    <string name="text_before_allah_7" translatable="false">اللهم اغفر لي ذنوبي كلها، صغيرها وكبيرها، أولها وآخرها، ما ظهر منها وما بطن.</string>
+    //When sitting between two Sujood
+    <string name="text_two_sujood_1" translatable="false">رب اغفر لي. ربي اغفر لي.</string>
+    <string name="text_two_sujood_2" translatable="false">اللهمّ اغفر لي، وارحمني، واهدني، وانصرني، واحفظني، وارزقني، وارفعني.</string>
+    //prostration during quran recitation
+    <string name="text_quran_recitation_1" translatable="false">سجدت وجهي للذي خلقه وجعل له السمع والبصر بحوله وقوته. سبحان الله أحسن الخالقين.</string>
+    //when sitting in preyer
+    <string name="text_in_preyer_1" translatable="false">وكل تحية التواضع لله، وكل الصلاة والخير. السلام عليك أيها النبي ورحمة الله وبركاته. السلام علينا وعلى عباد الله الصالحين. أشهد أن لا إله إلا الله، وأشهد أن محمدًا عبده ورسوله.</string>
+    //darood-e-ibraheemi
+    <string name="text_ibraheemi_1" translatable="false">اللهم صل على محمد وعلى آل محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد. اللهم صل على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد.</string>
+    //After tashahhud
+    <string name="text_after_tashahhud_1" translatable="false">اللهم إني أعوذ بك من عذاب القبر، وأعوذ بك من فتنة المسيح الدجال، وأعوذ بك من فتنة المحيا والممات. اللهم إني أعوذ بك من المأثم والمغرم.</string>
+    <string name="text_after_tashahhud_2" translatable="false">اللهم إني ظلمت نفسي ظلما كثيرا، ولا يغفر الذنوب إلا أنت. فاغفر لي وارحمني. إنك غفور رحيم.</string>
+    <string name="text_after_tashahhud_3" translatable="false">اللهمّ اغفر لي ما قدّمت وما تركت خلفي، وما أسررت وما أعلنت، وما أسرفت، وما أنت أعلم به منّي. أنت الذي ترسل وأنت الذي تؤخر . لا يوجد أحد يستحق العبادة إلا أنت.</string>
+    //Dua e qunoot (recited in witr prayer)
+    <string name="text_e_qunoot_1" translatable="false">يا الله! نستعينك ونستعينك ونؤمن بك ونتوكل عليك ونحمدك ونشكرك ولا نكفرك ونعزل ونخذل من عصاك. يا الله! إياك نعبد ولك نصلي ونسجد ونرجو رضاك وتقديم أنفسنا لخدمة في سبيلك ونرجوا رحمتك ونخاف عذابك. إن عذابك سيعم الكافرين يا الله!</string>
+    //after fajr prayer
+    <string name="text_fajr_prayer_1" translatable="false">اللهم إني أسألك علماً نافعاً، وكانوا طيبين، وعملاً متقبلاً</string>
+    //when leaving home
+    <string name="text_leaving_home_1" translatable="false">بسم الله توكلت على الله ولا حول ولا قوة إلا بالله.</string>
+    <string name="text_leaving_home_2" translatable="false">"اللهم إني أعوذ بك أن أضل أو أضل، أو أزل أو أزل، أو أظلم أو أظلم، أو أجهل أو يجهل علي".</string>
+    //upon entering home
+    <string name="text_entering_home_1" translatable="false">بسم الله دخلنا وبسم الله خرجنا وعلى ربنا توكلنا.</string>
+    //when going up the stairs / ascending a place
+    <string name="text_the_stairs_1" translatable="false">الحمد لله الذي كساني هذا الثوب ورزقنيه من غير حول مني ولا قوة.</string>
+    <string name="text_the_stairs_2" translatable="false">الله أكبر</string>
+    <string name="text_the_stairs_3" translatable="false">الحمد لله</string>
+    //when wearing new clothes
+    <string name="text_new_clothes_1" translatable="false">اللهم لك الحمد. لقد لبستني. أسألك من خيره وخير ما صنع له، وأعوذ بك من شره وشر ما صنع له.</string>
+    //when looking into the mirror
+    <string name="text_the_mirror_1" translatable="false">اللهم كما حسنت ملامحي فحسن خلقي.</string>
+    //Travel
+    //for travel
+    <string name="text_for_travel_1" translatable="false">فسبحان الذي خلق لنا هذا النقل ولم نقدر أن نخلقه بمفردنا. و إنا إلى ربنا راجعون.</string>
+    <string name="text_for_travel_2" translatable="false">ربي! فليكن دخولي (إلى المدينة المنورة) جيدًا، وكذلك خروجي (من مدينة مكة) جيدًا. واجعل لي من لدنك سلطانا ينصرني (أو آية ثابتة أو برهان).</string>
+    //while returning form travel
+    <string name="text_form_travel_1" translatable="false">الله أكبر، الله أكبر، الله أكبر.\nلا إله إلا الله وحده لا شريك له. له الملك وله الحمد وهو على كل شيء قدير. نعود ونتوب ونعبد ونحمد ربنا. صدق الله وعده، ونصر عبده، وهزم الحلفاء وحده.</string>
+    /when night approaches during travel
+    <string name="text_approaches_during_travel_1" translatable="false">يا أرض ربي وربك الله . أعوذ بالله من شرككم، ومن شر ما فيكم، ومن شر ما خلق فيكم، ومن شر ما يدب عليكم. أعوذ بالله من الأسود، ومن الثعابين السوداء الكبيرة، ومن سائر الأفاعي، ومن العقارب، ومن شر الجن الذي يسكن البلاد. وهو الأب وذريته</string>
+    //for accommodation
+    <string name="text_accommodation_1" translatable="false">ربي أنزلني منزلاً مباركاً وأنت خير المنزلين.</string>
+    //before sleeping at night during travel
+    <string name="text_during_travel_1" translatable="false">ربي! وأعوذ بك من همزات الشياطين. وأعوذ بك ربي! لئلا يحضروا (أو يقتربوا) مني.</string>
+    <string name="text_during_travel_2" translatable="false">أعوذ بالله من الشيطان الرجيم.</string>
+    <string name="text_during_travel_3" translatable="false">أعوذ بكلمات الله التامات من شر ما خلق.</string>
+    <string name="text_beginning_a_meal_1" translatable="false">بسم الله الرحمن الرحيم خاصة.</string>
+    //if one forget to mention allah at the beginning
+    <string name="text_the_beginning_1" translatable="false">بسم الله البداية والنهاية</string>
+    //after finishing a meal
+    <string name="text_finishing_a_meal_1" translatable="false">الحمد لله الذي أطعمنا وسقانا وجعلنا مسلمين.</string>
+    //when given a drink
+    <string name="text_a_drink_1" translatable="false">يا الله! أطعم من أطعمني واسقي من سقيني.</string>
+    //upon drinking milk
+    <string name="text_drinking_milk_1" translatable="false">يا الله! وبارك لنا فيه وزدنا منه.</string>
+    //when dining at someone’s house
+    <string name="text_house_1" translatable="false">يا الله! وبارك لهم فيما رزقتهم واغفر لهم وارحمهم.</string>
+    //for someone who offers you a meal
+    <string name="text_you_a_meal_1" translatable="false">اللهم أطعم من أطعمني واسق من سقاني.</string>
+    //when openning your fast
+    <string name="text_your_fast_1" translatable="false">يا الله! لك صمت وآمنت بك، وعليك توكلت، وأفطرت على رزقك</string>
+    //For someone who provides you with Iftar
+    <string name="text_with_iftar_1" translatable="false">معك أفطر الصائمون، وأطعمت الصالحين، وصليت عليك الملائكة.</string>
+
+    //Deceased
+    //when a loss occurs
+    <string name="text_loss_occurs_1" translatable="false">إنا لله وإنا إليه راجعون.</string>
+    //when visiting graves
+    <string name="text_visiting_graves_1" translatable="false">أيها المسلمون المقيمون هنا، السلام عليكم، إننا بإذن الله قادمون إليكم أيضاً. نسعى للسلامة لنا ولكم.</string>
+    //when offering condolenca
+    <string name="text_offering_condolenca_1" translatable="false">إن الله له ما أخذ وله ما أعطى ولكل شيء أجل. لذا اصبر واحتسب الأجر</string>
+    //when closing the eyes of the deceased
+    //For the deceased at the funeral prayer
+    <string name="text_funeral_prayer_1" translatable="false">اللهمّ اغفر له وارحمه وقويه واعف عنه. وأكرمه ووسع مدخله واغسله بالماء والثلج والبرد. ونقه من خطاياه كما ينقى الثوب الأبيض من الدنس. أبدله داراً خيراً من داره، وأهلاً خيراً من أهله، وزوجاً خيراً من زوجته. أدخله الجنة وأعذه من عذاب القبر [ومن عذاب النار].</string>
+    <string name="text_funeral_prayer_2" translatable="false">اللهم اغفر لحينا وميتنا، ومن معنا وغائبنا، وصغيرنا وكبيرنا، ورجلنا ونسائنا. اللهمّ من أحييته منا فأحيه على الإسلام، ومن توفيته منا فتوفاه على الإيمان. اللهم لا تحرمنا أجرهم ولا تفتنا بعدهم.</string>
+    //When placing the deceased in the grave
+    <string name="text_the_graver_1">بسم الله وعلى سنة رسول الله</string>
+
+    //Hajj / Umrah
+    //tabihya
+    <string name="text_tabihya_1" translatable="false">في خدمتك دائمًا، يا الله، كل في خدمتك. في خدمتك دائمًا، ليس لديك شريك، في خدمتك أبدًا. إن الحمد والنعمة والملكوت لك. ليس لديك شريك</string>
+    //takbeer when passing the black stone
+    <string name="text_black_stone_1" translatable="false">الله أكبر!</string>
+    //upon reaching the yemeni corner during tawaf
+    <string name="text_during_tawaf_1" translatable="false">ربنا! آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار</string>
+    //while going to mount safa
+    <string name="text_mount_safa_1" translatable="false">أبدأ بما بدأ به الله، الله أكبر، الله أكبر، الله أكبر. ولا حق لأحد أن يعبد إلا الله وحده لا شريك له. له الملك وله الحمد وهو على كل شيء قدير. وليس لأحد حق أن يعبد إلا الله وحده. فصدق وعده ونصر عبده وهزم الحلفاء وحده.</string>
+    //When at Mount Safa and Mount Marwah
+    <string name="text_mount_marwah_1" translatable="false">أبدأ بما بدأ به الله، الله أكبر، الله أكبر، الله أكبر. ولا حق لأحد أن يعبد إلا الله وحده لا شريك له. له الملك وله الحمد وهو على كل شيء قدير. وليس لأحد حق أن يعبد إلا الله وحده. فصدق وعده ونصر عبده وهزم الحلفاء وحده.</string>
+    //for reciting at al-mash’ar al-haraam (muzdalifah)
+    <string name="text_al_haraam_1" translatable="false">الله أكبر. الله واحد. لا يوجد أحد يستحق العبادة إلا الله.</string>
+    //when throwing stone at jamaraat
+    <string name="text_at_jamaraat_1" translatable="false">الله أكبر!</string>
+    //at arafat
+    <string name="text_at_arafat_1" translatable="false">ولا حق لأحد أن يعبد إلا الله وحده لا شريك له. له الملك وله الحمد وهو على كل شيء قدير.</string>
+    //When sacrificing an animal
+    <string name="text_an_animal_1" translatable="false">بسم الله الله أكبر! [اللهم منك وإليك.] اللهم تقبله مني.</string>
+    <string name="text_openning_your_fast_1" translatable="false">يا الله! لك صمت وآمنت بك، وعليك توكلت، وأفطرت على رزقك</string>
+    //For the night of destiny
+    <string name="text_of_destiny_1" translatable="false">اللهم إنك عفو كريم تحب العفو فاعف عني</string>
+    //For someone who provides you with Iftar
+    <string name="text_you_with_iftar_1" translatable="false">معك أفطر الصائمون، وأطعمت الصالحين، وصليت عليك الملائكة.</string>
+    //on the sighting of the crescent moon
+    <string name="text_crescent_moon_1" translatable="false">الله أكبر. اللهم أهله علينا بالأمن والإيمان، وبالسلام والإسلام، ووفق ما يحبه ربنا ويرضاه. ربنا وربكم الله .</string>
+
+    //Nature
+    //For rain
+    <string name="text_for_rain_1" translatable="false">اللهم انزل علينا غيثاً غزيراً نافعاً غير ضار، سريعاً غير مؤجل.</string>
+    //when it rains
+    <string name="text_it_rains_1" translatable="false">اللَّهُمَّ سَيَّامًا نَافِعًا.</string>
+    //after rainfall
+    <string name="text_after_rainfall_1" translatable="false">لقد أمطرنا بفضل الله ورحمته.</string>
+    <string name="text_after_rainfall_2" translatable="false">اللَّهُمَّ سَيَّامًا نَافِعًا.</string>
+    <string name="text_after_rainfall_3" translatable="false">اللهمّ مرّرها ولا تقع علينا، بل على التلال والجبال، ووسط الأودية، وعلى الغابات.</string>
+    //Upon hearing thunder
+    <string name="text_hearing_thunder_1" translatable="false">سبحان من يسبح الرعد والملائكة من خيفته.</string>
+    //During a windstorm
+    <string name="text_a_windstorm_1" translatable="false">اللهم إني أسألك خيرها وأعوذ بك من شرها.</string>
+
+    //Good ettiquete
+    //For greeting people
+    <string name="text_greeting_people_1" translatable="false">والسلام عليكم ورحمة الله وبركاته</string>
+    //When responding to Salam
+    <string name="text_to_Salam_1" translatable="false">وعليكم السلام ورحمة الله وبركاته</string>
+    //For thanking someone
+    <string name="text_thanking_someone_1" translatable="false">وجزاكم الله خيرا.</string>
+    //upon hearing someone sneeze
+    <string name="text_someone_sneeze_1" translatable="false">رحمك الله</string>
+    //Upon sneezing
+    <string name="text_Upon_sneezing_1" translatable="false">الحمد لله.</string>
+    //Sneezers replies back
+    <string name="text_replies_back_1" translatable="false">الله يوفقك ويصلح حالك.</string>
+    //At the end of a Gathering/Majlis
+    <string name="text_a_Gathering_1" translatable="false">سبحانك اللهم وبحمدك. وأشهد أن لا إله إلا أنت. أستغفرك وأتوب إليك.</string>
+    //When entering market
+    <string name="text_entering_market_1" translatable="false">لا رب إلا الله . فهو واحد لا شريك له. له الملك وله الحمد . فهو يعطي الحياة ويعطي الموت. إنه أبدي وأبدي، في ملكه الخير، وهو على كل شيء قدير.</string>
+    //When someone praises you
+    <string name="text_praises_you_1">اللهم لا تؤاخذني بما يقولون واغفر لي ما لا يعلمون [واجعلني خيراً مما يتصورون].</string>
+
+    //decision / guidance
+    //For Istikhara
+    <string name="text_For_Istikhara_1" translatable="false">اللهم إني أستخيرك بعلمك، وأستعين بقدرتك، وأسألك من فضلك العظيم. إنك قادر وأنا لا. أنت تعلم وأنا لا أعلم وأنت علام الغيب. اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الأَمْرَ [فَاذْكُرِ الْمُقْتَرَى] خَيْرٌ لِي فِي دِينِي وَدَيْنِي وَعَافِئِي فِي آخِرَتِي - [أو قُل: فِي الدُّنْيَا وَالْآخِرَةِ] ] - فاقدره لي ويسره لي ثم بارك لي فيه. وإن كنت تعلم أن هذا الأمر شر لي في ديني ومعاشي وعاقبتي في آخرتي - [أو قل: في الدنيا والآخرة] - فاصرفه عني، وابعدني عنه. منه، واقدر لي الخير حيث كان، وارزقني الرضا به. من استستشار الخالق لم يندم، ومن استستشار المؤمنين اطمأن إلى قراره. قال الله تعالى في القرآن: "وشاورهم في الأمر فإذا قررت فتوكل على الله".</string>
+    //For Justice
+    <string name="text_For_Justice_1" translatable="false">ربنا! افتح بيننا وبين قومنا بالحق وأنت خير الحاكمين.</string>
+    //Seek Allah's guidance
+    <string name="text_guidance_1" translatable="false">الحمد لله الذي هدانا لهذا . وما كنا لنهتدي لولا أن هدانا الله.</string>
+    <string name="text_guidance_2" translatable="false">والله خير حافظا، وهو أرحم الراحمين.</string>
+    //Seek Allah's satisfaction
+    <string name="text_satisfaction_2" translatable="false">ربنا! اجعلنا مسلمين خاضعين لك، ومن ذريتنا أمة مسلمة خاضعة لك. وأرنا مكاننا في الاحتفال بالمناسك. واتوب إلينا (في الرحمة) ؛ إنك أنت التواب الرحيم.</string>
+    //For success
+    <string name="text_for_success_1" translatable="false">وما توفيقي إلا بالله. عليه توكلت وإليه أنيب.</string>
+    //strengthen your imaan
+    <string name="text_your_imaan_1" translatable="false">وما توفيقي إلا بالله. عليه توكلت وإليه أنيب.</string>
+    <string name="text_your_imaan_2" translatable="false">رضيت بالله ربا، وبالإسلام دينا، وبمحمد صلى الله عليه وسلم نبيا. (ثلاث مرات)</string>
+    <string name="text_your_imaan_3" translatable="false">أعوذ بالله.</string>
+    <string name="text_your_imaan_4" translatable="false">آمنت بالله ورسوله.</string>
+    <string name="text_your_imaan_5" translatable="false">ربنا! لا تزغ قلوبنا بعد إذ هديتنا وهب لنا من لدنك رحمة. حقا، أنت المنعم.</string>
+    <string name="text_book_mark_duas" translatable="false">المرجعية - ادعية</string>
+    <string name="text_book_mark_azkar" translatable="false">إشارة مرجعية - الأذكار</string>
+    <string name="text_book_mark_quran" translatable="false">إشارة مرجعية</string>
+    <string name="text_ayah" translatable="false">آية</string>
+    <string name="text_islam_map" translatable="false">خريطة الإسلام</string>
+    <string name="text_islam_map2" translatable="false">المساجد القريبة</string>
+    <string name="text_islam_map3" translatable="false">المطاعم القريبة</string>
+    <string name="text_islam_map4" translatable="false">مطاعم حلال قريبة</string>
+    <string name="text_day" translatable="false">يوم</string>
+    <string name="text_days" translatable="false">أيام</string>
+    <string name="text_no_wifi" translatable="false">لا يوجد اتصال واي فاي</string>
+    <string name="text_no_wifi2" translatable="false">يرجى الاتصال بشبكة wifi لاستخدام جميع ميزات هذا التطبيق</string>
+    <string name="text_connect" translatable="false">يتصل</string>
+    <string name="text_calculation_method" translatable="false">طريقة حساب</string>
+    <string name="text_default_font" translatable="false">الخط الافتراضي</string>
+    <string name="text_uthmanic_hafs" translatable="false">حفص العثماني</string>
+    <string name="text_qibla" translatable="false">القبلة</string>
+    <string name="text_pray_now" translatable="false">صلي الآن</string>
+    <string name="text_praying_time_adj" translatable="false">تعديل وقت الصلاة</string>
+    <string name="text_All" translatable="false">الجميع</string>
+    <string name="text_Fajrl" translatable="false">الفجر</string>
+    <string name="text_Sunrise" translatable="false">شروق الشمس</string>
+    <string name="text_Dhuhr" translatable="false">الظهر</string>
+    <string name="text_Asr" translatable="false">العصر</string>
+    <string name="text_Maghrib" translatable="false">المغرب</string>
+    <string name="text_Isha" translatable="false">العشاء</string>
+    <string name="text_Inaccurate" translatable="false">موقع غير دقيق؟ اضغط لي ل</string>
+    <string name="text_feedback" translatable="false">تعليق</string>
+    <string name="text_Notification" translatable="false">إشعار</string>
+    <string name="text_Vibrate" translatable="false">تذبذب</string>
+    <string name="Fajr" translatable="false">الفجر</string>
+    <string name="Sunrise" translatable="false">شروق الشمس</string>
+    <string name="Dhuhr" translatable="false">الظهر</string>
+    <string name="Asr" translatable="false">العصر</string>
+    <string name="Maghrib" translatable="false">المغرب</string>
+    <string name="Isha" translatable="false">العشاء</string>
+    <string name="text_minute" translatable="false">دقيقة</string>
+    <string name="text_minutes" translatable="false">دقائق</string>
+    <string name="text_share_reminder" translatable="false">تذكير المشاركة</string>
+    <string name="text_Min" translatable="false">دقيقة</string>
+    <string name="text_Next_prayer_in" translatable="false">:الصلاة القادمة في</string>
+    <string name="text_Pre_Notification" translatable="false">الإخطار المسبق</string>
+    <string name="text_Hanafi" translatable="false">حنفي</string>
+    <string name="text_Shafi_Maliki_Hanbali" translatable="false">الشافعي / المالكي / الحنبلي</string>
+    <string name="text_Widget" translatable="false">القطعة</string>
+    <string name="text_Convenient" translatable="false">مريح</string>
+    <string name="text_Pray_anytime" translatable="false">صل في أي وقت وفي أي مكان.\n تواصل مع إيمانك، بغض النظر عن مكان وجودك</string>
+    <string name="text_intro1" translatable="false">العد التنازلي لوقت الصلاة &amp; تذكير</string>
+    <string name="text_intro2" translatable="false">تساعدك على ملاحظة وقت صلاتك \n لا تفوت أي صلاة يومية</string>
+    <string name="text_intro3" translatable="false">الدليل المثالي لرحلتك الروحية والطهي</string>
+    <string name="text_Prayer_Time" translatable="false">وقت الصلاة</string>
+    <string name="text_share_image" translatable="false">مشاركة الصورة</string>
+    <string name="text_translation" translatable="false">ترجمة:</string>
+    <string name="text_tap_to_test" translatable="false">انقر لاختبار المؤثرات الصوتية</string>
+    <string name="text_Sound_Setting" translatable="false">إعداد الصوت</string>
+    <string name="text_Page_Background" translatable="false">خلفية الصفحة</string>
+    <string name="text_Pre_Adhan_reminder" translatable="false">تذكير ما قبل الأذان</string>
+    <string name="text_all_the_setting" translatable="false">سيتم أيضًا تطبيق جميع الإعدادات أدناه على الأدعية والأدعية. أذكار</string>
+    <string name="text_next_prayer" translatable="false">الصلاة القادمة</string>
+    <string name="text_coming_prayers" translatable="false">الصلوات القادمة</string>
+
+
+    <!--Azkar-->
+    <string name="string_azkar_detail_arabic_1_1_1" translatable="false">اللَّهُم صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُم بَارِكَ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبرْ اهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</string>
+    <string name="string_azkar_detail_spelling_1_1_1" translatable="false">اللَّهُمَّ صَلَّى عَلَى مُحَمَّدِينَ وَعَلَاءَ عَلَي مُحَمَّدِينِ، كَامَّا صَلَّيتَةَ عَلَاءَ إِبْرَاهِيمَةَ وَعِلاَى عَلَى إِبْرَاهِيمَةَ، إِنَّاكَ حامِدُون مْجِيدُ. اللهمّ بارك \'علاء محمدين و\'علي محمدين، كما بركت \'علاء \'إبراهيمه و\'علي \'إبراهيمه، \'إنّا حميدون مجيد</string>
+
+    // Daily Dhikr
+    // Darood-e-ibraheemi
+    <string name="text_e_ibraheemi_1" translatable="false">اللهم صل على محمد وعلى آل محمد كما صليت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد. اللهم صل على محمد وعلى آل محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد.</string>
+    //after salah (preyer) tasbeeh
+    <string name="text_tasbeeh_1" translatable="false">سبحان الله والحمد لله الله أكبر</string>
+    //everyday duas
+    <string name="text_duas_1" translatable="false">اللهمّ إني أسألك علماً نافعاً، ورزقاً طيباً، وعملاً متقبلاً.</string>
+    <string name="text_duas_2" translatable="false">اللهم إني أسألك الجنة وأعوذ بك من النار.</string>
+    <string name="text_duas_3" translatable="false">سبحان الله، والحمد لله، والله أكبر!</string>
+    <string name="text_duas_4" translatable="false">لا إله إلا أنت، سبحانك. إني كنت من الظالمين.</string>
+    //before starting anything
+    <string name="text_starting_anything_1" translatable="false">بسم الله الرحمن الرحيم خاصة.</string>
+    //for this word and the aakhira
+    <string name="text_the_aakhira_1" translatable="false">ربنا! آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار!</string>
+    <string name="text_the_aakhira_2" translatable="false">ربنا إنك جامع الناس ليوم لا ريب فيه. إن الله لا يخلف وعده.</string>
+    <string name="text_morning_rememberence_1" translatable="false">لقد أصبحنا وفي هذا الوقت لله الملك كله، والحمد لله. لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير. رب أسألك خير هذا اليوم وخير ما بعده وأعوذ بك من شر هذا اليوم وشر ما بعده. رب أعوذ بك من الكسل والهرم. رب أعوذ بك من عذاب النار وعذاب القبر.</string>
+    <string name="text_morning_rememberence_2" translatable="false">اللهمّ بك أصبحنا، وبك أمسينا، وبك نحيا ونموت وإليك النشور.</string>
+    <string name="text_morning_rememberence_3" translatable="false">اللهم أنت ربي لا إله إلا أنت خلقتني وأنا عبدك وأنا على عهدك ووعدك ما استطعت وأعوذ بك من شر ما استعصت عليه قد ارتكب. أبوء لك بنعمتك علي وأبوء بذنبي فاغفر لي فإنه لا يغفر الذنب إلا أنت.</string>
+    <string name="text_morning_rememberence_4" translatable="false">اللهم إني أصبحت أشهدك وأشهد حملة عرشك وملائكتك وجميع خلقك أنك أنت الله لا إله إلا أنت وحدك لا شريك لك وأن محمداً عبدك ورسولك. (أربع مرات).</string>
+    <string name="text_morning_rememberence_5" translatable="false">اللهم ما أصبح بي من نعمة أو بأحد من خلقك فمنك وحدك لا شريك لك، فلك الحمد ولك الشكر.</string>
+    <string name="text_morning_rememberence_6" translatable="false">اللهمّ عافني في بدني، اللهمّ عافني في سمعي، اللهمّ عافني في بصري. لا إله إلا أنت (ثلاث مرات) اللهم إني أعوذ بك من الكفر والفقر، وأعوذ بك من عذاب القبر. لا أحد يحق له أن يعبد إلا أنت. (ثلاث مرات)</string>
+    <string name="text_morning_rememberence_7" translatable="false">حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم. (سبع مرات صباحا ومساءا)</string>
+    <string name="text_morning_rememberence_8" translatable="false">أعوذ بكلمات الله التامات من شر ما خلق. (ثلاث مرات في المساء)</string>
+    <string name="text_morning_rememberence_9" translatable="false">اللهم إني أسألك العفو والعافية في الدنيا والآخرة. اللهم إني أسألك العفو والعافية في ديني ودنياي، وأهلي ومالي. اللهم استر ضعفي واستر روعتي. اللَّهُمَّ احفظني من أمامي ومن خلفي وعن يميني وعن شمالي ومن فوقي وأعوذ بك أن تخسفني الأرض.</string>
+    <string name="text_morning_rememberence_10" translatable="false">اللهم عالم الغيب والشهادة، فاطر السماوات والأرض، رب كل شيء ومليكه، أشهد أن لا إله إلا أنت. أعوذ بك من شر نفسي، ومن شر الشيطان وشركه، وأن أقترف على نفسي سوءاً أو أقترف ذلك على مسلم.</string>
+    <string name="text_morning_rememberence_11" translatable="false">بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم (ثلاث مرات)</string>
+    <string name="text_morning_rememberence_12" translatable="false">رضيت بالله ربا، وبالإسلام دينا، وبمحمد صلى الله عليه وسلم نبيا. (ثلاث مرات)</string>
+    <string name="text_morning_rememberence_13" translatable="false">ما أتم الله، وبحمده عدد خلقه، ورضا نفسه، وزنة عرشه، ومداد كلماته. (ثلاث مرات)</string>
+    <string name="text_morning_rememberence_14" translatable="false">سبحان الله وبحمده (مائة مرة)</string>
+    <string name="text_morning_rememberence_15" translatable="false">يا حي يا قيوم برحمتك أستغيث أصلح لي شأني كله ولا تكلني إلى نفسي طرفة عين.</string>
+    <string name="text_morning_rememberence_16" translatable="false">لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير. (مائة مرة)</string>
+    <string name="text_morning_rememberence_17" translatable="false">لقد أصبحنا وفي هذا الوقت الملك كله لله رب العالمين. اللهمّ إني أسألك خير هذا اليوم، انتصاره ونصره، ونوره وبركته وهداه، وأعوذ بك من شر هذا اليوم وشر ما بعده.</string>
+
+    <string name="text_evening_rememberence_1" translatable="false">لقد أصبحنا وفي هذا الوقت لله الملك كله، والحمد لله. لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير. رب أسألك خير هذا اليوم وخير ما بعده وأعوذ بك من شر هذا اليوم وشر ما بعده. رب أعوذ بك من الكسل والهرم. رب أعوذ بك من عذاب النار وعذاب القبر.</string>
+    <string name="text_evening_rememberence_2" translatable="false">اللهمّ بك أصبحنا، وبك أمسينا، وبك نحيا ونموت وإليك النشور.</string>
+    <string name="text_evening_rememberence_3" translatable="false">اللهم أنت ربي لا إله إلا أنت خلقتني وأنا عبدك وأنا على عهدك ووعدك ما استطعت وأعوذ بك من شر ما استعصت عليه قد ارتكب. أبوء لك بنعمتك علي وأبوء بذنبي فاغفر لي فإنه لا يغفر الذنب إلا أنت.</string>
+    <string name="text_evening_rememberence_4" translatable="false">اللهم إني أصبحت أشهدك وأشهد حملة عرشك وملائكتك وجميع خلقك أنك أنت الله لا إله إلا أنت وحدك لا شريك لك وأن محمداً عبدك ورسولك. (أربع مرات).</string>
+    <string name="text_evening_rememberence_5" translatable="false">اللهم ما أصبح بي من نعمة أو بأحد من خلقك فمنك وحدك لا شريك لك، فلك الحمد ولك الشكر.</string>
+    <string name="text_evening_rememberence_6" translatable="false">اللهمّ عافني في بدني، اللهمّ عافني في سمعي، اللهمّ عافني في بصري. لا إله إلا أنت (ثلاث مرات) اللهم إني أعوذ بك من الكفر والفقر، وأعوذ بك من عذاب القبر. لا أحد يحق له أن يعبد إلا أنت. (ثلاث مرات)</string>
+    <string name="text_evening_rememberence_7" translatable="false">حسبي الله لا إله إلا هو عليه توكلت وهو رب العرش العظيم. (سبع مرات صباحا ومساءا)</string>
+    <string name="text_evening_rememberence_8" translatable="false">أعوذ بكلمات الله التامات من شر ما خلق. (ثلاث مرات في المساء)</string>
+    <string name="text_evening_rememberence_9" translatable="false">اللهم إني أسألك العفو والعافية في الدنيا والآخرة. اللهم إني أسألك العفو والعافية في ديني ودنياي، وأهلي ومالي. اللهم استر ضعفي واستر روعتي. اللَّهُمَّ احفظني من أمامي ومن خلفي وعن يميني وعن شمالي ومن فوقي وأعوذ بك أن تخسفني الأرض.</string>
+    <string name="text_evening_rememberence_10" translatable="false">اللهم عالم الغيب والشهادة، فاطر السماوات والأرض، رب كل شيء ومليكه، أشهد أن لا إله إلا أنت. أعوذ بك من شر نفسي، ومن شر الشيطان وشركه، وأن أقترف على نفسي سوءاً أو أقترف ذلك على مسلم.</string>
+    <string name="text_evening_rememberence_11" translatable="false">بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم (ثلاث مرات)</string>
+    <string name="text_evening_rememberence_12" translatable="false">رضيت بالله ربا، وبالإسلام دينا، وبمحمد صلى الله عليه وسلم نبيا. (ثلاث مرات)</string>
+    <string name="text_evening_rememberence_13" translatable="false">ما أتم الله، وبحمده عدد خلقه، ورضا نفسه، وزنة عرشه، ومداد كلماته. (ثلاث مرات)</string>
+    <string name="text_evening_rememberence_14" translatable="false">سبحان الله وبحمده (مائة مرة)</string>
+    <string name="text_evening_rememberence_15" translatable="false">يا حي يا قيوم برحمتك أستغيث أصلح لي شأني كله ولا تكلني إلى نفسي طرفة عين.</string>
+    <string name="text_evening_rememberence_16" translatable="false">لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير. (مائة مرة)</string>
+    <string name="text_evening_rememberence_17">لقد أصبحنا وفي هذا الوقت الملك كله لله رب العالمين. اللهمّ إني أسألك خير هذا اليوم، انتصاره ونصره، ونوره وبركته وهداه، وأعوذ بك من شر هذا اليوم وشر ما بعده.</string>
+    <string name="text_remembrances_1" translatable="false">أستغفر الله (ثلاث مرات) اللهم أنت السلام ومنك السلام، تباركت يا ذا الجلال والإكرام. أوجه القصور.</string>
+    <string name="text_remembrances_2" translatable="false">لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير، اللهم لا مانع لما أعطيت ولا معطي لما أعطيت. لمنع، ولا ينفع أحدا مال ولا جلال، فمنك كل المال والجلال.</string>
+    <string name="text_remembrances_3" translatable="false">سبحان الله والحمد لله والله أكبر (ثلاثًا وثلاثين مرة) لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير. كل الأشياء كلي القدرة.</string>
+    <string name="text_remembrances_4" translatable="false">(قُلْ هُوَ اللَّهُ أَحَدٌ اللَّهُ الصَّمَدُ) لم يلد ولم يولد. وليس له نظير أو نظير. [الإخلاص] قل أعوذ برب الفلق من شر ما خلق. ومن شر غاسق إذا جاء بظلمته. (أو القمر إذا غاب أو غاب). ومن شر السحر إذا نفث في العقد ومن شر حاسد إذا حسد. [الفلق] قل أعوذ برب الناس ملك الناس إله الناس من شر الوسواس الخناس (الشيطان الذي يوسوس في قلوب الناس) الذي ينتزع (من وسوسته في القلب بعد ذكر الله) الذي يوسوس في صدور الناس من الجن والإنس. [الناس] بعد صلاة الصبح والمساء ثلاث مرات. بعد الصلوات الأخرى 1 مرة.</string>
+    <string name="text_remembrances_5" translatable="false">الله! فلا إله إلا هو الحي القيوم الذي يحفظ جميع الكائنات ويحفظها. لا تأخذه سنة ولا نوم. له ما في السماوات وما في الأرض. ومن ذا الذي يشفع عنده إلا بإذنه؟ فهو يعلم ما يحدث لهم في الدنيا، وما سيحدث لهم في الآخرة. ولن يحيطوا بشيء من علمه إلا بما شاء. وسع كرسيه السماوات والأرض، ولا يؤوده حفظهما وحفظهما. وهو العلي العظيم .</string>
+    <string name="text_remembrances_6" translatable="false">لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، يحيي ويميت، وهو على كل شيء قدير. (عشر مرات بعد صلاة المغرب والفجر)</string>
+    <string name="text_remembrances_7" translatable="false">اللهمّ إني أسألك علماً نافعاً، ورزقاً طيباً، وعملاً متقبلاً. (تقال بعد السلام لصلاة الفجر)</string>
+    //offer salah regularly
+    <string name="text_regularly_1" translatable="false">إن ربي لسميع الدعاء. رب اجعلني مقيم الصلاة ومن ذريتي. ربنا وتقبل دعاءي.</string>
+
+
+    //Rizq (Sustenance)
+    //for rizq (sustenance)
+    <string name="text_rizq_1" translatable="false">اللهمّ إني أسألك علماً نافعاً، ورزقاً طيباً، وعملاً متقبلاً.</string>
+    <string name="text_rizq_2" translatable="false">اللهمّ اغفر لي، وارحمني، واهدني، وانصرني، واحفظني، وارزقني، وارفعني.</string>
+    <string name="text_rizq_3" translatable="false">اللهم إني أسألك من فضلك.</string>
+    <string name="text_rizq_4" translatable="false">إن الله رؤوف رحيم بعباده. ويعطي الرزق لمن يشاء. وهو القوي العزيز .</string>
+    <string name="text_rizq_5" translatable="false">يا الله ربنا! أنزل لنا من السماء مائدة ليكون لنا لأولنا وآخرنا عيدا وآية منك. وارزقنا أنت خير الرازقين.</string>
+    //when you are in need
+    <string name="text_need_1" translatable="false">ربي! إني محتاج إلى كل ما تنعم علي به من خير!</string>
+    //for forgiveness and allah’s mercy
+    <string name="text_allah_mercy_1" translatable="false">(يا رب) أنت مولانا فاغفر لنا وارحمنا. وأنت خير الغافرين. واكتب لنا في الدنيا حسنة وفي الآخرة حسنة. إنا قد توجهنا إليك.</string>
+    <string name="text_allah_mercy_2" translatable="false">ربي! واغفر وارحم إنك أنت خير الراحمين!</string>
+    <string name="text_allah_mercy_3" translatable="false">ربنا! لقد ظلمنا أنفسنا، ولئن لم تغفر لنا وترحمنا لنكونن من الخاسرين.</string>
+    <string name="text_allah_mercy_4" translatable="false">ربنا! وهب لنا من لدنك رحمة، وهيئ لنا من أمرنا رشدا.</string>
+    <string name="text_allah_mercy_5" translatable="false">ربنا! آمنا فاغفر لنا وارحمنا وأنت خير الراحمين!</string>
+    <string name="text_praising_allah_1" translatable="false">يا الله! مالك الملك تؤتي الملك من تشاء وتنزع الملك ممن تشاء وتعز من تشاء وتذل من تشاء. بيدك الخير. إنك على كل شيء قدير. تُولج الليل في النهار، وتُولج النهار في الليل (أي الزيادة والنقصان في ساعات الليل والنهار في الشتاء والصيف)، وتُخرج الحي من الميت، أنت تُخرج الموتى من الأحياء. وتعطي المال والرزق من تشاء بغير حساب (قدرا أو حسابا).</string>
+    <string name="text_praising_allah_2" translatable="false">فسبحان الله [ عما يشركون به (أيها المؤمنون)]، عندما تصبحون [أي: صلِّ المغرب (المغرب) والعشاء]، وعندما تدخل الصباح [أي: صلِّ (الفجر) صلاة الصبح]. وله الحمد والشكر في السماوات والأرض، و(سبح) بعد الظهر (يعني صلاة العصر)، وحين يأتي الوقت، حيث يبدأ النهار في الانخفاض (أي يصلي الظهر) دعاء). (قال ابن عباس: هذه الصلوات الخمس المذكورة في القرآن). يُخرج الحي من الميت، ويُخرج الميت من الحي. ويحيي الأرض بعد موتها. وهكذا ستخرجون (تبعثون).</string>
+    <string name="text_praising_allah_3" translatable="false">سبحان الله وبحمده. سبحان الله العظيم .</string>
+    <string name="text_praising_allah_4" translatable="false">سبحان الله، والحمد لله، ولا إله إلا الله، والله أكبر.</string>
+    <string name="text_praising_allah_5" translatable="false">كم هو كامل الله</string>
+    <string name="text_praising_allah_6" translatable="false">ولا حول ولا قوة إلا بالله.</string>
+    <string name="text_praising_allah_7" translatable="false">سبحان الله العظيم وبحمده.</string>
+    <string name="text_praising_allah_8" translatable="false">هو الله الذي لا إله إلا هو عالم الغيب والشهادة. فهو الرحمن الرحيم، الرحيم بشكل خاص. هو الله الذي لا إله إلا هو الملك القدوس الكامل المؤمن المهيمن العزيز الجبار المتكبر. تعالى الله عما يشركون. هو الله الخالق البارئ المصور . وله الأسماء الحسنى. يسبح له ما في السموات والأرض. وهو العزيز الحكيم.</string>
+    <string name="text_praising_allah_9" translatable="false">ما شاء الله ولا قوة إلا بالله.</string>
+    //for success
+    <string name="text_for_success_4" translatable="false">وما توفيقي إلا بالله. عليه توكلت وإليه أنيب.</string>
+    //increase in knowledge
+    <string name="text_knowledge_1" translatable="false">ربي! زدني علما</string>
+    <string name="text_knowledge_2" translatable="false">اللهمّ إني أسألك علماً نافعاً، ورزقاً طيباً، وعملاً متقبلاً.</string>
+    <string name="text_knowledge_3" translatable="false">ربي! هب لي حكما (العلم والحكم في الأمور والنبوة) وألحقني بالصالحين. وارزقني ذكرا كريما في الخلف . واجعلني من ورثة جنة النعيم. وأغفر لأبي. إنه كان من الضالين. ولا تخزني يوم يبعثون (جميع المخلوقات). يوم لا ينفع مال ولا بنون إلا من أتى الله بقلب سليم.</string>
+    //grant me confidence and eloquence
+    <string name="text_eloquence_1" translatable="false">يا ألهي! افتح لي صدري. ويسر لي مهمتي. واحلل عقدة من لساني يفقهوا قولي."</string>
+    <string name="text_eloquence_2" translatable="false">سبحانك لا علم لنا إلا ما علمتنا. إنه أنت العليم الحكيم.</string>
+    //for protection from ignorance
+    <string name="text_ignorance_1" translatable="false">أعوذ بالله أن أكون من الجاهلين.</string>
+    //protection from foolishness
+    <string name="text_foolishness_1" translatable="false">اللَّهُمَّ إني أعوذ بك أن أضل أو أضل، أو أضل أو أخطئ، أو أعيب أو أسيء، أو أجهل أو أقابل القوم. حماقة الآخرين.</string>
+
+    //Faith
+    //strengthen your imaan
+    <string name="text_strengthen_your_imaan_1" translatable="false">رضيت بالله ربا، وبالإسلام دينا، وبمحمد صلى الله عليه وسلم نبيا. (ثلاث مرات)</string>
+    <string name="text_strengthen_your_imaan_2" translatable="false">أعوذ بالله.</string>
+    <string name="text_strengthen_your_imaan_3" translatable="false">آمنت بالله ورسوله.</string>
+    <string name="text_strengthen_your_imaan_4" translatable="false">ربنا! لا تزغ قلوبنا بعد إذ هديتنا وهب لنا من لدنك رحمة. حقا، أنت المنعم.</string>
+    <string name="text_strengthen_your_imaan_5" translatable="false">ربنا! اغفر لنا ذنوبنا وسيئاتنا وثبت أقدامنا وانصرنا على القوم الكافرين.</string>
+    <string name="text_practicing_muslims_1" translatable="false">ربنا! آمنا بما أنزلت واتبعنا الرسول. ثم اكتبنا مع الشاهدين.</string>
+    //seek forgiveness and strengthen your imaan
+
+    //pledge to allah
+    <string name="text_to_allah_1" translatable="false">إني وجهت وجهي للذي خلق السماوات والأرض حنيفا بالحق وما أنا من المشركين.</string>
+    <string name="text_to_allah_2" translatable="false">إن صلاتي ونسكي ومحياي ومماتي لله رب العالمين. ليس لديه شريك. وبهذا أمرت وأنا أول المسلمين.</string>
+    //for righteous company
+    <string name="text_righteous_company_1" translatable="false">فاطر السماوات والأرض أنت وليي في الدنيا والآخرة. توفني مسلما وألحقني بالصالحين.</string>
+    <string name="text_righteous_company_2" translatable="false">ربنا! نعتقد؛ واكتبنا مع الشاهدين</string>
+    //seek forgiveness and protection from hell
+    <string name="text_from_hell_1" translatable="false">ربنا وسعت كل شيء رحمة وعلما، فاغفر للذين تابوا واتبعوا سبيلك وقهم عذاب النار.</string>
+    <string name="text_from_hell_2" translatable="false">ربنا! لقد آمنا فاغفر لنا ذنوبنا وقنا عذاب النار.</string>
+    <string name="text_from_hell_3" translatable="false">ربنا! ما خلقت هذا عبثاً، سبحانك! (سبحانك عما يشركون بك). نجنا من عذاب النار . *ربنا! إنك من تدخله النار فقد أخزته ولن يجد الظالمون أنصارا. *ربنا! إنا سمعنا نداء مناديا (محمد صلى الله عليه وسلم) ينادي للإيمان: آمنوا بربكم فآمنا. *ربنا! اغفر لنا ذنوبنا، وكفر عنا سيئاتنا، وتوفنا صالحين مع الأبرار (أولئك الذين يطيعون الله ويتبعون أوامره). *ربنا! وآتنا ما وعدتنا على رسلك ولا تخزنا يوم القيامة إنك لا تخلف الميعاد.</string>
+    <string name="text_from_hell_4" translatable="false">ولا يكلف الله نفسا إلا وسعها. له جزاء بما كسب، ويعاقب بما اكتسب. "ربنا لا تؤاخذنا إن نسينا أو أخطأنا ربنا ولا تحمل علينا إصرا كما حملته على الذين من قبلنا ربنا ولا تحمل علينا إصرا لا طاقة لنا به" احمل واعف عنا واغفر لنا وارحمنا أنت مولانا وانصرنا على القوم الكافرين.</string>
+    <string name="text_from_hell_5" translatable="false">ربنا! أتمم لنا نورنا واغفر لنا إنك على كل شيء قدير.</string>
+    //for forgiveness for your parent and all muslims
+    <string name="text_all_muslims_1" translatable="false">يا ربنا! واغفر لنا ولوالدي وللمؤمنين يوم يقوم الحساب.</string>
+    //for jannah
+    <string name="text_for_jannah_1" translatable="false">ربنا! اصرف عنا عذاب جهنم إن عذابها كان عذابا شديدا وبئست مستقرا ومستقرا.</string>
+    <string name="text_for_jannah_2" translatable="false">ربنا! وأدخلهم جنات عدن التي وعدتهم والصالحين من آبائهم وأزواجهم وذرياتهم. إنك أنت العزيز الحكيم. (وقينهم من الذنوب) ومن نجتهم من (العقاب بما فعلوا) من الذنوب (أي تعذرهم) يومئذ فقد اتخذته. إلى الرحمة." وهذا هو النجاح الأسمى."</string>
+    //for forgiveness
+    <string name="text_forgiveness_1" translatable="false">يا ألهي! وأعوذ بك أن أسألك ما ليس لي به علم. وإلا تغفر لي وترحمني لأكون من الخاسرين.</string>
+    <string name="text_forgiveness_2" translatable="false">رب اغفر لي. ربي اغفر لي.</string>
+    <string name="text_forgiveness_3" translatable="false">اللهمّ اغفر لي، وارحمني، واهدني، وانصرني، واحفظني، وارزقني، وارفعني.</string>
+    <string name="text_forgiveness_4" translatable="false">اللهم اغفر لي ذنوبي كلها، صغيرها وكبيرها، أولها وآخرها، ما ظهر منها وما بطن.</string>
+    <string name="text_forgiveness_5" translatable="false">اللهم إني أعوذ برضاك من سخطك، وأعوذ بمغفرتك من عقوبتك. أعوذ بك منك. لا أستطيع أن أحصي ثناءك. أنت كما أثنيت على نفسك .</string>
+    <string name="text_forgiveness_6" translatable="false">أستغفر الله وأتوب إليه.</string>
+    <string name="text_forgiveness_7" translatable="false">اللهم إني ظلمت نفسي ظلما كثيرا، ولا يغفر الذنوب إلا أنت. فاغفر لي وارحمني. إنك غفور رحيم.</string>
+    <string name="text_forgiveness_8" translatable="false">اللهم أنت ربي لا إله إلا أنت خلقتني وأنا عبدك وأنا على عهدك ووعدك ما استطعت وأعوذ بك من شر ما استعصت عليه قد ارتكب. أبوء لك بنعمتك علي وأبوء بذنبي فاغفر لي فإنه لا يغفر الذنب إلا أنت.</string>
+    <string name="text_forgiveness_9" translatable="false">اللهم إني أسألك برحمتك التي وسعت كل شيء أن تغفر لي.</string>
+    <string name="text_forgiveness_10" translatable="false">ربي اغفر لي وتب علي، أنت التواب الغفور.</string>
+    //forgiveness for your siblings
+    <string name="text_siblings_1" translatable="false">يا ألهي! اغفر لي ولأخي وأدخلنا في رحمتك إنك أنت أرحم الراحمين.</string>
+    //for asking forgiveness for youself and anyone who enters your house
+    <string name="text_your_house_1" translatable="false">رب اغفر لي ولوالدي ولمن دخل بيتي مؤمنا وللمؤمنين والمؤمنات. ولا تزد الظالمين إلا تبابا.</string>
+    <string name="text_repentance_1" translatable="false">أستغفر الله العظيم الذي لا إله إلا هو الحي القيوم، وأتوب إليه، يغفر الله له وإن كان قد فر من صفوف الجيش.</string>
+    <string name="text_repentance_2" translatable="false">(وقل يا محمد لهؤلاء المشركين: هذا هو الله ربي الذي عليه توكلت، وإليه أنيب في أمري كله وأنيب).</string>
+    //for thanking allah
+    <string name="text_thanking_allah_1" translatable="false">لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير. المجد لله. الحمد لله. ولا يستحق العبادة إلا الله. الله أكبر. ولا حول ولا قوة إلا بإذن الله العلي العظيم. ربي اغفر لي.</string>
+    <string name="text_thanking_allah_2" translatable="false">سبحان ربي الأعلى .</string>
+    <string name="text_thanking_allah_3" translatable="false">سبحانك اللهم ربنا ولك الحمد . اللهم اغفر لي.</string>
+    <string name="text_thanking_allah_4" translatable="false">سبحانك قدوس رب الملائكة والروح</string>
+    <string name="text_thanking_allah_5" translatable="false">سبحانك يا مالك القدرة والملكوت والجلال والعظمة.</string>
+    <string name="text_thanking_allah_6" translatable="false">لا إله إلا الله وحده لا شريك له. له الملك وله الحمد. يحيي ويميت وهو على كل شيء قدير.</string>
+    <string name="text_thanking_allah_7" translatable="false">لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير. ولا حول ولا قوة إلا بالله . لا إله إلا الله، ولا نعبد غيره. له الفضل وله الفضل وله حمد عظيم. ليس لأحد حق أن يعبد إلا الله. (مخلصون) في إخلاصنا له الدين ولو كره الكافرون.</string>
+    <string name="text_thanking_allah_8" translatable="false">سبحان الله وبحمده، عدد خلقه، ورضا نفسه، وزنة عرشه، ومداد كلماته.</string>
+    <string name="text_thanking_allah_9" translatable="false">سبحان الله، والحمد لله، والله أكبر!</string>
+    <string name="text_thanking_allah_10" translatable="false">الحمد لله الذي أطعمنا وسقانا وكفانا وآوانا فكم ممن لا رزق له ولا مأوى.</string>
+    <string name="text_thanking_allah_11" translatable="false">الحمد لله حمداً كثيراً جميلاً مباركاً، حمداً لا ينقطع، حمداً لا نودعه، وحمداً لا يغني عنه، هو ربنا.</string>
+    //for being grateful to allah
+    <string name="text_grateful_to_allah_1" translatable="false">رب أوزعني أن أشكر نعمتك التي أنعمت علي وعلى والدي وأن أعمل صالحا ترضاه وأصلح لي في ذريتي. إني تبت إليك وإني من المسلمين.</string>
+    <string name="text_grateful_to_allah_2" translatable="false">رب أوزعني أن أشكر نعمتك التي أنعمت علي وعلى والدي وأن أعمل صالحا ترضاه. وأدخلني برحمتك في عبادك الصالحين.</string>
+    //on hearing good news
+    <string name="text_good_new_1" translatable="false">الحمد لله كما شاء الله تبارك الله</string>
+    //for leaving everything in the hands of
+    //protection and help from allah
+    <string name="text_help_from_allah_1" translatable="false">الله منزل الكتاب سريع الحساب اهزم الأحزاب. اللهم اهزمهم وزلزلهم.</string>
+    <string name="text_help_from_allah_2" translatable="false">هُوَ اللَّهُ أَحَدٌ. المالك الغنى الذي تحتاج إليه جميع الخلائق، لم يلد ولم يولد، ولم يكن له كفوا أحد.</string>
+    <string name="text_help_from_allah_3" translatable="false">الله! فلا إله إلا هو الحي القيوم الذي يحفظ جميع الكائنات ويحفظها. لا تأخذه سنة ولا نوم. له ما في السماوات وما في الأرض. ومن ذا الذي يشفع عنده إلا بإذنه؟ فهو يعلم ما يحدث لهم في الدنيا، وما سيحدث لهم في الآخرة. ولن يحيطوا بشيء من علمه إلا بما شاء. وسع كرسيه السماوات والأرض، ولا يؤوده حفظهما وحفظهما. وهو العلي العظيم .</string>
+    <string name="text_help_from_allah_4" translatable="false">أعوذ برب الفلق من شر ما خلق ومن شر غاسق إذا جاء بظلمته ومن شر السحرة إذا سحروا نفث في العقد، ومن شر حاسد إذا حسد.</string>
+    <string name="text_help_from_allah_5" translatable="false">أعوذ برب الناس ملك الناس إله الناس من شر الوسواس الخناس الذي يوسوس في صدور الناس من الجن والناس.</string>
+    <string name="text_help_from_allah_6" translatable="false">اللهم إني أعوذ بك من عذاب القبر، وأعوذ بك من فتنة المسيح الدجال، وأعوذ بك من فتنة المحيا والممات. اللهم إني أعوذ بك من المأثم والمغرم.</string>
+    <string name="text_help_from_allah_7" translatable="false">اللهم قني عذابك يوم تبعث عبادك.</string>
+    <string name="text_help_from_allah_8" translatable="false">اللهم عالم الغيب والشهادة، فاطر السماوات والأرض، رب كل شيء ومليكه، أشهد أن لا إله إلا أنت. وأعوذ بك من شر نفسي، ومن شر الشيطان وأعوانه. (أعوذ بك) من أن يجلب على نفسي الشر وأن أؤذي مسلما.</string>
+    <string name="text_help_from_allah_9" translatable="false">اللهم إني أسألك عفوك وعوذتك في الدنيا والآخرة. اللهم إني أسألك العفو والعافية في ديني ودنياي وأهلي ومالي. اللهم استر سري واحفظني من الكرب. اللهم احفظني مما بين يدي ومن خلفي وعن شمالي وعن يميني ومن فوقي. وأعوذ بعظمتك أن أغتال من تحتي.</string>
+    <string name="text_help_from_allah_10" translatable="false">لقد دخلنا يوماً جديداً ومعه الملك لله. الحمد لله. لا إله إلا الله وحده لا شريك له. لله الملك وله الحمد وهو على كل شيء قدير. ربي أسألك خير هذا اليوم وخير الأيام التي بعده، وأعوذ بك من شر هذا اليوم وشر ما بعده. ربي أعوذ بك من الكسل وعجز الهرم. ربي أعوذ بك من عذاب النار، ومن عذاب القبر. وعندما تقول ذلك في المساء عليك أن تقول: أمسينا ومسال الملك لله: "لقد انتهينا من يوم آخر ومعه الملك لله كله" والحاخام علوكا خيرا ما في. هاذهل ليلتي وخير ما بعد ضحاها وأوثو بيكا من شري ما في هاذهل ليلتي وشر ما بعد ضحاها: ""أسألك خير هذه الليلة وخير الليالي"" ما بعدها وأعوذ بك من شر هذه الليلة وشر ما بعدها."</string>
+    <string name="text_help_from_allah_11">فاعلم أن الله هو حافظك. فنعم المولى، ونعم النصير.</string>
+    //for protection from satan/shaytan
+    <string name="text_shaytan_1" translatable="false">ربي! وأعوذ بك من همزات الشياطين. وأعوذ بك ربي! لئلا يحضروا (أو يقتربوا) مني.</string>
+    <string name="text_shaytan_2" translatable="false">أعوذ بالله من الشيطان الرجيم.</string>
+    <string name="text_shaytan_3" translatable="false">أعوذ بكلمات الله التامات من شر ما خلق.</string>
+    //to keep your family safe from transgressors
+    <string name="text_transgressors_1" translatable="false">ربي! نجني وأهلي مما يفعلون.</string>
+    //for your child’s protection
+    <string name="text_protection_1" translatable="false">أعيذك بكلمات الله التامة من كل شيطان وهامة، ومن كل عين لامة.</string>
+    //for protection from oppressors
+    <string name="text_oppressors_1" translatable="false">ربنا! أنقذونا من هذه القرية الظالمة أهلها. وارفع لنا من لدنك حافظا، وارفع لنا من لدنك نصيرا.</string>
+    <string name="text_oppressors_2" translatable="false">اللهم أنت قوتي وأنت سندي. فيك أتقدم وفيك أتقدم وفيك أقاتل.</string>
+    //for curbing fear
+    <string name="text_fear_1" translatable="false">اللهم اكفنيهم بما شئت.</string>
+    //for protection from the wrongdoers
+    <string name="text_wrongdoers_1" translatable="false">وعلى الله توكلنا. ربنا لا تجعلنا فتنة للقوم الظالمين. ونجنا برحمتك من القوم الكافرين.</string>
+    <string name="text_wrongdoers_2" translatable="false">يا ربنا! إنك تعلم ما نخفي وما نعلن فإنه لا يخفى على الله شيء في الأرض ولا في السماء</string>
+    <string name="text_wrongdoers_3" translatable="false">ربنا! ونخاف أن يتعجل علينا، أو أن يتجاوز كل الحدود</string>
+    <string name="text_parents_1" translatable="false">يا ألهي! اجعلني ممن يقيم الصلاة ومن ذريتي ربنا! وتقبل دعوتي .</string>
+    <string name="text_parents_2" translatable="false">ربي ارحمهما كما ربياني صغيرا.</string>
+    //for fear of committing shirk
+    <string name="text_shirk_1" translatable="false">اللهم إني أعوذ بك أن أشرك بك شيئاً وأنا أعلم، وأستغفرك لما لا أعلم.</string>
+    //for this wolrd and the aakhira
+    <string name="text_aakhira_1" translatable="false">ربنا! آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار!</string>
+    <string name="text_aakhira_2" translatable="false">ربنا إنك جامع الناس ليوم لا ريب فيه. إن الله لا يخلف وعده.</string>
+    //to be a pious muslim
+    <string name="text_pious_muslim_1" translatable="false">ربنا! ولا تجعلنا مع القوم الذين هم الظالمون.</string>
+    <string name="text_pious_muslim_2" translatable="false">رب فلا تجعلني من القوم الظالمين.</string>
+
+    //seek allah’s satisfaction
+    <string name="text_allah_satisfaction_1" translatable="false">ربنا! تقبل منا (هذه الخدمة): إنك أنت السميع العليم</string>
+    <string name="text_allah_satisfaction_2" translatable="false">ربنا! اجعلنا مسلمين خاضعين لك، ومن ذريتنا أمة مسلمة خاضعة لك. وأرنا مكاننا في الاحتفال بالمناسك. واتوب إلينا (في الرحمة) ؛ إنك أنت التواب الرحيم.</string>
+
+    //Family
+    //for parent
+    //for a blissfull family
+    <string name="text_family_1" translatable="false">يا ألهي! هب لنا زوجات وذريات تكون قرة أعيننا واجعلنا للصالحين إماما.</string>
+    //asking allah to grant you a child
+    <string name="text_a_child_1" translatable="false">يا ألهي! هب لي من لدنك ذرية طيبة. إنك لسميع الدعاء.</string>
+    <string name="text_a_child_2" translatable="false">يا ألهي! ولا تذرني أعزبا وأنت خير الوارثين.</string>
+
+
+    //Health / Iiness
+    //for a healthy life
+    <string name="text_healthy_life_1" translatable="false">اللهمّ عافني في بدني. اللهم احفظ لي سمعي. اللهم احفظ لي بصري. لا أحد يستحق العبادة إلا أنت . اللهم إني أعوذ بك من الكفر والفقر وأعوذ بك من عذاب القبر. لا يوجد أحد يستحق العبادة إلا أنت.</string>
+    //when visiting the sick
+    <string name="text_the_sick_1" translatable="false">فلا تقلق سيكون طهورا إن شاء الله.</string>
+    <string name="text_the_sick_2" translatable="false">أسأل الله العظيم ورب العرش العظيم أن يشفيك (قال النبي محمد (ص) أنه بقراءة هذا الدعاء سبع مرات يعود المريض إلى صحته وإذا حدث الموت فذلك ( الموت) مسألة مختلفة (أي الموت مكتوب لا يمكن منعه))</string>
+    //to alleviate pain
+    <string name="text_alleviate_pain_1" translatable="false">بسم الله أعوذ بالله وقدرته من شر ما أجد وأتحفظ.</string>
+    //upon seeing someone going through a trial or tribulation
+    <string name="text_tribulation_1" translatable="false">الحمد لله الذي عافاني مما ابتلاك به، وفضلني على كثير مما خلق تفضيلا.</string>
+    //if you fall on hard times
+    <string name="text_hard_times_1" translatable="false">إني مسني الضر وأنت أرحم الراحمين.</string>
+    <string name="text_hard_times_2" translatable="false">لا إله إلا الله، الله أكبر. وليس لأحد حق أن يعبد إلا الله وحده. لا إله إلا الله وحده لا شريك له. لا إله إلا الله، له الملك وله الحمد. لا إله إلا الله، ولا حول ولا قوة إلا بالله.</string>
+    //when you are nearing your death
+    <string name="text_nearing_your_death_1" translatable="false">لا يوجد أحد يستحق العبادة إلا الله</string>
+    <string name="text_nearing_your_death_2" translatable="false">وأشهد أن لا إله إلا الله وحده لا شريك له؛ وأشهد أن محمدًا عبده ورسوله.</string>
+
+    //Loss / Failure
+    //when you fail or lose at something
+    <string name="text_something_1" translatable="false">إنه أمر الله ويفعل ما يشاء.</string>
+    //when a loss occurs
+    <string name="text_occurs_1" translatable="false">إنا لله وإنا إليه راجعون.</string>
+    //when stricken by tragedy
+    <string name="text_tragedy_1" translatable="false">إنا لله وإنا إليه راجعون. اللهمّ أخرجني من محنتي وأخلف لي بعدها خيرًا منها.</string>
+    <string name="text_tragedy_2" translatable="false">حسبنا الله وخير المتوكلين.</string>
+    //for seeking allah’s help
+    <string name="text_allah_help_1" translatable="false">حسبنا الله وخير المتوكلين.</string>
+    <string name="text_allah_help_2" translatable="false">إنما أشكو بثي وحزني إلى الله وأعلم من الله ما لا تعلمون.</string>
+    //at time of worry and sorry
+    <string name="text_worry_sorry_1" translatable="false">اللهم إني أعوذ بك من الهم والحزن، ومن الضعف والكسل، ومن البخل والجبن، ومن غلبة الدين وغلبة الرجال.</string>
+    //when in distress
+    <string name="text_in_distress_1" translatable="false">لا إله إلا أنت (اللهم) سبحانك وتعالى. إني كنت من الظالمين.</string>
+    <string name="text_in_distress_2" translatable="false">اللهم إني أرجو رحمتك. فلا تكلني إلى نفسي طرفة عين (أي لحظة). أصلح لي شأني كله . لا يوجد أحد يستحق العبادة إلا أنت.</string>
+    <string name="text_in_distress_3" translatable="false">ولا إله إلا الله العزيز الحليم. لا إله إلا الله رب العرش العظيم. لا إله إلا الله رب السماوات ورب الأرض ورب العرش الكريم.</string>
+    <string name="text_weaknesses_1" translatable="false">يا الله! إني أعوذ بك من الهم والحزن، ومن الضعف والكسل، ومن البخل والجبن، ومن غلبة الدين وغلبة الرجال.</string>
+    //when striken by tragedy
+    <string name="text_by_tragedy_1" translatable="false">إنا لله وإنا إليه راجعون. اللهمّ أخرجني من محنتي وأخلف لي بعدها خيرًا منها.</string>
+    <string name="text_by_tragedy_2" translatable="false">حسبنا الله وخير المتوكلين.</string>
+    //on hearing a bad news
+    <string name="text_a_bad_1" translatable="false">والحمد لله على كل حال .</string>
+    //when someone insults you
+    <string name="text_insults_you_1" translatable="false">ربي احكم بالحق. وربنا الرحمن الرحيم المستغيث على ما تصفون.</string>
+    //when feeling frightened
+    <string name="text_frightened_1" translatable="false">لا يوجد أحد يستحق العبادة إلا الله.</string>
+    //to trust upon allah
+    <string name="text_upon_allah_1" translatable="false">الله يكفيني. لا إله إلا هو (لا إله إلا هو) عليه توكلت وهو رب العرش العظيم.</string>
+    <string name="text_upon_allah_2">وسوف تتذكرون ما أقول لكم [الآن] وأفوض أمري إلى الله. إن الله بصير بالعباد.</string>
+
+
+    //Patience
+    //for patience
+    <string name="text_for_patience_1" translatable="false">ربنا! وهب لنا صبرا وثبت أقدامنا وانصرنا على القوم الكافرين.</string>
+    <string name="text_for_patience_2" translatable="false">ربنا! أفرغ علينا صبراً وتوفنا مسلمين.</string>
+    ////for controlling your anger
+    <string name="text_your_anger_1" translatable="false">أعوذ بالله من الشيطان الرجيم.</string>
+
+
+    //Debt
+    //settle a debt
+    <string name="text_a_debt_1" translatable="false">اللهم اكفني ما حللت عما حرمتني، واغنني عن كل من سواك.</string>
+    //for someone who lens you money
+    <string name="text_you_money_1" translatable="false">بارك الله لك في أهلك ومالك، فإن جزاء القرض الحمد والرد.</string>
+
+
+    //During Menstruation
+    //to be pious muslims
+    <string name="text_pious_muslims_1" translatable="false">ربنا! ولا تجعلنا مع القوم الذين هم الظالمون.</string>
+    //for forgiveness for your parents and all muslims
+    <string name="text_and_all_muslims_1" translatable="false">يا ربنا! واغفر لنا ولوالدي وللمؤمنين يوم يقوم الحساب.</string>
+    //seek forgiveness and strengthen your imaan
+    <string name="text_and_strengthen_your_imaan_1" translatable="false">ولا يكلف الله نفسا إلا وسعها. له جزاء بما كسب، ويعاقب بما اكتسب. "ربنا لا تؤاخذنا إن نسينا أو أخطأنا ربنا ولا تحمل علينا إصرا كما حملته على الذين من قبلنا ربنا ولا تحمل علينا إصرا لا طاقة لنا به" احمل واعف عنا واغفر لنا وارحمنا أنت مولانا وانصرنا على القوم الكافرين.</string>
+    //for protection from the evil eye
+    <string name="text_evil_eye_1">أعوذ بكلمات الله التامات من شر ما خلق</string>
+    //for protection against enemies
+    <string name="text_against_enemies_1" translatable="false">اللهم الذي نزل الكتاب، وهو سريع القضاء، اهزم الأحزاب، اللهم اهزمهم وزلزلهم.</string>
+    //protection from natural disasters calamities
+    <string name="text_calamities_1" translatable="false">  بسم الله الذي لا يضر مع اسمه شيء في الأرض ولا في السماء وهو السميع العليم. (ثلاث مرات)</string>
+    //forgiviness for you siblings
+    <string name="text_you_siblings_1" translatable="false">يا ألهي! اغفر لي ولأخي وأدخلنا في رحمتك إنك أنت أرحم الراحمين.</string>
+    //during illness
+    <string name="text_during_illness_1" translatable="false">[سورة الإخلاص] قل هو الله أحد. الله هو الأبدي. لم يلد ولم يولد ولم يكن له كفوا أحد. [سورة الفلق] قل أعوذ برب العالمين من شر ما خلق ومن شر غاسق إذا وقب ومن شر النفث في العقد ومن شر غاسقات النفث في العقد، ومن شر النفث في العقد من حاسد إذا حسد. [سورة الإخلاص] قل أعوذ برب الناس ملك الناس إله الناس من شر الوسواس الخناس الذي يوسوس في صدور الناس من الجن والإنسانية."</string>
+    //for patience during difficult times
+    <string name="text_difficult_times_1" translatable="false">ربنا أفرغ علينا صبرا وتوفنا مسلمين.</string>
+    //reward of one-third of quran
+    <string name="text_of_quran_1" translatable="false">[سورة الإخلاص] قل هو الله أحد. الله هو الأبدي. لم يلد ولم يولد ولم يكن له كفوا أحد</string>
+
+
+    <string name="string_prayer_time_will_begin">سيبدأ وقت الصلاة خلال %s دقيقة</string>
+    <string name="string_prayer_time_will_begin_s">سيبدأ وقت الصلاة خلال %s دقيقة</string>
+    <string name="string_praying_time_adjustment">%s دقيقة</string>
+    <string name="string_plus_praying_time_adjustment">+%s دقيقة</string>
+    <string name="string_not_adjusted">غير معدلة</string>
+    <string name="string_it_will_correct_the_corresponding">سيتم تصحيح تاريخ التقويم الإسلامي المقابل للتقويم الميلادي</string>
+    <string name="string_settings">إعدادات</string>
+    <string name="string_english">إنجليزي</string>
+    <string name="string_time_calculator">حاسبة الوقت</string>
+    <string name="string_calculator_method">طريقة الآلة الحاسبة</string>
+    <string name="string_manual_setting">الإعداد اليدوي</string>
+    <string name="string_praying_time_adjustment_setting">تعديل وقت الصلاة</string>
+    <string name="string_date_correction">تصحيح التاريخ</string>
+    <string name="string_notification_bar">شريط الإشعارات</string>
+    <string name="string_fixed_countdown_on_notification">العد التنازلي ثابت على الإخطار</string>
+    <string name="string_other">آخر</string>
+    <string name="string_share">يشارك</string>
+    <string name="string_rate">معدل</string>
+    <string name="string_private_policy">سياسة خاصة</string>
+
+    <string name="string_exit">مخرج</string>
+
+    <string name="string_oh_no">أوه لا!</string>
+    <string name="string_please_give_us_some_feedback">يرجى اعطاءنا بعض ردود الفعل</string>
+    <string name="string_we_love_you_too">نحن نحبك ايضا!</string>
+    <string name="string_thanks_for_your_feedback">شكرا لملاحظاتك</string>
+    <string name="string_do_you_like_the_app">هل تحب التطبيق؟</string>
+    <string name="string_let_us_know_your_experience">اسمحوا لنا أن نعرف تجربتك</string>
+    <string name="Please_feedback">الرجاء تقديم تعليقات</string>
+    <string name="string_quran">القرآن</string>
+    <string name="string_thank_for_rate">شكرا لك على تقييم التطبيق</string>
+    <string name="string_surah">سورة</string>
+    <string name="string_juz">جزء</string>
+    <string name="string_quran_settings">إعدادات القرآن</string>
+    <string name="string_translation">ترجمة</string>
+    <string name="string_display">عرض</string>
+    <string name="string_language_selection">اختيار اللغة</string>
+    <string name="string_content">محتوى</string>
+    <string name="string_font_amp_size"><![CDATA[الخط والحجم]]></string>
+    <string name="string_audio">صوتي</string>
+    <string name="string_reciter">القارئ</string>
+    <string name="string_translation_display">عرض الترجمة</string>
+    <string name="string_phonetic_translation">الترجمة الصوتية</string>
+    <string name="string_language_translation">ترجمة اللغة</string>
+    <string name="string_preview">معاينة</string>
+    <string name="string_enable_audio">تمكين الصوت</string>
+    <string name="string_auto_scroll_with_audio">التمرير التلقائي مع الصوت</string>
+    <string name="string_font_size">حجم الخط</string>
+    <string name="string_font_style">نوع الخط</string>
+    <string name="string_tasbih">التسبيح</string>
+    <string name="string_round">دائري :</string>
+    <string name="string_done">منتهي</string>
+    <string name="string_customize">يعدل أو يكيف</string>
+    <string name="string_adjust_total_times">ضبط إجمالي الأوقات</string>
+    <string name="string_adjust_the_number_of_rounds">ضبط عدد الجولات</string>
+    <string name="string_reset">إعادة ضبط</string>
+    <string name="string_do_you_want_to_reset_the_counter">هل تريد إعادة ضبط العداد</string>
+    <string name="string_continue_reading">مواصلة القراءة - %s</string>
+
+    <string name="text_location_1" translatable="false">الموقع غير ممكّن</string>
+    <string name="text_location_2" translatable="false">يرجى تمكين الموقع لاستخدام جميع ميزات هذا التطبيق</string>
+    <string name="text_bookmark_duas" translatable="false">اضغط على أيقونة الإشارة المرجعية لإضافة الأدعية إلى الإشارات المرجعية</string>
+    <string name="text_bookmark_azkar" translatable="false">اضغط على أيقونة الإشارة المرجعية لإضافة الأذكار إلى الإشارات المرجعية</string>
+
+    <string name="text_sample" translatable="false">هذا ملف عينة</string>
+    <string name="text_date_comparison">مقارنة التاريخ</string>
+    <string name="text_gregrorian_calendar" translatable="false">التقويم الميلادي</string>
+    <string name="text_islamic_calendar" translatable="false">التقويم الإسلامي</string>
+    <string name="text_praying_time" translatable="false">أوقات الصلاة</string>
+    <string name="title_activity_islam_map" translatable="false">IslamMapActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="string_indonesian" translatable="false">الاندونيسية</string>
+    <string name="string_urdu" translatable="false">الأردية</string>
+    <string name="string_hindi" translatable="false">الهندية</string>
+    <string name="string_turkish" translatable="false">اللغة التركية</string>
+
+    <string name="string_salah" translatable="false">صلاح</string>
+    <string name="string_please_select_language">الرجاء اختيار اللغة</string>
+    <string name="string_please_connect_to_the_internet_to_use_this_feature">يرجى الاتصال بالإنترنت لاستخدام هذه الميزة</string>
+    <string name="string_please_connect_to_the_internet_to_play_audio">يرجى الاتصال بالإنترنت لتشغيل الصوت</string>
+    <string name="string_pin_app_widget_is_not_supported">أداة تطبيق Pin غير مدعومة</string>
+    <string name="string_please_customize_the_number_of_round">يرجى تخصيص عدد الجولة</string>
+    <string name="string_please_enter_the_value_of_the_number_of_rounds">الرجاء إدخال قيمة عدد الجولات!</string>
+    <string name="string_value_of_the_number_of_rounds_that_exist">قيمة عدد الجولات الموجودة</string>
+    <string name="string_let_me_recommend_you_this_application">اسمحوا لي أن أوصيكم بهذا التطبيق</string>
+    <string name="string_search">يبحث</string>
+    <string name="string_add_to_home_screen">أضف إلى الشاشة الرئيسية</string>
+    <string name="string_rotate_your_phone_until_the_mecca_appear">قم بتدوير هاتفك حتى يظهر الحرم المكي</string>
+    <string name="string_round_10">قيمة أصغر عدد من الجولات هي 10</string>
+
+    <string name="string_step_1"><![CDATA[<b>الخطوة 1:</b>]]> تأكد من ستر عورتك على الأقل ومن أنك قد أديت <![CDATA[<b>الوضوء</b>]]> . يجب على الرجال تغطية الجسم كله، بما في ذلك السرة والركبتين. يجب تغطية جسد المرأة في كل مكان ما عدا يديها وقدميها ووجهها.</string>
+    <string name="string_step_2"><![CDATA[<b>الخطوة 2:</b>]]> ابحث عن منطقة نظيفة بحيث لا تزعج الآخرين، مثل سجادة الصلاة. مقابل الكعبة في مكة، هذا هو اتجاه القبلة. يمكنك أن تصلي جالساً إذا كنت مريضاً أو معاقاً ولا تستطيع الوقوف.</string>
+    <string name="string_step_3"><![CDATA[<b>الخطوة 3:</b>]]> أعلن عن نيتك لبدء الصلاة بصوت عالٍ أو بصمت. يمكنك القيام بذلك باللغة العربية أو باللغة التي تختارها. أعلن: "نويت أن أصلي ركعتين التراويح لله تجاه الكعبة".</string>
+    <string name="string_step_4"><![CDATA[<b>الخطوة 4:</b>]]> قل <![CDATA[<b><i>\"الله أكبر\"</i></b>]]> وارفع صوتك يديك إلى منكبيك للنساء، وشحمة أذنك للرجال. ""الله أكبر"" يعني. (تظهر هذه الخطوة أدناه). أنت الآن في حالة إحرام، مما يمنعك من فعل أي شيء دنيوي قد يصرف انتباهك، بما في ذلك الدردشة أو الضحك أو الأكل أو الشرب أو التفكير في أي شيء.</string>
+    <string name="string_step_5"><![CDATA[<b>الخطوة 5:</b>]]> ضع يدك اليمنى على يسارك، أسفل البحرية مباشرةً. يجب على النساء وضع أيديهن على صدورهن.</string>
+    <string name="string_step_6"><![CDATA[<b>الخطوة 6:</b>]]> قل هذه الجملة بهدوء <![CDATA[<b><i>\"سبحانك الله وبحمدك،<br>وا تبارك اسموكا، وا تا-عالى جدوكا، ولا إله إلا غيرك\"</i></b>]]>. وهذا معناه: "اللهم لك سبحانك وبحمدك، وتبارك اسمك، وتعالى جدك، ولا إله إلا أنت".</string>
+    <string name="string_step_7"><![CDATA[<b>الخطوة 7:</b>]]> بعد ذلك، اقرأ بهدوء: <![CDATA[<b><i>\"أودو بالله من الشيطان الرجيم بسمي لله الرحماني الرحيم\"</i></b>]]>. وهذا يعني: "أسأل الله أن يعوذ من الشيطان الرجيم، بسم الله الرحمن الرحيم".</string>
+    <string name="string_step_8"><![CDATA[<b>الخطوة 8:</b>]]> تابع القراءة: <![CDATA[<b><i>\"سورة الفاتحة\"</i></b>]]>، ثم اختتم بـ <![CDATA[<b><i>\"أمين\"</i></b>]]>، مما يدل على \"يجوز منحه\". إذا كنت تؤم الصلاة، تأكد من قراءة جميع سور التراويح بصوت عالٍ!</string>
+    <string name="string_step_9"><![CDATA[<b>الخطوة 9:</b>]]> بعد ذلك اقرأ أي سورة أخرى. الحد الأدنى للتلاوة هو ثلاث آيات، أو آية واحدة طويلة تعدل ثلاث آيات من القصر. لكن الأفضل قراءة سورة كاملة.</string>
+    <string name="string_step_10"><![CDATA[<b>الخطوة 10:</b>]]> انحنى للأمام ونطق <![CDATA[<b><i>\"الله أكبر\"</i></b>]]> ، يعني "الله أكبر" ، وضع يديك على ركبتيك ، مع استقامة الظهر. توقف مؤقتًا في هذا الوضع المعروف بالركوع، وكرر <![CDATA[<b><i>\"سبحان ربي العظيم\"</i></b>]]> ثلاث مرات على الأقل "، بمعنى ""سبحان ربي العظيم""."</string>
+    <string name="string_step_11"><![CDATA[<b>الخطوة 11:</b>]]> عندما ترتفع إلى وضع مستقيم تمامًا مرة أخرى، قل، <![CDATA[<b><i>\"سامي الله ليمان حميدة\"</i></b>]]> - \"سمع الله لمن حمده\". وبعد ذلك أعلن <![CDATA[<b><i>\"ربانا لكال حمد\"</i></b>]]> - \"ربنا ولك الحمد\".</string>
+    <string name="string_step_12"><![CDATA[<b>الخطوة 12:</b>]]> مرة أخرى، قل <![CDATA[<b><i>\"الله أكبر\"</i></b>]]> ثم ينزل في السجود، وهو ما يعرف بالسجود. أثناء السجود، تأكد من أن جبهتك وأنفك وكفي يديك وركبتيك وأصابع قدميك التي تشير إلى الأمام ملامسة للأرض.</string>
+    <string name="string_step_13"><![CDATA[<b>الخطوة 13:</b>]]> كرر ثلاث مرات على الأقل، <![CDATA[<b><i>\"سبحانة ربي العلاء\"</i></b>]]> - \"سبحان ربي الأعلى\".</string>
+    <string name="string_step_14"><![CDATA[<b>الخطوة 14:</b>]]> قم إلى وضعية الجلوس مع قول <![CDATA[<b><i>\"الله أكبر\"</i></b>]]>. ضع راحتي يديك على ركبتيك. اجلس على قدمك اليسرى، مع إبقاء أصابع قدمك اليمنى مثبتة وموجهة للأمام. بالنسبة للنساء، اتكئ على الورك الأيسر مع توجيه كلتا القدمين إلى الجانب الأيمن.</string>
+    <string name="string_step_15"><![CDATA[<b>الخطوة 15:</b>]]> بعد توقف قصير، ارجع إلى السجود وأنت تقول <![CDATA[<b><i>\"الله أكبر\"</i></b>]]>، وكرر الخطوة 13.</string>
+    <string name="string_step_16"><![CDATA[<b>الخطوة 16:</b>]]> قم إلى وضع الوقوف الكامل مع قول <![CDATA[<b><i>\"الله أكبر\"</i></b>]]>. لقد انتهيت الآن من ركعتك الأولى من صلاة التراويح.</string>
+    <string name="string_step_17"><![CDATA[<b>الخطوة 17:</b>]]> كرر الخطوات من 8 إلى 15 مرة أخرى.</string>
+    <string name="string_step_18"><![CDATA[<b>الخطوة 18:</b>]]> بعد إكمال الخطوات من 8 إلى 15 مرة أخرى، عد إلى وضعية الجلوس كما هو موضح في الخطوة 14.</string>
+    <string name="string_step_19"><![CDATA[<b>الخطوة 19:</b>]]> أثناء جلوسك، اقرأ الجزء الأول من التشهد: <![CDATA[<b><i>\"التحيات لله، والسلام عليكم أيها النبي ورحمة الله وبركاته. السلام عليكم وعلى عبادي الله صالحين\"</i></b>]]>. وهذا يعني \"التحية لله والصلاة والخير. السلام عليك أيها النبي ورحمة الله وبركاته. السلام علينا وعلى عباد الله الصالحين\".</string>
+    <string name="string_step_20"><![CDATA[<b>الخطوة 20:</b>]]> بعد ذلك، مع وضع يديك على ركبتيك، ارفع إصبع السبابة الأيمن مع ضم الأصابع الأخرى ليدك اليمنى معًا. ثم اقرأ الجزء الثاني من التشهد: <![CDATA[<b><i>\"أشهد أن لا إله إلا الله وأشهد أن محمد عبده ورسوله\"</i></b>]]> . . . . وهذا يعني "أشهد أن لا إله إلا الله وأشهد أن محمداً عبده ورسوله".</string>
+    <string name="string_step_21"><![CDATA[<b>الخطوة 21:</b>]]> اخفض إصبع السبابة الأيمن، مع إعادة راحتي اليدين لتستقر على ركبتيك </string>
+    <string name="string_step_22"><![CDATA[<b>الخطوة 22:</b>]]> أثناء بقائك جالسًا، اقرأ: <![CDATA[<b><i>\"اللهم صل وسلم عليك وعلى النبي محمد وعلى آله وصحبه وسلم" صلى الله عليه وسلم النبي إبراهيم وعلى علي إبراهيم أم حميد مجيد.اللهم بارك على محمد وعلى علي محمدين كما بارك على إبراهيم وعلى علي إبراهيم أم حميد مجيد\"</i></ ب>]]>. "اللهم صل على محمد وعلى آل محمد كما رحمت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد. اللهم صل على محمد وعلى آل محمد". محمد كما باركت على إبراهيم وعلى آل إبراهيم إنك حميد مجيد».</string>
+    <string name="string_step_23"><![CDATA[<b>الخطوة 23:</b>]]> يستحب بشدة قراءة بعض الأدعية (اثنتين). ومن الدعاء المباشر والشامل، <![CDATA[<b><i>\"اللهم أحسن لنا في الدنيا حسنة وفي الآخرة حسنة، وأحسن لنا في الآخرة\"</i></ ب>]]>. وهذا يعني "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار".</string>
+    <string name="string_step_24"><![CDATA[<b>الخطوة 24:</b>]]> اختتم الصلاة بإدارة رأسك إلى اليمين وقول <![CDATA[<b><i>\"السلام عليكم ورحمة الله وا بارك الله فيك\"</i></b>]]>. ثم كرر هذه الكلمات أثناء إدارة رأسك إلى اليسار. يقصدون: \"السلام عليكم ورحمة الله وبركاته\".</string>
+    <string name="string_step_25"><![CDATA[<b>الخطوة 25:</b>]]> انتهت الآن مجموعتك الأولية المكونة من ركعتين! يرجى الرجوع إلى الخطوة 3 لبدء الركعتين التاليتين.</string>
+    <string name="string_tarawih">التراويح</string>
+    <string name="string_tarawih_prayer">صلاة التراويح</string>
+    <string name="string_dialog_tarawih_1">نقدم لك أحدث ميزاتنا: <![CDATA[<b>التراويح</b>]]> &amp; دليل <![CDATA[<b>تحيات راماندا</b>]]> متوفر الآن!</string>
+    <string name="string_dialog_tarawih_2">خذني إلى هناك</string>
+    <string name="string_text_size">حجم النص</string>
+    <string name="string_text_shadow">ظل النص</string>
+    <string name="string_background_blur">طمس الخلفية</string>
+    <string name="string_font_style_ramadan">نمط الخط</string>
+    <string name="string_color">اللون</string>
+    <string name="string_send">إرسال</string>
+    <string name="string_background">الخلفية</string>
+    <string name="string_app_download_link">رابط تنزيل التطبيق</string>
+    <string name="string_share_image">مشاركة الصورة</string>
+    <string name="string_click_here_to_download_the_app">انقر هنا لتنزيل التطبيق: %s</string>
+    <string name="string_greeting">تحياتي</string>
+
+    <string name="string_grant_permissions_later">منح الأذونات في وقت لاحق</string>
+    <string name="string_notification">إشعار</string>
+    <string name="string_location_permission">إذن الموقع</string>
+    <string name="string_notification_permission">إذن الإخطار</string>
+    <string name="string_appear_on_top_permission">تظهر في الأعلى إذن</string>
+    <string name="string_des_location_quibla">يحتاج التطبيق إلى إذن الموقع لتفعيل القبلة</string>
+    <string name="string_des_location_islam_map">يحتاج التطبيق إلى إذن الموقع لتنشيط خريطة الإسلام</string>
+    <string name="string_des_location_widget">يحتاج التطبيق إلى إذن الموقع لتنشيط القطعة</string>
+    <string name="string_des_notification_widget">يحتاج التطبيق إلى إذن إعلام لتنشيط القطعة</string>
+    <string name="string_des_appear_on_top_widget">يحتاج التطبيق إلى إذن الظهور في الأعلى لتنشيط الأداة</string>
+    <string name="string_des_location_home">يحتاج التطبيق إلى إذن الموقع لتمكين الحصول على أوقات الصلاة</string>
+    <string name="string_des_notification_home">يحتاج التطبيق إلى إذن الموقع للسماح بالإشعارات عندما يحين وقت الصلاة</string>
+    <string name="string_des_appear_on_top_home">يحتاج التطبيق إلى إذن الظهور في الأعلى للسماح بعرض شاشة إشعارات الصلاة</string>
+
+    <string name="string_you_can_select_location">يمكنك تحديد الموقع</string>
+    <string name="string_you_can_select_notification">يمكنك تحديد الإخطار</string>
+    <string name="string_you_can_select_appear_on_top">يمكنك تحديد الظهور في الأعلى</string>
+
+    <string name="text_intro4" translatable="false">اقرأ القرآن وتذكر الأذكار كل يوم لتقوي روحك</string>
+    <string name="title_intro4" translatable="false">القرآن والأذكار</string>
+
+    <string name="string_continue">متابعة</string>
+    <string name="string_skip">تخطي</string>
+
+    <string name="string_go">اذهب</string>
+    <string name="string_are_you_sure_exit_the_app">هل أنت متأكد من الخروج من التطبيق؟</string>
+    <string name="string_yes">نعم</string>
+    <string name="string_no">لا</string>
+    <string name="str_kareem">كريم</string>
+    <string name="ramadan_is_a_time_for_reflection_and_gratitude_may_you_be_granted_the_strength_to_practice_your_faith_the_patience_to_overcome_challenges_and_the_joy_in_every_moment_ramadan_mubarak">
+    رمضان هو وقت للتأمل والامتنان. نسأل الله أن يمنحك القوة لممارسة إيمانك، والصبر لتجاوز التحديات، والفرح في كل لحظة. رمضان مبارك!
+</string>
+    <string name="str_picture_color">لون الصورة</string>
+    <string name="title_intro_1">القرآن والأدعية اليومية</string>
+    <string name="title_intro_2">بوصلة القبلة</string>
+    <string name="title_intro_3">أوقات الصلاة</string>
+    <string name="title_intro_4">التقويم الإسلامي</string>
+    <string name="content_intro_1">اقرأ واستمع إلى القرآن، واستكشف الأدعية اليومية والأذكار.</string>
+    <string name="content_intro_2">اعثر على اتجاه القبلة بسهولة، أينما كنت.</string>
+    <string name="content_intro_3">لا تفوت صلاة أبدًا - أوقات دقيقة، دائمًا في الوقت المحدد.</string>
+    <string name="content_intro_4">تتبع التواريخ المهمة مثل رمضان، عيد الفطر، عيد الأضحى، وغيرها.</string>
+    <string name="please_select_language">يرجى اختيار لغتك</string>
+    <string name="str_zakat">الزكاة</string>
+    <string name="str_allah">الله</string>
+    <string name="continue_rotate_title">قم بتدوير هاتفك حتى تكون الكعبة في المنتصف.</string>
+    <string name="success_destination">هذا هو اتجاه القبلة!</string>
+    <string name="north_title">الشمال (N)</string>
+    <string name="northeast_title">الشمال الشرقي (NE)</string>
+    <string name="east_title">الشرق (E)</string>
+    <string name="southeast_title">الجنوب الشرقي (SE)</string>
+    <string name="south_title">الجنوب (S)</string>
+    <string name="southwest_title">الجنوب الغربي (SW)</string>
+    <string name="west_title">الغرب (W)</string>
+    <string name="northwest_title">الشمال الغربي (NW)</string>
+    <string name="bookmark_title">علامة مرجعية</string>
+    <string name="round_title">جولة</string>
+    <string name="adjust_rounds_title">ضبط الجولات</string>
+    <string name="currency_unit">وحدة العملة</string>
+    <string name="calculate_zakat">حساب الزكاة</string>
+    <string name="total_amount_of_zakat">المبلغ الإجمالي للزكاة</string>
+    <string name="property_information">معلومات الممتلكات</string>
+    <string name="str_gold">الذهب</string>
+    <string name="str_silver">الفضة</string>
+    <string name="str_money">المال</string>
+    <string name="str_investment">الاستثمار</string>
+    <string name="business_assets">أصول الأعمال</string>
+    <string name="other_savings">مدخرات أخرى</string>
+    <string name="str_debt">الدين</string>
+    <string name="str_nisab">النصاب</string>
+    <string name="str_find">ابحث</string>
+    <string name="str_unknown">غير معروف</string>
+    <string name="loading_data_mosque_please_wait">جارٍ تحميل بيانات المسجد. يرجى الانتظار...</string>
+    <string name="allah_99_name_title">أسماء الله الـ 99</string>
+
+    <string name="the_most_or_entirely_merciful">الأكثر أو الكلي الرحمة</string>
+    <string name="the_bestower_of_mercy">مانح الرحمة</string>
+    <string name="the_king_and_owner_of_dominion">الملك ومالك الملك</string>
+    <string name="the_absolutely_pure">القدوس المطلق</string>
+    <string name="the_perfection_and_giver_of_peace">الكمال ومانح السلام</string>
+    <string name="the_one_who_gives_emaan_and_security">الذي يعطي الإيمان والأمان</string>
+    <string name="the_guardian">الحافظ</string>
+    <string name="the_witness">الشاهد</string>
+    <string name="the_overseer">الرقيب</string>
+    <string name="the_all_mighty">العزيز الكلي</string>
+    <string name="the_compeller">الجبار</string>
+    <string name="_the_restorer">المعيد</string>
+    <string name="the_supreme">المتعالي</string>
+    <string name="_the_majestic">الجليل</string>
+    <string name="the_creator">الخالق</string>
+    <string name="_the_maker">البارئ</string>
+    <string name="the_originator">المبدئ</string>
+    <string name="the_fashioner">المصور</string>
+    <string name="the_all_and_oft_forgiving">الغفور الكلي والمتكرر</string>
+    <string name="the_subduer">القهار</string>
+    <string name="the_ever_dominating">القاهر الدائم</string>
+    <string name="the_giver_of_gifts">مانح الهدايا</string>
+    <string name="the_provider">الرزاق</string>
+    <string name="the_opener">الفتاح</string>
+    <string name="_the_judge">الحكم</string>
+    <string name="the_all_knowing">العليم الكلي</string>
+    <string name="_the_omniscient">العليم</string>
+    <string name="the_withholder">القابض</string>
+    <string name="the_extender">الباسط</string>
+    <string name="the_reducer">الخافض</string>
+    <string name="the_abaser">الخافض</string>
+    <string name="the_exalter">الرافع</string>
+    <string name="_the_elevator">الرافع</string>
+    <string name="the_honourer">المعز</string>
+    <string name="the_bestower">الوهاب</string>
+    <string name="the_dishonourer">المذل</string>
+    <string name="the_humiliator">المذل</string>
+    <string name="the_all_hearing">السميع الكلي</string>
+    <string name="the_all_seeing">البصير الكلي</string>
+    <string name="the_judge">الحكم</string>
+    <string name="_the_giver_of_justice">مانح العدل</string>
+    <string name="the_utterly_just">العادل الكامل</string>
+    <string name="the_subtle_one">اللطيف</string>
+    <string name="the_most_gentle">الأكثر لطفًا</string>
+    <string name="the_acquainted">الخبير</string>
+    <string name="the_all_aware">الخبير الكلي</string>
+    <string name="the_most_forbearing">الأكثر حليمًا</string>
+    <string name="the_forgiving">الغفور</string>
+    <string name="the_exceedingly_forgiving">الغفار الزائد</string>
+    <string name="the_most_appreciative">الأكثر شكرًا</string>
+    <string name="the_most_high">الأعلى</string>
+    <string name="_the_exalted">المتعالي</string>
+    <string name="the_greatest">الأكبر</string>
+    <string name="the_most_grand">الأكثر عظمة</string>
+    <string name="the_preserver">الحفيظ</string>
+    <string name="the_all_heedful_and_all_protecting">الرقيب الكلي والحامي</string>
+    <string name="the_sustainer">المقيت</string>
+    <string name="the_maintainer">الحسيب</string>
+    <string name="the_reckoner">الحسيب</string>
+    <string name="the_majestic">الجليل</string>
+    <string name="the_most_generous">الأكثر كرمًا</string>
+    <string name="_the_most_esteemed">الأكثر تقديرًا</string>
+    <string name="the_watchful">الرقيب</string>
+    <string name="the_all_watchful">الرقيب الكلي</string>
+    <string name="the_responsive">المجيب</string>
+    <string name="the_answerer">المجيب</string>
+    <string name="the_all_encompassing">الواسع الكلي</string>
+    <string name="the_boundless">الواسع</string>
+    <string name="the_all_wise">الحكيم الكلي</string>
+    <string name="the_most_loving">الأكثر ودًا</string>
+    <string name="the_glorious">المجيد</string>
+    <string name="the_most_honorable">الأكثر شرفًا</string>
+    <string name="the_infuser_of_new_life">منفث الحياة الجديدة</string>
+    <string name="the_all_observing_witnessing">الشاهد الكلي الملاحظ</string>
+    <string name="absolute_truth">الحق المطلق</string>
+    <string name="the_trustee">الوكيل</string>
+    <string name="the_disposer_of_affairs">الوكيل</string>
+    <string name="the_all_strong">القوي الكلي</string>
+    <string name="the_firm">المتين</string>
+    <string name="the_steadfast">المتين</string>
+    <string name="the_protecting_associate">الولي الحامي</string>
+    <string name="the_praiseworthy">الحميد</string>
+    <string name="the_all_enumerating">المحصي الكلي</string>
+    <string name="the_counter">المحصي</string>
+    <string name="the_initiator">المبدئ</string>
+    <string name="the_restorer">المعيد</string>
+    <string name="the_reinstater">المعيد</string>
+    <string name="the_giver_of_life">المحيي</string>
+    <string name="the_creator_of_death">المميت</string>
+    <string name="ever_living">الحي الدائم</string>
+    <string name="the_self_subsisting">القيوم</string>
+    <string name="the_perceiver">الواجد</string>
+    <string name="the_illustrious">الماجد</string>
+    <string name="the_magnificent">الماجد</string>
+    <string name="the_one">الواحد</string>
+    <string name="the_indivisible">الأحد</string>
+    <string name="unique">فريد</string>
+    <string name="the_only_one">الأحد</string>
+    <string name="the_eternal">الصمد</string>
+    <string name="satisfier_of_needs">قاضي الحاجات</string>
+    <string name="the_omnipotent">القادر</string>
+    <string name="the_powerful">المقتدر</string>
+    <string name="the_expediter">المقدم</string>
+    <string name="the_promoter">المقدم</string>
+    <string name="the_delayer">المؤخر</string>
+    <string name="the_first">الأول</string>
+    <string name="the_last">الآخر</string>
+    <string name="the_utmost">الظاهر</string>
+    <string name="the_manifest">الظاهر</string>
+    <string name="the_all_surpassing">الباطن</string>
+    <string name="the_hidden_one">الباطن</string>
+    <string name="knower_of_the_hidden">عالم الخفي</string>
+    <string name="the_sole_governor">الوالي الوحيد</string>
+    <string name="the_self_exalted">المتعالي</string>
+    <string name="source_of_all_goodness">مصدر كل الخير</string>
+    <string name="the_ever_pardoning">التواب الدائم</string>
+    <string name="the_avenger">المنتقم</string>
+    <string name="the_pardoner">العفو</string>
+    <string name="the_most_kind">الأكثر رأفة</string>
+    <string name="master_of_the_dominion">سيد الملك</string>
+    <string name="owner_of_the_kingdom">مالك الملك</string>
+    <string name="possessor_of_glory_and_honour">ذو الجلال والإكرام</string>
+    <string name="the_just_one">المقسط</string>
+    <string name="the_gatherer">الجامع</string>
+    <string name="the_uniter">الجامع</string>
+    <string name="the_self_sufficient">الغني</string>
+    <string name="the_wealthy">الغني</string>
+    <string name="the_enricher">المغني</string>
+    <string name="the_distresser">الضار</string>
+    <string name="the_propitious">النافع</string>
+    <string name="the_benefactor">النافع</string>
+    <string name="the_light">النور</string>
+    <string name="the_guide">الهادي</string>
+    <string name="the_incomparable_originator">البديع اللا مثيل له</string>
+    <string name="the_ever_lasting">الباقي</string>
+    <string name="the_inheritor">الوارث</string>
+    <string name="the_guide_to_the_right_path">الهادي إلى الصراط المستقيم</string>
+    <string name="the_patient">الصبور</string>
+    <string name="string_allow_per_we_muslim">يتطلب Muslim Prayer - Quran Compass إذنًا لاستخدام موقع الجهاز والظهور في الأعلى والإشعارات (لنظام Android 13 والإصدارات الأحدث)</string>
+    <string name="no_data">لا توجد بيانات</string>
+    <string name="get_started_title">ابدأ</string>
+    <string name="radar_title">رادار</string>
+    <string name="radar_content">الجهاز لا يدعم هذه الميزة أو الوظيفة.</string>
+    <string name="exit_the_app_title">هل تريد الخروج من التطبيق؟</string>
+    <string name="what_problems_you_encounter_during_use">ما المشاكل التي واجهتها أثناء الاستخدام؟</string>
+    <string name="restart">إعادة التشغيل</string>
+    <string name="nothing_interesting_anymore">لم يعد هناك شيء مثير للاهتمام</string>
+    <string name="explore">استكشاف</string>
+    <string name="still_uninstall">ما زلت أريد إلغاء التثبيت</string>
+    <string name="why_uninstall_application">لماذا تريد إلغاء تثبيت التطبيق؟</string>
+    <string name="difficult_to_use">صعب الاستخدام</string>
+    <string name="too_many_ads">إعلانات كثيرة جدًا</string>
+    <string name="others">أخرى</string>
+    <string name="please_enter_the_reason_why_uninstall_application">يرجى إدخال سبب إلغاء تثبيت التطبيق</string>
+    <string name="don_t_uninstall_yet">لا تقم بإلغاء التثبيت بعد</string>
+    <string name="loading_0">جارٍ التحميل (0٪)...</string>
+    <string name="loading_splash">"جارٍ التحميل "</string>
+    <string name="prayer_reminder_not_working">تذكير الصلاة لا يعمل</string>
+    <string name="qibla_compass_not_working">بوصلة القبلة لا تعمل</string>
+    <string name="uninstall">إلغاء التثبيت</string>
+</resources>

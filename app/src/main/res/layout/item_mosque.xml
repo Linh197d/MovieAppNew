@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_item_quran"
+    android:padding="@dimen/_8sdp">
+
+    <ImageView
+        android:id="@+id/imgMosque"
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_90sdp"
+        android:adjustViewBounds="true"
+        android:backgroundTint="@color/transparent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/img_default_mosque" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <com.qibla.muslimday.app2025.customeview.textprimarygradient.TextViewPrimaryGradient
+            android:id="@+id/name_mosque"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/inter_semibold"
+            android:gravity="start"
+            android:textSize="@dimen/_14ssp"
+            tools:text="Imam Muslim mosque" />
+
+        <TextView
+            android:id="@+id/address_mosque"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="@font/inter_regular"
+            android:gravity="start"
+            android:maxLines="2"
+            android:textColor="@color/color_2D3640"
+            android:textSize="@dimen/_12ssp"
+            tools:text="7087 الامير هذلول, Madinat Al Umal, 4172, Al Khobar 34442" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2">
+
+            <TextView
+                android:id="@+id/distance"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="@dimen/_4sdp"
+                android:layout_weight="1"
+                android:autoSizeMinTextSize="@dimen/_12ssp"
+                android:background="@drawable/bg_item_quran"
+                android:fontFamily="@font/inter_regular"
+                android:gravity="center"
+                android:paddingHorizontal="@dimen/_12sdp"
+                android:paddingVertical="@dimen/_8sdp"
+                android:textColor="@color/color_2D3640"
+                android:textSize="@dimen/_14ssp"
+                tools:text="302km" />
+
+            <TextView
+                android:id="@+id/open_ggmap"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_4sdp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_gradient_colormain_16dp"
+                android:drawableStart="@drawable/ic_map_icon"
+                android:fontFamily="@font/inter_semibold"
+                android:gravity="center"
+                android:paddingHorizontal="@dimen/_12sdp"
+                android:paddingVertical="@dimen/_8sdp"
+                android:text="@string/str_find"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_14ssp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

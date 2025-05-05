@@ -1,0 +1,232 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-kapt'
+    id 'dagger.hilt.android.plugin'
+    id 'androidx.navigation.safeargs.kotlin'
+    id 'kotlin-parcelize'
+    id 'org.jetbrains.kotlin.android'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+}
+
+android {
+    compileSdk 35
+    defaultConfig {
+        namespace 'com.qibla.muslimday.app2025'
+        applicationId "com.qibla.muslimday.app2025"
+        minSdkVersion 26
+        targetSdkVersion 35
+        versionCode 101
+        versionName "1.0.1"
+
+        multiDexEnabled true
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        def formattedDate = new Date().format('MMM.dd.yyyy')
+        archivesBaseName = "App450_Muslim_v${versionName}(${versionCode})_${formattedDate}"
+        
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+
+        coreLibraryDesugaringEnabled true
+    }
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+
+    buildFeatures {
+        dataBinding true
+        viewBinding true
+    }
+
+    bundle {
+        language {
+            enableSplit = false
+        }
+        density {
+            // This property is set to true by default.
+            enableSplit = true
+        }
+        abi {
+            // This property is set to true by default.
+            enableSplit = true
+        }
+    }
+    flavorDimensions("default")
+    productFlavors {
+        develop {
+            buildConfigField "Long", "Minimum_Fetch", "5L"
+        }
+
+        production {
+            buildConfigField "Long", "Minimum_Fetch", "3600L"
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+        checkAllWarnings false
+    }
+}
+
+dependencies {
+
+//    implementation files("libs/adjust-lib.aar")
+
+    implementation 'androidx.core:core-ktx:1.6.0'
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.1'
+
+    implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
+    implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
+
+    implementation platform('org.jetbrains.kotlin:kotlin-bom:1.8.0')
+
+    // Hilt
+    implementation "com.google.dagger:hilt-android:$hilt_version"
+    kapt "com.google.dagger:hilt-compiler:$hilt_version"
+
+    // Retrofit for networking
+
+    // define a BOM and its version
+    implementation(platform('com.squareup.okhttp3:okhttp-bom:5.0.0-alpha.11'))
+
+    // define any required OkHttp artifacts without version
+    implementation("com.squareup.okhttp3:okhttp")
+    implementation("com.squareup.okhttp3:logging-interceptor")
+
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.jakewharton.retrofit:retrofit2-kotlin-coroutines-adapter:0.9.2'
+    implementation 'com.squareup.retrofit2:converter-moshi:2.9.0'
+
+    // Moshi
+    kapt "com.squareup.moshi:moshi-kotlin-codegen:$moshi_version"
+    implementation "com.squareup.moshi:moshi:$moshi_version"
+    implementation "com.squareup.moshi:moshi-kotlin:$moshi_version"
+    implementation "com.squareup.moshi:moshi-adapters:$moshi_version"
+
+    // Coroutines
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines_version"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutines_version"
+
+    // Glide
+    implementation "com.github.bumptech.glide:glide:$glide_version"
+    kapt "com.github.bumptech.glide:compiler:$glide_version"
+
+    //Room
+    implementation "androidx.room:room-runtime:$room_version"
+    kapt "androidx.room:room-compiler:$room_version"
+
+    // optional - Kotlin Extensions and Coroutines support for Room
+    implementation "androidx.room:room-ktx:$room_version"
+
+    // Timber
+    implementation 'com.jakewharton.timber:timber:5.0.1'
+
+    //appsflyer
+    implementation 'com.appsflyer:af-android-sdk:6.11.2'
+    implementation 'com.appsflyer:adrevenue:6.9.1'
+
+    //multidex
+    implementation "androidx.multidex:multidex:2.0.1"
+
+    implementation 'com.google.android.play:review:2.0.1'
+    implementation 'com.google.android.play:app-update:2.1.0'
+
+    //dimension
+    implementation 'com.intuit.ssp:ssp-android:1.1.0'
+    implementation 'com.intuit.sdp:sdp-android:1.1.0'
+
+    implementation 'androidx.security:security-crypto:1.0.0'
+
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+
+    implementation 'com.tbuonomo:dotsindicator:4.3'
+    //firebase
+//    implementation platform('com.google.firebase:firebase-bom:32.2.2')
+//    implementation 'com.google.firebase:firebase-analytics:21.3.0'
+//    implementation 'com.google.firebase:firebase-messaging:23.2.1'
+//    implementation 'com.google.firebase:firebase-crashlytics:18.4.3'
+//    implementation 'com.google.firebase:firebase-config'
+////    //ads library
+//    implementation 'com.github.devvtn.vtn_ads_libs:ads:2.1.4'
+//    implementation 'com.google.android.gms:play-services-ads:22.6.0'
+//    implementation "androidx.multidex:multidex:2.0.1"
+//    implementation 'com.appsflyer:af-android-sdk:6.11.2'
+//    implementation 'com.appsflyer:adrevenue:6.9.1'
+//    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+//    implementation 'com.google.ads.mediation:facebook:6.18.0.0'
+//    implementation 'com.facebook.android:facebook-android-sdk:17.0.2'
+//
+//    implementation 'com.google.android.gms:play-services-location:21.0.1'
+
+    implementation 'com.github.bumptech.glide:glide:4.16.0'
+
+    implementation 'io.github.ShawnLin013:number-picker:2.4.13'
+
+//    implementation("com.haibin:calendarview:3.7.1")
+
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    implementation 'com.github.ome450901:SimpleRatingBar:1.5.1'
+
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.27'
+
+//    implementation 'com.github.eltohamy:material-hijri-calendarview:1.1.2'
+//    implementation group: 'com.github.msarhan', name: 'ummalqura-calendar', version: '2.0.2'
+
+    // The view calendar library
+    implementation 'com.github.kizitonwose:CalendarView:1.0.4'
+
+    // retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+
+    // rxjava3
+    implementation "io.reactivex.rxjava3:rxjava:3.0.7"
+    implementation "io.reactivex.rxjava3:rxandroid:3.0.0"
+
+    implementation 'org.apache.commons:commons-lang3:3.12.0'
+
+    implementation 'com.batoulapps.adhan:adhan:1.2.1'
+
+    implementation 'com.aminography:primecalendar:1.7.0'
+
+    implementation 'org.greenrobot:eventbus:3.3.1'
+
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+    implementation 'com.mikhaellopez:circularprogressbar:3.1.0'
+
+    coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:2.0.3'
+    implementation 'com.google.guava:guava:27.0.1-android'
+
+    implementation 'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:3.0.0-RC3'
+
+    implementation 'io.github.hokofly:hoko-blur:1.5.3'
+    implementation 'com.github.Dimezis:BlurView:version-2.0.6'
+    implementation 'com.airbnb.android:lottie:6.4.1'
+//    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.12'
+
+//    //exo
+//    implementation("androidx.media3:media3-exoplayer:1.5.1")
+//    implementation("androidx.media3:media3-exoplayer-dash:1.5.1")
+//    implementation("androidx.media3:media3-ui:1.5.1")
+
+}

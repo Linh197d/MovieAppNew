@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577432617372",
+    "project_id": "app450-muslim",
+    "storage_bucket": "app450-muslim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577432617372:android:bd72255a08804d4abbc859",
+        "android_client_info": {
+          "package_name": "com.qibla.muslimday.app2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA266CJmp9qcdBxhwV3W5W50tt6exl1QNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

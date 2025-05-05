@@ -1,0 +1,24 @@
+package com.yakin.indicator.drawer
+
+import android.graphics.Canvas
+
+import com.yakin.indicator.option.IndicatorOptions
+
+/**
+ * <pre>
+ * Created by zhpan on 2019/11/26.
+ * Description:
+</pre> *
+ */
+class RoundRectDrawer internal constructor(indicatorOptions: IndicatorOptions) : RectDrawer(
+  indicatorOptions
+) {
+
+  override fun drawRect(
+      canvas: Canvas,
+      rx: Float,
+      ry: Float
+  ) {
+    canvas.drawRoundRect(mRectF, rx, ry, mPaint)
+  }
+}

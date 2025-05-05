@@ -1,0 +1,17 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'org.jetbrains.kotlin.android'
+
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        minSdkVersion 23
+    }
+
+    namespace 'com.yakin.indicator'
+}
+
+dependencies {
+    implementation 'androidx.viewpager2:viewpager2:1.0.0'
+}

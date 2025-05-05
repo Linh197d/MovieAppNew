@@ -1,0 +1,12 @@
+{
+  "art_info": "{\"height\":1327.0,\"width\":980.0}",
+  "bg_json": "{\"color\":-2697514,\"f85id\":10,\"path\":\"backgroundramadan/bg_ramadan_11.png\",\"type\":3}",
+  "filte_json": "{\"f86id\":0,\"vignetteEnd\":1.0,\"vignetteStart\":1.0}",
+  "stickers_array": [
+      "{\"colorize\":0,\"isFlipped\":1,\"isFlippedVertical\":1,\"isFromGallery\":false,\"stickerId\":0,\"stickerModule\":\"logo/\",\"stickerName\":\"logo_ramadan.png\",\"angle\":0.0,\"height\":533.925,\"isLocked\":false,\"isVisible\":true,\"opacity\":255,\"position\":0,\"shadowColor\":0,\"shadowRadius\":0.0,\"shadownXvalue\":25.0,\"shadownYvalue\":25.0,\"size\":0.0,\"width\":761.45154,\"x3dvalue\":25.0,\"xPos\":103.0,\"y3dvalue\":25.0,\"yPos\":157.0}"
+    ],
+    "text_array": [
+     "{\"color\":-65538,\"curvature\":50.0,\"fontIndex\":0,\"fontName\":\"roboto_regular.ttf\",\"isFlipped\":1,\"letterSpacing\":0.0,\"logoFontClass\":{\"fontName\":\"roboto_regular.ttf\",\"fontPosition\":10,\"fontStyle\":0,\"fontType\":2},\"strokeColor\":-1,\"strokeWith\":0.0,\"text\":\"Ramadan Mubarak\",\"isBold\":false,\"isItalic\":false,\"angle\":0.0,\"height\":0.0,\"isLocked\":false,\"isVisible\":true,\"opacity\":255,\"position\":2,\"shadowColor\":-16777216,\"shadowRadius\":0.0,\"shadownXvalue\":10.0,\"shadownYvalue\":25.0,\"size\":100.0,\"width\":0.0,\"x3dvalue\":0.0,\"xPos\":514.0,\"y3dvalue\":0.0,\"yPos\":723.0}"
+    ],
+    "touch_points_array": []
+  }

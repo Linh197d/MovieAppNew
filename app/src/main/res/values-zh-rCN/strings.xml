@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_this_action_can_contain_ads">此操作可能包含广告</string>
+    <string name="string_language">语言</string>
+    <string name="string_next">下一步</string>
+    <string name="string_permission">权限</string>
+    <string name="string_allow_per_we_muslim">Muslim Prayer - Quran Compass 需要权限来使用设备位置、显示在顶部和通知（适用于 Android 13 及以上）</string>
+    <string name="string_location">位置</string>
+    <string name="string_appear_on_top">悬浮显示</string>
+    <string name="string_allow_notification">允许通知</string>
+    <string name="string_you_need_to_accept_full_permission">您需要接受全部权限才能使用此应用</string>
+    <string name="string_you_need_to_enable_permission_to_use_this_features">您需要启用权限才能使用此功能</string>
+    <string name="go_to_setting">前往设置</string>
+    <string name="string_cancel">取消</string>
+    <string name="string_save">保存</string>
+    <string name="string_juristic_method">法学派方法</string>
+    <string name="string_adjust_islamic_calendar">调整伊斯兰日历</string>
+
+    <!-- Azkar -->
+    <string name="string_azkar">祷词</string>
+    <string name="string_daily_dhikr">每日赞念</string>
+    <string name="string_daily_dhikr_1">易卜拉欣祷词</string>
+    <string name="string_daily_dhikr_2">礼拜后的念诵</string>
+    <string name="string_daily_dhikr_3">日常祈祷</string>
+    <string name="string_daily_dhikr_4">开始任何事情之前</string>
+    <string name="string_daily_dhikr_5">为今世和后世祈祷</string>
+    <string name="string_daily_dhikr_6">祈求安护和真主的帮助</string>
+    <string name="string_daily_dhikr_7">获得相当于三分之一《古兰经》的回赐</string>
+    <string name="string_daily_rememberence">每日回忆</string>
+    <string name="string_daily_rememberence_1">晨间回忆</string>
+    <string name="string_daily_rememberence_2">夜间回忆</string>
+    <string name="string_after_prayer">礼拜后</string>
+    <string name="string_after_prayer_1">礼拜后的念诵</string>
+    <string name="string_after_prayer_2">礼拜后的回忆</string>
+    <string name="string_after_prayer_3">定期履行礼拜</string>
+    <string name="string_after_prayer_4">祈求安护和真主的帮助</string>
+    <string name="string_Rizq_sustenance">供养</string>
+    <string name="string_Rizq_sustenance_1">祈求供养</string>
+    <string name="string_Rizq_sustenance_2">当你需要帮助时</string>
+    <string name="string_Rizq_sustenance_3">求得宽恕与真主的怜悯</string>
+    <string name="string_Rizq_sustenance_4">赞美真主</string>
+    <string name="string_Rizq_sustenance_5">祈求成功</string>
+    <string name="string_knowledge">知识</string>
+    <string name="string_knowledge_1">增加知识</string>
+    <string name="string_knowledge_2">赐予我信心和流畅表达</string>
+    <string name="string_knowledge_3">保护自己免于无知</string>
+    <string name="string_knowledge_4">避免愚昧</string>
+    <string name="string_faith">信仰</string>
+    <string name="string_faith_1">加强你的伊玛尼</string>
+    <string name="string_faith_2">使我们成为虔诚的穆斯林</string>
+    <string name="string_faith_3">祈求宽恕并加强你的信仰</string>
+    <string name="string_faith_4">向真主承诺</string>
+    <string name="string_faith_5">祈求正直的伴侣</string>
+    <string name="string_day_of_judgement">审判日</string>
+    <string name="string_day_of_judgement_1">为今世和后世祈祷</string>
+    <string name="string_day_of_judgement_2">求得宽恕并免受火狱</string>
+    <string name="string_day_of_judgement_3">为你的父母及所有穆斯林求得宽恕</string>
+    <string name="string_day_of_judgement_4">求天堂</string>
+    <string name="string_forgiveness">宽恕</string>
+    <string name="string_forgiveness_1">求得宽恕并加强信仰</string>
+    <string name="string_forgiveness_2">求宽恕</string>
+    <string name="string_forgiveness_3">求宽恕与真主的怜悯</string>
+    <string name="string_forgiveness_4">求得宽恕并免受火狱</string>
+    <string name="string_forgiveness_5">为父母及所有穆斯林求宽恕</string>
+    <string name="string_forgiveness_6">为兄弟姐妹求宽恕</string>
+    <string name="string_forgiveness_7">为自己及进入你家的人求宽恕</string>
+    <string name="string_forgiveness_8">忏悔</string>
+    <string name="string_forgiveness_9">加强你的伊玛尼</string>
+    <string name="string_forgiveness_10">祈求真主的满意</string>
+    <string name="string_praising_allah">赞美真主</string>
+    <string name="string_praising_allah_1">赞美和荣耀真主</string>
+    <string name="string_praising_allah_2">感谢真主</string>
+    <string name="string_praising_allah_3">对真主心存感激</string>
+    <string name="string_praising_allah_4">听到好消息时</string>
+    <string name="string_praising_allah_5">祈求供养</string>
+    <string name="string_praising_allah_6">把一切交给真主</string>
+    <string name="string_protection">安护</string>
+    <string name="string_protection_1">祈求真主的安护和帮助</string>
+    <string name="string_protection_2">求得宽恕并免受火狱</string>
+    <string name="string_protection_3">求免于恶魔/沙伊坦的侵害</string>
+    <string name="string_protection_4">免受邪眼侵害</string>
+    <string name="string_protection_5">保护家人免受暴徒伤害</string>
+    <string name="string_protection_6">为孩子的安护祈祷</string>
+    <string name="string_protection_7">求免于压迫者</string>
+    <string name="string_protection_8">求免于敌人</string>
+    <string name="string_protection_9">克服恐惧</string>
+    <string name="string_protection_10">求免于作恶者</string>
+    <string name="string_protection_11">为父母祈祷</string>
+    <string name="string_protection_12">避免犯多神教</string>
+    <string name="string_protection_13">为今世和后世祈祷</string>
+    <string name="string_protection_14">成为一名虔诚的穆斯林</string>
+    <string name="string_protection_15">祈求正直的伴侣</string>
+    <string name="string_protection_16">免受自然灾害和灾难</string>
+    <string name="string_family">家庭</string>
+    <string name="string_family_1">为父母祈祷</string>
+    <string name="string_family_2">为父母和所有穆斯林求宽恕</string>
+    <string name="string_family_3">为兄弟姐妹求宽恕</string>
+    <string name="string_family_4">祈求幸福家庭</string>
+    <string name="string_family_5">向真主祈求赐予孩子</string>
+    <string name="string_family_6">为孩子的安护祈祷</string>
+    <string name="string_health_liness">健康 / 疾病</string>
+    <string name="string_health_liness_1">为了健康的生活</string>
+    <string name="string_health_liness_2">探望病人时</string>
+    <string name="string_health_liness_3">减轻疼痛</string>
+    <string name="string_health_liness_4">生病时</string>
+    <string name="string_health_liness_5">看到某人经历考验或磨难时</string>
+    <string name="string_health_liness_6">当你陷入困境时</string>
+    <string name="string_health_liness_7">当你临近死亡时</string>
+    <string name="string_health_liness_8">扫墓时</string>
+
+    <string name="string_loss_failure">失落 / 失败</string>
+    <string name="string_loss_failure_1">当你失败或失去某物时</string>
+    <string name="string_loss_failure_2">当遭遇损失时</string>
+    <string name="string_loss_failure_3">当遇到悲剧时</string>
+    <string name="string_loss_failure_4">看到某人经历考验或磨难时</string>
+    <string name="string_loss_failure_5">寻求真主的帮助</string>
+
+    <string name="string_sorrow_joy">悲伤 / 喜悦</string>
+    <string name="string_sorrow_joy_1">忧虑和悲伤时</string>
+    <string name="string_sorrow_joy_2">困扰时</string>
+    <string name="string_sorrow_joy_3">克服你的弱点</string>
+    <string name="string_sorrow_joy_4">遭遇悲剧时</string>
+    <string name="string_sorrow_joy_5">看到某人经历考验或磨难时</string>
+    <string name="string_sorrow_joy_6">听到坏消息时</string>
+    <string name="string_sorrow_joy_7">当你陷入困境时</string>
+    <string name="string_sorrow_joy_8">在困难时期保持耐心</string>
+    <string name="string_sorrow_joy_9">当有人侮辱你时</string>
+    <string name="string_sorrow_joy_10">感到害怕时</string>
+    <string name="string_sorrow_joy_11">寻求保护免受不公之人伤害</string>
+    <string name="string_sorrow_joy_12">寻求真主的帮助</string>
+    <string name="string_sorrow_joy_13">信赖真主</string>
+    <string name="string_sorrow_joy_14">听到好消息时</string>
+    <string name="string_sorrow_joy_15">当有人赞美你时</string>
+
+    <string name="string_patience">耐心</string>
+    <string name="string_patience_1">保持耐心</string>
+    <string name="string_patience_2">在困难时期保持耐心</string>
+    <string name="string_patience_3">控制你的愤怒</string>
+    <string name="string_patience_4">当有人侮辱你时</string>
+
+    <string name="string_debt">债务</string>
+    <string name="string_debt_1">偿还债务</string>
+    <string name="string_debt_2">为借钱给你的人祈祷</string>
+    <string name="string_debt_3">为了成功</string>
+    <string name="string_debt_4">为了生计（供养）</string>
+    <string name="string_during_menstruation">月经期间</string>
+    <string name="string_during_menstruation_1">易卜拉欣杜鲁德</string>
+    <string name="string_during_menstruation_2">为了今世和后世</string>
+    <string name="string_during_menstruation_3">为宽恕和安拉的仁慈</string>
+    <string name="string_during_menstruation_4">增强你的伊曼</string>
+    <string name="string_during_menstruation_5">使我们成为虔诚的穆斯林</string>
+    <string name="string_during_menstruation_6">感谢安拉</string>
+    <string name="string_during_menstruation_7">成为敬虔的穆斯林</string>
+    <string name="string_during_menstruation_8">为了健康的生活</string>
+    <string name="string_during_menstruation_9">缓解疼痛</string>
+    <string name="string_during_menstruation_10">如果你遇到困难</string>
+    <string name="string_during_menstruation_11">寻求安拉的帮助</string>
+    <string name="string_during_menstruation_12">当你感到痛苦时</string>
+    <string name="string_during_menstruation_13">在困难时期保持耐心</string>
+    <string name="string_during_menstruation_14">信任安拉</string>
+
+    <string name="string_duas">祈祷</string>
+    <string name="string_daily">每日</string>
+
+    <string name="string_sleeping">睡眠</string>
+    <string name="string_sleeping_1">当你醒来时</string>
+    <string name="string_sleeping_2">睡前</string>
+
+    <string name="string_toilet">厕所</string>
+    <string name="string_toilet_1">进入厕所前</string>
+    <string name="string_toilet_2">离开厕所后</string>
+
+    <string name="string_ablution">净礼</string>
+    <string name="string_ablution_1">开始净礼时</string>
+    <string name="string_ablution_2">完成净礼时</string>
+
+    <string name="string_mosque">清真寺</string>
+    <string name="string_mosque_1">去清真寺时</string>
+    <string name="string_mosque_2">进入清真寺时</string>
+    <string name="string_mosque_3">离开清真寺时</string>
+
+    <string name="string_prayer">祈祷</string>
+    <string name="string_prayer_1">在宣礼时</string>
+    <string name="string_prayer_2">听完宣礼后</string>
+    <string name="string_prayer_3">在念“泰克比尔”后（祈祷开始）</string>
+    <string name="string_prayer_4">在鞠躬（Ruku）时</string>
+    <string name="string_prayer_5">在安拉面前叩拜（Sujood）时</string>
+    <string name="string_prayer_6">在两次叩拜之间坐下时</string>
+    <string name="string_prayer_7">诵读《古兰经》时叩拜</string>
+    <string name="string_prayer_8">在祈祷中坐下（Tashahhud）时</string>
+    <string name="string_prayer_9">易卜拉欣杜鲁德</string>
+    <string name="string_prayer_10">Tashahhud 之后</string>
+    <string name="string_prayer_11">Qunoot 祈祷（在 Witr 祈祷中诵读）</string>
+    <string name="string_prayer_12">晨礼（Fajr）祷告后</string>
+    <string name="string_home">家</string>
+    <string name="string_home_1">离家时</string>
+    <string name="string_home_2">进家时</string>
+    <string name="string_home_3">上楼/登高时</string>
+    <string name="string_home_4">下楼/从高处下降时</string>
+
+    <string name="string_garment">衣物</string>
+    <string name="string_garment_1">穿衣服时</string>
+    <string name="string_garment_2">穿新衣服时</string>
+    <string name="string_garment_3">照镜子时</string>
+
+    <string name="string_travel">旅行</string>
+    <string name="string_travel_1">旅行时</string>
+    <string name="string_travel_2">归途中</string>
+    <string name="string_travel_3">旅行中夜幕降临时</string>
+    <string name="string_travel_4">住宿时</string>
+    <string name="string_travel_5">旅行时夜间入睡前</string>
+
+    <string name="string_food">食物</string>
+    <string name="string_food_1">开始用餐时</string>
+    <string name="string_food_2">如果忘记在开始时提及真主</string>
+    <string name="string_food_3">用餐后</string>
+    <string name="string_food_4">得到饮品时</string>
+    <string name="string_food_5">喝牛奶时</string>
+    <string name="string_food_6">在别人家喝水时</string>
+    <string name="string_food_7">为请客的人祈祷</string>
+    <string name="string_food_8">开斋时</string>
+    <string name="string_food_9">为提供斋饭的人祈祷</string>
+
+    <string name="string_occasional">特殊场合</string>
+
+    <string name="string_deceased">亡者</string>
+    <string name="string_deceased_1">发生死亡时</string>
+    <string name="string_deceased_2">拜访墓地时</string>
+    <string name="string_deceased_3">表示慰问时</string>
+    <string name="string_deceased_4">为亡者闭眼时</string>
+    <string name="string_deceased_5">在殡礼祈祷时</string>
+    <string name="string_deceased_6">安葬亡者时</string>
+
+    <string name="string_haj_umrah">朝觐/副朝</string>
+    <string name="string_haj_umrah_1">塔比亚（Talbiyah）</string>
+    <string name="string_haj_umrah_2">在黑石处念Takbeer</string>
+    <string name="string_haj_umrah_3">环绕天房至也门角时</string>
+    <string name="string_haj_umrah_4">前往萨法山时</string>
+    <string name="string_haj_umrah_5">在萨法和麦尔瓦山时</string>
+    <string name="string_haj_umrah_6">在穆兹达里法诵念时</string>
+    <string name="string_haj_umrah_7">投掷贾玛拉特（石柱）时</string>
+    <string name="string_haj_umrah_8">在阿拉法特（Arafat）时</string>
+    <string name="string_haj_umrah_9">宰牲时</string>
+    <string name="string_ramadan">斋月</string>
+    <string name="string_ramadan_1">开斋时的祈祷</string>
+    <string name="string_ramadan_2">命运之夜（莱拉图卡德尔）</string>
+    <string name="string_ramadan_3">为提供开斋餐的人祈祷</string>
+    <string name="string_ramadan_4">新月出现时</string>
+
+    <string name="string_nature">自然</string>
+    <string name="string_nature_1">求雨</string>
+    <string name="string_nature_2">下雨时</string>
+    <string name="string_nature_3">雨后</string>
+    <string name="string_nature_4">降雨过多时</string>
+    <string name="string_nature_5">听到雷声时</string>
+    <string name="string_nature_6">风暴期间</string>
+
+    <string name="string_good_ettiquete">良好礼仪</string>
+    <string name="string_good_ettiquete_1">问候他人</string>
+    <string name="string_good_ettiquete_2">回应萨拉姆</string>
+    <string name="string_good_ettiquete_3">感谢他人</string>
+    <string name="string_good_ettiquete_4">打喷嚏时</string>
+    <string name="string_good_ettiquete_5">听到别人打喷嚏时</string>
+    <string name="string_good_ettiquete_6">打喷嚏者的回应</string>
+    <string name="string_good_ettiquete_7">进入市场时</string>
+    <string name="string_good_ettiquete_8">聚会/马吉里斯结束时</string>
+    <string name="string_good_ettiquete_9">当有人称赞你时</string>
+
+    <string name="string_decision_guidance">决策 / 指引</string>
+    <string name="string_decision_guidance_1">求祈祷（伊斯提哈拉）</string>
+    <string name="string_decision_guidance_2">寻求公正</string>
+    <string name="string_decision_guidance_3">寻求安拉的指引</string>
+    <string name="string_decision_guidance_4">寻求安拉的满意</string>
+    <string name="string_decision_guidance_5">求成功</string>
+    <string name="string_decision_guidance_6">增强你的伊玛尼</string>
+
+    <string name="app_widget_description_time">穆斯林祈祷时间小部件</string>
+    <string name="app_widget_description_azkar">穆斯林祷词小部件</string>
+    <!--    当你醒来时-->
+    <string name="text_wake_up_1" translatable="false">一切赞颂全归安拉，他恢复了我的健康，归还了我的灵魂，并允许我记念他。</string>
+    <string name="text_wake_up_2" translatable="false">先知说：“谁在夜间醒来并说：‘除安拉外别无应受崇拜者，他独一无二，无伙伴，他掌管一切，赞颂归于他，他对万物全能。安拉是完美的，所有的赞颂都归于安拉，除安拉外别无应受崇拜者，安拉是最大的，除了安拉的力量外，没有任何力量或能力，至高无上的至尊者。’然后祈祷：‘我的主啊，请原谅我。’……他将被宽恕。” 或者他说：“然后他祈求，他的祈求将被应答。如果他之后净身并祈祷，他的祈祷将被接受。”</string>
+    <string name="text_wake_up_3" translatable="false">一切赞颂全归安拉，他在拿走我们的生命后给予我们生命，归于他的是复活。</string>
+
+    <!--    睡觉之前-->
+    <string name="text_sleeping_1" translatable="false">以你的名义，我的主啊，我躺下，并以你的名义，我起身。所以如果你取走我的灵魂，请怜悯它；如果你归还我的灵魂，请以你对义仆的方式保护它。</string>
+    <string name="text_sleeping_2" translatable="false">安拉啊，确实你创造了我的灵魂，你将取走它的生命。它的生命和死亡都属于你。如果你让我的灵魂存活，请保护它；如果你取走它的生命，请宽恕它。安拉啊，我祈求你赐予我健康。</string>
+    <string name="text_sleeping_3" translatable="false">安拉啊，请在你的仆人被复活的那一天保护我免受你的惩罚。</string>
+    <string name="text_sleeping_4" translatable="false">以你的名义，安拉啊，我生存，我死亡。</string>
+    <string name="text_sleeping_5" translatable="false">一切赞颂归于安拉，他供养了我们，给我们水喝，他满足了我们，并为我们提供了庇护，多少人没有足够的食物和住所。</string>
+    <string name="text_sleeping_6" translatable="false">安拉啊，你是显见与隐藏的知识者，天地的创造者，万物的主宰。我见证，除你之外，别无应受崇拜者。我向你寻求庇护，免遭自身的邪恶、恶魔的邪恶与多神教的陷阱，以及对自己的错误或对其他穆斯林造成的伤害。</string>
+    <string name="text_sleeping_7" translatable="false">安拉啊，我将我的灵魂交托于你，我将我的事务托付于你，我面向你，我完全依靠你，希望和畏惧你。确实，除了你，没有庇护所或安全的避难所。我相信你所降示的经典，也相信你所派遣的先知。</string>
+    <string name="text_sleeping_8" translatable="false">安拉！除了他之外，没有值得崇拜的，他是永生的，他是维系和保护万物的主。他不会被困倦或睡眠压倒。天地万物皆属于他。谁能未经他的许可而在他面前代求呢？他知道他们在今世的所作所为，也知道他们在后世的结局。他们不会掌握他的知识，除非他愿意。他的宝座扩展到天地之间，他守护和维系天地不会感到疲劳。他是至高无上的，至伟大的。</string>
+    <string name="text_entering_toilet_1" translatable="false">（奉安拉之名）。安拉啊，我向你寻求庇护，免受一切邪恶和作恶者的侵害。</string>
+    <!-- 离开厕所后 -->
+    <string name="text_leaving_toilet_1" translatable="false">我请求你的宽恕，安拉。</string>
+    <!-- 开始净礼时 -->
+    <string name="text_starting_ablution_1" translatable="false">奉安拉之名。</string>
+    <!-- 完成净礼时 -->
+    <string name="text_completing_ablution_1" translatable="false">我作证，除安拉外别无应受崇拜者，唯独他无伙伴，并作证穆罕默德是他的仆人和使者。</string>
+    <string name="text_completing_ablution_2" translatable="false">安拉啊，让我成为那些经常向你忏悔并保持洁净和纯洁的人。</string>
+    <string name="text_completing_ablution_3" translatable="false">安拉啊，你是多么完美，我赞美你。我作证，除你之外别无应受崇拜者。我向你寻求宽恕，并向你忏悔。</string>
+    <!-- 前往清真寺时 -->
+    <string name="text_going_to_mosque_1" translatable="false">安拉啊，请在我心中放置光明，在我舌上放置光明，在我耳中放置光明，在我眼中放置光明，在我身后放置光明，在我前方放置光明，在我上方放置光明，在我下方放置光明。安拉啊，赐予我光明。</string>
+    <!-- 进入清真寺时 -->
+    <string name="text_entering_osque1" translatable="false">我寻求安拉、至尊者、他的尊贵面容和他永恒的权柄的庇护，以免受被诅咒的恶魔的侵害。奉安拉之名，愿安拉的祈祷和平安降临他的使者。安拉啊，请为我打开你的慈悲之门。</string>
+    <!-- 离开清真寺时 -->
+    <string name="text_leaving_mosque_1" translatable="false">奉安拉之名，愿安拉的祈祷和平安降临他的使者。安拉啊，我请求你的恩惠。安拉啊，请保护我免受被诅咒的恶魔的侵害。</string>
+    <!-- 宣礼（Athan）时 -->
+    <string name="text_during_athan_1" translatable="false">除安拉之外，别无权力和能力。</string>
+    <!-- 听完宣礼（Athan）后 -->
+    <string name="text_listening_athan_1" translatable="false">安拉啊，这个完美召唤和确立的礼拜的主啊。请赐予穆罕默德代求权和恩典，并提升他至你承诺的尊贵之位，[你确实不会违背承诺]。</string>
+    <!-- 诵念大赞词（Takbeer）后 -->
+    <string name="text_after_takbeer_1" translatable="false">我真诚地面向创造天地的主，我不是以物配主者。的确，我的礼拜，我的牺牲，我的生命，我的死亡，皆为安拉——众世界的主。他无伙伴，我奉此命令，并归于穆斯林。安拉啊，你是主权者，除你之外别无应受崇拜者。你是我的主，我是你的仆人。我确已亏待自己，并承认我的罪过，因此请你宽恕我的一切罪过，因为除了你，没有人能宽恕罪过。请引导我拥有最优美的品德，因为除了你，没有人能引导我。请救我脱离最恶劣的品德，因为除了你，没有人能拯救我。主啊，我回应你的召唤，快乐地侍奉你。一切美好皆在你手中，邪恶并不来自你。我因你的意愿而存在，并将归于你。你是受赞美的，你是崇高的，我向你寻求宽恕，并向你忏悔。</string>
+    <string name="text_after_takbeer_2" translatable="false">安拉啊！请让我远离我的罪孽，就像你让东方远离西方一样。安拉啊，请像清洗白色衣物上的污渍一样，清洗我的过犯。安拉啊！请用冰、水和雪洗净我的罪过。</string>
+    <string name="text_after_takbeer_3" translatable="false">荣耀归于你，安拉，愿你受到赞美。你的名字是受祝福的，你的尊严是崇高的，除你之外，别无应受崇拜者。</string>
+    <!-- 叩拜（Ruku）时 -->
+    <string name="text_during_ruku_1" translatable="false">荣耀归于我的主，至尊者。</string>
+    <string name="text_during_ruku_2" translatable="false">荣耀归于你，安拉，我们的主，愿你受到赞美。安拉啊，请宽恕我。</string>
+    <string name="text_during_ruku_3" translatable="false">荣耀归于你，至圣者，你是天使和灵魂的主。</string>
+    <string name="text_during_ruku_4" translatable="false">安拉啊！我向你鞠躬（礼拜），我信仰你，我顺从你。在你面前，我的听觉、我的视觉、我的理智、我的骨骼、我的神经，以及我的双脚所站立的地方都已谦卑。</string>
+    <string name="text_during_ruku_5" translatable="false">荣耀归于你，权力、主权、尊严和伟大的主。</string>
+    <string name="text_before_allah_1" translatable="false">荣耀归于我的主，至高无上的主。</string>
+    <string name="text_before_allah_2" translatable="false">荣耀归于你，哦安拉，我们的主，一切赞颂属于你。哦安拉，请宽恕我。</string>
+    <string name="text_before_allah_3" translatable="false">荣耀归于你，至圣的主，天使和灵魂的主宰。</string>
+    <string name="text_before_allah_4" translatable="false">哦安拉，我向你叩拜，并且信仰你。我已顺服于你。我的脸向创造它、塑造它，并赋予它听觉和视觉的主叩拜。安拉是最卓越的创造者，愿他受祝福。</string>
+    <string name="text_before_allah_5" translatable="false">荣耀归于你，权力、主权、威严与伟大的掌管者。</string>
+    <string name="text_before_allah_6" translatable="false">哦安拉，我寻求你的喜悦以避开你的愤怒，我寻求你的宽恕以避开你的惩罚。我在你之中寻求庇护于你自身。我无法数尽你的赞颂，你正如你自己所赞美的那样。</string>
+    <string name="text_before_allah_7" translatable="false">哦安拉，请宽恕我的所有罪过，无论大小，无论是先前的还是后来的，无论是显现的还是隐藏的。</string>
+    <!-- 在两次叩拜之间坐下时 -->
+    <string name="text_two_sujood_1">主啊，请宽恕我。我的主啊，请宽恕我。</string>
+    <string name="text_two_sujood_2">哦安拉，请宽恕我，怜悯我，引导我，扶助我，保护我，赐予我供养，并提升我。</string>
+    <!-- 诵读《古兰经》时的叩拜 -->
+    <string name="text_quran_recitation_1" translatable="false">我向那创造了我的脸，并凭借他的能力和力量赋予它听觉和视觉的主叩拜。荣耀归于安拉，他是最卓越的创造者。</string>
+    <!-- 在祈祷中坐下时 -->
+    <string name="text_in_preyer_1" translatable="false">所有的谦卑问候、祈祷和善行皆归于安拉。愿平安与你同在，哦先知，以及安拉的慈悯与祝福。愿平安降临我们及所有正义的安拉仆人。我作证，万物非主，唯有安拉，我作证，穆罕默德是他的仆人和使者。</string>
+    <!-- 易卜拉欣祷词 -->
+    <string name="text_ibraheemi_1" translatable="false">哦安拉，请赐福于穆罕默德和穆罕默德的家族，正如你曾赐福于易卜拉欣和易卜拉欣的家族，你确是受赞美的、最荣耀的。哦安拉，请赐福于穆罕默德和穆罕默德的家族，正如你曾赐福于易卜拉欣和易卜拉欣的家族，你确是受赞美的、最荣耀的。</string>
+    <!-- 在Tashahhud后 -->
+    <string name="text_after_tashahhud_1" translatable="false">哦安拉，我寻求庇护于你，免遭坟墓的惩罚；我寻求庇护于你，免遭伪弥赛亚的考验；我寻求庇护于你，免遭生死的考验。哦安拉，我寻求庇护于你，免受罪恶和债务的困扰。</string>
+    <string name="text_after_tashahhud_2" translatable="false">哦安拉，我已对自己犯下大错，唯有你能宽恕罪恶。请赐予我你的宽恕，并怜悯我。你确是至赦的、至慈的。</string>
+    <string name="text_after_tashahhud_3" translatable="false">哦安拉，请宽恕我过去的和未来的罪过，我隐瞒的和我公开的，我所做的过度之事，以及那些你比我更清楚的事情。你是推进者，你是延后者。万物非主，唯有你。</string>
+    <!-- 祈祷Qunoot（在Witr祈祷中诵读） -->
+    <string name="text_e_qunoot_1" translatable="false">哦安拉！我们恳求你的帮助，寻求你的宽恕，相信你，依靠你，赞美你，感谢你，不会对你忘恩负义，并远离违抗你的人。哦安拉！唯独你是我们崇拜的对象，我们为你祈祷并叩拜，我们努力寻求你的喜悦，并投身于你的事业，我们期盼你的慈悯，同时畏惧你的惩罚。你的惩罚必将降临于不信者，哦安拉！</string>
+    <!-- 晨礼（Fajr）祈祷后 -->
+    <string name="text_fajr_prayer_1" translatable="false">哦安拉，我向你祈求有益的知识、美好的供养和被接受的善行。</string>
+    <!-- 出门时 -->
+    <string name="text_leaving_home_1" translatable="false">以安拉之名，我将信赖寄托于安拉，除了安拉之外，没有任何力量和权柄。</string>
+    <string name="text_leaving_home_2" translatable="false">哦安拉，我寻求庇护于你，以免迷失或被误导、跌倒或被绊倒、压迫或被压迫、愚蠢行事或被愚弄。</string>
+    <!-- 进家门时 -->
+    <string name="text_entering_home_1">以安拉之名，我们进入；以安拉之名，我们离开；我们信赖我们的主。</string>
+    <!-- 上楼梯或登高处时 -->
+    <string name="text_the_stairs_1">一切赞颂归于安拉，他赐予我这件衣物，并为我提供了它，而我自身毫无力量。</string>
+    <string name="text_the_stairs_2">安拉至大。</string>
+    <string name="text_the_stairs_3">赞美安拉。</string>
+    <!-- 穿新衣时 -->
+    <string name="text_new_clothes_1">哦安拉，赞颂归于你，你已为我披上衣物。我向你祈求这衣物的美善及其用途的美善，并寻求你的庇护，免受其恶与其用途的恶。</string>
+
+    <!-- 照镜子时 -->
+    <string name="text_the_mirror_1">哦安拉，正如你赐予我美丽的外貌，也请赐予我美丽的品格。</string>
+
+    <!-- 旅行 -->
+    <!-- 旅行时 -->
+    <string name="text_for_travel_1">荣耀归于创造这交通工具的主，我们本无力创造它。我们终将归向我们的主。</string>
+    <string name="text_for_travel_2">我的主啊！求你让我的进入（麦地那）是美好的，并让我的离开（麦加）也是美好的。求你赐予我来自你的帮助、确凿的证据或明证。</string>
+
+    <!-- 旅行归来时 -->
+    <string name="text_form_travel_1">安拉至大，安拉至大，安拉至大。\n万物非主，唯有安拉，他独一无偶。所有的主权与赞颂皆归于他，他对万物全能。我们归来，忏悔，崇拜并赞颂我们的主。安拉实现了他的承诺，援助了他的仆人，并独自击败了敌军。</string>
+
+    <!-- 夜晚降临旅途中 -->
+    <string name="text_approaches_during_travel_1">哦大地，我的主与你的主皆是安拉。我寻求安拉的庇护，远离你的多神信仰，远离你内在的一切邪恶，远离他在你体内创造的一切邪恶，远离在你之上的一切爬行之物。我寻求安拉的庇护，远离狮子、大黑蛇、其他毒蛇、蝎子，以及居住在大地上的恶魔。它是一个父亲和他的后代。</string>
+
+    <!-- 住宿时 -->
+    <string name="text_accommodation_1">我的主啊，请让我在一个受祝福的地方安居，你是最好的安顿者。</string>
+
+    <!-- 旅途中夜晚入睡前 -->
+    <string name="text_during_travel_1">我的主啊！我寻求你的庇护，远离恶魔的低语（诱惑）。我的主啊！我寻求你的庇护，免得它们接近我。</string>
+    <string name="text_during_travel_2">我寻求安拉的庇护，远离被驱逐的恶魔。</string>
+    <string name="text_during_travel_3">我寻求安拉完美之言的庇护，远离他所创造的一切邪恶。</string>
+
+    <!-- 食物 -->
+    <!-- 吃饭前 -->
+    <string name="text_beginning_a_meal_1">以安拉之名，至仁至慈的主。</string>
+
+    <!-- 若忘记在开始时提及安拉 -->
+    <string name="text_the_beginning_1">以安拉之名，始于安拉，终于安拉。</string>
+
+    <!-- 吃完饭后 -->
+    <string name="text_finishing_a_meal_1">赞颂安拉，他赐予我们食物和饮品，并使我们成为穆斯林。</string>
+
+    <!-- 当有人请你喝水时 -->
+    <string name="text_a_drink_1">哦安拉！赐予食物者食物，赐予饮品者饮品。</string>
+
+    <!-- 喝牛奶时 -->
+    <string name="text_drinking_milk_1">哦安拉！请赐福于这牛奶，并增加它的恩典。</string>
+
+    <!-- 在别人家用餐时 -->
+    <string name="text_house_1">哦安拉！请赐福于他们的供养，宽恕他们，并怜悯他们。</string>
+
+    <!-- 为请你吃饭的人祈祷 -->
+    <string name="text_you_a_meal_1">哦安拉，赐食于给我食物的人，并赐饮于给我水喝的人。</string>
+
+    <!-- 破斋时 -->
+    <string name="text_your_fast_1">哦安拉！我为你而封斋，我信仰你，我信赖你，我用你的供养来破斋。</string>
+
+    <!-- 为提供开斋食物的人祈祷 -->
+    <string name="text_with_iftar_1">与你同在的人已破斋，你已供养正义之人，天使为你祈祷。</string>
+    <!-- 逝者 -->
+    <!-- 失去亲人时 -->
+    <string name="text_loss_occurs_1">我们确实属于安拉，我们终将归于安拉。</string>
+
+    <!-- 探望墓地时 -->
+    <string name="text_visiting_graves_1">哦，穆斯林同胞，愿你们平安，凭安拉的意愿，我们终将与你们相会。愿我们与你们都得到安宁。</string>
+
+    <!-- 表达哀悼时 -->
+    <string name="text_offering_condolenca_1">确实，安拉取走属于他的一切，赐予属于他的一切，万物皆有定期。请保持耐心，并获得回赐。</string>
+
+    <!-- 在葬礼祈祷中为逝者祈祷 -->
+    <string name="text_funeral_prayer_1">哦，安拉，宽恕他，怜悯他，给予他力量并宽恕他。慷慨待他，使他顺利进入天堂，用水、雪和冰雹洗净他。像洁白的衣物被洗净一样清除他的罪孽。赐给他比他的家更好的住所，比他的家人更好的家人，比他的妻子更好的妻子。让他进入天堂，并保护他免受坟墓和地狱之火的惩罚。</string>
+
+    <string name="text_funeral_prayer_2">哦，安拉，宽恕我们的生者和逝者，在我们身边的和远方的，我们的年轻人和年长者，我们的男人和女人。哦，安拉，愿你赐生者以伊斯兰的生活，愿你接走者在信仰中归去。哦，安拉，不要让我们失去他们的回赐，不要让我们在他们之后迷失方向。</string>
+
+    <!-- 将逝者放入坟墓时 -->
+    <string name="text_the_graver_1">奉安拉之名，遵循安拉使者的教义。</string>
+
+    <!-- 朝觐 / 副朝 -->
+    <!-- 诵念塔尔比亚 -->
+    <string name="text_tabihya_1">哦，安拉，我们随时为你服务，你没有伙伴，所有的赞美、祝福和主权都属于你，你没有伙伴。</string>
+
+    <!-- 经过黑石时的赞颂 -->
+    <string name="text_black_stone_1">安拉至大！</string>
+
+    <!-- 环绕天房到达也门角时 -->
+    <string name="text_during_tawaf_1">我们的主啊！求你赐予我们今世的美好，后世的美好，并拯救我们免受火狱之苦。</string>
+
+    <!-- 前往萨法山时 -->
+    <string name="text_mount_safa_1">我从安拉开始的一切开始，安拉至大！安拉至大！安拉至大！没有应受崇拜的存在，唯有安拉，他独一无二，没有伙伴。主权和赞美皆属于他，他对万物全能。他实现了他的承诺，援助了他的仆人，并独自击败了敌人。</string>
+
+    <!-- 在萨法山和麦尔瓦山 -->
+    <string name="text_mount_marwah_1">我从安拉开始的一切开始，安拉至大！安拉至大！安拉至大！没有应受崇拜的存在，唯有安拉，他独一无二，没有伙伴。主权和赞美皆属于他，他对万物全能。他实现了他的承诺，援助了他的仆人，并独自击败了敌人。</string>
+
+    <!-- 在穆兹达里法（Al-Mash’ar Al-Haram）诵念 -->
+    <string name="text_al_haraam_1">安拉至大！安拉是独一的，除了安拉，没有应受崇拜的存在。</string>
+
+    <!-- 在投掷石子时 -->
+    <string name="text_at_jamaraat_1">安拉至大！</string>
+
+    <!-- 在阿拉法特（Arafat）时 -->
+    <string name="text_at_arafat_1">没有应受崇拜的存在，唯有安拉，他独一无二，没有伙伴。主权和赞美皆属于他，他对万物全能。</string>
+
+    <!-- 牺牲动物时 -->
+    <string name="text_an_animal_1">奉安拉之名，安拉至大！[哦，安拉，这一切都来自你，也归于你。]哦，安拉，请接受我的献祭。</string>
+
+    <!-- 斋月 -->
+    <!-- 打开斋戒时 -->
+    <string name="text_openning_your_fast_1">哦，安拉！我为你而禁食，我相信你，我信赖你，并用你的恩赐结束我的禁食。</string>
+
+    <!-- 命运之夜 -->
+    <string name="text_of_destiny_1">哦，安拉！你是最慈悲的，你喜欢宽恕，请宽恕我。</string>
+
+    <!-- 为提供开斋的人祈祷 -->
+    <string name="text_you_with_iftar_1">与你一起，禁食者已开斋，你养育了敬畏者，天使们为你祈祷。</string>
+
+    <!-- 看到新月时 -->
+    <string name="text_crescent_moon_1">安拉至大！哦，安拉，求你带给我们这轮新月，赐予我们安全和信仰，平安和伊斯兰，以及与你的喜悦相符的一切。我们的主和你的主皆为安拉。</string>
+
+    <!-- 自然 -->
+    <!-- 祈求降雨 -->
+    <string name="text_for_rain_1">哦，安拉！求你降下丰沛的雨水，有益而无害，迅速而不迟延。</string>
+
+    <!-- 下雨时 -->
+    <string name="text_it_rains_1">哦，安拉！求你降下有益的雨云。</string>
+
+    <!-- 雨后 -->
+    <string name="text_after_rainfall_1">凭借安拉的恩典和慈悲，我们得到了雨水。</string>
+    <string name="text_after_rainfall_2">哦，安拉！求你降下有益的雨云。</string>
+    <string name="text_after_rainfall_3">哦，安拉！让这场雨经过我们，而不降临于我们，而是降在山丘、山脉、山谷的中心以及森林土地上。</string>
+
+    <!-- 听到雷声时 -->
+    <string name="text_hearing_thunder_1">荣耀归于因敬畏安拉而颂赞他的雷声和天使。</string>
+
+    <!-- 风暴时 -->
+    <string name="text_a_windstorm_1">哦，安拉！我向你祈求风暴中的美好，并向你寻求庇护，以免遭其伤害。</string>
+    <!-- 良好礼仪 -->
+    <!-- 问候他人 -->
+    <string name="text_greeting_people_1">愿真主的平安、慈悯和祝福与你同在。</string>
+
+    <!-- 回应Salam -->
+    <string name="text_to_Salam_1">愿你也平安，愿真主的慈悯和祝福与你同在。</string>
+
+    <!-- 感谢某人 -->
+    <string name="text_thanking_someone_1">愿真主以善回报你。</string>
+
+    <!-- 听到别人打喷嚏时 -->
+    <string name="text_someone_sneeze_1">愿真主怜悯你。</string>
+
+    <!-- 自己打喷嚏时 -->
+    <string name="text_Upon_sneezing_1">一切赞颂全归真主。</string>
+
+    <!-- 打喷嚏者的回应 -->
+    <string name="text_replies_back_1">愿真主引导你，并改善你的状况。</string>
+
+    <!-- 聚会结束时 -->
+    <string name="text_a_Gathering_1">清净属于你，哦真主，赞美也属于你。我作证，除你之外别无应受崇拜者。我向你求饶，并向你悔过。</string>
+
+    <!-- 进入市场时 -->
+    <string name="text_entering_market_1">除真主外，绝无主宰。他是独一无二的，无伙伴。国权属于他，赞美也归于他。他赋予生命，也带走生命。他是永恒不变的。他掌控一切美好，且对万物全能。</string>
+
+    <!-- 当有人称赞你时 -->
+    <string name="text_praises_you_1">哦真主，不要因他们所说的话而责备我，并宽恕他们所不知道的 [并使我比他们想象的更好]。</string>
+
+    <!-- 决策 / 指引 -->
+    <!-- 祈求Istikhara（求前定） -->
+    <string name="text_For_Istikhara_1">哦真主，我向你的知识求教，我向你的大能求助，并向你祈求你的伟大恩典。确实，你是全能的，而我却无能。你知晓，而我却不知，你是全知幽玄的。哦真主，如果你知道此事[请提及要决定的事项]对我的宗教、生活和未来的福祉有利，- [或说：对今生与来世有利] - 那么请你为我决定它，并使它变得容易，并赐予我其中的祝福。如果你知道此事对我的宗教、生活和未来的福祉有害，- [或说：对今生与来世有害] - 那么请你使我远离它，并使它远离我，并为我决定最好的，并使我对此感到满意。寻求造物主指引的人永不后悔，寻求信士建议的人将充满信心。真主在《古兰经》中说：“你当与他们商议事务，当你拿定主意，就应信托真主。”</string>
+
+    <!-- 祈求公正 -->
+    <string name="text_For_Justice_1">我们的主啊！请以真理在我们与我们的人民之间做出裁决，因为你是最公正的裁决者。</string>
+
+    <!-- 祈求真主的引导 -->
+    <string name="text_guidance_1">一切赞颂全归真主，他引导了我们；若非真主引导，我们绝不会获得正道。</string>
+    <string name="text_guidance_2">真主是最好的守护者，他是至仁至慈的。</string>
+
+    <!-- 祈求真主的满意 -->
+    <string name="text_satisfaction_2">我们的主啊！求你使我们成为顺服你的穆斯林，并使我们的后代成为顺服你的穆斯林民族；求你指示我们礼拜的方式，并宽恕我们，你确是至恕的，至慈的。</string>
+
+    <!-- 祈求成功 -->
+    <string name="text_for_success_1">我的成功唯独依赖真主。我信赖他，并归向他。</string>
+
+    <!-- 坚定信仰（伊玛尼） -->
+    <string name="text_your_imaan_1">我的成功唯独依赖真主。我信赖他，并归向他。</string>
+    <string name="text_your_imaan_2">我以真主为我的主，以伊斯兰为我的宗教，以穆罕默德（愿主福安之）为我的先知而满足。（重复三遍）</string>
+    <string name="text_your_imaan_3">我寻求真主的庇护。</string>
+    <string name="text_your_imaan_4">我确信真主及其使者。</string>
+    <string name="text_your_imaan_5">我们的主啊！在你引导我们之后，不要让我们的心偏离正道，并从你那里赐予我们慈恩。确实，你是最慷慨的施予者。</string>
+    <!-- 书签 -->
+    <string name="text_book_mark_duas" translatable="false">书签 - 祈祷</string>
+    <string name="text_book_mark_azkar" translatable="false">书签 - 赞词</string>
+    <string name="text_book_mark_quran" translatable="false">书签</string>
+    <string name="text_ayah" translatable="false">经文</string>
+
+    <!-- 伊斯兰地图 -->
+    <string name="text_islam_map" translatable="false">伊斯兰地图</string>
+    <string name="text_islam_map2" translatable="false">附近清真寺</string>
+    <string name="text_islam_map3" translatable="false">附近餐厅</string>
+    <string name="text_islam_map4" translatable="false">附近清真餐厅</string>
+
+    <!-- 连接和设置 -->
+    <string name="text_day" translatable="false">天</string>
+    <string name="text_days" translatable="false">天数</string>
+    <string name="text_no_wifi" translatable="false">无WiFi连接</string>
+    <string name="text_no_wifi2" translatable="false">请连接WiFi以使用此应用的所有功能</string>
+    <string name="text_connect" translatable="false">连接</string>
+    <string name="text_calculation_method" translatable="false">计算方法</string>
+    <string name="text_default_font" translatable="false">默认字体</string>
+    <string name="text_uthmanic_hafs" translatable="false">奥斯曼哈夫斯体</string>
+
+    <!-- 朝向与祈祷 -->
+    <string name="text_qibla" translatable="false">朝向</string>
+    <string name="text_pray_now" translatable="false">现在祈祷</string>
+    <string name="text_praying_time_adj" translatable="false">祈祷时间调整</string>
+
+    <!-- 祈祷时间 -->
+    <string name="text_All" translatable="false">全部</string>
+    <string name="text_Fajrl" translatable="false">晨礼</string>
+    <string name="text_Sunrise" translatable="false">日出</string>
+    <string name="text_Dhuhr" translatable="false">晌礼</string>
+    <string name="text_Asr" translatable="false">晡礼</string>
+    <string name="text_Maghrib" translatable="false">昏礼</string>
+    <string name="text_Isha" translatable="false">宵礼</string>
+
+    <!-- 位置和通知 -->
+    <string name="text_Inaccurate" translatable="false">位置不准确？点击我</string>
+    <string name="text_feedback" translatable="false">反馈</string>
+    <string name="text_Notification" translatable="false">通知</string>
+    <string name="text_Vibrate" translatable="false">震动</string>
+
+    <!-- 时间单位 -->
+    <string name="text_minute" translatable="false">分钟</string>
+    <string name="text_minutes" translatable="false">分钟</string>
+
+    <!-- 共享与提醒 -->
+    <string name="text_share_reminder" translatable="false">分享提醒</string>
+    <string name="text_Min" translatable="false">最小</string>
+    <string name="text_Next_prayer_in" translatable="false">距离下一次祈祷：</string>
+    <string name="text_Pre_Notification" translatable="false">预通知</string>
+
+    <!-- 法学派选择 -->
+    <string name="text_Hanafi" translatable="false">哈乃斐派</string>
+    <string name="text_Shafi_Maliki_Hanbali" translatable="false">沙斐/马立克/罕百里派</string>
+
+    <!-- 小部件和便捷性 -->
+    <string name="text_Widget" translatable="false">小部件</string>
+    <string name="text_Convenient" translatable="false">便捷</string>
+    <string name="text_Pray_anytime" translatable="false">随时随地祈祷。\n无论身处何地，保持信仰</string>
+
+    <!-- 应用介绍 -->
+    <string name="text_intro1" translatable="false">祈祷时间倒计时与提醒</string>
+    <string name="text_intro2" translatable="false">帮助您提醒祈祷时间\n不要错过任何每日祈祷</string>
+    <string name="text_intro3" translatable="false">您的精神与美食之旅的完美指南</string>
+    <string name="text_intro4" translatable="false">每天阅读《古兰经》并记念赞词，保持精神力量</string>
+    <string name="title_intro4" translatable="false">古兰经 &amp; 赞词</string>
+
+    <!-- 其他设置 -->
+    <string name="text_Prayer_Time" translatable="false">祈祷时间</string>
+    <string name="text_share_image" translatable="false">分享图片</string>
+    <string name="text_translation" translatable="false">翻译：</string>
+    <string name="text_tap_to_test" translatable="false">点击测试音效</string>
+    <string name="text_Sound_Setting" translatable="false">声音设置</string>
+    <string name="text_Page_Background" translatable="false">页面背景</string>
+    <string name="text_Pre_Adhan_reminder" translatable="false">宣礼前提醒</string>
+    <string name="text_all_the_setting" translatable="false">以下所有设置也将应用于祈祷 &amp; 赞词</string>
+    <string name="text_next_prayer" translatable="false">下一次祈祷</string>
+    <string name="text_coming_prayers" translatable="false">即将到来的祈祷</string>
+    <!--Azkar-->
+    <string name="string_azkar_detail_arabic_1_1_1" translatable="false">اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكَ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</string>
+    <string name="string_azkar_detail_spelling_1_1_1" translatable="false">哦，安拉！赐福穆罕默德和他的家人，正如你赐福易卜拉欣和他的家人一样。你确实值得称颂，至尊无上。</string>
+
+    <!-- 每日念诵 -->
+    <string name="text_e_ibraheemi_1" translatable="false">哦，安拉！请赐福穆罕默德和他的家人，正如你赐福易卜拉欣和他的家人一样。你确实值得称颂，至尊无上。</string>
+
+    <!-- 祈祷后赞词 -->
+    <string name="text_tasbeeh_1" translatable="false">赞美安拉，感赞安拉，安拉是最伟大的。</string>
+
+    <!-- 每日祈祷词 -->
+    <string name="text_duas_1" translatable="false">哦，安拉！我向你请求有益的知识、美好的供给和被接受的善行。</string>
+    <string name="text_duas_2" translatable="false">哦，安拉！我向你请求天堂，并寻求你对火狱的保护。</string>
+    <string name="text_duas_3" translatable="false">荣耀归于安拉，赞美安拉，安拉是最伟大的！</string>
+    <string name="text_duas_4" translatable="false">没有值得崇拜的神，只有你。荣耀归于你！我确实是错的。</string>
+
+    <!-- 开始之前的祈祷 -->
+    <string name="text_starting_anything_1" translatable="false">以安拉之名，至仁至慈。</string>
+
+    <!-- 为今世和后世祈求 -->
+    <string name="text_the_aakhira_1" translatable="false">我们的主啊！请赐予我们今世的美好，后世的美好，并使我们免受火狱的惩罚！</string>
+    <string name="text_the_aakhira_2" translatable="false">我们的主啊！你必将在毫无疑问的那一天召集众人。确实，安拉的承诺从未落空。</string>
+    <!-- 每日祷念 -->
+    <!-- 早晨祷念 -->
+    <string name="text_morning_rememberence_1" translatable="false">我们已迎来清晨，此刻所有的主权都属于真主，所有的赞美也归于真主。除真主外，别无应受崇拜者，祂是独一无二的，无伙伴者，主权和赞美皆属于祂，祂对万物全能。我的主啊，我向祢祈求今天的美好以及未来的美好，并向祢寻求庇护，免遭今天的邪恶以及未来的邪恶。我的主啊，我向祢寻求庇护，免于懒惰和衰老。我的主啊，我向祢寻求庇护，免受火狱的惩罚和坟墓的刑罚。</string>
+
+    <string name="text_morning_rememberence_2" translatable="false">真主啊，凭祢的恩典，我们迎来了清晨，凭祢的恩典，我们迎来了夜晚，凭祢的恩典，我们生存，凭祢的命令，我们归于死亡，最终我们将复生归向祢。</string>
+
+    <string name="text_morning_rememberence_3" translatable="false">真主啊，祢是我的养主，除祢外，别无应受崇拜者。祢创造了我，我是祢的仆人，我尽力履行对祢的盟约和承诺。我向祢寻求庇护，免遭自己作恶的后果。我承认祢对我的恩惠，也承认自己的罪过，因此，求祢饶恕我，确实，除祢外，无人能赦免罪过。</string>
+
+    <string name="text_morning_rememberence_4" translatable="false">真主啊，我已迎来清晨，我召唤祢的宝座承载者、祢的天使以及祢所有的受造物为证，祢确是唯一的真主，除祢外，别无应受崇拜者，祢无伙伴，且穆罕默德是祢的仆人和使者。（念四遍）</string>
+
+    <string name="text_morning_rememberence_5" translatable="false">真主啊，我和祢所有的受造物今天早晨所享有的恩典，皆来自祢，祢是独一无二的，因此，所有的赞美和感谢都归于祢。</string>
+
+    <string name="text_morning_rememberence_6" translatable="false">真主啊，请赐予我的身体健康！真主啊，请赐予我的听觉健康！真主啊，请赐予我的视力健康！除祢外，别无应受崇拜者。（念三遍）真主啊，我向祢寻求庇护，免遭不信与贫困，并向祢寻求庇护，免受坟墓的刑罚。除祢外，别无应受崇拜者。（念三遍）</string>
+
+    <string name="text_morning_rememberence_7" translatable="false">真主足以为我！除祂外，别无应受崇拜者。我托靠祂，祂是尊贵宝座的主。（晨昏各念七遍）</string>
+
+    <string name="text_morning_rememberence_8" translatable="false">我寻求真主完美的言辞庇护，免遭祂所创造之物的伤害。（晚上念三遍）</string>
+
+    <string name="text_morning_rememberence_9" translatable="false">真主啊，我向祢祈求今世和后世的宽恕与安康。真主啊，我向祢祈求在我的宗教和世俗事务、我的家庭和财产中得到宽恕和安康。真主啊，请掩盖我的缺点，消除我的恐惧。真主啊，请保护我免受前后、左右、以及上方的侵害，并求祢庇护我，免遭地面吞噬。</string>
+
+    <string name="text_morning_rememberence_10" translatable="false">真主啊，祢是幽玄与显现的全知者，是天地的创造者，是万物的主宰和统治者。我作证，除祢外，别无应受崇拜者。我向祢寻求庇护，免遭自身之恶和恶魔的邪恶与误导，并免于自己作恶或加害于穆斯林同胞。</string>
+
+    <string name="text_morning_rememberence_11" translatable="false">奉真主之名，借祂之名，大地与天空中没有任何事物能够伤害人，祂是全听、全知的。（念三遍）</string>
+
+    <string name="text_morning_rememberence_12" translatable="false">我满足于真主作为我的养主，满足于伊斯兰作为我的宗教，满足于穆罕默德（愿主福安之）作为我的先知。（念三遍）</string>
+
+    <string name="text_morning_rememberence_13" translatable="false">真主是完美的，我赞美祂，按祂所创造之物的数量，按祂所喜悦的程度，按祂宝座的重量，以及按祂言辞的墨迹。（念三遍）</string>
+
+    <string name="text_morning_rememberence_14" translatable="false">真主是完美的，我赞美祂。（念一百遍）</string>
+
+    <string name="text_morning_rememberence_15" translatable="false">永生者啊！万物的支撑者啊！我凭祢的怜悯向祢求助，请改善我的所有事务，不要让我独自面对自己，即便是一眨眼的时间。</string>
+
+    <string name="text_morning_rememberence_16" translatable="false">除真主外，别无应受崇拜者，祂是独一无二的，无伙伴者，主权和赞美皆属于祂，祂对万物全能。（念一百遍）</string>
+
+    <string name="text_morning_rememberence_17">我们已迎来清晨，此刻所有的主权都属于真主，众世界的养主。真主啊，我向祢祈求这一天的美好、胜利、光明、祝福和引导，并向祢寻求庇护，免遭这一天及其后果的邪恶。</string>
+    <!-- 夜晚祷念 -->
+    <string name="text_evening_rememberence_1" translatable="false">我们已进入夜晚，此刻万国之主唯属安拉，一切赞颂皆归于安拉。除安拉外，绝无应受崇拜之主，唯独他，无伙伴，万国之主唯属他，赞颂唯归于他，他对万物全能。我的主啊！我祈求您赐予今晚的美好以及随之而来的美好，并寻求您庇佑免遭今晚的邪恶以及随之而来的邪恶。我的主啊！我寻求您庇佑免遭懒惰与衰老。我的主啊！我寻求您庇佑免遭火狱的刑罚以及坟墓的惩罚。</string>
+
+    <string name="text_evening_rememberence_2" translatable="false">安拉啊！因您的恩典，我们进入了夜晚，因您的恩典，我们迎来了清晨，因您的恩典，我们生存与死亡，最终，我们都将归于您。</string>
+
+    <string name="text_evening_rememberence_3" translatable="false">安拉啊！您是我的主，除您之外，绝无应受崇拜之主。您创造了我，而我是您的仆人，我尽我所能遵守您的誓约和承诺。我寻求您庇佑免遭自己所作恶行的伤害。我承认您的恩典，并承认自己的罪行，因此请您赦免我，因为唯有您能宽恕罪过。</string>
+
+    <string name="text_evening_rememberence_4" translatable="false">安拉啊！我们进入夜晚，并以您为见证，并请持有您宝座的天使，以及您的众天使和所有的受造物作证，您是安拉，除您之外，绝无应受崇拜之主，唯独您，无伙伴，且穆罕默德（愿主福安之）是您的仆人和使者。</string>
+
+    <string name="text_evening_rememberence_5" translatable="false">安拉啊！今晨我及您的所有受造物所得到的每一项恩典皆来自于您，唯独您，无伙伴，因此一切赞颂皆归于您，一切感谢亦归于您。</string>
+
+    <string name="text_evening_rememberence_6" translatable="false">安拉啊！请赐予我的身体健康，安拉啊！请赐予我的听觉健康，安拉啊！请赐予我的视觉健康。除您之外，绝无应受崇拜之主。（三次）安拉啊！我寻求您庇佑免遭不信与贫困，并寻求您庇佑免遭坟墓的惩罚。除您之外，绝无应受崇拜之主。（三次）</string>
+
+    <string name="text_evening_rememberence_7" translatable="false">安拉是我的依靠，除他之外，绝无应受崇拜之主，我依靠他，他是尊贵宝座的主。（早晚各七次）</string>
+
+    <string name="text_evening_rememberence_8" translatable="false">我寻求安拉完美的话语庇佑，以免遭他所创造之物的伤害。（晚上三次）</string>
+
+    <string name="text_evening_rememberence_9" translatable="false">安拉啊！我祈求您赐予我今世与后世的宽恕与安康。安拉啊！我祈求您赐予我宗教与世俗、家庭与财富的安康。安拉啊！请遮掩我的过错，使我安心。安拉啊！请保护我免遭前后、左右、上方的伤害，并寻求您的庇佑，免遭大地吞噬。</string>
+
+    <string name="text_evening_rememberence_10" translatable="false">安拉啊！知晓隐秘与显现者，天地的创造者，万物的主宰与统治者，我作证除您之外，绝无应受崇拜之主。我寻求您庇佑免遭自身的邪恶、恶魔的诱惑与恶行，并免于作恶或加害于其他穆斯林。</string>
+
+    <string name="text_evening_rememberence_11" translatable="false">以安拉之名，凡以此名言行者，大地与苍穹皆无法伤害他，安拉是全知、全聪者。（三次）</string>
+
+    <string name="text_evening_rememberence_12" translatable="false">我满足于安拉为我之主，以伊斯兰为我之信仰，以穆罕默德（愿主福安之）为我之先知。（三次）</string>
+
+    <string name="text_evening_rememberence_13" translatable="false">安拉是完美的，我赞美他，以他所造物之数，以他的喜悦，以他宝座之重量，以及他话语之墨水量。（三次）</string>
+
+    <string name="text_evening_rememberence_14" translatable="false">安拉是完美的，我赞美他。（一百次）</string>
+
+    <string name="text_evening_rememberence_15" translatable="false">永生者，自存者啊！我以您的慈悯寻求援助，请改善我的一切事务，不要让我独自一人，哪怕是一瞬间。</string>
+
+    <string name="text_evening_rememberence_16" translatable="false">除安拉之外，绝无应受崇拜之主，唯独他，无伙伴，万国之主唯属他，赞颂唯归于他，他对万物全能。（一百次）</string>
+
+    <string name="text_evening_rememberence_17">我们已迎来清晨，此刻万国之主唯属安拉，众世界的主。安拉啊！我祈求您赐予这一天的美好、成功、胜利、光明、祝福和引导，并寻求您庇佑免遭这一天及随之而来的邪恶。</string>
+    <!-- 祷告后的念词 -->
+    <string name="text_remembrances_1" translatable="false">我向安拉求饶。（三次）安拉啊，你是平安之主，一切平安皆来自于你，你是受祝福的，尊贵与荣耀的拥有者。AS-Salam：无瑕疵、无缺陷的主。</string>
+    <string name="text_remembrances_2" translatable="false">除安拉外，别无应受崇拜者，独一无二，无伴侣，万物的主宰，赞颂皆归于他，他对万物全能。安拉啊，没人能阻止你想要赐予的，也没人能赐予你想要阻止的，财富和权势无法使人受益，唯有你的财富和权势才是真正的财富与权势。</string>
+    <string name="text_remembrances_3" translatable="false">荣耀归于安拉，一切赞颂归于安拉，安拉至大。（三十三次）除安拉外，别无应受崇拜者，独一无二，无伴侣，万物的主宰，赞颂皆归于他，他对万物全能。</string>
+    <string name="text_remembrances_4" translatable="false">你说：他是真主，是独一的主。真主是万物所仰赖的主。他没有生育，也没有被生育。没有任何物可以与他匹敌。（《忠诚章》）
+你说：我寻求安拉的庇护，求主保护我免受祂所创造物的伤害；免受黑夜降临时的邪恶；免受那些吹气于结的女巫的邪恶；免受嫉妒者的邪恶。（《破晓章》）
+你说：我寻求安拉的庇护，求主保护我，宇宙万物的主，人类的主，人类的神，免受恶魔的低语者（他在人心中低语，并在被记起安拉时退却），无论是精灵还是人类的低语。（《人类章》）
+晨礼和昏礼后念三次，其他礼拜后念一次。</string>
+    <string name="text_remembrances_5" translatable="false">安拉！除他之外，别无应受崇拜者，他是永生不灭的，他是万物的维持者。瞌睡和睡眠不能侵袭他。天地万物皆归于他。谁能在他面前为人求情，除非得到他的许可？他知道他们在世的一切，也知道他们在后世的一切。他的知识超越一切，而他们只知晓他所愿意让他们知晓的。他的宝座遍及天地，他守护天地毫不费力。他是至尊的，伟大的。</string>
+    <string name="text_remembrances_6" translatable="false">除安拉外，别无应受崇拜者，独一无二，无伴侣，万物的主宰，赞颂皆归于他。他使生者生，使死者死，他对万物全能。（昏礼和晨礼后念十次）</string>
+    <string name="text_remembrances_7" translatable="false">安拉啊，我向你祈求有益的知识，吉祥的供养，和被接受的善行。（晨礼结束后念）</string>
+
+    <!-- 规律礼拜 -->
+    <string name="text_regularly_1" translatable="false">的确，我的主是倾听祈祷的。我的主啊，使我成为履行拜功的人，并使我的后代也履行拜功。我们的主啊，接受我的祈祷。</string>
+
+    <!-- 供养（Rizq） -->
+    <!-- 为了供养（生计） -->
+    <string name="text_rizq_1" translatable="false">安拉啊，我向你祈求有益的知识、美好的供养和被接受的善行。</string>
+    <string name="text_rizq_2" translatable="false">安拉啊，求你宽恕我，怜悯我，引导我，支持我，保护我，赐予我供养，并提升我。</string>
+    <string name="text_rizq_3" translatable="false">安拉啊，我向你祈求你的恩惠。</string>
+    <string name="text_rizq_4" translatable="false">安拉对他的仆人极其仁慈和宽厚。他赐予他所愿意的人供养。他是强大的，是万能的。</string>
+    <string name="text_rizq_5" translatable="false">我们的主啊！求你从天上赐给我们一桌食物，以作为我们前人和后人的节日和你的迹象，并赐予我们供养，因为你是最好的供养者。</string>
+
+    <!-- 当你需要帮助时 -->
+    <string name="text_need_1" translatable="false">我的主啊！我确实需要你赐予我的一切美好！</string>
+
+    <!-- 求宽恕与安拉的仁慈 -->
+    <string name="text_allah_mercy_1" translatable="false">（我的主啊）你是我们的保护者，求你宽恕我们，怜悯我们，你是最好的宽恕者。求你在今世和后世赐予我们美好，我们确已归向你。</string>
+    <string name="text_allah_mercy_2" translatable="false">我的主啊！求你宽恕和怜悯，因为你是最仁慈的！</string>
+    <string name="text_allah_mercy_3" translatable="false">我们的主啊！我们确已亏待了自己，如果你不宽恕我们，不怜悯我们，我们必定会成为迷失者。</string>
+    <string name="text_allah_mercy_4" translatable="false">我们的主啊！求你从你那里赐予我们恩惠，并使我们的事务顺利！</string>
+    <string name="text_allah_mercy_5" translatable="false">我们的主啊！我们已信仰你，求你宽恕我们，怜悯我们，因为你是最仁慈的！</string>
+    <!-- 赞颂真主 -->
+    <string name="text_praising_allah_1" translatable="false">真主啊！国度的掌管者，您将国度赐予您所愿者，并从您所愿者那里夺去国度；您使您所愿者尊贵，并使您所愿者卑微。所有的美善皆在您的掌控之中。的确，您全能于万物。您使黑夜进入白昼，使白昼进入黑夜（即在冬夏时节，夜晚和白昼的时间增减）；您使生者从死者中出现，并使死者从生者中出现；您无量无数地赐予您所愿者财富与供给。</string>
+    <string name="text_praising_allah_2" translatable="false">所以，当你们在傍晚（即黄昏礼 Maghrib 和宵礼 Isha）和清晨（即晨礼 Fajr）时，当颂扬真主超绝于他们（不信者）所归于他的（邪恶属性）；天地间的一切赞美与感谢皆归于他，在下午（即晡礼 Asr）和当白昼开始倾斜（即晌礼 Zuhr）时，也要赞美他。（伊本·阿拔斯说："这些就是《古兰经》中提到的五番集体拜功。）他使生者从死者中出现，并使死者从生者中出现，他使大地在死寂之后复苏。同样，你们也将被复活。</string>
+    <string name="text_praising_allah_3" translatable="false">荣耀属于真主，并赞美归于他。荣耀属于至大的真主。</string>
+    <string name="text_praising_allah_4" translatable="false">荣耀归于真主，赞美归于真主，除真主外绝无应受崇拜的主，真主至大。</string>
+    <string name="text_praising_allah_5" translatable="false">真主是完美无缺的。</string>
+    <string name="text_praising_allah_6" translatable="false">除真主外，别无权力与能力。</string>
+    <string name="text_praising_allah_7" translatable="false">荣耀属于至大的真主，并赞美归于他。</string>
+    <string name="text_praising_allah_8" translatable="false">他是真主，除他外绝无应受崇拜的主，知晓幽玄与显现；他是至仁至慈的。他是真主，除他外绝无应受崇拜的主，至高无上、至洁无瑕、至完美、授予信仰、监察万物、至尊无上、至强无敌、至崇至贵。真主超绝于他们所归于他的（任何伙伴）。他是真主，是创造者、创造万物者、赋形者；最美的名字都属于他。天地间的一切都在赞美他。他是至尊无上的，至睿至智的。</string>
+    <string name="text_praising_allah_9" translatable="false">真主所欲的（已经发生），除真主外别无权力。</string>
+
+    <!-- 祈求成功 -->
+    <string name="text_for_success_4" translatable="false">我的成功唯赖真主，我信赖他，并归依于他。</string>
+
+    <!-- 祈求增加知识 -->
+    <string name="text_knowledge_1" translatable="false">我的主啊！求您增加我的知识。</string>
+    <string name="text_knowledge_2" translatable="false">真主啊，我向您祈求有益的知识、美好的给养和被接受的善行。</string>
+    <string name="text_knowledge_3" translatable="false">我的主啊！求您赐予我智慧（宗教知识、正确判断和先知的智慧），并使我与正义者为伍。求您赐予我在后世受人铭记的荣誉，并使我成为乐园的继承者。求您饶恕我的父亲，他确已迷误。求您不要在众生复活之日使我蒙羞。那日，财富与子嗣都无益，唯有带着一颗清净的心归向真主者才会获益。</string>
+
+    <!-- 赐予自信与口才 -->
+    <string name="text_eloquence_1" translatable="false">我的主啊！求您开阔我的胸襟，求您使我的事务变得容易，并解开我的舌结，以便他们理解我的言辞。</string>
+    <string name="text_eloquence_2" translatable="false">荣耀属于您，我们除了您教给我们的知识外，一无所知。的确，您是全知的，至睿的。</string>
+
+    <!-- 祈求远离无知 -->
+    <string name="text_ignorance_1" translatable="false">我求庇于真主，使我不至于成为无知者之一。</string>
+
+    <!-- 祈求远离愚蠢 -->
+    <string name="text_foolishness_1" translatable="false">真主啊！我向您祈求庇护，使我不误导他人，也不被他人误导，使我不使他人误入歧途，也不被人带入歧途，使我不伤害他人，也不被他人伤害，使我不行愚蠢之事，也不被愚蠢之人所害。</string>
+    // 信仰
+    // 加强你的伊玛尼（信仰）
+    <string name="text_strengthen_your_imaan_1" translatable="false">我以安拉为我的主，以伊斯兰为我的宗教，以穆罕默德（愿主赐福之）为我的先知。（重复三遍）</string>
+    <string name="text_strengthen_your_imaan_2" translatable="false">我寻求安拉的庇护。</string>
+    <string name="text_strengthen_your_imaan_3" translatable="false">我信仰安拉及其使者。</string>
+    <string name="text_strengthen_your_imaan_4" translatable="false">我们的主啊！在你引导我们之后，不要让我们的心偏离正道，并赐予我们你的怜悯。确实，你是无尽的施恩者。</string>
+    <string name="text_strengthen_your_imaan_5" translatable="false">我们的主啊！求你宽恕我们的罪过和过失，使我们的脚步坚定，并赐我们战胜不信道者的胜利。</string>
+
+    // 使我们成为实践伊斯兰的穆斯林
+    <string name="text_practicing_muslims_1" translatable="false">我们的主啊！我们信仰你所降示的启示，并追随使者，请把我们记录在作证者之列。</string>
+
+    // 向安拉立誓
+    <string name="text_to_allah_1" translatable="false">确实，我已转向那位创造天地的主，追随真理，并且我不属于以物配主者。</string>
+    <string name="text_to_allah_2" translatable="false">确实，我的礼拜、我的祭祀、我的生与死，皆归于安拉——众世界的主。他没有任何伙伴，我奉命遵行此道，我是首批归顺者之一。</string>
+
+    // 祈求与正直者为伴
+    <string name="text_righteous_company_1" translatable="false">天地的创造者啊！你是我在今世与后世的庇护者。请使我作为一名穆斯林去世，并让我与正直者为伍。</string>
+    <string name="text_righteous_company_2" translatable="false">我们的主啊！我们已信仰你，请将我们记录在作证者之列。</string>
+
+    // 寻求宽恕与免受地狱之苦
+    <string name="text_from_hell_1" translatable="false">我们的主啊！你的仁慈与知识包罗万物，请宽恕那些已悔改并遵循你的正道者，并保护他们免受火狱的惩罚。</string>
+    <string name="text_from_hell_2" translatable="false">我们的主啊！我们确已信仰你，请宽恕我们的罪过，并救我们脱离火狱的惩罚。</string>
+    <string name="text_from_hell_3" translatable="false">我们的主啊！你没有徒然创造这一切，赞颂你超然伟大，请拯救我们脱离火狱的惩罚。*我们的主啊！确实，你让谁进入火狱，谁便被你羞辱，不义之人绝无援助者。*我们的主啊！我们已听到召唤者呼唤信仰：“信仰你的主吧！”我们便信仰了。*我们的主啊！请宽恕我们的罪过，免除我们的过失，并使我们在正直者之中安然辞世。*我们的主啊！请赐予我们你曾通过使者承诺的恩典，并在复生日不让我们蒙羞，因为你绝不违背承诺。</string>
+    <string name="text_from_hell_4" translatable="false">安拉绝不让人承担超出其能力的负担。他所行的善，皆归于他；他所行的恶，也归于他。"我们的主啊！如果我们忘记或犯错，请勿惩罚我们。我们的主啊！请不要让我们背负如你曾加于前人那样的沉重负担。我们的主啊！请不要让我们承担超出我们能力的重担。求你赦免我们，宽恕我们，怜悯我们。你是我们的主，请赐予我们战胜不信道者的胜利。”</string>
+    <string name="text_from_hell_5" translatable="false">我们的主啊！请为我们成全光明，并赐予我们宽恕。确实，你掌管万事。</string>
+
+    // 祈求宽恕父母及所有穆斯林
+    <string name="text_all_muslims_1" translatable="false">我们的主啊！请以你的宽恕覆盖我们——包括我、我的父母以及所有的信士——在那审判之日。</string>
+    // 为天堂（Jannah）祈祷
+    <string name="text_for_jannah_1" translatable="false">我们的主啊！求你使我们远离地狱的愤怒，因为它的愤怒确实是一种严重的折磨。那真是一个恶劣的居所和歇息之地。</string>
+    <string name="text_for_jannah_2" translatable="false">我们的主啊！求你让他们进入你所应许的乐园（永恒的伊甸园），以及他们敬畏的祖先、配偶和后代。的确，你是全能的，至睿的。求你拯救他们免受罪恶的惩罚。你在那日拯救的人，确实已被你慈悯，那才是真正的成功。</string>
+
+    // 祈求宽恕
+    <string name="text_forgiveness_1" translatable="false">我的主啊！我向你寻求庇护，以免向你询问我不了解的事情。如果你不宽恕我，不怜悯我，我必将成为亏损者。</string>
+    <string name="text_forgiveness_2" translatable="false">主啊，求你宽恕我。我的主啊，求你宽恕我。</string>
+    <string name="text_forgiveness_3" translatable="false">安拉啊，求你宽恕我，怜悯我，引导我，支持我，保护我，供养我，并提升我。</string>
+    <string name="text_forgiveness_4" translatable="false">安拉啊，求你宽恕我的一切罪过，无论大小，先前或最近的，无论是公开的还是隐秘的。</string>
+    <string name="text_forgiveness_5" translatable="false">安拉啊，我在你的喜悦中寻求庇护，以免遭受你的愤怒；我在你的宽恕中寻求庇护，以免遭受你的惩罚。我向你寻求庇护，因为我无法完全赞美你。你正如你自己所赞美的那样伟大。</string>
+    <string name="text_forgiveness_6" translatable="false">我向安拉请求宽恕，并向他忏悔。</string>
+    <string name="text_forgiveness_7" translatable="false">安拉啊，我确实亏待了自己，没有人能宽恕罪过，唯有你。求你赐予我宽恕，并怜悯我，的确，你是至赦的，至慈的。</string>
+    <string name="text_forgiveness_8" translatable="false">安拉啊，你是我的主，除你之外，绝无应受崇拜的主宰。你创造了我，而我是你的仆人，我尽我所能遵守与你的约定。我向你寻求庇护，以免遭受我所犯下的罪恶。我承认你的恩典，也承认我的罪过。求你宽恕我，因为除了你，没有人能宽恕罪过。</string>
+    <string name="text_forgiveness_9" translatable="false">安拉啊，我以你的慈悯（它包含万物）请求你宽恕我。</string>
+    <string name="text_forgiveness_10" translatable="false">我的主啊，求你宽恕我，并接受我的忏悔。你是至赦的，至慈的。</string>
+
+    // 祈求兄弟姐妹的宽恕
+    <string name="text_siblings_1" translatable="false">我的主啊！求你宽恕我和我的兄弟，并使我们进入你的慈悯，你是最仁慈的主。</string>
+
+    // 祈求自己和进入你家的人的宽恕
+    <string name="text_your_house_1">我的主啊，求你宽恕我、我的父母，以及所有以信仰者身份进入我家的人，求你宽恕所有信士男女，并使不义者只增添毁灭。</string>
+
+    // 祈求忏悔
+    <string name="text_repentance_1" translatable="false">我向安拉——至大者——请求宽恕，除他之外，绝无应受崇拜的主，他是永生的，自存的，我向他忏悔。即使他曾逃离军队，安拉也会宽恕他。</string>
+    <string name="text_repentance_2" translatable="false">(对这些多神教徒说，哦穆罕默德 SAW)：这是安拉，我的主，我信赖他，并在一切事务上归向他，并向他忏悔。</string>
+    // 感谢真主
+    <string name="text_thanking_allah_1" translatable="false">除安拉外，别无应受崇拜者，祂独一无二，无伙伴。国度是祂的，所有的赞美归于祂，祂掌管万物。荣耀归于安拉，赞美归于安拉，除安拉外，别无应受崇拜者。安拉至大。除安拉的意欲外，别无权能。我的主啊，请原谅我。</string>
+    <string name="text_thanking_allah_2" translatable="false">荣耀归于我的至尊主。</string>
+    <string name="text_thanking_allah_3" translatable="false">荣耀归于你，安拉，我们的主，所有的赞美归于你。安拉啊，请宽恕我。</string>
+    <string name="text_thanking_allah_4" translatable="false">荣耀归于你，至圣者，众天使与精神的主宰。</string>
+    <string name="text_thanking_allah_5" translatable="false">荣耀归于你，权力、国度、威严与伟大的主宰。</string>
+    <string name="text_thanking_allah_6" translatable="false">除安拉外，别无应受崇拜者，祂独一无二，无伙伴。国度是祂的，赞美归于祂，祂掌管生死，祂无所不能。</string>
+    <string name="text_thanking_allah_7" translatable="false">除安拉外，别无应受崇拜者，祂独一无二，无伙伴。国度是祂的，赞美归于祂，祂掌管万物。除安拉外，别无权能。我们只崇拜安拉，祂拥有恩典和慷慨，最优美的赞美归于祂。即使不信者不悦，我们仍然虔诚地敬拜祂。</string>
+    <string name="text_thanking_allah_8" translatable="false">荣耀归于安拉，赞美归于祂，依照祂的造物之多，依照祂的喜悦，依照祂宝座的重量，依照祂言语的广度。</string>
+    <string name="text_thanking_allah_9" translatable="false">荣耀归于安拉，赞美归于安拉，安拉至大！</string>
+    <string name="text_thanking_allah_10" translatable="false">赞美安拉，祂赐予我们食物和饮水，使我们满足并给予我们住所，而许多人却缺乏供给和住所。</string>
+    <string name="text_thanking_allah_11" translatable="false">赞美安拉，祂赐予我们无尽、美好、吉祥的赞美，这赞美是永恒的，我们绝不会离弃它。祂是我们的主。</string>
+
+    // 感恩真主
+    <string name="text_grateful_to_allah_1" translatable="false">我的主啊！请赐我能力，让我感激你赐予我的恩惠及赐予我父母的恩惠，并行你所喜悦的善行，使我的子孙后代成为正直之人。我确已向你忏悔，我确是归顺者。</string>
+    <string name="text_grateful_to_allah_2" translatable="false">我的主啊！请赐我能力，让我感激你赐予我的恩惠及赐予我父母的恩惠，并行你所喜悦的善行。请以你的慈悯使我进入你正义仆人的行列。</string>
+
+    // 听到好消息时
+    <string name="text_good_new_1" translatable="false">一切赞美归于安拉，正如安拉所意愿的，安拉是吉祥的。</string>
+    <string name="text_help_from_allah_1">安拉啊，众经的降示者，清算迅速者，请击败这些不信者的集团。安拉啊，请战胜他们，使他们动摇。</string>
+    <string name="text_help_from_allah_2">他是安拉，独一无二，万物所需的主。他未曾生育，也未曾被生育，世间无物可与他相比。</string>
+    <string name="text_help_from_allah_3" translatable="false">安拉！除他之外，绝无应受崇拜的主，他是永生不灭的，是万物的维护者。他不会昏倦，也不会入睡。天地万物都属于他。谁能在他那里替人说情，除非他许可？他知道他们在今世的情况，也知道他们在后世的归宿。他的知识，他们无从得知，除非他意欲。他的宝座覆盖天地，他看护天地毫不费力。他是至尊至大的。</string>
+    <string name="text_help_from_allah_4">我求庇护于破晓之主，免遭他所创造之物的伤害，免遭黑夜降临时的黑暗，免遭吹在结上的女巫，免遭嫉妒者的嫉妒。</string>
+    <string name="text_help_from_allah_5" translatable="false">我求庇护于人类的主——人类的君主、人类的神，免遭潜伏在人类胸中的恶魔的伤害，不论它们是精灵还是人类。</string>
+    <string name="text_help_from_allah_6" translatable="false">安拉啊，我求庇护于你，免遭坟墓的惩罚，免遭假弥赛亚的试炼，免遭生与死的考验。安拉啊，我求庇护于你，免遭罪恶和债务。</string>
+    <string name="text_help_from_allah_7" translatable="false">安拉啊，请拯救我，免遭你在复活日对仆人的惩罚。</string>
+    <string name="text_help_from_allah_8" translatable="false">安拉啊，知晓隐秘与显现的主，天地的创造者，万物的主宰与拥有者，我作证，除你之外，绝无应受崇拜的主。我求庇护于你，免遭自身邪恶的伤害，免遭恶魔及其追随者的伤害，免得我自身作恶，也免得我伤害任何穆斯林。</string>
+    <string name="text_help_from_allah_9" translatable="false">安拉啊，我请求你的宽恕与保护，无论是在今世还是后世。安拉啊，我请求你的宽恕与保护，保佑我的宗教、世俗事务、家庭和财富。安拉啊，请遮掩我的缺陷，保护我免受忧虑。安拉啊，请庇护我，免遭来自前后左右以及上方的伤害。我求庇护于你的伟大，免遭来自下方的毁灭。</string>
+    <string name="text_help_from_allah_10" translatable="false">新的一天已经到来，万物的主权归于安拉。赞美安拉！除他之外，绝无应受崇拜的主。他无伙伴，万物的主权属于他，赞美归于他，他万能。我的主啊，我请求这一天的美好，以及其后诸日的美好；我求庇护于你，免遭这一天的邪恶，以及其后诸日的邪恶。我的主啊，我求庇护于你，免遭懒惰与衰老的折磨。我的主啊，我求庇护于你，免遭火狱的惩罚，以及坟墓的惩罚。当夜幕降临时，你应当说：「Amsaynaa wa\'amsal-mulku lillaah」，即：「我们度过了一天，万物的主权归于安拉。」</string>
+    <string name="text_help_from_allah_11">你们要知道，安拉是你们的保护者。他是最优越的保护者，也是最优越的援助者。</string>
+
+    <!-- 祈求免受恶魔/撒旦的侵害 -->
+    <string name="text_shaytan_1">我的主啊！我求庇护于你，免遭撒旦（恶魔）的低语（诱惑）。我求庇护于你，我的主啊！不让他们接近我。</string>
+    <string name="text_shaytan_2">我求庇护于安拉，免遭被驱逐的撒旦的伤害。</string>
+    <string name="text_shaytan_3">我求庇护于安拉完美的话语，免遭他所创造的万物的伤害。</string>
+
+    <!-- 保护家人免受不法之徒的侵害 -->
+    <string name="text_transgressors_1">我的主啊！拯救我和我的家人，免遭他们的罪恶。</string>
+
+    <!-- 保护孩子 -->
+    <string name="text_protection_1">我求庇护于安拉完美的话语，保护你免遭一切恶魔、毒虫和嫉妒者的伤害。</string>
+
+    <!-- 祈求免遭压迫者的侵害 -->
+    <string name="text_oppressors_1">我们的主啊！拯救我们脱离这座充满压迫者的城镇；求你从你的恩典中派遣保护者和援助者给我们。</string>
+    <string name="text_oppressors_2">安拉啊，你是我的力量，你是我的支柱。我为了你前行，为了你战斗。</string>
+
+    <!-- 祈求克服恐惧 -->
+    <string name="text_fear_1">安拉啊，请按你的意愿保护我，免遭他们的伤害。</string>
+
+    <!-- 祈求免遭作恶者的侵害 -->
+    <string name="text_wrongdoers_1">我们信靠安拉。我们的主啊！不要让我们成为作恶之人的试验对象，并以你的仁慈拯救我们脱离不信者。</string>
+    <string name="text_wrongdoers_2">我们的主啊！你确知我们隐藏的和我们显露的。对于安拉来说，天地间的一切都无所遁形。</string>
+    <string name="text_wrongdoers_3">我们的主啊！我们害怕他对我们无礼，或者超越一切界限。</string>
+
+    <!-- 祈求父母的恩典 -->
+    <string name="text_parents_1" translatable="false">我的主啊！求你让我坚守拜功，也让我后代中有人坚守拜功。我们的主啊！求你接受我的祈祷。</string>
+    <string name="text_parents_2" translatable="false">我的主啊！求你怜悯我的父母，就像他们在我年幼时抚育我一样。</string>
+    <!-- 寻求真主的喜悦 -->
+    <string name="text_allah_satisfaction_1" translatable="false">我们的主啊！请接受我们的服务，因为你是全听的，全知的。</string>
+    <string name="text_allah_satisfaction_2" translatable="false">我们的主啊！请让我们成为顺服于你的穆斯林，也让我们的后代成为顺服于你的穆斯林，并指示我们应当举行仪式的地方，并宽恕我们，因为你是最慈悲的，最宽恕的。</string>
+
+    <!-- 家庭 -->
+    <!-- 为父母 -->
+    <!-- 为幸福的家庭祈祷 -->
+    <string name="text_family_1">我的主啊！请赐予我们善良的妻子和子孙，使他们成为我们眼中的慰藉，并赐予我们引领正义之人的恩典。</string>
+    <!-- 祈求真主赐予孩子 -->
+    <string name="text_a_child_1">我的主啊！请赐予我一个虔诚的后代，因为你确实是聆听祈祷的主。</string>
+    <string name="text_a_child_2">我的主啊！请不要让我孤身一人（无子），因为你是最好的继承者。</string>
+
+    <!-- 健康 / 疾病 -->
+    <!-- 祈求健康的生活 -->
+    <string name="text_healthy_life_1" translatable="false">真主啊！请赐予我健康的身体。真主啊！请保护我的听觉。真主啊！请保护我的视力。除你之外别无可敬拜之主。真主啊！我向你寻求庇护，免遭不信与贫困，并向你寻求庇护，免受坟墓的惩罚。除你之外别无可敬拜之主。</string>
+    <!-- 探望病人时 -->
+    <string name="text_the_sick_1" translatable="false">不要担心，这将是对你的净化，如果真主愿意。</string>
+    <string name="text_the_sick_2" translatable="false">我向至高无上的真主，伟大宝座的主祈求，愿他治愈你。（先知穆罕默德（愿主福安之）说，念此祈祷七次，病人将会康复；若命运已定，则无法改变。）</string>
+    <!-- 缓解疼痛 -->
+    <string name="text_alleviate_pain_1" translatable="false">奉真主之名，我寻求真主及其能力的庇护，以免遭遇我所感受到的痛苦和害怕的事情。</string>
+    <!-- 看到别人经历考验时 -->
+    <string name="text_tribulation_1" translatable="false">一切赞颂全归真主，他使我免遭你的考验，并使我优越于许多被造物。</string>
+    <!-- 遇到困难时 -->
+    <string name="text_hard_times_1" translatable="false">确实，苦难降临到我身上，而你是至仁至慈的主。</string>
+    <string name="text_hard_times_2" translatable="false">除真主外别无可敬拜之主，真主至大。除真主外别无可敬拜之主，他无伙伴。除真主外别无可敬拜之主，主权与赞美皆属于他。除真主外别无可敬拜之主，唯有真主才能给予力量和能力。</string>
+    <!-- 临近死亡时 -->
+    <string name="text_nearing_your_death_1" translatable="false">除真主外别无可敬拜之主。</string>
+    <string name="text_nearing_your_death_2" translatable="false">我见证，除真主外别无可敬拜之主，他无伙伴；我见证，穆罕默德是他的仆人和使者。</string>
+
+    <!-- 失落 / 失败 -->
+    <!-- 失败或失去某物时 -->
+    <string name="text_something_1" translatable="false">这是真主的命运，他想怎样就怎样。</string>
+    <!-- 遭受损失时 -->
+    <string name="text_occurs_1" translatable="false">我们确实属于真主，并终将归于他。</string>
+    <!-- 遭遇悲剧时 -->
+    <string name="text_tragedy_1" translatable="false">我们来自真主，终将归于真主。真主啊！请让我摆脱困境，并赐予我更好的归宿。</string>
+    <string name="text_tragedy_2" translatable="false">真主是足够的，他是最值得信赖的。</string>
+    <!-- 祈求真主的帮助 -->
+    <string name="text_allah_help_1" translatable="false">真主是足够的，他是最值得信赖的。</string>
+    <string name="text_allah_help_2" translatable="false">我只向真主诉说我的苦难和悲伤，并从真主那里得知你们所不知道的。</string>
+    <!-- 忧虑和悲伤时 -->
+    <string name="text_worry_sorry_1" translatable="false">真主啊！我向你寻求庇护，免受忧郁和悲伤，免受软弱和懒惰，免受吝啬和怯懦，免受债务的压迫和被人支配。</string>
+    <!-- 处于困境时 -->
+    <string name="text_in_distress_1">除你之外别无可敬拜之主，你是超然的，我确实是犯了过错的人。</string>
+    <string name="text_in_distress_2" translatable="false">真主啊！我仰望你的仁慈，请不要让我独自一人哪怕是一瞬间。请为我纠正所有事务。除你之外别无可敬拜之主。</string>
+    <string name="text_in_distress_3">除真主外别无可敬拜之主，他是伟大的，是宽容的。除真主外别无可敬拜之主，他是伟大宝座的主。除真主外别无可敬拜之主，他是天地的主，也是尊贵宝座的主。</string>
+    <!-- 克服软弱 -->
+    <string name="text_weaknesses_1" translatable="false">真主啊！我向你寻求庇护，免受忧郁和悲伤，免受软弱和懒惰，免受吝啬和怯懦，免受债务的压迫和被人支配。</string>
+    <!-- 遭遇悲剧时 -->
+    <string name="text_by_tragedy_1" translatable="false">我们来自真主，终将归于真主。真主啊！请让我摆脱困境，并赐予我更好的归宿。</string>
+    <string name="text_by_tragedy_2" translatable="false">真主是足够的，他是最值得信赖的。</string>
+    <!-- 听到坏消息时 -->
+    <string name="text_a_bad_1" translatable="false">无论如何，一切赞颂全归真主。</string>
+    <!-- 被侮辱时 -->
+    <string name="text_insults_you_1" translatable="false">我的主啊！请以真理为我们判决，我们的主是至仁至慈的，我们向他寻求帮助，以对抗他们的描述。</string>
+    <!-- 感到害怕时 -->
+    <string name="text_frightened_1" translatable="false">除真主外别无可敬拜之主。</string>
+    <!-- 信任真主 -->
+    <string name="text_upon_allah_1" translatable="false">真主是足够的，除他之外别无可敬拜之主，我托靠于他，他是伟大宝座的主。</string>
+    <string name="text_upon_allah_2">你们将会记住我今日所言，我将我的事务托付给真主，确实，真主是看顾众仆的。</string>
+    <!-- 耐心 -->
+    <!-- 祈求耐心 -->
+    <string name="text_for_patience_1">我们的主啊！请赐予我们坚忍，使我们的立足点坚定，并助我们战胜不信道的人。</string>
+    <string name="text_for_patience_2">我们的主啊！请降赐给我们耐心，并使我们作为穆斯林归真。</string>
+    <!-- 控制愤怒 -->
+    <string name="text_your_anger_1">我寻求真主的庇护，远离被驱逐的恶魔。</string>
+
+    <!-- 债务 -->
+    <!-- 偿还债务 -->
+    <string name="text_a_debt_1">真主啊！求你使你允许的事物足够我，不让我依赖你所禁止的事物，并使我除了你之外不依赖任何人。</string>
+    <!-- 借钱给你的人 -->
+    <string name="text_you_money_1">愿真主赐福你和你的家庭以及你的财富，确实，借款的回报是赞美和归还（所借之物）。</string>
+
+    <!-- 月经期间 -->
+    <!-- 做虔诚的穆斯林 -->
+    <string name="text_pious_muslims_1" translatable="false">我们的主啊！请不要把我们与不义之人（多神教徒和作恶者）同列。</string>
+    <!-- 祈求父母和所有穆斯林的宽恕 -->
+    <string name="text_and_all_muslims_1" translatable="false">我们的主啊！请以你的宽恕覆盖我们——我、我的父母，以及所有的信士，在清算之日到来时！</string>
+    <!-- 寻求宽恕并增强信仰 -->
+    <string name="text_and_strengthen_your_imaan_1" translatable="false">真主不会让一个人承担超过他能力的负担。他将因他所行的善而获得回报，因他所行的恶而受到惩罚。“我们的主啊！如果我们忘记或犯错，请不要惩罚我们。我们的主啊！不要让我们承担你曾加于前人那样的重担。我们的主啊！不要让我们承担超过我们承受能力的负担。请宽恕我们，赐予我们饶恕，并怜悯我们。你是我们的保护者，请助我们战胜不信道的民众。”</string>
+    <!-- 免受邪眼侵害 -->
+    <string name="text_evil_eye_1">我寻求真主完美话语的庇护，以免遭受祂所创造之物的伤害。</string>
+    <!-- 免受敌人侵害 -->
+    <string name="text_against_enemies_1" translatable="false">主啊，你降示了经典，你审判迅速，击败敌军，主啊，请击败他们，使他们动摇。</string>
+    <!-- 免受自然灾害和灾难 -->
+    <string name="text_calamities_1" translatable="false">奉真主之名，在祂的名下，天地间无物能伤害，祂是全知全见的。（重复三次）</string>
+    <!-- 祈求兄弟姐妹的宽恕 -->
+    <string name="text_you_siblings_1" translatable="false">我的主啊！请赦免我和我的兄弟，并将我们纳入你的慈悯，因为你是最慈悯的主。</string>
+    <!-- 生病时的祈祷 -->
+    <string name="text_during_illness_1" translatable="false">【苏拉特·忠诚】说：他是真主，是独一的真主。真主是无求的。他未曾生育，也未曾被生育，没有任何事物可以与他相提并论。【苏拉特·破晓】说：“我寻求造物主的庇护，以免遭受祂所创造之物的伤害，以免遭受黑暗降临时的伤害，以免遭受施行巫术者的伤害，以免遭受嫉妒者的伤害。”【苏拉特·人类】说：“我寻求全人类的主——全人类的至尊，全人类的神——的庇护，免受偷偷低语的恶魔的伤害，他在人的心中低语，不论是精灵还是人类。”</string>
+    <!-- 在困难时期保持耐心 -->
+    <string name="text_difficult_times_1" translatable="false">我们的主啊！请降赐给我们耐心，并使我们作为穆斯林归真。</string>
+    <!-- 诵读《古兰经》三分之一的回赐 -->
+    <string name="text_of_quran_1" translatable="false">【苏拉特·忠诚】说：他是真主，是独一的真主。真主是无求的。他未曾生育，也未曾被生育，没有任何事物可以与他相提并论。</string>
+
+    <string name="string_prayer_time_will_begin">祈祷时间将在 %s 分钟后开始</string>
+    <string name="string_prayer_time_will_begin_s">祈祷时间将在 %s 分钟后开始</string>
+    <!-- 伊斯兰历月份 -->
+    <string name="string_praying_time_adjustment">%s 分钟</string>
+    <string name="string_plus_praying_time_adjustment">+%s 分钟</string>
+    <string name="string_not_adjusted">未调整</string>
+    <string name="string_it_will_correct_the_corresponding">这将校正伊斯兰历日期与公历的对应关系</string>
+    <string name="string_settings">设置</string>
+    <string name="string_english">英语</string>
+    <string name="string_time_calculator">时间计算器</string>
+    <string name="string_calculator_method">计算方法</string>
+    <string name="string_manual_setting">手动设置</string>
+    <string name="string_praying_time_adjustment_setting">祷告时间调整</string>
+    <string name="string_date_correction">日期校正</string>
+    <string name="string_notification_bar">通知栏</string>
+    <string name="string_fixed_countdown_on_notification">通知栏固定倒计时</string>
+    <string name="string_other">其他</string>
+    <string name="string_share">分享</string>
+    <string name="string_rate">评分</string>
+    <string name="string_private_policy">隐私政策</string>
+
+    <string name="string_exit">退出</string>
+
+    <string name="string_oh_no">哦，不！</string>
+    <string name="string_please_give_us_some_feedback">请给我们一些反馈</string>
+    <string name="string_we_love_you_too">我们也爱你！</string>
+    <string name="string_thanks_for_your_feedback">感谢您的反馈</string>
+    <string name="string_do_you_like_the_app">您喜欢这个应用吗？</string>
+    <string name="string_let_us_know_your_experience">请告诉我们您的体验</string>
+    <string name="Please_feedback">请提供反馈</string>
+    <string name="string_quran">古兰经</string>
+    <string name="string_thank_for_rate">感谢您的评分</string>
+    <string name="string_surah">苏拉</string>
+    <string name="string_juz">部分</string>
+    <string name="string_quran_settings">古兰经设置</string>
+    <string name="string_translation">翻译</string>
+    <string name="string_display">显示</string>
+    <string name="string_language_selection">语言选择</string>
+    <string name="string_content">内容</string>
+    <string name="string_font_amp_size"><![CDATA[字体和大小]]></string>
+    <string name="string_audio">音频</string>
+    <string name="string_reciter">诵读者</string>
+    <string name="string_translation_display">翻译显示</string>
+    <string name="string_phonetic_translation">音译</string>
+    <string name="string_language_translation">语言翻译</string>
+    <string name="string_preview">预览</string>
+    <string name="string_enable_audio">启用音频</string>
+    <string name="string_auto_scroll_with_audio">音频自动滚动</string>
+    <string name="string_font_size">字体大小</string>
+    <string name="string_font_style">字体样式</string>
+    <string name="string_tasbih">塔斯比哈</string>
+    <string name="string_round">轮次：</string>
+    <string name="string_done">完成</string>
+    <string name="string_customize">自定义</string>
+    <string name="string_adjust_total_times">调整总次数</string>
+    <string name="string_adjust_the_number_of_rounds">调整轮次数</string>
+    <string name="string_reset">重置</string>
+    <string name="string_do_you_want_to_reset_the_counter">您确定要重置计数器吗？</string>
+    <string name="string_continue_reading">继续阅读 - %s</string>
+
+    <string name="text_location_1" translatable="false">位置未启用</string>
+    <string name="text_location_2" translatable="false">请启用位置以使用此应用的所有功能</string>
+    <string name="text_bookmark_duas" translatable="false">点击书签图标，将杜阿添加到书签</string>
+    <string name="text_bookmark_azkar" translatable="false">点击书签图标，将赞词添加到书签</string>
+
+    <string name="text_sample" translatable="false">这是一个示例文件</string>
+    <string name="string_please_select_language">请选择语言</string>
+    <string name="string_please_connect_to_the_internet_to_use_this_feature">请连接到互联网以使用此功能</string>
+    <string name="string_please_connect_to_the_internet_to_play_audio">请连接到互联网以播放音频</string>
+    <string name="string_pin_app_widget_is_not_supported">不支持固定应用小部件</string>
+    <string name="string_please_customize_the_number_of_round">请自定义回合数</string>
+    <string name="string_please_enter_the_value_of_the_number_of_rounds">请输入回合数的值！</string>
+    <string name="string_value_of_the_number_of_rounds_that_exist">当前的回合数值</string>
+    <string name="string_let_me_recommend_you_this_application">让我向您推荐这个应用程序</string>
+    <string name="string_search">搜索</string>
+    <string name="string_add_to_home_screen">添加到主屏幕</string>
+    <string name="string_rotate_your_phone_until_the_mecca_appear">旋转您的手机，直到麦加大清真寺出现</string>
+    <string name="string_round_10">最少回合数为 10</string>
+    <string name="string_step_1"><![CDATA[<b>步骤 1：</b>]]> 确保至少遮盖您的私密部位，并且已经完成了 <![CDATA[<b>大净（wudu）</b>]]>。男性应覆盖整个身体，包括肚脐和膝盖。女性必须覆盖全身，除手、脚和脸部外。</string>
+    <string name="string_step_2"><![CDATA[<b>步骤 2：</b>]]> 找一个干净的地方，不会打扰他人，例如在祷告垫上。面向麦加的天房（Ka\'bah），即朝拜方向（Qiblah）。如果您因生病或残疾无法站立，可以坐着祈祷。</string>
+    <string name="string_step_3"><![CDATA[<b>步骤 3：</b>]]> 开始前，默念或大声表达您的祈祷意图。可以使用阿拉伯语或您自己的语言。例如，宣告：“我意图为安拉（Allah）面向天房（Ka’bah）祈祷两拜（rak‘at）塔拉维哈（Tarawih）。”</string>
+    <string name="string_step_4"><![CDATA[<b>步骤 4：</b>]]> 说 <![CDATA[<b><i>“Allahu Akbar”</i></b>]]>（安拉至大），男性将双手举至耳垂，女性举至肩膀。此时，您进入了净戒状态（Ihram），禁止做任何可能分散注意力的事情，例如交谈、大笑、饮食或分心。</string>
+    <string name="string_step_5"><![CDATA[<b>步骤 5：</b>]]> 男性将右手放在左手上，置于肚脐下方。女性应将双手放在胸前。</string>
+    <string name="string_step_6"><![CDATA[<b>步骤 6：</b>]]> 低声诵念此句： <![CDATA[<b><i>“SubhanaK-Allahumma wa bihamdiKa, wa tabaarak-asmuKa, wa ta-‘aala jadduKa, wa la ilaaha illa ghayruK”</i></b>]]>。 意思是：“安拉啊！荣耀和赞美属于您；您的尊名是吉祥的；您的威严是崇高的；除您之外别无真主。”</string>
+    <string name="string_step_7"><![CDATA[<b>步骤 7：</b>]]> 接着，轻声诵念： <![CDATA[<b><i>“A\'udhu bi-Llahi min ash-Shaitaanir rajeem bismi-Llahir Rahmaani Raheem”</i></b>]]>，意思是：“我向安拉寻求庇护，免受被驱逐的恶魔的伤害。我以至仁至慈的安拉之名（开始祈祷）。”</string>
+    <string name="string_step_8"><![CDATA[<b>步骤 8：</b>]]> 诵念《法蒂哈》章（Surah al-Fatihah），然后说 <![CDATA[<b><i>“Amin”</i></b>]]>，表示“愿主准允”。如果您是领拜者（Imam），请大声诵念《法蒂哈》章和其他章节。</string>
+    <string name="string_step_9"><![CDATA[<b>步骤 9：</b>]]> 接下来，诵念另一段《古兰经》章节。最低要求是三节经文，或者一节相当于三节短经文的长经文。不过，最好诵读完整的一章。</string>
+    <string name="string_step_10"><![CDATA[<b>步骤 10：</b>]]> 前倾并说 <![CDATA[<b><i>“Allahu Akbar”</i></b>]]>（安拉至大），双手放在膝盖上，背部保持水平。停留在此姿势（称为“鞠躬”Ruku），至少重复三次： <![CDATA[<b><i>“Subhaana Rabbiy-al-Adheem”</i></b>]]>，意思是“荣耀归于我的至尊主。”</string>
+    <string name="string_step_24"><![CDATA[<b>步骤 24：</b>]]> 结束祈祷时，向右转头，说 <![CDATA[<b><i>“Assalamu alaikum wa rahmat-Ullahi wa barakaatuH”</i></b>]]>（愿安拉的平安、慈悯与祝福降临于你）。然后向左转头重复同样的话。</string>
+    <string name="string_step_25"><![CDATA[<b>步骤 25：</b>]]> 您的第一组两拜（rak‘at）塔拉维哈（Tarawih）已完成！请返回第 3 步开始下一组拜功。</string>
+    <string name="string_tarawih">塔拉维哈</string>
+    <string name="string_tarawih_prayer">塔拉维哈祷告</string>
+    <string name="string_text_size">文字大小</string>
+    <string name="string_text_shadow">文字阴影</string>
+    <string name="string_background_blur">背景模糊</string>
+    <string name="string_font_style_ramadan">字体样式</string>
+    <string name="string_color">颜色</string>
+    <string name="string_send">发送</string>
+    <string name="string_background">背景</string>
+    <string name="string_app_download_link">应用下载链接</string>
+    <string name="string_share_image">分享图片</string>
+    <string name="string_click_here_to_download_the_app">点击此处下载应用：%s</string>
+    <string name="string_greeting">问候</string>
+    <string name="string_grant_permissions_later">稍后授权</string>
+    <string name="string_notification">通知</string>
+    <string name="string_location_permission">位置权限</string>
+    <string name="string_notification_permission">通知权限</string>
+    <string name="string_appear_on_top_permission">置顶权限</string>
+    <string name="string_you_can_select_location">您可以选择位置</string>
+    <string name="string_you_can_select_notification">您可以选择通知</string>
+    <string name="string_you_can_select_appear_on_top">您可以选择置顶权限</string>
+    <string name="string_go">前往</string>
+    <string name="string_continue">继续</string>
+    <string name="string_skip">跳过</string>
+    <string name="string_are_you_sure_exit_the_app">您确定要退出应用吗？</string>
+    <string name="string_yes">是</string>
+    <string name="string_no">否</string>
+    <string name="str_kareem">卡里姆</string>
+    <string name="ramadan_is_a_time_for_reflection_and_gratitude_may_you_be_granted_the_strength_to_practice_your_faith_the_patience_to_overcome_challenges_and_the_joy_in_every_moment_ramadan_mubarak">
+斋月是一个反思和感恩的时刻。愿你拥有坚守信仰的力量、克服挑战的耐心，并在每一刻都感受到喜悦。斋月穆巴拉克！
+</string>
+    <string name="str_picture_color">图片颜色</string>
+
+    <string name="title_intro_1">古兰经与每日祈祷</string>
+    <string name="title_intro_2">朝向指南针</string>
+    <string name="title_intro_3">祈祷时间</string>
+    <string name="title_intro_4">伊斯兰历</string>
+    <string name="content_intro_1">阅读和聆听《古兰经》，探索每日祈祷与赞词。</string>
+    <string name="content_intro_2">无论身在何处，都能轻松找到克尔白方向。</string>
+    <string name="content_intro_3">精准祈祷时间提醒，确保不错过任何一次祈祷。</string>
+    <string name="content_intro_4">跟踪重要的伊斯兰节日，如斋月、开斋节、古尔邦节等。</string>
+    <string name="please_select_language">请选择您的语言</string>
+    <string name="str_zakat">天课</string>
+    <string name="str_allah">安拉</string>
+    <string name="continue_rotate_title">旋转您的手机，直到克尔白处于中心。</string>
+    <string name="success_destination">这是克尔白的方向！</string>
+    <string name="north_title">北（N）</string>
+    <string name="northeast_title">东北（NE）</string>
+    <string name="east_title">东（E）</string>
+    <string name="southeast_title">东南（SE）</string>
+    <string name="south_title">南（S）</string>
+    <string name="southwest_title">西南（SW）</string>
+    <string name="west_title">西（W）</string>
+    <string name="northwest_title">西北（NW）</string>
+    <string name="bookmark_title">收藏</string>
+    <string name="round_title">轮数</string>
+    <string name="adjust_rounds_title">调整轮数</string>
+    <string name="currency_unit">货币单位</string>
+    <string name="calculate_zakat">计算天课</string>
+    <string name="total_amount_of_zakat">天课总额</string>
+    <string name="property_information">财产信息</string>
+    <string name="str_gold">黄金</string>
+    <string name="str_silver">白银</string>
+    <string name="str_money">现金</string>
+    <string name="str_investment">投资</string>
+    <string name="business_assets">商业资产</string>
+    <string name="other_savings">其他储蓄</string>
+    <string name="str_debt">债务</string>
+    <string name="str_nisab">尼萨布</string>
+    <string name="str_find">查找</string>
+    <string name="str_unknown">未知</string>
+    <string name="loading_data_mosque_please_wait">正在加载清真寺数据，请稍候...</string>
+    <string name="allah_99_name_title">安拉的99个名字</string>
+
+    <string name="the_most_or_entirely_merciful">至仁</string>
+    <string name="the_bestower_of_mercy">至慈</string>
+    <string name="the_king_and_owner_of_dominion">至尊主</string>
+    <string name="the_absolutely_pure">至圣</string>
+    <string name="the_perfection_and_giver_of_peace">至安</string>
+    <string name="the_one_who_gives_emaan_and_security">至信</string>
+    <string name="the_guardian">至护</string>
+    <string name="the_witness">见证者</string>
+    <string name="the_overseer">监察者</string>
+    <string name="the_all_mighty">全能</string>
+    <string name="the_compeller">制伏者</string>
+    <string name="_the_restorer">恢复者</string>
+    <string name="the_supreme">至高</string>
+    <string name="_the_majestic">至尊</string>
+    <string name="the_creator">造物主</string>
+    <string name="_the_maker">塑造者</string>
+    <string name="the_originator">始创者</string>
+    <string name="the_fashioner">赋形者</string>
+    <string name="the_all_and_oft_forgiving">至恕</string>
+    <string name="the_subduer">征服者</string>
+    <string name="the_ever_dominating">永恒的主宰</string>
+    <string name="the_giver_of_gifts">施予者</string>
+    <string name="the_provider">供给者</string>
+    <string name="the_opener">开端者</string>
+    <string name="_the_judge">裁决者</string>
+    <string name="the_all_knowing">全知</string>
+    <string name="_the_omniscient">无所不知</string>
+    <string name="the_withholder">约束者</string>
+    <string name="the_extender">扩展者</string>
+    <string name="the_reducer">缩减者</string>
+    <string name="the_abaser">贬抑者</string>
+    <string name="the_exalter">擢升者</string>
+    <string name="_the_elevator">提升者</string>
+    <string name="the_honourer">尊贵者</string>
+    <string name="the_bestower">赐予者</string>
+    <string name="the_dishonourer">侮辱者</string>
+    <string name="the_humiliator">羞辱者</string>
+    <string name="the_all_hearing">全听</string>
+    <string name="the_all_seeing">全视</string>
+    <string name="the_judge">审判者</string>
+    <string name="_the_giver_of_justice">公正裁决者</string>
+    <string name="the_utterly_just">至公</string>
+    <string name="the_subtle_one">精微</string>
+    <string name="the_most_gentle">至温</string>
+    <string name="the_acquainted">深知</string>
+    <string name="the_all_aware">洞察者</string>
+    <string name="the_most_forbearing">至宽容</string>
+    <string name="the_forgiving">宽恕者</string>
+    <string name="the_exceedingly_forgiving">极度宽恕</string>
+    <string name="the_most_appreciative">最感恩</string>
+    <string name="the_most_high">至高无上</string>
+    <string name="_the_exalted">至尊</string>
+    <string name="the_greatest">至伟</string>
+    <string name="the_most_grand">最宏伟</string>
+    <string name="the_preserver">守护者</string>
+    <string name="the_all_heedful_and_all_protecting">全知全护</string>
+    <string name="the_sustainer">供养者</string>
+    <string name="the_maintainer">维护者</string>
+    <string name="the_reckoner">清算者</string>
+    <string name="string_des_location_quibla">应用需要位置权限以激活朝向功能</string>
+    <string name="string_des_location_islam_map">应用需要位置权限以激活伊斯兰地图</string>
+    <string name="string_des_location_widget">应用需要位置权限以激活小部件</string>
+    <string name="string_des_notification_widget">应用需要通知权限以激活小部件</string>
+    <string name="string_des_appear_on_top_widget">应用需要“显示在顶部”权限以激活小部件</string>
+    <string name="string_des_location_home">应用需要位置权限以启用获取祷告时间</string>
+    <string name="string_des_notification_home">应用需要位置权限以允许祷告时间通知</string>
+    <string name="string_des_appear_on_top_home">应用需要“显示在顶部”权限以允许显示祷告通知界面</string>
+    <!-- 名单继续，列出安拉的99个名字 -->
+    <string name="string_step_11"><![CDATA[<b>第 11 步：</b>]]> 当再次站直时，宣告 <![CDATA[<b><i>\"Sami-Allahu liman hamidaH\"</i></b>]]> - “真主聆听赞颂祂的人”。接着，宣告 <![CDATA[<b><i>\"Rabbana laKal hamd\"</i></b>]]> - “我们的主啊，所有的赞美都属于你”。</string>
+
+    <string name="string_step_12"><![CDATA[<b>第 12 步：</b>]]> 再次说 <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]> 并进入叩拜（Sujood）。叩拜时，请确保额头、鼻子、双手手掌、膝盖以及脚趾尖朝向前方并接触地面。</string>
+
+    <string name="string_step_13"><![CDATA[<b>第 13 步：</b>]]> 至少重复三遍 <![CDATA[<b><i>\"Subhaana Rabbiy-al-Aalaa\"</i></b>]]> - “荣耀归于我至高无上的主”。</string>
+
+    <string name="string_step_14"><![CDATA[<b>第 14 步：</b>]]> 说 <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]> 并起身坐下。双手手掌放在膝盖上。男性坐在左脚的平面上，右脚脚趾朝前支撑。女性则倾斜在左侧臀部上，双脚朝向右侧。</string>
+
+    <string name="string_step_15"><![CDATA[<b>第 15 步：</b>]]> 短暂停留后，边说 <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]>，边再次进入叩拜，并重复第 13 步。</string>
+
+    <string name="string_step_16"><![CDATA[<b>第 16 步：</b>]]> 说 <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]> 并起身站直。你现在已经完成了塔拉威哈（Tarawih）祈祷的第一拜（Rak‘ah）。</string>
+
+    <string name="string_step_17"><![CDATA[<b>第 17 步：</b>]]> 再次重复第 8 至第 15 步。</string>
+
+    <string name="string_step_18"><![CDATA[<b>第 18 步：</b>]]> 完成第 8 至第 15 步后，按照第 14 步所述的方式坐下。</string>
+
+    <string name="string_step_19"><![CDATA[<b>第 19 步：</b>]]> 坐下时，诵念清真言（Tashaahud）前半部分： <![CDATA[<b><i>\"At-tahiyyatu lillah, was-salawaatu wat-tayyibaat. As-salaamu ‘alayka ayyuhan-Nabiyyu wa rahmat-Ullahi wa barakaatu. As-salaamu alayna, wa alaa ibaadi-llahis saaliheen\"</i></b>]]>。意思是：“一切祝福、祈祷和美好的言辞都属于真主。愿安宁降临于你，哦先知，愿真主的慈悯与祝福伴随你。愿安宁降临于我们及真主所有正义的仆人。”</string>
+
+    <string name="string_step_20"><![CDATA[<b>第 20 步：</b>]]> 接着，双手放在膝盖上，右手食指伸直，其余手指并拢，然后诵念清真言的后半部分： <![CDATA[<b><i>\"Ashhadu an laa ilaaha ill-Allahu wa ashhadu anna Muhammadan abduHu wa Rasooluh\"</i></b>]]>。意思是：“我作证，万物非主，唯有真主；我作证，穆罕默德是祂的仆人和使者。”</string>
+
+    <string name="string_step_21"><![CDATA[<b>第 21 步：</b>]]> 放下右手食指，让双手手掌回到膝盖上。</string>
+
+    <string name="string_step_22"><![CDATA[<b>第 22 步：</b>]]> 继续坐着，诵念： <![CDATA[<b><i>\"Allahumma salli alaa Muhammadiw wa alaa aali Muhammadin, kamaa sallayta alaa Ibraheema wa alaa aali Ibraheema, innaKa Hameedum Majeed. Allahumma baarik ‘alaa Muhammadiw wa alaa aali Muhammadin, kamaa baarakta alaa Ibraheema wa alaa aali Ibraheema, innaKa Hameedum Majeed\"</i></b>]]>。意思是：“主啊，请降福于穆罕默德及其家族，正如你降福于易卜拉欣及其家族。你确是可颂美的，至尊的。主啊，请赐福于穆罕默德及其家族，正如你赐福于易卜拉欣及其家族。你确是可颂美的，至尊的。”</string>
+
+    <string name="string_step_23"><![CDATA[<b>第 23 步：</b>]]> 强烈推荐在此时诵念一些祈祷词（Dua）。其中一个简短且全面的祈祷词是： <![CDATA[<b><i>\"Rabbana aatina fid-dunya hasanataw wa fil-aakhirati hasantaw wa qina adhaaban Naar\"</i></b>]]>。意思是：“我们的主啊，求你在今世赐给我们美善，在后世赐给我们美善，并保护我们免受火狱的刑罚。”</string>
+    <string name="string_dialog_tarawih_1">介绍我们的最新功能：<![CDATA[<b>塔拉威哈</b>]]> &amp; <![CDATA[<b>斋月问候</b>]]> 指南现已上线！</string>
+    <string name="string_dialog_tarawih_2">带我去</string>
+    <string name="text_date_comparison">日期比较</string> <!-- Tiếng Trung -->
+    <string name="the_majestic">威严者</string>
+    <string name="the_most_generous">最慷慨者</string>
+    <string name="_the_most_esteemed">最受尊敬者</string>
+    <string name="the_watchful">警觉者</string>
+    <string name="the_all_watchful">全知全觉者</string>
+    <string name="the_responsive">回应者</string>
+    <string name="the_answerer">答复者</string>
+    <string name="the_all_encompassing">包罗万象者</string>
+    <string name="the_boundless">无限者</string>
+    <string name="the_all_wise">至智者</string>
+    <string name="the_most_loving">最慈爱者</string>
+    <string name="the_glorious">荣耀者</string>
+    <string name="the_most_honorable">最尊贵者</string>
+    <string name="the_infuser_of_new_life">赋予新生命者</string>
+    <string name="the_all_observing_witnessing">全知全见者</string>
+    <string name="absolute_truth">绝对真理</string>
+    <string name="the_trustee">受托者</string>
+    <string name="the_disposer_of_affairs">万事安排者</string>
+    <string name="the_all_strong">全能者</string>
+    <string name="the_firm">坚定者</string>
+    <string name="the_steadfast">坚忍者</string>
+    <string name="the_protecting_associate">保护者</string>
+    <string name="the_praiseworthy">可赞美者</string>
+    <string name="the_all_enumerating">计算万物者</string>
+    <string name="the_counter">计算者</string>
+    <string name="the_initiator">起始者</string>
+    <string name="the_restorer">恢复者</string>
+    <string name="the_reinstater">复原者</string>
+    <string name="the_giver_of_life">赐生命者</string>
+    <string name="the_creator_of_death">创造死亡者</string>
+    <string name="ever_living">永生者</string>
+    <string name="the_self_subsisting">自存者</string>
+    <string name="the_perceiver">洞察者</string>
+    <string name="the_illustrious">杰出者</string>
+    <string name="the_magnificent">伟大者</string>
+    <string name="the_one">唯一者</string>
+    <string name="the_indivisible">不可分割者</string>
+    <string name="unique">独一无二者</string>
+    <string name="the_only_one">独一者</string>
+    <string name="the_eternal">永恒者</string>
+    <string name="satisfier_of_needs">满足需求者</string>
+    <string name="the_omnipotent">全能者</string>
+    <string name="the_powerful">强大者</string>
+    <string name="the_expediter">加速者</string>
+    <string name="the_promoter">推动者</string>
+    <string name="the_delayer">延迟者</string>
+    <string name="the_first">最初者</string>
+    <string name="the_last">最终者</string>
+    <string name="the_utmost">至高者</string>
+    <string name="the_manifest">显现者</string>
+    <string name="the_all_surpassing">超越万物者</string>
+    <string name="the_hidden_one">隐藏者</string>
+    <string name="knower_of_the_hidden">知晓隐秘者</string>
+    <string name="the_sole_governor">唯一统治者</string>
+    <string name="the_self_exalted">自尊者</string>
+    <string name="source_of_all_goodness">一切善的源泉</string>
+    <string name="the_ever_pardoning">常宽恕者</string>
+    <string name="the_avenger">复仇者</string>
+    <string name="the_pardoner">赦免者</string>
+    <string name="the_most_kind">最仁慈者</string>
+    <string name="master_of_the_dominion">统治主宰者</string>
+    <string name="owner_of_the_kingdom">王国的拥有者</string>
+    <string name="possessor_of_glory_and_honour">荣耀与尊严的拥有者</string>
+    <string name="the_just_one">公正者</string>
+    <string name="the_gatherer">召集者</string>
+    <string name="the_uniter">团结者</string>
+    <string name="the_self_sufficient">自给自足者</string>
+    <string name="the_wealthy">富有者</string>
+    <string name="the_enricher">使人富足者</string>
+    <string name="the_distresser">施难者</string>
+    <string name="the_propitious">仁慈者</string>
+    <string name="the_benefactor">施恩者</string>
+    <string name="the_light">光明者</string>
+    <string name="the_guide">指引者</string>
+    <string name="the_incomparable_originator">无与伦比的创造者</string>
+    <string name="the_ever_lasting">永存者</string>
+    <string name="the_inheritor">继承者</string>
+    <string name="the_guide_to_the_right_path">正道引导者</string>
+    <string name="the_patient">至忍者</string>
+    <string name="no_data">没有数据</string>
+    <string name="get_started_title">开始</string>
+    <string name="radar_title">雷达</string>
+    <string name="radar_content">设备不支持此功能。</string>
+    <string name="exit_the_app_title">退出应用？</string>
+    <string name="what_problems_you_encounter_during_use">使用过程中遇到了哪些问题？</string>
+    <string name="restart">重新启动</string>
+    <string name="nothing_interesting_anymore">已经没有有趣的内容</string>
+    <string name="explore">探索</string>
+    <string name="still_uninstall">仍然卸载</string>
+    <string name="why_uninstall_application">为什么要卸载应用？</string>
+    <string name="difficult_to_use">使用困难</string>
+    <string name="too_many_ads">广告太多</string>
+    <string name="others">其他</string>
+    <string name="please_enter_the_reason_why_uninstall_application">请输入卸载应用的原因</string>
+    <string name="don_t_uninstall_yet">暂时不要卸载</string>
+    <string name="loading_0">加载中 (0%)...</string>
+    <string name="loading_splash">"加载中 "</string>
+    <string name="prayer_reminder_not_working">祷告提醒无法正常工作</string>
+    <string name="qibla_compass_not_working">朝向指南针无法正常工作</string>
+    <string name="uninstall">卸载</string>
+
+</resources>

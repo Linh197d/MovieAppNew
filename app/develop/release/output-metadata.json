@@ -1,0 +1,37 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.qibla.muslimday.app2025",
+  "variantName": "developRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 101,
+      "versionName": "1.0.1",
+      "outputFile": "App450_Muslim_v1.0.1(101)_Mar.28.2025-develop-release.apk"
+    }
+  ],
+  "elementType": "File",
+  "baselineProfiles": [
+    {
+      "minApi": 28,
+      "maxApi": 30,
+      "baselineProfiles": [
+        "baselineProfiles/1/App450_Muslim_v1.0.1(101)_Mar.28.2025-develop-release.dm"
+      ]
+    },
+    {
+      "minApi": 31,
+      "maxApi": 2147483647,
+      "baselineProfiles": [
+        "baselineProfiles/0/App450_Muslim_v1.0.1(101)_Mar.28.2025-develop-release.dm"
+      ]
+    }
+  ],
+  "minSdkVersionForDexing": 26
+}

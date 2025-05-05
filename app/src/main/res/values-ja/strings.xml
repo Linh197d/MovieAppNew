@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_this_action_can_contain_ads">このアクションには広告が含まれている場合があります</string>
+    <string name="string_language">言語</string>
+    <string name="string_next">次へ</string>
+    <string name="string_permission">権限</string>
+    <string name="string_allow_per_we_muslim">Muslim Prayer - Quran Compass は、デバイスの位置情報の使用、上に表示、および通知の許可が必要です（Android 13 以上）</string>
+    <string name="string_location">位置情報</string>
+    <string name="string_appear_on_top">最上位に表示</string>
+    <string name="string_allow_notification">通知を許可</string>
+    <string name="string_you_need_to_accept_full_permission">アプリを使用するには、すべての権限を許可する必要があります</string>
+    <string name="string_you_need_to_enable_permission_to_use_this_features">これらの機能を使用するには権限を有効にする必要があります</string>
+    <string name="go_to_setting">設定に移動</string>
+    <string name="string_cancel">キャンセル</string>
+    <string name="string_save">保存</string>
+    <string name="string_protection_11">両親のために</string>
+    <string name="string_protection_12">シルクを犯すことへの恐れ</string>
+    <string name="string_protection_13">この世と来世のために</string>
+    <string name="string_protection_14">敬虔なムスリムになるために</string>
+    <string name="string_protection_15">正しい仲間のために</string>
+    <string name="string_protection_16">自然災害や災難からの保護</string>
+
+    <string name="string_family">家族</string>
+    <string name="string_family_1">両親のために</string>
+    <string name="string_family_2">両親とすべてのムスリムのための許し</string>
+    <string name="string_family_3">兄弟姉妹のための許し</string>
+    <string name="string_family_4">幸せな家族のために</string>
+    <string name="string_family_5">アッラーに子供を授けてもらうための祈り</string>
+    <string name="string_family_6">子供の保護のために</string>
+
+    <string name="string_health_liness">健康 / 病気</string>
+    <string name="string_health_liness_1">健康な生活のために</string>
+    <string name="string_health_liness_2">病人を訪れるとき</string>
+    <string name="string_health_liness_3">痛みを和らげるために</string>
+    <string name="string_health_liness_4">病気のとき</string>
+    <string name="string_health_liness_5">試練に直面している人を見たとき</string>
+    <string name="string_health_liness_6">困難な時に</string>
+    <string name="string_health_liness_7">死が近づいたとき</string>
+    <string name="string_health_liness_8">墓を訪れるとき</string>
+
+    <string name="string_loss_failure">喪失 / 失敗</string>
+    <string name="string_loss_failure_1">失敗したり何かを失ったとき</string>
+    <string name="string_loss_failure_2">損失が発生したとき</string>
+    <string name="string_loss_failure_3">悲劇に見舞われたとき</string>
+    <string name="string_loss_failure_4">試練に直面している人を見たとき</string>
+    <string name="string_loss_failure_5">アッラーの助けを求めるとき</string>
+    <string name="string_juristic_method">法的手法</string>
+    <string name="string_adjust_islamic_calendar">イスラム暦の調整</string>
+    <string name="string_azkar">アズカル</string>
+    <string name="string_daily_dhikr">毎日のズィクル</string>
+    <string name="string_daily_dhikr_1">ダーウード・イブラヒーミ</string>
+    <string name="string_daily_dhikr_2">祈り（サラート）の後のタスビハ</string>
+    <string name="string_daily_dhikr_3">毎日のドゥア</string>
+    <string name="string_daily_dhikr_4">何かを始める前</string>
+    <string name="string_daily_dhikr_5">この世と来世のため</string>
+    <string name="string_daily_dhikr_6">アッラーの保護と助けのため</string>
+    <string name="string_daily_dhikr_7">コーランの三分の一の報酬</string>
+    <string name="string_daily_rememberence">毎日の記憶</string>
+    <string name="string_daily_rememberence_1">朝の記憶</string>
+    <string name="string_daily_rememberence_2">夕方の記憶</string>
+    <string name="string_after_prayer">祈りの後</string>
+    <string name="string_after_prayer_1">祈り（サラート）の後のタスビハ</string>
+    <string name="string_after_prayer_2">祈り後の記憶</string>
+    <string name="string_after_prayer_3">サラートを規則的に行う</string>
+    <string name="string_after_prayer_4">アッラーの保護と助けのため</string>
+    <string name="string_Rizq_sustenance">リズク（生活の糧）</string>
+    <string name="string_Rizq_sustenance_1">リズク（生活の糧）のため</string>
+    <string name="string_Rizq_sustenance_2">困っているとき</string>
+    <string name="string_Rizq_sustenance_3">アッラーの赦しと慈悲のため</string>
+    <string name="string_Rizq_sustenance_4">アッラーを称賛するため</string>
+    <string name="string_Rizq_sustenance_5">成功のため</string>
+    <string name="string_knowledge">知識</string>
+    <string name="string_knowledge_1">知識の増加のため</string>
+    <string name="string_knowledge_2">自信と雄弁を授けてください</string>
+    <string name="string_knowledge_3">無知からの保護のため</string>
+    <string name="string_knowledge_4">愚かさからの保護のため</string>
+    <string name="string_faith">信仰</string>
+    <string name="string_faith_1">イーマーンを強化するため</string>
+    <string name="string_faith_2">信仰深いムスリムになるため</string>
+    <string name="string_faith_3">赦しを求め、イーマーンを強化するため</string>
+    <string name="string_faith_4">アッラーとの誓いのため</string>
+    <string name="string_faith_5">正しい仲間を求めるため</string>
+    <string name="string_day_of_judgement">審判の日</string>
+    <string name="string_day_of_judgement_1">この世と来世のため</string>
+    <string name="string_day_of_judgement_2">罪の赦しと地獄からの保護を求めるため</string>
+    <string name="string_day_of_judgement_3">両親と全ムスリムのために赦しを求めるため</string>
+    <string name="string_day_of_judgement_4">楽園（ジャナ）に入るため</string>
+    <string name="string_forgiveness">赦し</string>
+    <string name="string_forgiveness_1">赦しを求め、イーマーンを強化するため</string>
+    <string name="string_forgiveness_2">赦しを求めるため</string>
+    <string name="string_forgiveness_3">アッラーの赦しと慈悲のため</string>
+    <string name="string_forgiveness_4">罪の赦しと地獄からの保護を求めるため</string>
+    <string name="string_forgiveness_5">両親と全ムスリムのために赦しを求めるため</string>
+    <string name="string_forgiveness_6">兄弟のために赦しを求めるため</string>
+    <string name="string_forgiveness_7">自分と家に入る人のために赦しを求めるため</string>
+    <string name="string_forgiveness_8">悔い改めのため</string>
+    <string name="string_forgiveness_9">イーマーンを強化するため</string>
+    <string name="string_forgiveness_10">アッラーの満足を求めるため</string>
+    <string name="string_praising_allah">アッラーを賛美する</string>
+    <string name="string_praising_allah_1">アッラーを賛美し、称賛するため</string>
+    <string name="string_praising_allah_2">アッラーに感謝するため</string>
+    <string name="string_praising_allah_3">アッラーに感謝の気持ちを持つため</string>
+    <string name="string_praising_allah_4">良い知らせを聞いたとき</string>
+    <string name="string_praising_allah_5">リズク（生活の糧）のため</string>
+    <string name="string_praising_allah_6">すべてをアッラーの手に委ねるため</string>
+    <string name="string_protection">保護</string>
+    <string name="string_protection_1">アッラーの保護と助けのため</string>
+    <string name="string_protection_2">罪の赦しと地獄からの保護を求めるため</string>
+    <string name="string_protection_3">シャイターンからの保護のため</string>
+    <string name="string_protection_4">悪意の目からの保護のため</string>
+    <string name="string_protection_5">家族を不正から守るため</string>
+    <string name="string_protection_6">子供の保護のため</string>
+    <string name="string_protection_7">圧制者からの保護のため</string>
+    <string name="string_protection_8">敵からの保護のため</string>
+    <string name="string_protection_9">恐怖を克服するため</string>
+    <string name="string_protection_10">悪事からの保護のため</string>
+    <string name="string_sorrow_joy">悲しみ / 喜び</string>
+    <string name="string_sorrow_joy_1">心配や悲しみの時</string>
+    <string name="string_sorrow_joy_2">困難な時に</string>
+    <string name="string_sorrow_joy_3">弱さを克服するため</string>
+    <string name="string_sorrow_joy_4">悲劇に見舞われた時</string>
+    <string name="string_sorrow_joy_5">他の人が試練を受けている時</string>
+    <string name="string_sorrow_joy_6">悪い知らせを聞いた時</string>
+    <string name="string_sorrow_joy_7">困難な時に</string>
+    <string name="string_sorrow_joy_8">困難な時に忍耐するため</string>
+    <string name="string_sorrow_joy_9">誰かに侮辱された時</string>
+    <string name="string_sorrow_joy_10">恐怖を感じる時</string>
+    <string name="string_sorrow_joy_11">不正者からの保護を求めるため</string>
+    <string name="string_sorrow_joy_12">アッラーの助けを求めるため</string>
+    <string name="string_sorrow_joy_13">アッラーを信頼するため</string>
+    <string name="string_sorrow_joy_14">良い知らせを聞いた時</string>
+    <string name="string_home_3">階段を上るとき / 高い場所に上るとき</string>
+    <string name="string_home_4">階段を下りるとき / 高い場所から降りるとき</string>
+
+    <string name="string_garment">衣服</string>
+    <string name="string_garment_1">服を着るとき</string>
+    <string name="string_garment_2">新しい服を着るとき</string>
+    <string name="string_garment_3">鏡を見るとき</string>
+
+    <string name="string_travel">旅行</string>
+    <string name="string_travel_1">旅行のために</string>
+    <string name="string_travel_2">旅行から帰るとき</string>
+    <string name="string_travel_3">旅行中に夜が近づくとき</string>
+    <string name="string_travel_4">宿泊のために</string>
+    <string name="string_travel_5">旅行中の夜に寝る前</string>
+
+    <string name="string_food">食べ物</string>
+    <string name="string_food_1">食事を始めるとき</string>
+    <string name="string_food_2">最初にアッラーの名を忘れたとき</string>
+    <string name="string_food_3">食事を終えた後</string>
+    <string name="string_food_4">飲み物をもらったとき</string>
+    <string name="string_food_5">牛乳を飲むとき</string>
+    <string name="string_food_6">誰かの家で飲み物を飲むとき</string>
+    <string name="string_food_7">食事を提供してくれた人のために</string>
+    <string name="string_food_8">断食を終えるとき</string>
+    <string name="string_food_9">イフタールを提供してくれた人のために</string>
+
+    <string name="string_sorrow_joy_15">誰かに褒められた時</string>
+    <string name="string_patience">忍耐</string>
+    <string name="string_patience_1">忍耐を持つため</string>
+    <string name="string_patience_2">困難な時に忍耐するため</string>
+    <string name="string_patience_3">怒りを抑えるため</string>
+    <string name="string_patience_4">誰かに侮辱された時</string>
+    <string name="string_debt">借金</string>
+    <string name="string_debt_1">借金を返済するため</string>
+    <string name="string_debt_2">お金を貸してくれた人のため</string>
+    <string name="string_debt_3">成功のため</string>
+    <string name="string_debt_4">リズク（生活の糧）のため</string>
+    <string name="string_during_menstruation">月経中</string>
+    <string name="string_during_menstruation_1">ダーウード・イブラヒーミ</string>
+    <string name="string_during_menstruation_2">この世と来世のため</string>
+    <string name="string_during_menstruation_3">アッラーの赦しと慈悲のため</string>
+    <string name="string_during_menstruation_4">信仰を強化するため</string>
+    <string name="string_during_menstruation_5">信仰深いムスリムになるため</string>
+    <string name="string_during_menstruation_6">アッラーに感謝するため</string>
+    <string name="string_during_menstruation_7">信仰深いムスリムになるため</string>
+    <string name="string_during_menstruation_8">健康な生活のため</string>
+    <string name="string_during_menstruation_9">痛みを和らげるため</string>
+    <string name="string_during_menstruation_10">困難な時に</string>
+    <string name="string_during_menstruation_11">アッラーの助けを求めるため</string>
+    <string name="string_during_menstruation_12">困難な時に忍耐するため</string>
+    <string name="string_during_menstruation_13">アッラーを信頼するため</string>
+    <string name="string_during_menstruation_14">信頼するため</string>
+    <string name="string_duas">ドゥア</string>
+    <string name="string_daily">日常</string>
+    <string name="string_sleeping">睡眠</string>
+    <string name="string_sleeping_1">目覚めた時</string>
+    <string name="string_sleeping_2">寝る前</string>
+    <string name="string_toilet">トイレ</string>
+    <string name="string_toilet_1">トイレに入る前</string>
+    <string name="string_toilet_2">トイレから出た後</string>
+    <string name="string_ablution">アブレーション（手洗い）</string>
+    <string name="string_ablution_1">アブレーションを始める時</string>
+    <string name="string_ablution_2">アブレーションを終えた時</string>
+    <string name="string_mosque">モスク</string>
+    <string name="string_mosque_1">モスクに行く時</string>
+    <string name="string_mosque_2">モスクに入る時</string>
+    <string name="string_mosque_3">モスクを出る時</string>
+    <string name="string_prayer">祈り</string>
+    <string name="string_prayer_1">アザーン中</string>
+    <string name="string_prayer_2">アザーンを聞いた後</string>
+    <string name="string_prayer_3">タクビール（祈りの開始）後</string>
+    <string name="string_prayer_4">ルクウ（祈りの曲げ）中</string>
+    <string name="string_prayer_5">スジダ（アッラーに対する伏せ）中</string>
+    <string name="string_prayer_6">二つのスジダの間に座る時</string>
+    <string name="string_prayer_7">コーランの朗誦中のスジダ</string>
+    <string name="string_prayer_8">祈りの座り（タシャフフ）中</string>
+    <string name="string_prayer_9">ダーウード・イブラヒーミ</string>
+    <string name="string_prayer_10">タシャフフ後</string>
+    <string name="string_prayer_11">ドゥア・クヌート（ウィトル祈り中の朗誦）</string>
+    <string name="string_prayer_12">ファジュルの祈り後</string>
+    <string name="string_home">家</string>
+    <string name="string_home_1">家を出る時</string>
+    <string name="string_home_2">家に入る時</string>
+    <string name="string_decision_guidance">決定 / ガイダンス</string>
+    <string name="string_decision_guidance_1">イスタハラのために</string>
+    <string name="string_decision_guidance_2">正義のために</string>
+    <string name="string_decision_guidance_3">アッラーの導きを求めるために</string>
+    <string name="string_occasional">特別な場合</string>
+
+    <string name="string_deceased">故人</string>
+    <string name="string_deceased_1">喪失が発生したとき</string>
+    <string name="string_deceased_2">お墓を訪れるとき</string>
+    <string name="string_deceased_3">お悔やみを申し上げるとき</string>
+    <string name="string_deceased_4">故人の目を閉じるとき</string>
+    <string name="string_deceased_5">葬儀の祈りで故人のために</string>
+    <string name="string_deceased_6">故人を墓に埋めるとき</string>
+
+    <string name="string_haj_umrah">ハッジ / ウムラ</string>
+    <string name="string_haj_umrah_1">タルビーヤ</string>
+    <string name="string_haj_umrah_2">黒石の前を通るときのタクビール</string>
+    <string name="string_haj_umrah_3">タワーフ中にイエメンの角に到達したとき</string>
+    <string name="string_haj_umrah_4">サファ山へ向かうとき</string>
+    <string name="string_haj_umrah_5">サファ山とマルワ山にいるとき</string>
+    <string name="string_haj_umrah_6">アル・マシャル・アル・ハラム（ムズダリファ）で祈るとき</string>
+    <string name="string_haj_umrah_7">ジャマラートで石を投げるとき</string>
+    <string name="string_haj_umrah_8">アラファトにいるとき</string>
+    <string name="string_haj_umrah_9">動物を犠牲にするとき</string>
+
+    <string name="string_ramadan">ラマダン</string>
+    <string name="string_ramadan_1">断食を始めるとき</string>
+    <string name="string_ramadan_2">運命の夜（ライラトル・カドル）のために</string>
+    <string name="string_ramadan_3">イフタールを提供してくれた人のために</string>
+    <string name="string_ramadan_4">三日月を見たとき</string>
+
+    <string name="string_nature">自然</string>
+    <string name="string_nature_1">雨を求めるとき</string>
+    <string name="string_nature_2">雨が降っているとき</string>
+    <string name="string_nature_3">雨が降った後</string>
+    <string name="string_nature_4">大雨のとき</string>
+    <string name="string_nature_5">雷を聞いたとき</string>
+    <string name="string_nature_6">嵐のとき</string>
+    <string name="text_you_a_meal_1">アッラーよ、私に食事を与えてくれた者に食事を与え、私に飲み物を与えてくれた者に飲み物を与えてください。</string>
+    <string name="text_your_fast_1">アッラーよ！私はあなたのために断食し、あなたを信じ、あなたに依り頼み、あなたの糧で断食を終えます。</string>
+    <string name="text_praises_you_1">アッラーよ、彼らが言うことについて私を問わず、彼らが知らないことをお許しください [そして彼らが想像するよりも私を良くしてください]。</string>
+    <string name="text_in_distress_1">アッラーよ、あなたの他に崇拝されるべき方はいません。あなたは栄光に満ち、高貴であられます。誠に、私は不正を行った者の一人でした。</string>
+    <string name="text_in_distress_2" translatable="false">O Allah, I hope for Your mercy. Do not leave me to myself even for the blinking of an eye (i.e. a moment). Correct all of my affairs for me. There is none worthy of worship but You.</string>
+    <string name="text_in_distress_3">力強く、忍耐深いアッラーの他に崇拝されるべき方はいません。偉大なる玉座の主であるアッラーの他に崇拝されるべき方はいません。天と地の主、高貴なる玉座の主であるアッラーの他に崇拝されるべき方はいません。</string>
+    <string name="string_step_1"><![CDATA[<b>ステップ 1:</b>]]> 少なくとも<b>アウラ</b>を覆い、<b>ウドゥ</b>を行っていることを確認してください。男性はへそから膝までを覆う必要があります。女性は手、足、顔を除く全身を覆う必要があります。</string>
+    <string name="string_step_2"><![CDATA[<b>ステップ 2:</b>]]> 清潔で気を散らさない場所を見つけ、礼拝マットの上に立ちます。あなたはメッカのカアバの方向、つまり<b>キブラ</b>の方向を向いている必要があります。立つことが難しい患者や障害のある方は座って礼拝することができます。</string>
+    <string name="string_step_3"><![CDATA[<b>ステップ 3:</b>]]> 礼拝の意図 (<b>ニーヤ</b>) を心の中または声に出して宣言します。アラビア語でも、母国語でもかまいません。例:「アッラーのために、カアバの方向を向いて、タラウィーフの2ラカートを行うつもりです。」</string>
+    <string name="string_step_4"><![CDATA[<b>ステップ 4:</b>]]> <![CDATA[<b><i>"アッラーフ・アクバル"</i></b>]]>（「アッラーは最も偉大なり」）と言いながら、男性は耳の高さまで、女性は肩の高さまで手を上げます。これで<b>イフラーム</b>の状態に入り、会話、笑うこと、飲食、その他の気を散らす行為を避ける必要があります。</string>
+    <string name="string_step_5"><![CDATA[<b>ステップ 5:</b>]]> 男性は右手を左手の上に置き、へその下で組みます。女性は胸の上で手を置きます。</string>
+    <string name="string_step_6"><![CDATA[<b>ステップ 6:</b>]]> 静かに以下を唱えます: <![CDATA[<b><i>"スブハーナカッラーフンマ・ワ・ビハムディカ、ワ・タバーラク・イスムカ、ワ・タアーラ・ジャッドゥカ、ワ・ラー・イラーハ・イッラ・ガイルク"</i></b>]]>。「アッラーよ、あなたに栄光と賛美を捧げます。あなたの御名は祝福され、あなたの威厳は高められました。あなたの他に神はいません。」</string>
+    <string name="string_step_7"><![CDATA[<b>ステップ 7:</b>]]> 次に、静かに以下を唱えます: <![CDATA[<b><i>"アウズ・ビッラーヒ・ミナッ・シャイターニ・ラジーム、ビスミッラーヒ・ラフマーニ・ラヒーム"</i></b>]]>。「呪われた悪魔からアッラーに避難を求めます。慈悲深く慈愛あふれるアッラーの御名において。」</string>
+    <string name="string_step_8"><![CDATA[<b>ステップ 8:</b>]]> スーラ・アル・ファーティハを唱えた後、<![CDATA[<b><i>"アーミーン"</i></b>]]>（「その通りでありますように」）と言います。タラウィーフの礼拝では、イマーム（導師）は全てのスーラを大声で唱える必要があります。</string>
+    <string name="string_step_9"><![CDATA[<b>ステップ 9:</b>]]> その後、別のスーラを朗読します。最低でも3つのアーヤ（節）を朗読する必要がありますが、スーラ全体を朗読するのが最善です。</string>
+    <string name="string_step_10"><![CDATA[<b>ステップ 10:</b>]]> 前かがみになり、<![CDATA[<b><i>"アッラーフ・アクバル"</i></b>]]>と言いながら、手を膝に置いて背筋をまっすぐに保ちます。この姿勢は<b>ルクー</b>と呼ばれます。この状態で、最低3回、<![CDATA[<b><i>"スブハーナ・ラッビヤル・アズィーム"</i></b>]]>（「偉大なる我が主は崇高なり」）と唱えます。</string>
+    <string name="string_step_11"><![CDATA[<b>ステップ 11:</b>]]> 直立の姿勢に戻り、<![CDATA[<b><i>"サミアッラーフ・リマン・ハミダフ"</i></b>]]>（「アッラーは感謝する者の声を聞かれる」）と言います。その後、<![CDATA[<b><i>"ラッバナー・ラカ・ルハムド"</i></b>]]>（「我らの主よ、あなたに賛美を捧げます」）と言います。</string>
+    <string name="string_step_12"><![CDATA[<b>ステップ 12:</b>]]> <![CDATA[<b><i>"アッラーフ・アクバル"</i></b>]]>と言いながら地面にひざまずきます。額、鼻、手のひら、膝、足の指が地面に触れるようにします。</string>
+    <string name="string_step_13"><![CDATA[<b>ステップ 13:</b>]]> 最低3回、<![CDATA[<b><i>"スブハーナ・ラッビヤル・アアラー"</i></b>]]>（「至高なる我が主は崇高なり」）と唱えます。</string>
+    <string name="string_step_14"><![CDATA[<b>ステップ 14:</b>]]> 座位に戻り、<![CDATA[<b><i>"アッラーフ・アクバル"</i></b>]]>と言います。男性は左足の上に座り、右足は立てたままにします。女性は両足を右側に寄せて座ります。</string>
+    <string name="string_step_15"><![CDATA[<b>ステップ 15:</b>]]> 短い間を置いた後、再び<![CDATA[<b><i>"アッラーフ・アクバル"</i></b>]]>と言い、再びひざまずきます。</string>
+    <string name="string_step_16"><![CDATA[<b>ステップ 16:</b>]]> <![CDATA[<b><i>"アッラーフ・アクバル"</i></b>]]>と言いながら立ち上がります。これで1ラカアが完了します。</string>
+    <string name="string_step_17"><![CDATA[<b>ステップ 17:</b>]]> ステップ8から15を繰り返します。</string>
+    <string name="string_step_18"><![CDATA[<b>ステップ 18:</b>]]> ステップ8から15を繰り返した後、ステップ14のように座位に戻ります。</string>
+    <string name="string_step_24"><![CDATA[<b>ステップ 24:</b>]]> 礼拝を締めくくるために、右側に顔を向けて<![CDATA[<b><i>"アッサラーム・アライクム・ワ・ラフマトゥッラー・ワ・バラカートゥフ"</i></b>]]>と言います。次に左側に顔を向けて同じように唱えます。「アッラーの平安、慈悲、そして祝福があなた方の上にありますように。」</string>
+    <string name="string_step_25"><![CDATA[<b>ステップ 25:</b>]]> 最初の2ラカアが完了しました。ステップ3に戻り、さらに2ラカアを始めてください。</string>
+    <string name="string_step_19"><![CDATA[<b>ステップ 19:</b>]]> 座ったまま、タシャフッドの最初の部分を朗誦します: <![CDATA[<b><i>「アッタヒーヤートゥ・リッラー、ワッサラワートゥ・ワッタイイバーットゥ。アッサラーム・アライカ・アユハンナビー ユ・ワ・ラフマトゥッラーヒ・ワ・バラカートゥ。アッサラーム・アライナ・ワ・アラー・イバーディッラーヒッサーリヒーン」</i></b>]]>。これは「すべての称賛はアッラーのものであり、祈りと善行もアッラーのものです。おお、預言者よ、あなたに平安とアッラーの慈悲と祝福がありますように。私たちとアッラーの正しきしもべたちに平安がありますように。」という意味です。</string>
+    <string name="string_step_20"><![CDATA[<b>ステップ 20:</b>]]> 次に、膝の上に手を置き、右手の人差し指を立て、残りの指を揃えます。そして、タシャフッドの第二部分を朗誦します: <![CDATA[<b><i>「アシュハドゥ・アッラー・イラーハ・イッラッラーフ、ワ・アシュハドゥ・アンナ・ムハンマダン・アブドゥフー・ワ・ラスールフ」</i></b>]]>。これは「私は、アッラーの他に神はなく、ムハンマドがそのしもべであり使徒であることを証言します。」という意味です。</string>
+    <string name="string_step_21"><![CDATA[<b>ステップ 21:</b>]]> 右手の人差し指を下げ、両手を再び膝の上に置きます。</string>
+    <string name="string_step_22"><![CDATA[<b>ステップ 22:</b>]]> 座ったまま、次の祈りを朗誦します: <![CDATA[<b><i>「アッラーフマ・サッリ・アラー・ムハンマディン・ワ・アラー・アーリ・ムハンマディン、カマー・サッライタ・アラー・イブラーヒーマ・ワ・アラー・アーリ・イブラーヒーマ、インナカ・ハミードゥン・マジード。アッラーフマ・バーリク・アラー・ムハンマディン・ワ・アラー・アーリ・ムハンマディン、カマー・バーラカタ・アラー・イブラーヒーマ・ワ・アラー・アーリ・イブラーヒーマ、インナカ・ハミードゥン・マジード」</i></b>]]>。これは「おおアッラーよ、ムハンマドとその家族に慈悲をお与えください。それはまさに、あなたがイブラーヒームとその家族に慈悲を与えられたように。誠に、あなたは称賛に値し、栄光に満ちています。おおアッラーよ、ムハンマドとその家族に祝福をお与えください。それはまさに、あなたがイブラーヒームとその家族に祝福を与えられたように。誠に、あなたは称賛に値し、栄光に満ちています。」という意味です。</string>
+    <string name="string_step_23"><![CDATA[<b>ステップ 23:</b>]]> いくつかのドゥアー（祈り）を朗誦することが推奨されます。簡単で包括的なドゥアーの一例として、次のようなものがあります: <![CDATA[<b><i>「ラッバナー・アーティナー・フィッ・ドゥニヤー・ハサナタン・ワ・フィル・アーヒラティ・ハサナタン・ワ・キナー・アザーバン・ナール」</i></b>]]>。これは「おお、私たちの主よ、この世での善と来世での善をお与えください。そして、地獄の罰から私たちをお守りください。」という意味です。</string>
+    <string name="the_most_grand">最も壮大な方</string>
+    <string name="the_all_heedful_and_all_protecting">全てを見守り、全てを守る方</string>
+    <string name="the_maintainer">維持する方</string>
+    <string name="the_majestic">威厳ある方</string>
+    <string name="_the_most_esteemed">最も尊敬される方</string>
+    <string name="the_watchful">見守る方</string>
+    <string name="the_all_watchful">全てを見守る方</string>
+    <string name="the_answerer">答える方</string>
+    <string name="the_all_encompassing">全てを包み込む方</string>
+    <string name="the_boundless">無限の方</string>
+    <string name="the_most_loving">最も愛に満ちた方</string>
+    <string name="the_glorious">栄光ある方</string>
+    <string name="the_most_honorable">最も尊い方</string>
+    <string name="the_infuser_of_new_life">新たな命を吹き込む方</string>
+    <string name="the_all_observing_witnessing">全てを観察し証言する方</string>
+    <string name="absolute_truth">絶対なる真実</string>
+    <string name="the_trustee">信頼される方</string>
+    <string name="the_disposer_of_affairs">万事を処理する方</string>
+    <string name="the_all_strong">全能の方</string>
+    <string name="the_firm">堅固な方</string>
+    <string name="the_steadfast">揺るがぬ方</string>
+    <string name="the_protecting_associate">守護する協力者</string>
+    <string name="the_praiseworthy">称賛に値する方</string>
+    <string name="the_all_enumerating">全てを数え上げる方</string>
+    <string name="the_counter">数える方</string>
+    <string name="the_initiator">始まりをもたらす方</string>
+    <string name="the_restorer">回復させる方</string>
+    <string name="the_reinstater">再び立て直す方</string>
+    <string name="the_giver_of_life">命を与える方</string>
+    <string name="the_creator_of_death">死を創造する方</string>
+    <string name="ever_living">永遠に生きる方</string>
+    <string name="the_self_subsisting">自存する方</string>
+    <string name="the_perceiver">知覚する方</string>
+    <string name="the_illustrious">輝かしい方</string>
+    <string name="the_magnificent">壮麗な方</string>
+    <string name="the_one">唯一の方</string>
+    <string name="the_indivisible">分けることのできない方</string>
+    <string name="unique">独特な方</string>
+    <string name="the_only_one">唯一無二の方</string>
+    <string name="the_eternal">永遠なる方</string>
+    <string name="satisfier_of_needs">必要を満たす方</string>
+    <string name="the_omnipotent">全能の方</string>
+    <string name="the_powerful">強大な方</string>
+    <string name="the_expediter">迅速に処理する方</string>
+    <string name="the_promoter">促進する方</string>
+    <string name="the_delayer">遅らせる方</string>
+    <string name="the_first">最初の方</string>
+    <string name="the_last">最後の方</string>
+    <string name="the_utmost">最高の方</string>
+    <string name="the_manifest">明示される方</string>
+    <string name="the_all_surpassing">全てを超越する方</string>
+    <string name="the_hidden_one">隠された方</string>
+    <string name="knower_of_the_hidden">隠されたものを知る方</string>
+    <string name="the_sole_governor">唯一の統治者</string>
+    <string name="the_self_exalted">自ら高める方</string>
+    <string name="source_of_all_goodness">全ての善の源</string>
+    <string name="the_ever_pardoning">常に許す方</string>
+    <string name="the_avenger">復讐する方</string>
+    <string name="the_pardoner">寛容な方</string>
+    <string name="the_most_kind">最も優しい方</string>
+    <string name="master_of_the_dominion">統治の主</string>
+    <string name="owner_of_the_kingdom">王国の主</string>
+    <string name="possessor_of_glory_and_honour">栄光と名誉を持つ方</string>
+    <string name="the_just_one">公正なる方</string>
+    <string name="the_gatherer">集める方</string>
+    <string name="the_uniter">統合する方</string>
+    <string name="the_self_sufficient">自給自足の方</string>
+    <string name="the_wealthy">富を持つ方</string>
+    <string name="the_enricher">豊かにする方</string>
+    <string name="the_distresser">困難を与える方</string>
+    <string name="the_propitious">慈悲深い方</string>
+    <string name="the_benefactor">恩恵を与える方</string>
+    <string name="the_light">光</string>
+    <string name="the_incomparable_originator">比類なき創造者</string>
+    <string name="the_inheritor">継承する方</string>
+    <string name="the_guide_to_the_right_path">正しい道へ導く方</string>
+
+    <string name="string_good_ettiquete">礼儀</string>
+    <string name="string_good_ettiquete_1">人に挨拶するとき</string>
+    <string name="string_good_ettiquete_2">サラームに返答するとき</string>
+    <string name="string_good_ettiquete_3">誰かに感謝するとき</string>
+    <string name="string_good_ettiquete_4">くしゃみをしたとき</string>
+    <string name="string_good_ettiquete_5">誰かがくしゃみをしたとき</string>
+    <string name="string_good_ettiquete_6">くしゃみに対する返事</string>
+    <string name="string_good_ettiquete_7">市場に入るとき</string>
+    <string name="string_good_ettiquete_8">集まり/マジリスの終わりに</string>
+    <string name="string_good_ettiquete_9">誰かがあなたを褒めたとき</string>
+
+    <string name="string_decision_guidance_4">アッラーの満足を求めるために</string>
+    <string name="string_decision_guidance_5">成功のために</string>
+    <string name="string_decision_guidance_6">信仰を強化するために</string>
+    <string name="app_widget_description_time">イスラムの祈りの時間ウィジェット</string>
+    <string name="app_widget_description_azkar">イスラムのアズカルウィジェット</string>
+    <string name="text_wake_up_1" translatable="false">すべての賛美はアッラーにあります。アッラーは私の命を取り戻し、魂を戻し、彼を記憶することを許可してくれました。</string>
+    <string name="text_wake_up_2" translatable="false">預言者は言いました：「夜中に目を覚まし、こう言う者は、‘アッラーの他には崇拝されるべき者はいない、唯一の者で、誰も彼の仲間ではない。彼にのみ支配と賛美があり、彼はすべてのことに完全に能力がある。アッラーは素晴らしく、すべての賛美はアッラーにある！アッラーの他に崇拝されるべき者はいない。アッラーは偉大であり、アッラー以外には力も力もない。’そしてその後、‘私の主よ、私を許してください’とお願いすれば、許されるだろう」と。あるいは言いました：「その後、お願いすれば応答がある。もしその後、アブデューション（洗浄）をして祈りを捧げれば、その祈りは受け入れられる。」</string>
+    <string name="text_wake_up_3" translatable="false">すべての賛美はアッラーにあります。アッラーは私たちに命を与え、取り去った後、私たちを復活させるのです。</string>
+    <string name="text_sleeping_1" translatable="false">あなたの名のもとに、私の主よ、私は横たわり、あなたの名のもとに立ちます。もし私の魂を取られるなら、慈悲を与えてください。もし戻されるなら、あなたの正しいしもべたちのように守ってください。</string>
+    <string name="text_sleeping_2" translatable="false">アッラーよ、あなたが私の魂を創り、あなたがその命を取るのです。その命と死はあなたのもので、もし命を保たれるなら、守ってください。もしそれを取られるなら、許してください。アッラーよ、健康を与えてください。</string>
+    <string name="text_sleeping_3" translatable="false">アッラーよ、あなたがあなたのしもべを復活させる日にあなたの懲罰から私を守ってください。</string>
+    <string name="text_sleeping_4" translatable="false">あなたの名のもとに、アッラーよ、私は生き、そして死にます。</string>
+    <string name="text_sleeping_5" translatable="false">すべての賛美はアッラーにあります。アッラーは私たちに食べ物と飲み物を与え、私たちに十分であり、私たちに避難所を与えてくださいました。どれほど多くの者たちは誰かに支えられることもなく、避難する場所もないでしょう。</string>
+    <string name="text_sleeping_6" translatable="false">アッラーよ、目に見えるものと見えないものを知っている方、天と地を創造した方、すべてのものの主であり支配者。あなた以外に崇拝されるべき者はいないことを証言します。私の魂の悪から、悪魔との結びつきから、私の魂に対しての不正から、他のムスリムに不正を加えることから、あなたに避難します。</string>
+    <string name="text_sleeping_7" translatable="false">アッラーよ、私の魂をあなたに従わせ、私の事をあなたに託し、私の顔をあなたに向け、あなたに完全に信頼します。あなたに対して希望と恐れを抱きます。確かに、あなた以外に避難所も救いもありません。私はあなたが啓示した書を信じ、あなたが送った預言者を信じます。</string>
+    <string name="text_sleeping_8" translatable="false">アッラー！あなたの他に崇拝される者はありません。生きておられ、すべての存在を支える方。眠気もまどろみもあなたを圧倒することはありません。天と地のすべてはあなたのものです。誰があなたの許可なしにあなたの前で取り計らうことができるでしょうか？彼は彼らの前にあるもの、後ろにあるものを知っており、彼らは彼が望むもの以外の知識を理解することはできません。あなたの玉座は天と地を覆い、あなたがそれらを守るのは疲れを知らず。あなたは最も高く、最も偉大です。</string>
+    <string name="text_entering_toilet_1" translatable="false">（アッラーの名のもとに）アッラーよ、私はすべての悪から、悪事を働く者からあなたに避難します。</string>
+    <string name="text_leaving_toilet_1" translatable="false">アッラーよ、私はあなたに許しを請います。</string>
+    <string name="text_starting_ablution_1" translatable="false">アッラーの名のもとに。</string>
+    <string name="text_completing_ablution_1" translatable="false">私は証言します、アッラーの他には崇拝されるべき者はいない、唯一の者で、誰も彼の仲間ではない。ムハンマドは彼のしもべであり使徒であることを証言します。</string>
+    <string name="text_completing_ablution_2" translatable="false">アッラーよ、私をあなたに向かって繰り返し悔い改める者の中にし、清らかな者の中にしてください。</string>
+    <string name="text_completing_ablution_3" translatable="false">あなたは素晴らしい、アッラーよ、私はあなたを賛美します！私は証言します、アッラーの他には崇拝されるべき者はいない。私はあなたの許しを求め、あなたに悔い改めます。</string>
+    <string name="text_going_to_mosque_1" translatable="false">アッラーよ、私の心に光を、私の舌に光を、私の耳に光を、私の目に光を与えてください。私の後ろ、前、上、下に光を与えてください。アッラーよ、私に光をお与えください。</string>
+    <string name="text_entering_osque1" translatable="false">私はアッラーに避難します、最も高い方、彼の尊い顔、そして永遠の権威から、呪われた悪魔から。アッラーの名のもとに、アッラーの使徒に平安と祝福があらんことを。アッラーよ、私にあなたの慈悲の扉を開いてください。</string>
+    <string name="text_leaving_mosque_1" translatable="false">アッラーの名のもとに、アッラーの使徒に平安と祝福があらんことを。アッラーよ、あなたの恩恵を私に与えてください。アッラーよ、呪われた悪魔から私を守ってください。</string>
+    <string name="text_during_athan_1" translatable="false">アッラー以外に力も権限もありません。</string>
+    <string name="text_listening_athan_1" translatable="false">おおアッラー、この完璧な呼びかけと確立された祈りの主よ、ムハンマドに仲裁と恩恵を与え、あなたが約束した高貴な地位に彼を昇進させてください。あなたは決して約束を裏切ることはありません。</string>
+    <string name="text_after_takbeer_1" translatable="false">私は天と地を創造した方に真摯に顔を向けます。私はアッラー以外の何者かと結びつける者ではありません。確かに、私の祈り、私の犠牲、私の命、私の死はすべてアッラー、全世界の主のためです。アッラーにはパートナーはありません。これが私に命じられたことであり、私はムスリムです。おおアッラー、あなたは支配者であり、礼拝に値する者はあなた以外に誰もいません。あなたは私の主であり、私はあなたの僕です。私は自分の魂に不正を働き、私の罪を認めます。だからこそ、私のすべての罪をお許しください。誰も私の罪を許す者はいません。私を最善の性格に導いてください。誰も私をそれに導けません。最も悪い性格から私を遠ざけてください。誰も私をそれから遠ざける者はありません。私はあなたの呼びかけに応え、喜んであなたに仕えます。すべての善はあなたの手の中にあり、悪はあなたから来るものではありません。私はあなたの意志によって存在し、あなたに帰ります。あなたは祝福され、崇高です。私はあなたの赦しを求め、あなたに悔い改めます。</string>
+    <string name="text_after_takbeer_2" translatable="false">おおアッラー、私の罪を東と西のように分けてください。おおアッラー、白い衣を洗うように私の過ちをきれいにしてください。おおアッラー、私の罪を氷、水、霜で洗ってください。</string>
+    <string name="text_after_takbeer_3" translatable="false">あなたに栄光あれ、アッラーよ、そして賛美あれ。あなたの名前は祝福され、あなたの威厳は崇高です。あなた以外に礼拝に値する者は誰もいません。</string>
+    <string name="text_during_ruku_1" translatable="false">私の主、最も崇高な方に栄光あれ。</string>
+    <string name="text_during_ruku_2" translatable="false">あなたに栄光あれ、アッラーよ、私たちの主よ、賛美はあなたのものです。おおアッラー、私をお許しください。</string>
+    <string name="text_during_ruku_3" translatable="false">あなたに栄光あれ、最も神聖な方、天使と霊の主よ。</string>
+    <string name="text_during_ruku_4" translatable="false">おおアッラー、私はあなたにひざまずき、あなたを信じ、あなたに従います。私の耳はあなたの前で低くなり、私の目、私の思考、私の骨、私の神経、そして私の足元にすべてが従います。</string>
+    <string name="text_during_ruku_5" translatable="false">あなたに栄光あれ、力、支配、威厳、偉大さの主よ。</string>
+    <string name="text_before_allah_1" translatable="false">私の主、最も崇高な方に栄光あれ。</string>
+    <string name="text_before_allah_2" translatable="false">あなたに栄光あれ、アッラーよ、私たちの主よ、賛美はあなたのものです。おおアッラー、私をお許しください。</string>
+    <string name="text_before_allah_3" translatable="false">あなたに栄光あれ、最も神聖な方、天使と霊の主よ。</string>
+    <string name="text_before_allah_4" translatable="false">おおアッラー、私はあなたにひざまずき、あなたを信じ、あなたに従います。私の顔はそれを創造し、形を作り、耳と目を与えた者の前でひざまずきます。アッラーこそ最も素晴らしい創造者です。</string>
+    <string name="text_before_allah_5" translatable="false">あなたに栄光あれ、力、支配、威厳、偉大さの主よ。</string>
+    <string name="text_before_allah_6" translatable="false">おおアッラー、私はあなたの喜びからあなたの怒りから避け、あなたの赦しからあなたの罰から避けます。私はあなたからあなたに対して避難します。私はあなたの称賛を数えることはできません。あなたは自分が賛美したように賛美されます。</string>
+    <string name="text_before_allah_7" translatable="false">おおアッラー、私のすべての罪をお許しください。大きな罪も小さな罪も、初めのものも最後のものも、明らかなものも隠れたものも。</string>
+    <string name="text_two_sujood_1">主よ、私をお許しください。私の主よ、私をお許しください。</string>
+    <string name="text_two_sujood_2">おおアッラー、私をお許しください。私に慈悲を施し、私を導き、支え、守り、供給し、私を高めてください。</string>
+    <string name="text_quran_recitation_1" translatable="false">私はその顔をそれを創造し、耳と目を与えた者の前にひざまずきました。アッラーは最も素晴らしい創造者です。</string>
+    <string name="text_in_preyer_1" translatable="false">すべての謙遜の挨拶はアッラーにあり、すべての祈りと慈悲もアッラーのものです。平和があなたに、預言者よ、アッラーの慈悲と祝福があなたにありますように。私たちに、そしてアッラーの正しい僕たちにも平和がありますように。私はアッラー以外に礼拝に値する者がいないことを証言し、ムハンマドが彼の使徒であることを証言します。</string>
+    <string name="text_ibraheemi_1" translatable="false">おおアッラー、ムハンマドとその家族に、イブラヒムとその家族に与えたようにお恵みをお与えください。あなたは賛美されるべきお方、最も崇高な方です。おおアッラー、ムハンマドとその家族を、イブラヒムとその家族に与えたように祝福してください。あなたは賛美されるべきお方、最も崇高な方です。</string>
+    <string name="text_after_tashahhud_1" translatable="false">アッラーよ、私は墓の罰から、偽のメシアの試練から、そして生と死の試練からあなたに避難します。アッラーよ、私は罪と借金からあなたに避難します。</string>
+    <string name="text_after_tashahhud_2" translatable="false">アッラーよ、私は自分自身に対して大きな不正を犯しました。罪を許すのはあなた以外には誰もいません。私に許しを与え、私に慈悲をお与えください。確かに、あなたは許しを与える者、慈悲深い者です。</string>
+    <string name="text_after_tashahhud_3" translatable="false">アッラーよ、私が以前に犯したこと、私が後に残したこと、隠していること、そして公然としたこと、私が過度に行ったこと、そして私が知っていることについて私を許してください。あなたこそ前に進める者であり、遅らせる者です。あなた以外に崇拝すべき者は誰もいません。</string>
+    <string name="text_e_qunoot_1" translatable="false">アッラーよ、私たちはあなたの助けを求め、あなたに許しを請い、あなたを信じ、あなたを信頼し、あなたを讃え、感謝します。そして私たちはあなたに不忠実でありません。私たちはあなたに従わない者から離れ、彼らを拒絶します。アッラーよ、私たちはあなたを唯一の崇拝者として、あなたのために祈り、あなたに敬礼し、あなたのために尽力します。私たちはあなたの慈悲を期待し、あなたの罰を恐れます。確かに、あなたの罰は不信心者に降りかかるでしょう、アッラーよ！</string>
+    <string name="text_fajr_prayer_1" translatable="false">アッラーよ、有益な知識、良い生計、そして受け入れられる行いをお願い申し上げます。</string>
+    <string name="text_leaving_home_1" translatable="false">アッラーの名のもとに、私はアッラーを信頼し、アッラー以外に力も力もありません。</string>
+    <string name="text_leaving_home_2" translatable="false">アッラーよ、私はあなたに道を外れず、外れさせられず、滑らず、倒されず、不正を働かず、不正を受けず、無分別に振る舞うことなく、無分別に扱われることから避難します。</string>
+    <string name="text_entering_home_1">アッラーの名のもとに私たちは入ります、アッラーの名のもとに私たちは出ます、そして私たちは私たちの主を信頼します。</string>
+    <string name="text_the_stairs_1">すべての賛美はアッラーに帰す、私にこの衣服を与えてくれ、私の力ではなく、あなたの力で提供されたものです。</string>
+    <string name="text_the_stairs_2">アッラーは偉大なり。</string>
+    <string name="text_the_stairs_3">賛美すべき神。</string>
+    <string name="text_new_clothes_1">アッラーよ、あなたにこそ賛美を捧げます。あなたが私にこの服を与えてくれました。私はその善とそれが創られたための善を求め、あなたの保護をその悪と、それが創られたための悪から求めます。</string>
+    <string name="text_the_mirror_1">アッラーよ、あなたが私の外見を美しくしたように、私の性格も美しくしてください。</string>
+    <string name="text_for_travel_1">この乗り物を私たちのために創造した方に栄光があります、私たちはそれを自分たちで創ることができなかったのです。そして私たちの主に戻るのです。</string>
+    <string name="text_for_travel_2">アッラーよ、私の入る（メディナの街に）良いことで、出る（メッカの街から）良いことでありますように。あなたから助けとなる力を与えてください。</string>
+    <string name="text_form_travel_1">アッラーは偉大なり、アッラーは偉大なり、アッラーは偉大なり。他に崇拝すべき者はアッラーだけ、唯一、パートナーなし。すべての支配と賛美はアッラーのもの、すべてのことにおいてアッラーは力を持つ。私たちは戻ります、悔い改めます、私たちの主を崇拝し、賛美します。アッラーは約束を果たし、御使いを助け、ただ一人で同盟軍を打ち破りました。</string>
+    <string name="text_approaches_during_travel_1">おお大地よ、私の主もあなたの主もアッラーです。私はアッラーにあなたの悪、あなたの中のすべての悪、アッラーがあなたに創造したすべてのもの、そしてあなたの上を歩くものから避難します。私はアッラーにライオン、大きな黒いヘビ、その他のヘビ、サソリ、そして地上に住むジンの悪から避難します。</string>
+    <string name="text_accommodation_1">私の主よ、私の宿泊地を祝福してください、そしてあなたは最高の供給者です。</string>
+    <string name="text_during_travel_1">アッラーよ、私はあなたに悪魔のささやきから避難し、私の主よ、彼らが私に近づかないように避難します。</string>
+    <string name="text_during_travel_2">私はアッラーにサタン、追放者から避難します。</string>
+    <string name="text_during_travel_3">私はアッラーの完全な言葉に、彼が創造したものの悪から避難します。</string>
+    <string name="text_beginning_a_meal_1">アッラーの名のもとに、慈悲深く、憐れみ深い。</string>
+    <string name="text_the_beginning_1">アッラーの名のもとに、開始と終了。</string>
+    <string name="text_finishing_a_meal_1">すべての賛美はアッラーに帰し、私たちに食事を与え、飲み物を与えてくれました。そして私たちをムスリムにしてくれました。</string>
+    <string name="text_a_drink_1">アッラーよ、私に食事を与えた者に食事を与え、私に飲み物を与えた者に飲み物を与えてください。</string>
+    <string name="text_drinking_milk_1">アッラーよ、これを祝福し、それをもっと与えてください。</string>
+    <string name="text_house_1">アッラーよ、彼らに与えられたものを祝福し、彼らを許し、彼らに慈悲をお与えください。</string>
+    <string name="text_with_iftar_1">あなたとともに、断食者たちは断食を解き、正しい者に食事を与え、天使たちが彼らのために祈りを唱えています。</string>
+    <string name="text_loss_occurs_1" translatable="false">確かに、私たちはアッラーのものであり、確かに私たちは彼の元へ帰ります。</string>
+    <string name="text_visiting_graves_1" translatable="false">ここに住むムスリムたち、あなたたちに平和が訪れますように。アッラーの意志により、私たちもあなたたちのもとに到達するでしょう。私たちは自分たちとあなたたちの安全を求めます。</string>
+    <string name="text_offering_condolenca_1" translatable="false">確かにアッラーは彼のものを取ります、そして彼が与えるものは彼のものであり、すべての物には彼に定められた時間があります。したがって、忍耐強く、報酬を得なさい。</string>
+    <string name="text_funeral_prayer_1" translatable="false">アッラーよ、彼を許し、彼に慈悲をお与えください。彼に力を与え、彼を解放し、寛大にしてください。彼の入る場所を広くし、水、雪、雹で彼を洗い、彼の罪を白い布からしみを洗い落とすようにきれいにしてください。彼により良い家、より良い家族、そしてより良い妻を与え、彼を楽園に導き、墓の罰と地獄の罰から守ってください。</string>
+    <string name="text_funeral_prayer_2" translatable="false">アッラーよ、私たちの生者と死者、私たちと一緒にいる者と離れている者、若者と老人、男性と女性をお許しください。アッラーよ、私たちの中で命を与えられた者にはイスラムの中で命を与え、命を取られた者には信仰を持たせてください。アッラーよ、私たちをその報酬から奪わないでください、そして彼らの後に私たちを誤らせないでください。</string>
+    <string name="text_the_graver_1">アッラーの御名において、アッラーの使徒のスンナに従って。</string>
+    <string name="text_tabihya_1" translatable="false">常にアッラーのために、常にアッラーのために。常にアッラーのために、あなたには協力者はありません、常にアッラーのために。本当に、すべての賛美、祝福、支配はアッラーのものです。あなたには協力者はありません。</string>
+    <string name="text_black_stone_1" translatable="false">アッラーは偉大なり！</string>
+    <string name="text_during_tawaf_1" translatable="false">私たちの主よ！この世で良いものを与え、来世で良いものを与え、火の刑罰から救ってください。</string>
+    <string name="text_mount_safa_1" translatable="false">アッラーが始めたことから始めます。アッラーは偉大なり、アッラーは偉大なり、アッラーは偉大なり。アッラー以外に崇拝するべき者はありません、アッラーは唯一で、協力者はありません。アッラーにすべての権力と賛美があり、アッラーはすべてのことに対して全能です。アッラー以外に崇拝するべき者はありません、アッラーは唯一です。アッラーは約束を果たし、御使いを助け、連合軍を一人で打ち負かしました。</string>
+    <string name="text_mount_marwah_1" translatable="false">アッラーが始めたことから始めます。アッラーは偉大なり、アッラーは偉大なり、アッラーは偉大なり。アッラー以外に崇拝するべき者はありません、アッラーは唯一で、協力者はありません。アッラーにすべての権力と賛美があり、アッラーはすべてのことに対して全能です。アッラー以外に崇拝するべき者はありません、アッラーは唯一です。アッラーは約束を果たし、御使いを助け、連合軍を一人で打ち負かしました。</string>
+    <string name="text_al_haraam_1" translatable="false">アッラーは偉大なり。アッラーは唯一。アッラー以外に崇拝するべき者はありません。</string>
+    <string name="text_at_jamaraat_1" translatable="false">アッラーは偉大なり！</string>
+    <string name="text_at_arafat_1" translatable="false">アッラー以外に崇拝するべき者はありません、アッラーは唯一で、協力者はありません。アッラーにすべての権力と賛美があり、アッラーはすべてのことに対して全能です。</string>
+    <string name="text_an_animal_1">アッラーの御名において、アッラーは偉大なり。[アッラーよ、これはあなたのもので、あなたのためです。] アッラーよ、私からこれを受け入れてください。</string>
+    <string name="text_openning_your_fast_1" translatable="false">アッラーよ！私はあなたのために断食し、あなたを信じ、あなたに頼り、あなたの恵みで断食を解きます。</string>
+    <string name="text_of_destiny_1" translatable="false">アッラーよ！あなたは大いに赦し、赦すことを愛される方です、だから私を赦してください。</string>
+    <string name="text_you_with_iftar_1" translatable="false">あなたとともに、断食者たちは断食を解き、正義の者たちは食べ、天使たちはあなたのために祈りを唱えます。</string>
+    <string name="text_crescent_moon_1" translatable="false">アッラーは偉大なり。アッラーよ、新月を安全に、信仰と平和をもって、イスラムの中で、私たちの主が喜ばれることに従い、持ってきてください。私たちの主、あなたの主はアッラーです。</string>
+    <string name="text_for_rain_1" translatable="false">アッラーよ、私たちに有益で害のない、早くて遅れない雨を送ってください。</string>
+    <string name="text_it_rains_1" translatable="false">アッラーよ、私たちに有益な雨の雲を送ってください。</string>
+    <string name="text_after_rainfall_1" translatable="false">私たちはアッラーの恵みと慈悲によって雨を受けました。</string>
+    <string name="text_greeting_people_1" translatable="false">アッラーの平安、慈悲、祝福があなたとともにありますように。</string>
+    <string name="text_to_Salam_1" translatable="false">ワアライクム・アッサラーム・ワ・ラフマトゥッラー・ワ・バラカートゥフ。</string>
+    <string name="text_For_Istikhara_1" translatable="false">アッラーよ、私はあなたの知識を通じて助言を求め、あなたの全能を通じて助けを求め、そしてあなたの偉大な恩恵によりお願いします...</string>
+    <string name="text_For_Justice_1" translatable="false">私たちの主よ！私たちと私たちの民の間で真実に基づいて裁きなさい。あなたこそが最良の裁き手です。</string>
+    <string name="text_guidance_1" translatable="false">アッラーが私たちをこれに導いてくださったことを称賛します。もしアッラーが私たちを導いてくださらなかったら、私たちは決して導かれることはなかったでしょう。</string>
+    <string name="text_guidance_2" translatable="false">アッラーは最良の守護者であり、最も慈悲深い者です。</string>
+    <string name="text_satisfaction_2" translatable="false">私たちの主よ！私たちをあなたの意志に従うムスリムとし、私たちの子孫をあなたの意志に従う民とし、私たちの礼拝の場所を示してください。そして私たちに戻ってきてください。あなたは常に悔い改めを受け入れ、最も慈悲深い者です。</string>
+    <string name="text_for_success_1" translatable="false">私の成功はアッラーを通じてのみです。私は彼に信頼し、彼のもとに戻ります。</string>
+    <string name="text_your_imaan_1" translatable="false">私の成功はアッラーを通じてのみです。私は彼に信頼し、彼のもとに戻ります。</string>
+    <string name="text_your_imaan_2" translatable="false">私はアッラーを主として、イスラムを宗教として、ムハンマド（平安と祝福あれ）を預言者として満足しています。（三回）</string>
+    <string name="text_your_imaan_3" translatable="false">私はアッラーに避難します。</string>
+    <string name="text_your_imaan_4" translatable="false">私はアッラーとその使徒を信じます。</string>
+    <string name="text_your_imaan_5">私たちの主よ！私たちが導かれた後、私たちの心を誤らせないでください。そしてあなたの慈悲を私たちにお与えください。本当に、あなたは恩恵を与える方です。</string>
+    <string name="text_book_mark_duas" translatable="false">マーク - ドゥア</string>
+    <string name="text_book_mark_azkar" translatable="false">マーク - アズカル</string>
+    <string name="text_book_mark_quran" translatable="false">マーク</string>
+    <string name="text_ayah" translatable="false">アーヤ</string>
+    <string name="text_islam_map" translatable="false">イスラム地図</string>
+    <string name="text_islam_map2" translatable="false">近くのモスク</string>
+    <string name="text_islam_map3" translatable="false">近くのレストラン</string>
+    <string name="text_islam_map4" translatable="false">近くのハラールレストラン</string>
+    <string name="text_day" translatable="false">日</string>
+    <string name="text_days" translatable="false">日々</string>
+    <string name="text_no_wifi" translatable="false">WiFiなし</string>
+    <string name="text_no_wifi2" translatable="false">このアプリのすべての機能を使用するにはWiFiに接続してください</string>
+    <string name="text_connect" translatable="false">接続</string>
+    <string name="text_calculation_method" translatable="false">計算方法</string>
+    <string name="text_default_font" translatable="false">デフォルトフォント</string>
+    <string name="text_uthmanic_hafs" translatable="false">ウスマニック・ハフス</string>
+    <string name="text_qibla" translatable="false">キブラ</string>
+    <string name="text_pray_now" translatable="false">今すぐ祈る</string>
+    <string name="text_praying_time_adj" translatable="false">祈りの時間調整</string>
+    <string name="text_All" translatable="false">すべて</string>
+    <string name="text_Fajrl" translatable="false">ファジュル</string>
+    <string name="text_Sunrise" translatable="false">日の出</string>
+    <string name="text_Dhuhr" translatable="false">ズフル</string>
+    <string name="text_Asr" translatable="false">アスル</string>
+    <string name="text_Maghrib" translatable="false">マグリブ</string>
+    <string name="text_Isha" translatable="false">イシャ</string>
+    <string name="text_Inaccurate" translatable="false">位置が不正確ですか？タップして</string>
+    <string name="text_feedback" translatable="false">フィードバック</string>
+    <string name="text_Notification" translatable="false">通知</string>
+    <string name="text_Vibrate" translatable="false">振動</string>
+    <string name="Fajr" translatable="false">ファジュル</string>
+    <string name="Sunrise" translatable="false">日の出</string>
+    <string name="Dhuhr" translatable="false">ズフル</string>
+    <string name="Asr" translatable="false">アスル</string>
+    <string name="Maghrib" translatable="false">マグリブ</string>
+    <string name="Isha" translatable="false">イシャ</string>
+    <string name="text_minute" translatable="false">分</string>
+    <string name="text_minutes" translatable="false">分</string>
+    <string name="text_share_reminder" translatable="false">リマインダーを共有</string>
+    <string name="text_Min" translatable="false">分</string>
+    <string name="text_Next_prayer_in" translatable="false">次の祈りまで：</string>
+    <string name="text_Pre_Notification" translatable="false">前通知</string>
+    <string name="text_Hanafi" translatable="false">ハナフィ</string>
+    <string name="text_Shafi_Maliki_Hanbali" translatable="false">シャフィ/マリキ/ハンバリ</string>
+    <string name="text_Widget" translatable="false">ウィジェット</string>
+    <string name="text_Convenient" translatable="false">便利</string>
+    <string name="text_Pray_anytime" translatable="false">いつでも、どこでも祈ることができます。\n どこにいても信仰と繋がりましょう</string>
+    <string name="text_intro1" translatable="false">祈りの時間のカウントダウンとリマインダー</string>
+    <string name="text_intro2" translatable="false">祈りの時間を思い出させます\n 毎日の祈りを決して逃さないでください</string>
+    <string name="text_intro3" translatable="false">あなたの精神的で食事の旅を完璧に導くガイド</string>
+    <string name="text_intro4" translatable="false">毎日コーランを読み、アズカルを思い出して精神を強く保ちましょう</string>
+    <string name="title_intro4" translatable="false">コーランとアズカル</string>
+    <string name="text_Prayer_Time" translatable="false">祈りの時間</string>
+    <string name="text_share_image" translatable="false">画像を共有</string>
+    <string name="text_translation" translatable="false">翻訳：</string>
+    <string name="text_tap_to_test" translatable="false">効果音を試すにはタップしてください</string>
+    <string name="text_Sound_Setting" translatable="false">音設定</string>
+    <string name="text_Page_Background" translatable="false">ページの背景</string>
+    <string name="text_Pre_Adhan_reminder" translatable="false">アザーン前のリマインダー</string>
+    <string name="text_all_the_setting" translatable="false">下記のすべての設定はドゥアとアズカルにも適用されます</string>
+    <string name="text_next_prayer" translatable="false">次の祈り</string>
+    <string name="text_coming_prayers" translatable="false">次の祈り</string>
+    <string name="string_azkar_detail_spelling_1_1_1" translatable="false">アッラーよ、ムハンマドに祝福をお与えください、ムハンマドの家族にも祝福をお与えください。イブラヒムとその家族に祝福をお与えになったように、あなたは賞賛に値し、最も崇高であります。アッラーよ、ムハンマドに祝福をお与えください、ムハンマドの家族にも祝福をお与えください。イブラヒムとその家族に祝福をお与えになったように、あなたは賞賛に値し、最も崇高であります。</string>
+    <string name="text_e_ibraheemi_1" translatable="false">アッラーよ、ムハンマドとムハンマドの家族にあなたの恩恵をお与えください、イブラヒムとイブラヒムの家族にあなたの恩恵をお与えになったように。あなたは称賛に値し、最も偉大であります。アッラーよ、ムハンマドに祝福をお与えください、ムハンマドの家族にも祝福をお与えください。イブラヒムとその家族に祝福をお与えになったように、あなたは称賛に値し、最も偉大であります。</string>
+    <string name="text_tasbeeh_1" translatable="false">アッラーに栄光あれ、アッラーに賛美あれ、アッラーは最も偉大であります。</string>
+    <string name="text_duas_1" translatable="false">アッラーよ、私に役立つ知識、良い食物、受け入れられる行いをお与えください。</string>
+    <string name="text_duas_2" translatable="false">アッラーよ、私は楽園を求め、地獄の罰から守られるようお願い申し上げます。</string>
+    <string name="text_duas_3" translatable="false">アッラーに栄光あれ、アッラーに賛美あれ、アッラーは最も偉大であります！</string>
+    <string name="text_duas_4" translatable="false">アッラー以外に崇拝すべき者はありません。あなたに栄光あれ！確かに私は過ちを犯しました。</string>
+    <string name="text_starting_anything_1" translatable="false">アッラーの名において、慈悲深く、慈悲に満ちた者。</string>
+    <string name="text_the_aakhira_1" translatable="false">私たちの主よ！この世で良いものを、来世で良いものを私たちにお与えください、そして地獄の罰から私たちを守ってください。</string>
+    <string name="text_the_aakhira_2" translatable="false">私たちの主よ！確かにあなたは、疑いのない日に人々を集めます。確かに、アッラーは約束を裏切りません。</string>
+    <string name="text_morning_rememberence_1" translatable="false">私たちは朝を迎え、今、この瞬間に全ての主権はアッラーに属し、全ての賛美はアッラーにあります。アッラー以外に崇拝すべき者はありません、唯一で、共同体はなく、全ての主権と賛美は彼のもので、全ての事において力を持っておられます。私の主よ、私はこの日とその後に良いことを求め、この日とその後の悪からあなたに避難します。私の主よ、私はあなたに無力と年老いからの避難を求めます。私の主よ、私は地獄の罰と墓の罰からの避難を求めます。</string>
+    <string name="text_morning_rememberence_2" translatable="false">アッラーよ、あなたの意志で私たちは朝を迎え、あなたの意志で私たちは夜を迎え、あなたの意志で生き、死に、そして私たちの復活はあなたにあります。</string>
+    <string name="text_morning_rememberence_3" translatable="false">アッラーよ、あなたは私の主であり、あなた以外に崇拝すべき者はありません。あなたは私を創造し、私はあなたのしもべです。私はできる限りあなたの契約と約束に従い、私は自分の犯した罪の悪からあなたに避難します。あなたが私に与えた恩恵を認識し、私の罪を認めますので、私をお赦しください。確かに、罪を赦すことができるのはあなたしかいません。</string>
+    <string name="text_morning_rememberence_4" translatable="false">アッラーよ、私は朝を迎え、あなたに呼びかけます。そしてあなたの御使いとあなたの全ての創造物に証人として、あなたがアッラーであり、あなた以外に崇拝すべき者はなく、ムハンマド（平安あれ）があなたのしもべで使徒であることを証言します。（四回）</string>
+    <string name="text_morning_rememberence_5" translatable="false">アッラーよ、私やあなたの創造物が目覚めた全ての祝福は、ただあなたからのものであり、共同体はなく、すべての賛美と感謝はあなたにあります。</string>
+    <string name="text_morning_rememberence_6" translatable="false">アッラーよ、私の体に健康を与え、私の耳に健康を与え、私の視力に健康を与えてください。アッラー以外に崇拝すべき者はありません。（三回）アッラーよ、私は不信仰と貧困からの避難を求め、墓の罰からの避難を求めます。アッラー以外に崇拝すべき者はありません。（三回）</string>
+    <string name="text_morning_rememberence_7" translatable="false">アッラーは私には十分であり、彼以外に崇拝すべき者はありません。私は彼に信頼し、彼は最も高く、最も偉大な王座の主です。（朝と夜に七回）</string>
+    <string name="text_morning_rememberence_8" translatable="false">私はアッラーの完璧な言葉に、彼が創造した悪から避難します。（夜に三回）</string>
+    <string name="text_morning_rememberence_9" translatable="false">アラーよ、私はこの世と来世での許しと幸福を求めます。アラーよ、私は宗教的および世俗的な事柄、家族、財産について許しと幸福を求めます。アラーよ、私の弱点を覆い、私の不安を落ち着かせてください。アラーよ、私を前から、後ろから、右から、左から、そして上から守り、私は地面に飲み込まれることを避けるためにあなたに避難します。</string>
+    <string name="text_morning_rememberence_10" translatable="false">アラーよ、隠れたものと見えるものの知識を持つ者、天と地の創造主、すべてのものの支配者であり主であるアラーよ、私は証言します。あなた以外に崇拝されるべき者はありません。私は自分の魂の悪や悪魔の偶像崇拝、そして私の魂への不正や他のムスリムに害を及ぼすことからあなたに避難します。</string>
+    <string name="text_morning_rememberence_11" translatable="false">アラーの名において、アラーの名によって地上でも天でも何も害を及ぼすことはなく、アラーは全知全能である。 (3回)</string>
+    <string name="text_morning_rememberence_12" translatable="false">私はアラーを私の主として、イスラムを私の宗教として、ムハンマドを（彼に平安あれ）私の預言者として満足しています。 (3回)</string>
+    <string name="text_morning_rememberence_13" translatable="false">アラーは完璧であり、私はその創造物の数とその満足、アラーの王座の重さ、そしてその言葉のインクを賛美します。 (3回)</string>
+    <string name="text_morning_rememberence_14" translatable="false">アラーは完璧であり、私は彼を賛美します！ (100回)</string>
+    <string name="text_morning_rememberence_15" translatable="false">生きる者、自己充足の者よ、あなたの慈悲により助けを求めます。すべての私の事柄を正し、私を一瞬も見捨てないでください。</string>
+    <string name="text_morning_rememberence_16" translatable="false">アラー以外に崇拝されるべき者はありません、唯一、そして誰とも結びつけられず、すべての支配と賛美はアラーに属し、彼はすべてのものに対して全能です。 (100回)</string>
+    <string name="text_morning_rememberence_17" translatable="false">私たちは朝を迎え、この瞬間、すべての支配はアラーに属し、アラーは世界の主です。アラーよ、この日からの善、勝利、光、祝福、導きを求め、そしてこの日とその後の悪からあなたに避難します。</string>
+    <string name="text_evening_rememberence_1" translatable="false">私たちは夜を迎え、この瞬間、すべての支配はアラーに属し、すべての賛美はアラーに帰します。アラー以外に崇拝されるべき者はありません、唯一、そして誰とも結びつけられず、すべての支配と賛美はアラーに属し、彼はすべてのものに対して全能です。私の主よ、私はこの夜の善と、それに続く善を求め、そしてこの夜とその後の悪からあなたに避難します。私の主よ、私はあなたに怠惰と老化から避難します。私の主よ、私はあなたに火の苦しみと墓の罰から避難します。</string>
+    <string name="text_evening_rememberence_2" translatable="false">アラーよ、あなたの意志によって私たちは夜を迎え、あなたの意志によって私たちは朝を迎えました。あなたの意志によって私たちは生き、そして死にます。私たちの帰還はあなたにあります。</string>
+    <string name="text_evening_rememberence_3" translatable="false">アラーよ、あなたは私の主であり、あなた以外に崇拝されるべき者はありません。あなたは私を創造し、私はあなたの僕であり、できる限りあなたの契約と約束を守っています。私が犯した悪からあなたに避難します。あなたの恩恵を私に認め、私の罪を認めますので、どうか私を許してください。本当に、罪を許すことができるのはあなた以外にいません。</string>
+    <string name="text_evening_rememberence_4" translatable="false">アラーよ、私たちは夜を迎え、あなたを証人として呼び、あなたの王座の持ち主である天使たちとあなたの創造物全体を証人として呼びます。あなたはアラーであり、他に崇拝されるべき者はありません、唯一、そして誰とも結びつけられず、ムハンマド（平安あれ）はあなたの使徒であり僕であることを証言します。</string>
+    <string name="text_evening_rememberence_5" translatable="false">アラーよ、私またはあなたの創造物が目覚めるすべての祝福は、ただあなたから来るものであり、あなたにしか崇拝できません。すべての賛美はあなたにあり、感謝はあなたにあります。</string>
+    <string name="text_evening_rememberence_6" translatable="false">アラーよ、私の体に健康を与え、アラーよ、私の耳に健康を与え、アラーよ、私の視力に健康を与えてください。あなた以外に崇拝されるべき者はありません。(3回)アラーよ、私は不信仰と貧困からあなたに避難し、私は墓の罰からあなたに避難します。あなた以外に崇拝されるべき者はありません。(3回)</string>
+    <string name="text_evening_rememberence_7" translatable="false">アラーは私には十分です、彼以外に崇拝されるべき者はありません。私は彼を信頼し、彼は高貴な玉座の主です。(朝晩7回)</string>
+    <string name="text_evening_rememberence_8" translatable="false">アラーよ、あなたが創造した悪からあなたの完全な言葉に避難します。(夜に3回)</string>
+    <string name="text_evening_rememberence_9" translatable="false">アラーよ、私はこの世と来世での許しと幸福を求めます。アラーよ、私は宗教的および世俗的な事柄、家族、財産について許しと幸福を求めます。アラーよ、私の弱点を覆い、私の不安を落ち着かせてください。アラーよ、私を前から、後ろから、右から、左から、そして上から守り、私は地面に飲み込まれることを避けるためにあなたに避難します。</string>
+    <string name="text_evening_rememberence_10" translatable="false">アラーよ、隠れたものと見えるものの知識を持つ者、天と地の創造主、すべてのものの支配者であり主であるアラーよ、私は証言します。あなた以外に崇拝されるべき者はありません。私は自分の魂の悪や悪魔の偶像崇拝、そして私の魂への不正や他のムスリムに害を及ぼすことからあなたに避難します。</string>
+    <string name="text_evening_rememberence_11" translatable="false">アラーの名において、アラーの名によって地上でも天でも何も害を及ぼすことはなく、アラーは全知全能である。 (3回)</string>
+    <string name="text_evening_rememberence_12" translatable="false">私はアラーを私の主として、イスラムを私の宗教として、ムハンマドを（彼に平安あれ）私の預言者として満足しています。 (3回)</string>
+    <string name="text_evening_rememberence_13" translatable="false">アラーは完璧であり、私はその創造物の数とその満足、アラーの王座の重さ、そしてその言葉のインクを賛美します。 (3回)</string>
+    <string name="text_evening_rememberence_14" translatable="false">アラーは完璧であり、私は彼を賛美します！ (100回)</string>
+    <string name="text_evening_rememberence_15" translatable="false">永遠に生きる者、すべてを支える自己充足の者よ、あなたの慈悲により助けを求めます。すべての私の事柄を正し、私を一瞬も見捨てないでください。</string>
+    <string name="text_evening_rememberence_16" translatable="false">アラー以外に崇拝されるべき者はありません、唯一、そして誰とも結びつけられず、すべての支配と賛美はアラーに属し、彼はすべてのものに対して全能です。 (100回)</string>
+    <string name="text_evening_rememberence_17" translatable="false">私たちは夜を迎え、この瞬間、すべての支配はアラーに属し、アラーは世界の主です。アラーよ、この夜からの善、勝利、光、祝福、導きを求め、そしてこの夜とその後の悪からあなたに避難します。</string>
+    <string name="text_remembrances_1" translatable="false">アラーに許しを請います。 (3回) アラーよ、あなたはアス・サラーム（平和の源）であり、あなたからすべての平和が来ることを知っています。あなたは祝福されており、偉大さと名誉の持ち主です。アス・サラーム：欠陥や不完全さがない者。</string>
+    <string name="text_remembrances_2" translatable="false">アラー以外に崇拝されるべき者はありません、唯一、そして誰とも結びつけられず、すべての支配と賛美はアラーに属し、彼はすべてのものに対して全能です。アラーよ、あなたが決めたことを阻止する者はいません、そしてあなたが決めたことを許可する者はいません、またどんな富や権力も誰も利益しません、すべての富と権力はあなたから来るのです。</string>
+    <string name="text_remembrances_3" translatable="false">アラーは完璧です！すべての賛美はアラーに帰し、アラーは最も偉大です。 (33回) アラー以外に崇拝されるべき者はありません、唯一、そして誰とも結びつけられず、すべての支配と賛美はアラーに属し、彼はすべてのものに対して全能です。</string>
+    <string name="text_remembrances_4" translatable="false">言え: 彼はアラー、唯一の者、アラー、絶対的な者（すべてが彼に依存し、彼は食べず、飲まない者）。彼は生みもし、産まれもしなかった。そして彼には等しい者は存在しません。[アル・イフラース] 言え: 私はアラー、夜明けの主、彼が創造した悪から、そして夜の闇（または月が沈むまたは消える時）から避難します。悪しき呪文を吹き込む魔女から、また嫉妬する者からも避難します。 [アル・ファラク] 言え: 私はアラー、人々の主、王、神、悪しき囁き手（悪を人々の心に囁く悪魔）から避難します。彼はその囁きを引き下げ、心に囁き続けます、ジンや人々の間において。 [アヌス]</string>
+    <string name="text_remembrances_5" translatable="false">アラー！他に崇拝されるべき者は彼だけです、永遠に生きる者、すべてを支える者。眠気も睡眠も彼を支配しません。天と地にあるものはすべて彼のものです。誰が彼の許可なしに彼の前で取り成すことができるでしょうか？彼は彼らがこの世で何をしているか、そして来世で何が起こるかを知っており、彼の知識の範囲に収まる者はいません。</string>
+    <string name="text_remembrances_6" translatable="false">アラー以外に崇拝されるべき者はありません、唯一、そして誰とも結びつけられず、すべての支配と賛美はアラーに属し、彼はすべてのものに対して全能です。 (マグリブとファジュルの祈り後10回)</string>
+    <string name="text_remembrances_7" translatable="false">アラーよ、私は有益な知識、良い生計、そして受け入れられる行いを求めます。 (ファジュルの祈りのサラーム後に言う)</string>
+    <string name="text_regularly_1" translatable="false">本当に、私の主は願いを聞き入れる方です。ああ、私の主よ、私を祈りにおいて堅実にし、私の子孫にもそうさせてください。ああ、私たちの主よ、私の祈りを受け入れてください。</string>
+    <string name="text_rizq_1" translatable="false">アラーよ、有益な知識、良い生計、そして受け入れられる行いを求めます。</string>
+    <string name="text_rizq_2" translatable="false">アラーよ、私を許し、私に慈悲を施し、私を導き、私を支援し、私を守り、私に供給し、私を高めてください。</string>
+    <string name="text_rizq_3" translatable="false">アラーよ、私はあなたの恩恵を求めます。</string>
+    <string name="text_rizq_4" translatable="false">アラーはそのしもべたちに非常に寛大で慈悲深い。彼は望む者に供給を与え、全能で力強い。</string>
+    <string name="text_rizq_5" translatable="false">おおアラー、私たちの主よ！ 天から食事が供されたテーブルを私たちに送ってください。それは私たちすべてのために、最初と最後の者たちにとって、儀式的な祝いのようなもので、あなたの印であり、私たちの供給を提供してください。あなたこそが最も素晴らしい供給者です。</string>
+    <string name="text_need_1" translatable="false">おお私の主よ！私はあなたが与えてくださるすべての善を必要としています。</string>
+    <string name="text_allah_mercy_1" translatable="false">おお私の主よ！あなたは私たちの守護者です。どうか私たちをお許しください、そして私たちに慈悲を与えてください。あなたこそは最も許し深い者であり、この世界と来世の善を私たちに定めてください。確かに、私たちはあなたに向かってきました。</string>
+    <string name="text_allah_mercy_2" translatable="false">おお私の主よ！お許しください、そして慈悲を与えてください、あなたは最も慈悲深い者です。</string>
+    <string name="text_allah_mercy_3" translatable="false">おお私たちの主よ！私たちは自分の魂に不正を犯しました。もしあなたが私たちをお許しにならず、慈悲を授けてくださらないなら、確かに私たちは失われた者たちの中にいるでしょう。</string>
+    <string name="text_allah_mercy_4" translatable="false">おお私たちの主よ！あなたの慈悲を授け、私たちの事柄を最良の方法で導いてください。</string>
+    <string name="text_allah_mercy_5" translatable="false">おお私たちの主よ！私たちは信じていますので、私たちをお許しください、そして慈悲を与えてください、あなたは最も慈悲深い者です。</string>
+    <string name="text_praising_allah_1" translatable="false">おおアラー！王国の支配者であるあなたは、望む者に王国を与え、望む者から王国を取り上げます。あなたは望む者を栄光を与え、望む者を屈辱を与えます。すべての良いものはあなたの手にあります。確かに、あなたはすべてのことを行うことができる者です。あなたは夜を昼に、昼を夜に変えます（冬と夏で昼夜の長さが変わること）。あなたは生きている者を死者から出し、死者を生きている者から出します。そしてあなたは望む者に無制限に富と供給を与えます。</string>
+    <string name="text_praising_allah_2" translatable="false">アラーを称賛しなさい [彼が関連づけられているすべてのことから（信者よ！）]、夕方が来たとき [つまり、マグリブとイシャの祈りを行う時]、そして朝が来たとき [つまり、ファジュルの祈りを行う時]。天と地において、すべての称賛と感謝は彼に属します。昼の終わりに（アスルの祈りを行う時）、そして日が沈み始めたとき（ドゥフルの祈りを行う時）、彼を称賛しなさい。（イブン・アッバースは言った：「これらはコーランで言及されている五つの義務の祈りです」）。彼は生きている者を死者から出し、死者を生きている者から出します。そして彼は地をその死後に生き返らせます。このようにあなた方も復活します。</string>
+    <string name="text_praising_allah_3" translatable="false">アラーは栄光であり、アラーは称賛されています。アラーは最も偉大です。</string>
+    <string name="text_praising_allah_4" translatable="false">アラーに栄光を、アラーに称賛を、アラー以外に崇拝すべき者はなく、アラーは最も偉大です。</string>
+    <string name="text_praising_allah_5" translatable="false">アラーはどれほど完璧ですか！</string>
+    <string name="text_praising_allah_6" translatable="false">アラー以外には力も力もありません。</string>
+    <string name="text_praising_allah_7" translatable="false">アラーは最も偉大で、彼は称賛されています。</string>
+    <string name="text_praising_allah_8" translatable="false">彼はアラーであり、彼以外に神はありません。隠されたことと明らかにされたことを知っている。彼は慈悲深く、慈悲を持っています。彼はアラーであり、彼以外に神はありません。支配者であり、清浄で完璧で、信仰を与え、見守り、全能で、強制的で、至高の存在です。アラーは、彼に関連づけられたすべてのものから栄光を受けています。彼はアラーであり、創造者、発明者、形成者です。彼に最も美しい名前が属します。天と地にあるすべてのものは彼を讃えます。そして彼は全能で、賢いです。</string>
+    <string name="text_praising_allah_9" translatable="false">アラーが望んだこと [それは実現した]、力はアラーにしかありません。</string>
+    <string name="text_for_success_4" translatable="false">私の成功はアラーによるものです。私は彼を信頼し、彼に戻ります。</string>
+    <string name="text_knowledge_1" translatable="false">おお私の主よ！私の知識を増やしてください。</string>
+    <string name="text_knowledge_2" translatable="false">おおアラー！私はあなたに有益な知識、良い供給、そして受け入れられる行動を求めます。</string>
+    <string name="text_knowledge_3" translatable="false">おお私の主よ！私にフクマン（宗教的な知識、正しい判断、預言）を授け、正しい者たちと結びつけてください。そして後世で名誉ある記録を私に与え、喜びの楽園の相続人の一員として私を置いてください。そして私の父を赦してください。確かに、彼は迷っている者の一人です。復活の日に私を恥じさせないでください。その日、富や子供たちは誰にも役立たず、ただ心が清らかな者だけが助かるでしょう。</string>
+    <string name="text_eloquence_1" translatable="false">おお私の主よ！私の胸を広げ、私の仕事を容易にし、私の舌の結び目を解いてください、そうすれば私の言葉を理解するでしょう。</string>
+    <string name="text_eloquence_2" translatable="false">おお、あなたに栄光あれ！私たちはあなたが教えてくださったことを除いて何も知りません。確かに、あなたは全知であり、賢いです。</string>
+    <string name="text_ignorance_1" translatable="false">私はアラーに頼って、無知の中にいないようにします。</string>
+    <string name="text_foolishness_1" translatable="false">おおアラー！私はあなたに頼り、他の人を迷わせることなく、他の人によって迷わされることなく、他の人に誤りを犯させることなく、自分自身が誤りを犯さないように、他の人を虐待することなく、または自分自身が虐待されることなく、愚かな行動をすることなく、または他の人の愚かさに直面することなく生きることを求めます。</string>
+    <string name="text_strengthen_your_imaan_1" translatable="false">私はアラーを私の主として満足し、イスラムを私の宗教として満足し、ムハンマドを預言者として満足します（3回繰り返します）。</string>
+    <string name="text_strengthen_your_imaan_2" translatable="false">私はアラーに逃げます。</string>
+    <string name="text_strengthen_your_imaan_3" translatable="false">私はアラーを信じ、彼の使徒を信じます。</string>
+    <string name="text_strengthen_your_imaan_4" translatable="false">おお私たちの主よ！私たちの心が（真実から）それてしまわないように、私たちが導かれた後に、私たちに慈悲を与えてください。確かに、あなたは与える者です。</string>
+    <string name="text_strengthen_your_imaan_5" translatable="false">おお私たちの主よ！私たちの罪と私たちの過ちを許し、私たちの足元をしっかりさせ、信仰を持つ者たちに勝利を与えてください。</string>
+    <string name="text_practicing_muslims_1" translatable="false">ああ、私たちの主よ！あなたが啓示したものを信じ、使徒に従います。どうか、私たちを証人の中に書き記してください。</string>
+    <string name="text_to_allah_1" translatable="false">確かに、私は天と地を創造した者に顔を向け、真実に従ってひざまずいています。私はアッラーと他のものを共に崇拝する者ではありません。</string>
+    <string name="text_to_allah_2" translatable="false">確かに、私の祈り、私の犠牲、私の命、私の死はすべてアッラーのためにあります。彼こそが世界の主です。彼には仲間はありません。これが私に命じられたことです。そして、私は最初のムスリムです。</string>
+    <string name="text_righteous_company_1" translatable="false">天と地の創造者よ、あなたは私のこの世と来世における守護者です。私をムスリムとして死なせ、正しい者たちとともにしてください。</string>
+    <string name="text_righteous_company_2" translatable="false">ああ、私たちの主よ！私たちは信じています、私たちを証人の中に書き記してください。</string>
+    <string name="text_from_hell_1" translatable="false">ああ、私たちの主よ！あなたはすべてを慈悲と知識で包んでおられます。悔い改めてあなたの道に従う者を許し、地獄の罰から守ってください。</string>
+    <string name="text_from_hell_2" translatable="false">ああ、私たちの主よ！確かに、私たちは信じています。どうか私たちの罪を許し、火の罰から救ってください。</string>
+    <string name="text_from_hell_3" translatable="false">ああ、私たちの主よ！あなたはすべてに目的をもって創造されたのに違いありません、あなたの栄光を讃えます。私たちを火の苦しみから救ってください。ああ、私たちの主よ！あなたが火に入れた者は、確かに恥をかかせられた者です。不正を働く者には助け手がありません。ああ、私たちの主よ！確かに、私たちは（ムハンマドに対する）信仰の呼びかけを聞きました。「あなたの主を信じなさい」と。私たちは信じました。ああ、私たちの主よ！私たちの罪を許し、私たちの悪行を消し去り、正しい者たちとともに死なせてください。ああ、私たちの主よ！あなたの使徒を通じて私たちに約束されたものを私たちに与え、復活の日に私たちを恥じさせないでください。あなたは決して約束を破らないからです。</string>
+    <string name="text_from_hell_4" translatable="false">アッラーは、誰にもその能力を超えた負担を課すことはありません。良いことをした者にはその報いがあり、悪いことをした者にはその罰があります。「ああ、私たちの主よ！私たちが忘れたり間違ったりしたときに罰しないでください。ああ、私たちの主よ！私たちより前にいた者たちに課したような重荷を私たちに課さないでください。ああ、私たちの主よ！私たちには耐えられないような重荷を課さないでください。私たちを許し、私たちにあなたの許しを与え、私たちに慈悲を施してください。あなたこそが私たちの守護者ですので、不信心者に対して私たちを勝利させてください。」</string>
+    <string name="text_from_hell_5" translatable="false">ああ、私たちの主よ！私たちの光を完全にし、私たちにあなたの許しを与えてください。あなたはすべてのことに力を持っています。</string>
+    <string name="text_all_muslims_1" translatable="false">ああ、私たちの主よ！あなたの許しを私たちに与えてください。私と私の両親、そして信者たちに、会計の日に。</string>
+    <string name="text_for_jannah_1" translatable="false">ああ、私たちの主よ！地獄の罰から私たちを守ってください。確かにその罰は大きな苦しみです。それは確かに恐ろしい住まいであり、休息の場所です。</string>
+    <string name="text_for_jannah_2" translatable="false">ああ、私たちの主よ！あなたが約束されたエデンの園（永遠の楽園）に彼らを入れてください。彼らの父母、妻子、子孫とともに。確かに、あなたは全能で賢明です。そして、彼らを罪から救ってください。その日、あなたが救う者は、確かにあなたの慈悲を得た者です。それこそが最高の成功です。</string>
+    <string name="text_forgiveness_1" translatable="false">ああ、私の主よ！私が知らないことをあなたに求めることから私は避けます。そして、あなたが私を許し、私に慈悲を施さなければ、私は確かに敗者となるでしょう。</string>
+    <string name="text_forgiveness_2" translatable="false">主よ、私を許してください。主よ、私を許してください。</string>
+    <string name="text_forgiveness_3" translatable="false">ああ、アッラーよ！私を許し、私に慈悲を施し、私を導き、私を支え、私を守り、私を養い、私を高めてください。</string>
+    <string name="text_forgiveness_4" translatable="false">ああ、アッラーよ！私のすべての罪を許してください。大きな罪も小さな罪も、最初の罪も最後の罪も、表に出ている罪も隠れている罪も。</string>
+    <string name="text_forgiveness_5" translatable="false">ああ、アッラーよ！あなたの怒りからあなたの喜びへ、あなたの罰からあなたの許しへと私が避けることができるようにしてください。私はあなたからあなたを避けます。あなたの賛美を数えることができません。あなたはあなた自身のように称賛されています。</string>
+    <string name="text_siblings_1" translatable="false">ああ、私の主よ！私と私の兄弟を許し、あなたの慈悲の中に私たちを入れてください。あなたこそが慈悲を与える者の中で最も慈悲深いお方です。</string>
+    <string name="text_your_house_1">ああ、私の主よ！私、私の両親、私の家に入る信者を許してください。信者の男女に。そして不信者を増やすことはないようにしてください。</string>
+    <string name="text_repentance_1" translatable="false">私はアッラーに許しを求めます。アッラー以外には崇拝する者はいません。永遠に生きる者であり、私が悔い改めます。アッラーは、たとえ兵士の列を離れたとしても許してくださいます。</string>
+    <string name="text_repentance_2" translatable="false">彼らに言え、ムハンマド（平安あれ）は言う：「それがアッラーです、私の主です、私は信頼し、すべてのことについて彼に頼り、悔い改めます。」</string>
+    <string name="text_thanking_allah_1" translatable="false">アッラーのほかに礼拝すべき者はおらず、ただ一人で、何の仲間もない。彼のものは支配であり、すべての賛美は彼に帰し、彼はすべてのことを成し遂げることができる。</string>
+    <string name="text_thanking_allah_2" translatable="false">崇高な私の主を賛美します。</string>
+    <string name="text_thanking_allah_3" translatable="false">あなた、アッラーよ、私たちの主に栄光を、そして賛美をお捧げします。アッラーよ、どうか私をお許しください！</string>
+    <string name="text_thanking_allah_4" translatable="false">あなた、最も神聖なる者、天使と霊の主に栄光を。</string>
+    <string name="text_thanking_allah_5" translatable="false">力と支配、威厳と偉大さの主であるあなたに栄光を。</string>
+    <string name="text_thanking_allah_6" translatable="false">アッラーのほかに礼拝すべき者はおらず、ただ一人で、何の仲間もない。彼のものは支配であり、すべての賛美は彼に帰します。</string>
+    <string name="text_thanking_allah_7" translatable="false">アッラーのほかに礼拝すべき者はおらず、彼は唯一で、何の仲間もない。支配は彼に帰し、賛美も彼に帰し、彼はすべてのことを成し遂げることができます。力や力はアッラーによってのみ存在します。アッラー以外に崇拝すべき者はおらず、私たちは他の者を崇拝しません。彼の恩恵、寛大さは彼に帰し、最も素晴らしい賛美は彼にあります。アッラーのほかに礼拝すべき者はおらず。（私たちは）彼に対する誠実な信仰を持ちます、たとえ不信心者がそれを嫌おうとも。</string>
+    <string name="text_thanking_allah_8" translatable="false">アッラーに栄光と賛美を捧げます、彼の創造物の多くに、彼の満足に、彼の玉座の重さに、彼の言葉の広がりに。</string>
+    <string name="text_thanking_allah_9" translatable="false">アッラーに栄光、アッラーに賛美、アッラーは偉大である！</string>
+    <string name="text_thanking_allah_10" translatable="false">私たちに食物と飲み物を与えてくださったアッラーに賛美を。私たちに必要を満たし、家を与えてくださったアッラーに賛美を。どれほど多くの者が食物も家もないことか。</string>
+    <string name="text_thanking_allah_11" translatable="false">アッラーに、豊かで美しく、祝福された賛美を。終わりのない賛美を、必須な賛美を。彼は私たちの主です。</string>
+    <string name="text_grateful_to_allah_1" translatable="false">私の主よ、あなたが私と私の両親に授けてくださった恵みに感謝し、あなたが喜ばれる正義を行い、私の子孫が私にとって正しいものとなるようにしてください。確かに、私はあなたの前で悔い改め、確かに私はムスリムの一人です。</string>
+    <string name="text_grateful_to_allah_2" translatable="false">私の主よ、あなたが私と私の両親に授けてくださった恵みに感謝し、あなたが喜ばれる正義を行い、あなたの慈悲で私を[あなたの正しい]しもべたちの列に加えてください。</string>
+    <string name="text_good_new_1" translatable="false">すべての賛美はアッラーに帰します。アッラーが望まれた通りに。アッラーは祝福されている。</string>
+    <string name="text_help_from_allah_1">おおアッラー、書物の啓示者、すべての計算を迅速に行う者、不信者の集団を打ち破ってください！おおアッラー、彼らを打ち破り、彼らを揺さぶってください！</string>
+    <string name="text_help_from_allah_2">彼はアッラー、唯一無二の存在。すべての存在が彼に依存する主。彼は生まれず、また生ませもしません。彼に等しい者は誰もいません。</string>
+    <string name="text_help_from_allah_3" translatable="false">アッラー！彼のほかに礼拝すべき者はおらず、常に生きている者、すべてを支える者。うたた寝も眠気も彼を支配しません。天と地にあるものはすべて彼に帰します。誰が彼の前に、彼の許可なく代弁できますか？彼はこの世で何が起こるか、来世で何が起こるかを知っています。彼らは彼の知識を一切知りません、彼が許す限りにおいてのみ。彼の玉座は天と地を覆っており、それらを守り保つことに疲れを感じません。そして彼は最も高く、偉大です。</string>
+    <string name="text_help_from_allah_4">私はアッラーに、彼が創造したものの害から、夜の闇が深まったときの害から、呪術を行う者たちが結び目に吹きかける害から、また嫉妬深い者が嫉妬する害から守られます。</string>
+    <string name="text_help_from_allah_5" translatable="false">私はアッラーに、人々とジン（精霊）の胸に囁く悪霊からの害から、人間の胸に潜む悪霊から守られます。</string>
+    <string name="text_help_from_allah_6" translatable="false">おおアッラー！私はあなたに、墓の罰から、偽のメシアの試練から、命と死の試練から守られます。おおアッラー！私はあなたに、罪と借金から守られます。</string>
+    <string name="text_help_from_allah_7" translatable="false">おおアッラー！あなたがあなたのしもべたちを復活させる日に、あなたの罰から私を救ってください。</string>
+    <string name="text_help_from_allah_8" translatable="false">おおアッラー！隠されたことも明らかなことも知る者、天と地を創造した者、すべてを支配する主。あなたの他に礼拝すべき者はいません。私は私の魂の害から、サタンとその手下の害から、またあなたのしもべを害することから守られるよう、あなたに助けを求めます。</string>
+    <string name="text_help_from_allah_9" translatable="false">おおアッラー！この世界と来世において、あなたの許しと保護を求めます。おおアッラー！私の宗教、私の世俗の事、私の家族、私の財産において、あなたの許しと保護を求めます。おおアッラー！私の秘密を隠し、苦しみから私を守ってください。おおアッラー！私の前後、左右、また私の上から、あなたの偉大さにより私を守ってください。</string>
+    <string name="text_help_from_allah_10" translatable="false">私たちは新しい日を迎えました。そしてそれと共に、すべての支配はアッラーに帰します。賛美はアッラーに帰します。アッラーのほかに礼拝すべき者はおらず、唯一無二の存在。アッラーには支配があり、賛美も彼に帰し、彼はすべてを成し遂げることができます。私の主よ、この日と今後の日々の善を求めます。そしてこの日と今後の日々の悪から守られるようにあなたに求めます。私の主よ、私はあなたに、怠けや老化の力不足から守られるように求めます。私の主よ、私はあなたに、地獄の罰と墓の罰から守られるように求めます。</string>
+    <string name="text_help_from_allah_11" translatable="false">知っておいてください、アッラーこそがあなたの守護者であり、最高の守護者、最良の助け手です。</string>
+    <string name="text_shaytan_1">おお私の主よ！シャイターン（悪魔）のささやきから、そして彼らが私に近づかないように、私はあなたに助けを求めます。</string>
+    <string name="text_shaytan_2">私はアッラーにサタン、追放された者からの守護を求めます。</string>
+    <string name="text_shaytan_3">私はアッラーの完全な言葉に、彼が創造したすべてのものの悪からの守護を求めます。</string>
+    <string name="text_transgressors_1">おお私の主よ！私と私の家族を彼らが行っていることから救ってください。</string>
+    <string name="text_protection_1">私はアッラーの完全な言葉で、すべての悪霊、すべての獣、すべての嫉妬心を持つ目から守られるようにあなたに求めます。</string>
+    <string name="text_oppressors_1">おお私たちの主よ！この都市の不正な民から私たちを救い、あなたの慈悲から私たちに守護者と助け手を与えてください。</string>
+    <string name="text_oppressors_2">おおアッラー、あなたは私の力であり、私の支えです。あなたのために進み、あなたのために戦います。</string>
+    <string name="text_fear_1">おおアッラー！彼らから私をあなたの望むように守ってください。</string>
+    <string name="text_wrongdoers_1">私たちはアッラーに信頼しています。おお私たちの主よ！不正を働く者の試練の対象にしないでください。あなたの慈悲で不信者から私たちを救ってください。</string>
+    <string name="text_wrongdoers_2">おお私たちの主よ！私たちが隠していることも公然としていることも、あなたはご存知です。何もアッラーから隠れることはありません、地上にも天にも。</string>
+    <string name="text_wrongdoers_3">おお私たちの主よ！彼が傲慢に私たちを攻撃し、限界を越えることを恐れます。</string>
+    <string name="text_parents_1" translatable="false">おお私の主よ！私に礼拝を確立させ、私の子孫にもそのようにさせてください。おお私たちの主よ！私の祈りを受け入れてください。</string>
+    <string name="text_parents_2" translatable="false">おお私の主よ！彼ら（私の両親）に慈悲を、彼らが私を小さい頃に育ててくれたように。</string>
+    <string name="text_shirk_1" translatable="false">おおアッラー！私は意図的にあなたに何かを加えることがないようにあなたに避難し、知らずに犯したことをお許しください。</string>
+    <string name="text_aakhira_1" translatable="false">おお私たちの主よ！この世で良いことを、来世で良いことを、そして火の罰から私たちを救ってください。</string>
+    <string name="text_aakhira_2" translatable="false">おお私たちの主よ！確かに、あなたは疑いのない日に人々を集めます。確かに、アッラーはその約束を破りません。</string>
+    <string name="text_pious_muslim_1" translatable="false">おお私たちの主よ！不正な者たち（ザアリーム）と一緒に私たちを置かないでください。</string>
+    <string name="text_pious_muslim_2" translatable="false">おお私の主よ！私を不正な者たちの中に置かないでください。</string>
+    <string name="text_allah_satisfaction_1" translatable="false">おお私たちの主よ！これを私たちから受け入れてください。あなたは最も聴かれ、最も知識のある者です。</string>
+    <string name="text_allah_satisfaction_2" translatable="false">おお私たちの主よ！私たちをムスリムに、あなたの意志に服従する者にし、私たちの子孫をあなたの意志に服従するムスリムの共同体にしてください。私たちに儀式のための場所を示し、あなたの慈悲で私たちを受け入れてください。あなたは寛大で、慈悲深い方です。</string>
+    <string name="text_family_1">おお私の主よ！私たちに目の喜びとなる妻と子孫を与え、正しい者を導く恵みをください。</string>
+    <string name="text_a_child_1">おお私の主よ！あなたから良い子孫をください。確かに、あなたはすべての願いを聞くお方です。</string>
+    <string name="text_a_child_2">おお私の主よ！私を一人にしないでください（子供なしに）、あなたは最良の後継者です。</string>
+    <string name="text_healthy_life_1" translatable="false">おおアッラー！私の体を健康にしてください。おおアッラー！私の耳と目を守ってください。あなた以外に礼拝すべき者はおらず、あなた以外に崇拝すべき者はありません。おおアッラー！私はあなたに不信仰と貧困から避難し、墓の罰から避難します。あなた以外に礼拝すべき者はおらず、他の者に崇拝すべき者はありません。</string>
+    <string name="text_the_sick_1" translatable="false">心配しないでください、それはあなたにとって浄化となります、もしアッラーが望まれれば。</string>
+    <string name="text_the_sick_2" translatable="false">アッラー、最も崇高な方、最も偉大な玉座の主に、あなたを癒してくださるようにお願い申し上げます。</string>
+    <string name="text_alleviate_pain_1" translatable="false">アッラーの名のもとで、アッラーとその力に頼り、私が遭遇するものや恐れるものから守られますように。</string>
+    <string name="text_tribulation_1" translatable="false">アッラーに賛美あれ、あなたが私を試練から救い、数多くの創造物よりも大きな恵みを与えてください。</string>
+    <string name="text_hard_times_1" translatable="false">確かに、私は困難に見舞われましたが、あなたは最も偉大で、最も慈悲深い方であり、最も素晴らしいお方です。</string>
+    <string name="text_nearing_your_death_1" translatable="false">アッラーの他に崇拝すべき者はいません。</string>
+    <string name="text_nearing_your_death_2" translatable="false">アッラーの他に崇拝すべき者はいないことを証言し、ムハンマドはアッラーの使徒であり、彼のしもべであることを証言します。</string>
+    <string name="text_something_1" translatable="false">これはアッラーの定めであり、彼は望むことを行います。</string>
+    <string name="text_occurs_1" translatable="false">確かに私たちはアッラーのものであり、最終的には彼のもとに戻ります。</string>
+    <string name="text_a_bad_1" translatable="false">すべての状況でアッラーを讃えます。</string>
+    <string name="text_upon_allah_1" translatable="false">アッラーは私には十分です。彼の他に崇拝すべき者はいません。私は彼に頼り、彼は至高の王座の主です。</string>
+    <string name="text_upon_allah_2">そして、今あなたに話すことを思い出すでしょう。私のことはアッラーに委ねます。確かにアッラーはそのしもべたちを見守っています。</string>
+    <string name="text_for_patience_1">私たちの主よ！私たちに忍耐を与え、私たちの足元を堅固にし、不信心者に対して私たちを勝利させてください。</string>
+    <string name="text_for_patience_2">私たちの主よ！私たちに忍耐を降り注ぎ、私たちをイスラム教徒として亡くさせてください。</string>
+    <string name="text_your_anger_1">私はアッラーに避け所を求めます、呪われたサタンから。</string>
+    <string name="text_a_debt_1">ああアッラーよ、あなたが許したものによって私を十分にしてください、禁止されたものによってではなく、あなた以外のすべてのものから独立させてください。</string>
+    <string name="text_you_money_1">アッラーがあなたの家族と財産を祝福しますように。確かに、借りたものの報酬は賛美と返済です。</string>
+    <string name="text_pious_muslims_1" translatable="false">私たちの主よ！私たちを不正を行う人々と共にしないでください。</string>
+    <string name="text_and_all_muslims_1" translatable="false">私たちの主よ！私たちにあなたの許しをお与えください—私と私の両親、そしてすべての信者たちに—計算の日において。</string>
+    <string name="text_and_strengthen_your_imaan_1" translatable="false">アッラーは、誰にもその耐えられない重荷を課すことはありません。彼が行った良いことには報酬が与えられ、悪いことには罰が与えられます。「私たちの主よ！私たちが忘れたり、過ちを犯したりした場合に、私たちを罰しないでください。私たちの主よ！私たちが先に行った人々に課したような重荷を私たちに課さないでください。私たちの主よ！私たちが耐えられないことを私たちに課さないでください。私たちを赦し、免責し、私たちに慈悲をお与えください。あなたは私たちの保護者であり、不信心者に対して私たちを勝利させてください。」</string>
+    <string name="text_evil_eye_1">私はアッラーの完璧な言葉に避け所を求めます、彼が創造したものの悪から。</string>
+    <string name="text_against_enemies_1" translatable="false">おお神よ、あなたは書を啓示し、速やかに裁きを下す方、軍隊を打ち負かし、おお神よ、彼らを打ち負かし、震えさせてください！</string>
+    <string name="text_calamities_1" translatable="false">アッラーの名において、彼の名のもとでは、地上でも天上でも何事も害をなすことはありません。そして彼は全知であり、全能です。（三度）</string>
+    <string name="text_you_siblings_1" translatable="false">おお、私の主よ！私を私の兄弟を赦し、あなたの慈悲の中に私たちを迎えてください。あなたこそが最も慈悲深い方です。</string>
+    <string name="text_during_illness_1" translatable="false">[スラ・アル・イクラス] 言え：彼こそは神、唯一の神である。神は永遠であり、彼は生まれず、また生まれさせられることもなく、彼に匹敵する者はいません。[スラ・アル・ファラク] 言え：「私は創造主のもとに避け所を求めます、創造したものの悪から、暗闇が迫るときの悪から、結び目に吹きかける者たちの悪から、そして嫉妬者が嫉妬することの悪から。」[スラ・アル・ナス] 言え：「私は人々の主、王、神のもとに避け所を求めます、隠れてささやく者から、人々の心にささやく者から、ジンや人間の者たちから。」</string>
+    <string name="text_difficult_times_1" translatable="false">私たちの主よ！私たちに忍耐を降り注ぎ、私たちをイスラム教徒として亡くさせてください。</string>
+    <string name="text_of_quran_1" translatable="false">[スラ・アル・イクラス] 言え：彼こそは神、唯一の神である。神は永遠であり、彼は生まれず、また生まれさせられることもなく、彼に匹敵する者はいません。</string>
+    <string name="string_prayer_time_will_begin">祈りの時間は %s 分後に始まります</string>
+    <string name="string_prayer_time_will_begin_s">祈りの時間は %s 分後に始まります</string>
+    <string name="string_praying_time_adjustment">%s 分</string>
+    <string name="string_plus_praying_time_adjustment">+%s 分</string>
+    <string name="string_not_adjusted">調整なし</string>
+    <string name="string_it_will_correct_the_corresponding">グレゴリオ暦に関して、イスラム暦の対応する日付を修正します。</string>
+    <string name="string_settings">設定</string>
+    <string name="string_english">英語</string>
+    <string name="string_time_calculator">時間計算機</string>
+    <string name="string_calculator_method">計算方法</string>
+    <string name="string_manual_setting">手動設定</string>
+    <string name="string_praying_time_adjustment_setting">祈りの時間調整</string>
+    <string name="string_date_correction">日付修正</string>
+    <string name="string_notification_bar">通知バー</string>
+    <string name="string_fixed_countdown_on_notification">通知に固定のカウントダウン</string>
+    <string name="string_other">その他</string>
+    <string name="string_share">共有</string>
+    <string name="string_rate">評価</string>
+    <string name="string_private_policy">プライバシーポリシー</string>
+    <string name="string_exit">終了</string>
+    <string name="string_oh_no">おお、なんてことだ！</string>
+    <string name="string_please_give_us_some_feedback">ご意見をお聞かせください</string>
+    <string name="string_we_love_you_too">私たちもあなたを愛しています！</string>
+    <string name="string_thanks_for_your_feedback">ご意見ありがとうございます</string>
+    <string name="string_do_you_like_the_app">アプリは気に入りましたか？</string>
+    <string name="string_let_us_know_your_experience">あなたの体験をお聞かせください</string>
+    <string name="Please_feedback">ご意見をお聞かせください</string>
+    <string name="string_quran">コーラン</string>
+    <string name="string_thank_for_rate">アプリの評価をありがとうございます</string>
+    <string name="string_surah">スーラ</string>
+    <string name="string_juz">ジュズ</string>
+    <string name="string_quran_settings">コーラン設定</string>
+    <string name="string_translation">翻訳</string>
+    <string name="string_display">表示</string>
+    <string name="string_language_selection">言語選択</string>
+    <string name="string_content">コンテンツ</string>
+    <string name="string_font_amp_size"><![CDATA[フォントとサイズ]]></string>
+    <string name="string_audio">オーディオ</string>
+    <string name="string_reciter">朗読者</string>
+    <string name="string_translation_display">翻訳の表示</string>
+    <string name="string_phonetic_translation">音声翻訳</string>
+    <string name="string_language_translation">言語翻訳</string>
+    <string name="string_preview">プレビュー</string>
+    <string name="string_enable_audio">オーディオを有効にする</string>
+    <string name="string_auto_scroll_with_audio">オーディオに合わせて自動スクロール</string>
+    <string name="string_font_size">フォントサイズ</string>
+    <string name="string_font_style">フォントスタイル</string>
+    <string name="string_tasbih">タスビフ</string>
+    <string name="string_round">ラウンド :</string>
+    <string name="string_done">完了</string>
+    <string name="string_customize">カスタマイズ</string>
+    <string name="string_adjust_total_times">総回数の調整</string>
+    <string name="string_adjust_the_number_of_rounds">ラウンド数の調整</string>
+    <string name="string_reset">リセット</string>
+    <string name="string_do_you_want_to_reset_the_counter">カウンターをリセットしますか？</string>
+    <string name="string_continue_reading">読み続ける - %s</string>
+    <string name="text_location_1" translatable="false">位置情報が有効ではありません</string>
+    <string name="text_location_2" translatable="false">すべての機能を使用するには位置情報を有効にしてください</string>
+    <string name="text_bookmark_duas" translatable="false">ブックマークアイコンをタップして、デュアをブックマークに追加してください</string>
+    <string name="text_bookmark_azkar" translatable="false">ブックマークアイコンをタップして、アズカルをブックマークに追加してください</string>
+    <string name="text_sample" translatable="false">これはサンプルファイルです</string>
+    <string name="text_date_comparison">日付比較</string>
+    <string name="text_gregrorian_calendar" translatable="false">グレゴリオ暦</string>
+    <string name="text_islamic_calendar" translatable="false">イスラム暦</string>
+    <string name="text_praying_time" translatable="false">祈りの時間</string>
+    <string name="title_activity_islam_map" translatable="false">イスラムマップアクティビティ</string>
+    <string name="string_indonesian" translatable="false">インドネシア語</string>
+    <string name="string_urdu" translatable="false">ウルドゥー語</string>
+    <string name="string_hindi" translatable="false">ヒンディー語</string>
+    <string name="string_turkish" translatable="false">トルコ語</string>
+    <string name="string_salah" translatable="false">サラート</string>
+    <string name="string_please_select_language">言語を選択してください</string>
+    <string name="string_please_connect_to_the_internet_to_use_this_feature">この機能を使用するにはインターネットに接続してください</string>
+    <string name="string_please_connect_to_the_internet_to_play_audio">オーディオを再生するにはインターネットに接続してください</string>
+    <string name="string_pin_app_widget_is_not_supported">アプリのウィジェットをピン留めすることはサポートされていません</string>
+    <string name="string_please_customize_the_number_of_round">ラウンド数をカスタマイズしてください</string>
+    <string name="string_please_enter_the_value_of_the_number_of_rounds">ラウンド数の値を入力してください！</string>
+    <string name="string_value_of_the_number_of_rounds_that_exist">存在するラウンド数の値</string>
+    <string name="string_let_me_recommend_you_this_application">このアプリをおすすめします</string>
+    <string name="string_search">検索</string>
+    <string name="string_add_to_home_screen">ホーム画面に追加</string>
+    <string name="string_rotate_your_phone_until_the_mecca_appear">電話を回転させて、メッカの大モスクが表示されるまで待機</string>
+    <string name="string_round_10">ラウンド数の最小値は10です</string>
+    <string name="string_tarawih">タラウィフ</string>
+    <string name="string_tarawih_prayer">タラウィフの祈り</string>
+    <string name="string_dialog_tarawih_1">最新の機能を紹介します: <![CDATA[<b>タラウィフ</b>]]> と <![CDATA[<b>ラマダンの挨拶ガイド</b>]]> が利用可能です</string>
+    <string name="string_dialog_tarawih_2">そこへ行く</string>
+    <string name="string_text_size">テキストサイズ</string>
+    <string name="string_text_shadow">テキストの影</string>
+    <string name="string_background_blur">背景のぼかし</string>
+    <string name="string_font_style_ramadan">ラマダンのフォントスタイル</string>
+    <string name="string_color">色</string>
+    <string name="string_send">送信</string>
+    <string name="string_background">背景</string>
+    <string name="string_app_download_link">アプリのダウンロードリンク</string>
+    <string name="string_share_image">画像を共有</string>
+    <string name="string_click_here_to_download_the_app">アプリをダウンロードするにはここをクリックしてください: %s</string>
+    <string name="string_greeting">挨拶</string>
+    <string name="string_grant_permissions_later">後で権限を付与</string>
+    <string name="string_notification">通知</string>
+    <string name="string_location_permission">位置情報の権限</string>
+    <string name="string_notification_permission">通知の権限</string>
+    <string name="string_appear_on_top_permission">トップに表示する権限</string>
+    <string name="string_des_location_quibla">アプリはキブラを有効にするために位置情報の権限が必要です</string>
+    <string name="string_des_location_islam_map">アプリはイスラムマップを有効にするために位置情報の権限が必要です</string>
+    <string name="string_des_location_widget">アプリはウィジェットを有効にするために位置情報の権限が必要です</string>
+    <string name="string_des_notification_widget">アプリはウィジェットを有効にするために通知の権限が必要です</string>
+    <string name="string_des_appear_on_top_widget">アプリはウィジェットを有効にするためにトップに表示する権限が必要です</string>
+    <string name="string_des_location_home">アプリは祈りの時間を取得するために位置情報の権限が必要です</string>
+    <string name="string_des_notification_home">アプリは祈りの時間に通知を送信するために通知の権限が必要です</string>
+    <string name="string_des_appear_on_top_home">アプリは祈りの通知画面を表示するためにトップに表示する権限が必要です</string>
+    <string name="string_you_can_select_location">位置を選択できます</string>
+    <string name="string_you_can_select_notification">通知を選択できます</string>
+    <string name="string_you_can_select_appear_on_top">トップに表示を選択できます</string>
+    <string name="permission_description" translatable="false">アプリはリマインダー機能が正常に動作するために前景サービスの権限を使用する必要があります。この機能を使うと、ユーザーは毎日の祈り（ファジュル、朝、ズフル、アスル、マグリブ、イシャ）をアラームで設定できます。</string>
+    <string name="permission_description_update_information" translatable="false">アプリに追加されたウィジェットにデータを更新するために前景サービスの権限（FOREGROUND_SERVICE_SPECIAL_USE）を使用する必要があります。この権限を使用させてください。ありがとうございます。</string>
+    <string name="permission_description_fixed_countdown" translatable="false">アプリは通知を表示するために前景サービスの権限（FOREGROUND_SERVICE_SPECIAL_USE）を使用する必要があります。この通知には次の祈りの時間、祈りまでのカウントダウン、今日のイスラム暦の日が表示されます。この権限を使用させてください。ありがとうございます。</string>
+    <string name="string_go">行く</string>
+    <string name="string_continue">続ける</string>
+    <string name="string_skip">スキップ</string>
+    <string name="string_are_you_sure_exit_the_app">本当にアプリを終了してもよろしいですか？</string>
+    <string name="string_yes">はい</string>
+    <string name="string_no">いいえ</string>
+    <string name="str_kareem">カリーム</string>
+    <string name="ramadan_is_a_time_for_reflection_and_gratitude_may_you_be_granted_the_strength_to_practice_your_faith_the_patience_to_overcome_challenges_and_the_joy_in_every_moment_ramadan_mubarak">ラマダンは反省と感謝の時間です。信仰を実践する力、課題を乗り越える忍耐力、そしてすべての瞬間に喜びが与えられますように。ラマダンムバラク！</string>
+    <string name="str_picture_color">画像の色</string>
+    <string name="title_intro_1">コーランと毎日のデュア</string>
+    <string name="title_intro_2">キブラコンパス</string>
+    <string name="title_intro_3">祈りの時間</string>
+    <string name="title_intro_4">イスラム暦</string>
+    <string name="content_intro_1">コーランを読んで聴き、毎日のデュアやアズカルを探求できます。</string>
+    <string name="content_intro_2">どこにいても簡単にキブラの方向を見つけることができます。</string>
+    <string name="content_intro_3">祈りを逃さない：正確な時間、常に時間通り。</string>
+    <string name="content_intro_4">ラマダン、イード・アルフィトル、イード・アルアダなどの重要な日付を追跡できます。</string>
+    <string name="please_select_language">言語を選択してください</string>
+    <string name="str_zakat">ザカート</string>
+    <string name="str_allah">アッラー</string>
+    <string name="continue_rotate_title">カアバが中央に表示されるまで電話を回転させてください。</string>
+    <string name="success_destination">これがキブラの方向です！</string>
+    <string name="north_title">北 (N)</string>
+    <string name="northeast_title">北東 (NE)</string>
+    <string name="east_title">東 (E)</string>
+    <string name="southeast_title">南東 (SE)</string>
+    <string name="south_title">南 (S)</string>
+    <string name="southwest_title">南西 (SW)</string>
+    <string name="west_title">西 (W)</string>
+    <string name="northwest_title">北西 (NW)</string>
+    <string name="bookmark_title">ブックマーク</string>
+    <string name="round_title">ラウンド</string>
+    <string name="adjust_rounds_title">ラウンドを調整</string>
+    <string name="currency_unit">通貨単位</string>
+    <string name="calculate_zakat">ザカートの計算</string>
+    <string name="total_amount_of_zakat">ザカートの総額</string>
+    <string name="property_information">財産情報</string>
+    <string name="str_gold">金</string>
+    <string name="str_silver">銀</string>
+    <string name="str_money">お金</string>
+    <string name="str_investment">投資</string>
+    <string name="business_assets">ビジネス資産</string>
+    <string name="other_savings">その他の貯金</string>
+    <string name="str_debt">負債</string>
+    <string name="str_nisab">ニサーブ</string>
+    <string name="str_find">探す</string>
+    <string name="str_unknown">不明</string>
+    <string name="loading_data_mosque_please_wait">モスクのデータを読み込んでいます。しばらくお待ちください...</string>
+    <string name="allah_99_name_title">アッラーの99の名前</string>
+    <string name="the_most_or_entirely_merciful">最もまたは完全に慈悲深い</string>
+    <string name="the_bestower_of_mercy">慈悲の授与者</string>
+    <string name="the_king_and_owner_of_dominion">支配の王および所有者</string>
+    <string name="the_absolutely_pure">絶対的に清純な者</string>
+    <string name="the_perfection_and_giver_of_peace">完全と平和を授ける者</string>
+    <string name="the_one_who_gives_emaan_and_security">信仰と安全を授ける者</string>
+    <string name="the_guardian">守護者</string>
+    <string name="the_witness">証人</string>
+    <string name="the_overseer">監督者</string>
+    <string name="the_all_mighty">全能者</string>
+    <string name="the_compeller">強制者</string>
+    <string name="_the_restorer">回復者</string>
+    <string name="the_supreme">至高の者</string>
+    <string name="_the_majestic">威厳ある者</string>
+    <string name="the_creator">創造者</string>
+    <string name="_the_maker">作り手</string>
+    <string name="the_originator">創始者</string>
+    <string name="the_fashioner">形作る者</string>
+    <string name="the_all_and_oft_forgiving">常にそして何度も赦す者</string>
+    <string name="the_subduer">征服者</string>
+    <string name="the_ever_dominating">常に支配する者</string>
+    <string name="the_giver_of_gifts">贈り物の授与者</string>
+    <string name="the_provider">供給者</string>
+    <string name="the_opener">開放者</string>
+    <string name="_the_judge">裁判官</string>
+    <string name="the_all_knowing">全知の者</string>
+    <string name="_the_omniscient">全知の者</string>
+    <string name="the_withholder">保留者</string>
+    <string name="the_extender">拡大者</string>
+    <string name="the_reducer">減少者</string>
+    <string name="the_abaser">卑しめる者</string>
+    <string name="the_exalter">高める者</string>
+    <string name="_the_elevator">昇進者</string>
+    <string name="the_honourer">栄光を与える者</string>
+    <string name="the_bestower">授与者</string>
+    <string name="the_dishonourer">名誉を傷つける者</string>
+    <string name="the_humiliator">屈辱を与える者</string>
+    <string name="the_all_hearing">全てを聞く者</string>
+    <string name="the_all_seeing">全てを見通す者</string>
+    <string name="the_judge">裁判官</string>
+    <string name="_the_giver_of_justice">正義を与える者</string>
+    <string name="the_utterly_just">完全に正義の者</string>
+    <string name="the_subtle_one">微細なる者</string>
+    <string name="the_most_gentle">最も優しい者</string>
+    <string name="the_acquainted">熟知する者</string>
+    <string name="the_all_aware">全てを意識する者</string>
+    <string name="the_most_forbearing">最も寛容な者</string>
+    <string name="the_forgiving">許す者</string>
+    <string name="the_exceedingly_forgiving">非常に許す者</string>
+    <string name="the_most_appreciative">最も感謝する者</string>
+    <string name="the_most_high">最も高き者</string>
+    <string name="_the_exalted">崇高なる者</string>
+    <string name="the_greatest">最も偉大な者</string>
+    <string name="the_preserver">保存者</string>
+    <string name="the_sustainer">支える者</string>
+    <string name="the_reckoner">計算者</string>
+    <string name="the_most_generous">最も寛大な者</string>
+    <string name="the_responsive">応答者</string>
+    <string name="the_all_wise">全てを知恵で導く者</string>
+    <string name="the_guide">導く者</string>
+    <string name="the_ever_lasting">永遠なる者</string>
+    <string name="the_patient">忍耐強い者</string>
+    <string name="no_data">データなし</string>
+    <string name="get_started_title">開始</string>
+    <string name="radar_title">レーダー</string>
+    <string name="radar_content">デバイスはこの機能をサポートしていません。</string>
+    <string name="exit_the_app_title">アプリを終了しますか？</string>
+    <string name="what_problems_you_encounter_during_use">使用中にどのような問題が発生しましたか？</string>
+    <string name="restart">再起動</string>
+    <string name="nothing_interesting_anymore">もう興味がない</string>
+    <string name="explore">探索する</string>
+    <string name="still_uninstall">それでもアンインストールする</string>
+    <string name="why_uninstall_application">なぜアプリをアンインストールしますか？</string>
+    <string name="difficult_to_use">使いにくい</string>
+    <string name="too_many_ads">広告が多すぎる</string>
+    <string name="others">その他</string>
+    <string name="please_enter_the_reason_why_uninstall_application">アプリをアンインストールする理由を入力してください</string>
+    <string name="don_t_uninstall_yet">まだアンインストールしないでください</string>
+    <string name="loading_0">読み込み中 (0%)...</string>
+    <string name="loading_splash">"読み込み中 "</string>
+    <string name="prayer_reminder_not_working">礼拝リマインダーが動作しません</string>
+    <string name="qibla_compass_not_working">キブラコンパスが動作しません</string>
+    <string name="uninstall">アンインストール</string>
+
+</resources>

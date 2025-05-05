@@ -1,0 +1,1316 @@
+<resources>
+    <string name="app_name" translatable="false">Muslim Prayer - Quran Compass</string>
+    <string name="string_this_action_can_contain_ads">This action can contain ads</string>
+    <string name="string_language">Language</string>
+    <string name="string_next">Next</string>
+    <string name="string_permission">Permission</string>
+    <string name="string_allow_per_we_muslim">Muslim Prayer - Quran Compass requires permission to use the device’s location, appear on top and notification (with android 13 and above)</string>
+    <string name="string_location">Location</string>
+    <string name="string_appear_on_top">Appear on top</string>
+    <string name="string_allow_notification">Allow notification</string>
+    <string name="string_you_need_to_accept_full_permission">You need to accept full permission to use the app</string>
+    <string name="string_you_need_to_enable_permission_to_use_this_features">You need to enable permission to use this features</string>
+    <string name="go_to_setting">Go to setting</string>
+    <string name="string_cancel">Cancel</string>
+    <string name="string_save">Save</string>
+    <string name="string_juristic_method">Juristic Method</string>
+    <string name="string_adjust_islamic_calendar">Adjust Islamic Calendar</string>
+
+    <!--Azkar-->
+    <string name="string_azkar">Azkar</string>
+    <string name="string_daily_dhikr">Daily Dhikr</string>
+    <string name="string_daily_dhikr_1">Darood-E-Ibraheemi</string>
+    <string name="string_daily_dhikr_2">Apter Salah(Preyer) Tasbeeh</string>
+    <string name="string_daily_dhikr_3">Everyday Duas</string>
+    <string name="string_daily_dhikr_4">Before Starting Anything</string>
+    <string name="string_daily_dhikr_5">For This Word And The Aakhira</string>
+    <string name="string_daily_dhikr_6">For Protection And Help From Allah</string>
+    <string name="string_daily_dhikr_7">Reward Of One-Third Of Quran</string>
+    <string name="string_daily_rememberence">Daily Rememberence</string>
+    <string name="string_daily_rememberence_1">Morning Rememberence</string>
+    <string name="string_daily_rememberence_2">Evening Rememberence</string>
+    <string name="string_after_prayer">After Prayers</string>
+    <string name="string_after_prayer_1">After Salah (Prayer) Tasbeeh</string>
+    <string name="string_after_prayer_2">After Prayer Remembrances</string>
+    <string name="string_after_prayer_3">Offer Salah Regularly</string>
+    <string name="string_after_prayer_4">For Protection And Help From Allah</string>
+    <string name="string_Rizq_sustenance">Rizq (Sustenance)</string>
+    <string name="string_Rizq_sustenance_1">For Rizq (Sustenance)</string>
+    <string name="string_Rizq_sustenance_2">When You Are In Need</string>
+    <string name="string_Rizq_sustenance_3">For Forgiveness And Allah’s Mercy</string>
+    <string name="string_Rizq_sustenance_4">For Praising Allah</string>
+    <string name="string_Rizq_sustenance_5">For Success</string>
+    <string name="string_knowledge">Knowledge</string>
+    <string name="string_knowledge_1">Increase In Knowledge</string>
+    <string name="string_knowledge_2">Grant Me Confidence And Eloquence</string>
+    <string name="string_knowledge_3">For Protection From Ignorance</string>
+    <string name="string_knowledge_4">Protection From Foolishness</string>
+    <string name="string_faith">Faith</string>
+    <string name="string_faith_1">Strengthen Your Imaan</string>
+    <string name="string_faith_2">To Make Us Practicing Muslims</string>
+    <string name="string_faith_3">Seek Forgiveness And Strengthen Your Imaan</string>
+    <string name="string_faith_4">Pledge To Allah</string>
+    <string name="string_faith_5">For Righteous Company</string>
+    <string name="string_day_of_judgement">Day Of Judgement</string>
+    <string name="string_day_of_judgement_1">For This World And The Aakhira</string>
+    <string name="string_day_of_judgement_2">Seek Forgiveness And Protection From Hell</string>
+    <string name="string_day_of_judgement_3">For Forgiveness For Your Parent And All Muslims</string>
+    <string name="string_day_of_judgement_4">For Jannah</string>
+    <string name="string_forgiveness">Forgiveness</string>
+    <string name="string_forgiveness_1">Seek Forgiveness And Strengthen Your Imaan</string>
+    <string name="string_forgiveness_2">For Forgiveness</string>
+    <string name="string_forgiveness_3">For Forgiveness And Allah’s Mercy</string>
+    <string name="string_forgiveness_4">Seek Forgiveness And Protection From Hell</string>
+    <string name="string_forgiveness_5">For Forgiveness For Your Parent And All Muslims</string>
+    <string name="string_forgiveness_6">Forgiveness For Your Siblings</string>
+    <string name="string_forgiveness_7">For Asking Forgiveness For Yourself And Anyone Who Enters Your House</string>
+    <string name="string_forgiveness_8">For Repentance</string>
+    <string name="string_forgiveness_9">Strengthen Your Imaan</string>
+    <string name="string_forgiveness_10">Seek Allah’s Satisfaction</string>
+    <string name="string_praising_allah">Praising Allah</string>
+    <string name="string_praising_allah_1">For Praising And Glorifying Allah</string>
+    <string name="string_praising_allah_2">For Thanking Allah</string>
+    <string name="string_praising_allah_3">For Being Grateful To Allah</string>
+    <string name="string_praising_allah_4">On Hearing Good News</string>
+    <string name="string_praising_allah_5">For Rizq (Sustenance)</string>
+    <string name="string_praising_allah_6">For Leaving Everything In The Hands Of Allah</string>
+    <string name="string_protection">Protection</string>
+    <string name="string_protection_1">Protection And Help From Allah</string>
+    <string name="string_protection_2">Seek Forgiveness And Protection From Hell</string>
+    <string name="string_protection_3">For Protection From Satan/Shaytan</string>
+    <string name="string_protection_4">For Protection From The Evil Eye</string>
+    <string name="string_protection_5">To Keep Your Family Safe From Transgressors</string>
+    <string name="string_protection_6">For Your Child’s Protection</string>
+    <string name="string_protection_7">For Protection From Oppressors</string>
+    <string name="string_protection_8">For Protection Against Enemies</string>
+    <string name="string_protection_9">For Curbing Fear</string>
+    <string name="string_protection_10">For Protection From The Wrongdoers</string>
+    <string name="string_protection_11">For Parents</string>
+    <string name="string_protection_12">For Fear Of Committing Shirk</string>
+    <string name="string_protection_13">For This Wolrd And The Aakhira</string>
+    <string name="string_protection_14">To Be A Pious Muslim</string>
+    <string name="string_protection_15">For Righteous Company</string>
+    <string name="string_protection_16">Protection From Natural Disasters &amp; Calamities</string>
+    <string name="string_family">Family</string>
+    <string name="string_family_1">For Parent</string>
+    <string name="string_family_2">For Forgiveness For Your Parents And All Muslims</string>
+    <string name="string_family_3">Forgiviness For You Siblings</string>
+    <string name="string_family_4">For A Blissfull Family</string>
+    <string name="string_family_5">Asking Allah To Grant You A Child</string>
+    <string name="string_family_6">For Your Child’s Protection</string>
+
+
+    <string name="string_health_liness">Health / Iiness</string>
+    <string name="string_health_liness_1">For A Healthy Life</string>
+    <string name="string_health_liness_2">When Visiting The Sick</string>
+    <string name="string_health_liness_3">To Alleviate Pain</string>
+    <string name="string_health_liness_4">During Illness</string>
+    <string name="string_health_liness_5">Upon Seeing Someone Going Through A Trial Or Tribulation</string>
+    <string name="string_health_liness_6">If You Fall On Hard Times</string>
+    <string name="string_health_liness_7">When You Are Nearing Your Death</string>
+    <string name="string_health_liness_8">When Visiting Graves</string>
+
+    <string name="string_loss_failure">Loss / Failure</string>
+    <string name="string_loss_failure_1">When You Fail Or Lose At Something</string>
+    <string name="string_loss_failure_2">When A Loss Occurs</string>
+    <string name="string_loss_failure_3">When Stricken By Tragedy</string>
+    <string name="string_loss_failure_4">Upon Seeing Someone Going Through A Trial Or Tribulation</string>
+    <string name="string_loss_failure_5">For Seeking Allah’s Help</string>
+
+    <string name="string_sorrow_joy">Sorrow / Joy</string>
+    <string name="string_sorrow_joy_1">At Time Of Worry And Sorry</string>
+    <string name="string_sorrow_joy_2">When In Distress</string>
+    <string name="string_sorrow_joy_3">For Overcoming Your Weaknesses</string>
+    <string name="string_sorrow_joy_4">When Striken by Tragedy</string>
+    <string name="string_sorrow_joy_5">Upon Seeing Someone Going Through A Trial Or Tribulation</string>
+    <string name="string_sorrow_joy_6">On Hearing A Bad News</string>
+    <string name="string_sorrow_joy_7">If You Fall On Hard Times</string>
+    <string name="string_sorrow_joy_8">For Patience During Difficult Times</string>
+    <string name="string_sorrow_joy_9">When Someone Insults You</string>
+    <string name="string_sorrow_joy_10">When Feeling Frightened</string>
+    <string name="string_sorrow_joy_11">For Protection From The Wrongdoers</string>
+    <string name="string_sorrow_joy_12">For Seeking Allah’s Help</string>
+    <string name="string_sorrow_joy_13">To Trust Upon Allah</string>
+    <string name="string_sorrow_joy_14">On Hearing Good News</string>
+    <string name="string_sorrow_joy_15">When Someone Praises You</string>
+
+    <string name="string_patience">Patience</string>
+    <string name="string_patience_1">For Patience</string>
+    <string name="string_patience_2">For Patience During Difficult Times</string>
+    <string name="string_patience_3">For Controlling Your Anger</string>
+    <string name="string_patience_4">When Someone Insults You</string>
+
+    <string name="string_debt">Debt</string>
+    <string name="string_debt_1">Settle A Debt</string>
+    <string name="string_debt_2">For Someone Who Lens You Money</string>
+    <string name="string_debt_3">For Success</string>
+    <string name="string_debt_4">For Rizq (Sustenance)</string>
+
+    <string name="string_during_menstruation">During Menstruation</string>
+    <string name="string_during_menstruation_1">Darood-E-Ibraheemi</string>
+    <string name="string_during_menstruation_2">For This World And The Aakhira</string>
+    <string name="string_during_menstruation_3">For Forgiveness And Allah’s Mercy</string>
+    <string name="string_during_menstruation_4">Strengthen Your Imaan</string>
+    <string name="string_during_menstruation_5">To make Us Practicing Muslims</string>
+    <string name="string_during_menstruation_6">For Thanking Allah</string>
+    <string name="string_during_menstruation_7">To Be Pious Muslims</string>
+    <string name="string_during_menstruation_8">For A Healthy Life</string>
+    <string name="string_during_menstruation_9">To Alleviate Pain</string>
+    <string name="string_during_menstruation_10">If You Fall On Hard Times</string>
+    <string name="string_during_menstruation_11">For Seeking Allah’s Help</string>
+    <string name="string_during_menstruation_12">When In Distress</string>
+    <string name="string_during_menstruation_13">For Patience During Difficult Times</string>
+    <string name="string_during_menstruation_14">To Trust Upon Allah</string>
+
+    <!--Duas-->
+    <string name="string_duas">Duas</string>
+    <string name="string_daily">Daily</string>
+
+    <string name="string_sleeping">Sleeping</string>
+    <string name="string_sleeping_1">When You Wake Up</string>
+    <string name="string_sleeping_2">Before Sleeping</string>
+
+    <string name="string_toilet">Toilet</string>
+    <string name="string_toilet_1">Before Entering Toilet</string>
+    <string name="string_toilet_2">After Leaving Toilet</string>
+
+    <string name="string_ablution">Ablution</string>
+    <string name="string_ablution_1">When Start Ablution</string>
+    <string name="string_ablution_2">When Completing Ablution</string>
+
+    <string name="string_mosque">Mosque</string>
+    <string name="string_mosque_1">When Going To The Mosque</string>
+    <string name="string_mosque_2">Upon Entering Mosque</string>
+    <string name="string_mosque_3">Upon Leaving Mosque</string>
+
+    <string name="string_prayer">Prayer</string>
+    <string name="string_prayer_1">During Athan</string>
+    <string name="string_prayer_2">After Listening Athan</string>
+    <string name="string_prayer_3">After Takbeer (Start Of Prayer)</string>
+    <string name="string_prayer_4">During Ruku (Bowing Down In Prayer)</string>
+    <string name="string_prayer_5">While Prostrating Before Allah (In Sujood)</string>
+    <string name="string_prayer_6">When sitting Betwen 2 Sujood (Prostrations)</string>
+    <string name="string_prayer_7">Prostration During Quran Recitation</string>
+    <string name="string_prayer_8">When Sitting In Preyer (Tashahhud)</string>
+    <string name="string_prayer_9">Darood-E-Ibraheemi</string>
+    <string name="string_prayer_10">After Tashahhud</string>
+    <string name="string_prayer_11">Dua E Qunoot (Recited In Witr Prayer)</string>
+    <string name="string_prayer_12">After Fajr Prayer</string>
+
+    <string name="string_home">Home</string>
+    <string name="string_home_1">When Leaving Home</string>
+    <string name="string_home_2">Upon Entering Home</string>
+    <string name="string_home_3">When Going Up The Stairs / Ascending A Place</string>
+    <string name="string_home_4">When Coming Down Of Stairs / Descending From High Place</string>
+
+    <string name="string_garment">Garment</string>
+    <string name="string_garment_1">While Wearing Clothes</string>
+    <string name="string_garment_2">When Wearing New Clothes</string>
+    <string name="string_garment_3">When Looking Into The Mirror</string>
+
+    <string name="string_travel">Travel</string>
+    <string name="string_travel_1">For Travel</string>
+    <string name="string_travel_2">While Returning Form Travel</string>
+    <string name="string_travel_3">When Night Approaches During Travel</string>
+    <string name="string_travel_4">For Accommodation</string>
+    <string name="string_travel_5">Before Sleeping At Night During Traval</string>
+
+    <string name="string_food">Food</string>
+    <string name="string_food_1">When Beginning A Meal</string>
+    <string name="string_food_2">If One Forget To Mention Allah At The Beginning</string>
+    <string name="string_food_3">After Finishing A Meal</string>
+    <string name="string_food_4">When Given A Drink</string>
+    <string name="string_food_5">Upon Drinking Milk</string>
+    <string name="string_food_6">When Drinking At Someone’s House</string>
+    <string name="string_food_7">For Someone Who Offers You A Meal</string>
+    <string name="string_food_8">When Openning Your Fast</string>
+    <string name="string_food_9">For Someone Who Provides You With Iftar</string>
+
+    <string name="string_occasional">Occasional</string>
+
+    <string name="string_deceased">Deceased</string>
+    <string name="string_deceased_1">When A Loss Occurs</string>
+    <string name="string_deceased_2">When Visiting Graves</string>
+    <string name="string_deceased_3">When Offering Condolenca</string>
+    <string name="string_deceased_4">When Closing The Eyes Of The Deceased</string>
+    <string name="string_deceased_5">For The Deceased At The Funeral Prayer</string>
+    <string name="string_deceased_6">When Placing The Deceased In The Grave</string>
+
+    <string name="string_haj_umrah">Hajj / Umrah</string>
+    <string name="string_haj_umrah_1">Tabihya</string>
+    <string name="string_haj_umrah_2">Takbeer When Passing The Black Stone</string>
+    <string name="string_haj_umrah_3">Upon Reaching The Yemeni Corner During Tawaf</string>
+    <string name="string_haj_umrah_4">While Going To Mount safa</string>
+    <string name="string_haj_umrah_5">When At Mount Safa And Mount Marwah</string>
+    <string name="string_haj_umrah_6">For Reciting At Al-Mash’ar Al-Haraam (Muzdalifah)</string>
+    <string name="string_haj_umrah_7">When Throwing Stone At Jamaraat</string>
+    <string name="string_haj_umrah_8">At Arafat</string>
+    <string name="string_haj_umrah_9">When Sacrificing An Animal</string>
+
+    <string name="string_ramadan">Ramadan</string>
+    <string name="string_ramadan_1">When Openning Your Fast</string>
+    <string name="string_ramadan_2">For The Night Of Destiny (Lailatul Qadr)</string>
+    <string name="string_ramadan_3">For Someone Who Provides You With Iftar</string>
+    <string name="string_ramadan_4">On The Sighting Of The Crescent Moon</string>
+
+    <string name="string_nature">Nature</string>
+    <string name="string_nature_1">For Rain</string>
+    <string name="string_nature_2">When It Rains</string>
+    <string name="string_nature_3">After Rainfall</string>
+    <string name="string_nature_4">When There Is Excessive Rain</string>
+    <string name="string_nature_5">Upon Hearing Thunder</string>
+    <string name="string_nature_6">During A Windstorm</string>
+
+    <string name="string_good_ettiquete">Good ettiquete</string>
+    <string name="string_good_ettiquete_1">For Greeting People</string>
+    <string name="string_good_ettiquete_2">When Responding To Salam</string>
+    <string name="string_good_ettiquete_3">For Thanhing Someone</string>
+    <string name="string_good_ettiquete_4">Upon Sneezing</string>
+    <string name="string_good_ettiquete_5">Upon Hearing Someone Sneeze</string>
+    <string name="string_good_ettiquete_6">Sneezers Replies Back</string>
+    <string name="string_good_ettiquete_7">When Entering The Marketplace</string>
+    <string name="string_good_ettiquete_8">At The End Of A Gathering/Majlis</string>
+    <string name="string_good_ettiquete_9">When Someone Praises You</string>
+
+    <string name="string_decision_guidance">Decision / Guidance</string>
+    <string name="string_decision_guidance_1">For Istikhara</string>
+    <string name="string_decision_guidance_2">For Justice</string>
+    <string name="string_decision_guidance_3">Seek Allah’s Guidance</string>
+    <string name="string_decision_guidance_4">Seek Allah’s Satisfaction</string>
+    <string name="string_decision_guidance_5">For Success</string>
+    <string name="string_decision_guidance_6">Strengthen Your Imaan</string>
+
+    <string name="app_widget_description_time">Widget Muslim Prayer Time</string>
+    <string name="app_widget_description_azkar">Widget Muslim Azkar</string>
+
+
+    <!--    When you wake up-->
+    <string name="text_wake_up_1" translatable="false">All praise is for Allah who restored to me my health and returned my soul and has allowed me to remember Him.</string>
+    <string name="text_wake_up_2" translatable="false">The Prophet said : ‘Whoever awakes at night and then says:‘None has the right to be worshipped except Allah, alone without associate, to Him belongs sovereignty and praise and He is over all things wholly capable. How perfect Allah is, and all praise is for Allah, and none has the right to be worshipped except Allah, Allah is the greatest and there is no power nor might except with Allah, The Most High, The Supreme.nand then supplicates:‘O my Lord forgive me.’ …will be forgiven’ “or he said: ‘and then asks, he will be answered.If he then performs ablution and prays, his prayer will be accepted’.</string>
+    <string name="text_wake_up_3" translatable="false">All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.</string>
+    <!--    Before  sleeping-->
+    <string name="text_sleeping_1" translatable="false">In Your name my Lord, I lie down and in Your name I rise, so if You should take my soul then have mercy upon it, and if You should return my soul then protect it in the manner You do so with Your righteous servants.</string>
+    <string name="text_sleeping_2" translatable="false">O Allah, verily You have created my soul and You shall take its life, to You belongs its life and death. If You should keep my soul alive then protect it, and if You should take its life then forgive it. O Allah, I ask You to grant me good health.’</string>
+    <string name="text_sleeping_3" translatable="false">O Allah, protect me from Your punishment on the day Your servants are resurrected.</string>
+    <string name="text_sleeping_4" translatable="false">In Your name O Allah, I live and die.</string>
+    <string name="text_sleeping_5" translatable="false">All praise is for Allah, Who fed us and gave us drink, and Who is sufficient for us and has sheltered us, for how many have none to suffice them or shelter them.</string>
+    <string name="text_sleeping_6" translatable="false">O Allah, Knower of the seen and the unseen, Creator of the heavens and the earth, Lord and Sovereign of all things I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.’ shirk: to associate others with Allah in those things which are specific to Him. This can occur in (1) belief, e.g. to believe that other than Allah has the power to benefit or harm, (2) speech, e.g. to swear by other than Allah and (3) action, e.g. to bow or prostrate to other than Allah.</string>
+    <string name="text_sleeping_7" translatable="false">O Allah, I submit my soul unto You, and I entrust my affair unto You, and I turn my face towards You, and I totally rely on You, in hope and fear of You. Verily there is no refuge nor safe haven from You except with You. I believe in Your Book which You have revealed and in Your Prophet whom You have sent.</string>
+    <string name="text_sleeping_8" translatable="false">Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great.</string>
+    <!--    Before entering toilet-->
+    <string name="text_entering_toilet_1" translatable="false">(In the name of Allah). O Allah, I take refuge with you from all evil and evil-doers.</string>
+    <!--    After leaving toilet-->
+    <string name="text_leaving_toilet_1" translatable="false">I ask You (Allah) for forgiveness.</string>
+    <!--    When starting ablution-->
+    <string name="text_starting_ablution_1" translatable="false">In the name of Allah.</string>
+    <!--    when completing ablution-->
+    <string name="text_completing_ablution_1" translatable="false">I bear witness that none has the right to be worshipped except Allah, alone without partner, and I bear witness that Muhammad is His slave and Messenger.</string>
+    <string name="text_completing_ablution_2" translatable="false">O Allah, make me of those who return to You often in repentance and make me of those who remain clean and pure.</string>
+    <string name="text_completing_ablution_3" translatable="false">How perfect You are O Allah, and I praise You, I bear witness that none has the right to be worshipped except You, I seek Your forgiveness and turn in repentance to You.</string>
+    <!--    When going to Mosque-->
+    <string name="text_going_to_mosque_1" translatable="false">O Allah, place within my heart light, and upon my tongue light, and within my ears light, and within my eyes light, and place behind me light and in front of me light and above me light and beneath me light. O Allah, bestow upon me light.</string>
+    <!--    Upon entering Mosque-->
+    <string name="text_entering_osque1" translatable="false">I take refuge with Allah, The Supreme and with His Noble Face, and His eternal authority from the accursed devil. In the name of Allah, and prayers and peace be upon the Messenger of Allah. O Allah, open the gates of Your mercy for me.</string>
+    <!--    Upon Leaving Mosque-->
+    <string name="text_leaving_mosque_1" translatable="false">In the name of Allah, and prayers and peace be upon the Messenger of Allah. O Allah, I ask You from Your favour. O Allah, guard me from the accursed devil.</string>
+    <!--    During athan-->
+    <string name="text_during_athan_1" translatable="false">There is no might and no power except by Allah.</string>
+    <!--    after listening athan-->
+    <string name="text_listening_athan_1" translatable="false">O Allah , Lord of this perfect call and established prayer. Grant Muhammad the intercession and favor, and raise him to the honored station You have promised him, [verily You do not neglect promises].</string>
+    <!--    After Takbeer-->
+    <string name="text_after_takbeer_1" translatable="false">I have turned my face sincerely towards He who has brought forth the heavens and the Earth and I am not of those who associate (others with Allah). Indeed my prayer, my sacrifice, my life and my death are for Allah, Lord of the worlds, no partner has He, with this I am commanded and I am of the Muslims. O Allah, You are the Sovereign, none has the right to be worshipped except You. You are my Lord and I am Your servant, I have wronged my own soul and have acknowledged my sin, so forgive me all my sins for no one forgives sins except You. Guide me to the best of characters for none can guide to it other than You, and deliver me from the worst of characters for none can deliver me from it other than You. Here I am, in answer to Your call, happy to serve you. All good is within Your hands and evil does not stem from You. I exist by your will and will return to you. Blessed and High are You, I seek Your forgiveness and repent unto You</string>
+    <string name="text_after_takbeer_2" translatable="false">O Allah! separate me from my sins as You have separated the East from the West. O Allah, cleanse me of my transgressions as the white garment is cleansed of stains. O Allah! wash away my sins with ice and water and frost.</string>
+    <string name="text_after_takbeer_3" translatable="false">Glory is to You O Allah, and praise. Blessed is Your Name and Exalted is Your Majesty. There is none worthy of worship but You.</string>
+    <!--    During Ruku-->
+    <string name="text_during_ruku_1" translatable="false">Glory to my Lord the Exalted.</string>
+    <string name="text_during_ruku_2" translatable="false">Glory is to You , O Allah , our Lord , and praise is Yours . O Allah , forgive me.</string>
+    <string name="text_during_ruku_3" translatable="false">Glory (to You) , Most Holy (are You) , Lord of the angels and the Spirit.</string>
+    <string name="text_during_ruku_4" translatable="false">O Allah! to You I bow (in prayer) and in You I believe and to You I have submitted. Before You my hearing is humbled, as is my sight, my mind, my bones, my nerves and what my feet have mounted upon (for travel).</string>
+    <string name="text_during_ruku_5" translatable="false">Glory is to You, Master of power, of dominion, of majesty and greatness.</string>
+    //While prostrating before Allah
+    <string name="text_before_allah_1" translatable="false">Glory is to my Lord, the Most High.</string>
+    <string name="text_before_allah_2" translatable="false">Glory is to You , O Allah , our Lord , and praise is Yours . O Allah , forgive me.</string>
+    <string name="text_before_allah_3" translatable="false">Glory (to You) , Most Holy (are You) , Lord of the angels and the Spirit.</string>
+    <string name="text_before_allah_4" translatable="false">O Allah, to You I prostrate myself and in You I believe. To You I have submitted. My face is prostrated to the One Who created it, fashioned it, and gave it hearing and sight. Blessed is Allah, the Best of creators.</string>
+    <string name="text_before_allah_5" translatable="false">Glory is to You, Master of power, of dominion, of majesty and greatness.</string>
+    <string name="text_before_allah_6" translatable="false">O Allah, I seek protection in Your pleasure from Your anger, and I seek protection in Your forgiveness from Your punishment. I seek protection in You from You. I cannot count Your praises. You are as You have praised Yourself.</string>
+    <string name="text_before_allah_7" translatable="false">O Allah, forgive me all my sins, great and small, the first and the last, those that are apparent and those that are hidden.</string>
+    //When sitting between two Sujood
+    <string name="text_two_sujood_1">Lord, forgive me. My Lord, forgive me.</string>
+    <string name="text_two_sujood_2">O Allah forgive me, have mercy on me, guide me, support me, protect me, provide for me and elevate me.</string>
+    //prostration during quran recitation
+    <string name="text_quran_recitation_1" translatable="false">I have prostrated my face to the One Who created it, and gave it hearing and sight by His might and His power. Glory is to Allah, the Best of creators.</string>
+    //when sitting in preyer
+    <string name="text_in_preyer_1" translatable="false">All greetings of humility are for Allah, and all prayers and goodness. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous slaves of Allah. I bear witness that there is none worthy of worship but Allah, and I bear witness that Muhammad is His slave and His Messenger.</string>
+    //darood-e-ibraheemi
+    <string name="text_ibraheemi_1" translatable="false">O Allah, bestow Your favor on Muhammad and on the family of Muhammad as You have bestowed Your favor on Ibrahim and on the family of Ibrahim, You are Praiseworthy, Most Glorious. O Allah, bless Muhammad and the family of Muhammad as You have blessed Ibrahim and the family of Ibrahim, You are Praiseworthy, Most Glorious.</string>
+    //After tashahhud
+    <string name="text_after_tashahhud_1" translatable="false">O Allah, I seek refuge in You from the punishment of the grave, and I seek refuge in You from the trial of the False Messiah, and I seek refuge in You from the trials of life and death. O Allah, I seek refuge in You from sin and from debt.</string>
+    <string name="text_after_tashahhud_2" translatable="false">O Allah, I have greatly wronged myself and no one forgives sins but You. So, grant me forgiveness and have mercy on me. Surely, you are Forgiving, Merciful.</string>
+    <string name="text_after_tashahhud_3" translatable="false">O Allah, forgive me what I have sent before me and what I have left behind me, what I have concealed and what I have done openly, what I have done in excess , and what You are better aware of than I . You are the One Who sends forth and You are the One Who delays . There is none worthy of worship but You.</string>
+    //Dua e qunoot (recited in witr prayer)
+    <string name="text_e_qunoot_1" translatable="false">O Allah! We implore You for help and beg forgiveness of You and believe in You and rely on You and extol You and we are thankful to You and are not ungrateful to You and we alienate and forsake those who disobey You. O Allah! You alone do we worship and for You do we pray and prostrate and we betake to please You and present ourselves for the service in Your cause and we hope for Your mercy and fear Your chastisement. Undoubtedly, Your torment is going to overtake infidels O Allah!</string>
+    //after fajr prayer
+    <string name="text_fajr_prayer_1" translatable="false">O Allah, I ask You for beneficial knowledge, and they had a good, and pursuant receptive</string>
+    //when leaving home
+    <string name="text_leaving_home_1" translatable="false">In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.</string>
+    <string name="text_leaving_home_2" translatable="false">O Allah, I take refuge with You lest I should stray or be led astray, or slip or be tripped, or oppress or be oppressed, or behave foolishly or be treated foolishly.’ slip: i.e. to commit a sin unintentionally</string>
+    //upon entering home
+    <string name="text_entering_home_1">In the name of Allah we enter and in the name of Allah we leave, and upon our Lord we place our trust.</string>
+    //when going up the stairs / ascending a place
+    <string name="text_the_stairs_1">All Praise is for Allah who has clothed me with this garment and provided it for me, with no power or might from myself.</string>
+    <string name="text_the_stairs_2">Allah is the greatest</string>
+    <string name="text_the_stairs_3">Praise God</string>
+    //when wearing new clothes
+    <string name="text_new_clothes_1">O Allah, praise is to You. You have clothed me. I ask You for its goodness and the goodness of what it has been made for, and I seek Your protection from the evil of it and the evil of what it has been made for.</string>
+    //when looking into the mirror
+    <string name="text_the_mirror_1">O Allah, just as You have made my external features beautiful, make my character beautiful as well.</string>
+    //Travel
+    //for travel
+    <string name="text_for_travel_1">Glory unto Him Who created this transportation, for us, though we were unable to create it on our own. And unto our Lord we shall return.</string>
+    <string name="text_for_travel_2">My Lord! Let my entry (to the city of Al-Madinah) be good, and likewise my exit (from the city of Makkah) be good. And grant me from You an authority to help me (or a firm sign or a proof).</string>
+    //while returning form travel
+    <string name="text_form_travel_1">Allah is the greatest, Allah is the greatest, Allah is the greatest.\nNone has the right to be worshipped except Allah, alone, without partner. To Him belongs all sovereignty and praise, and He is over all things omnipotent. We return, repent, worship and praise our Lord. Allah fulfilled His promise, aided His Servant, and single-handedly defeated the allies.</string>
+    /when night approaches during travel
+    <string name="text_approaches_during_travel_1">O earth, my Lord and your Lord is God. I seek refuge in God from your polytheism, from the evil of what is within you, from the evil of what He created in you, and from the evil of what crawls upon you. I seek refuge in God from the lions, from the great black snakes, from other snakes, from the scorpions, and from the evil of the jinn that inhabit the lands. It is a father and his offspring</string>
+    //for accommodation
+    <string name="text_accommodation_1">My Lord, let me land at a blessed landing place, and You are the best to accommodate [us].</string>
+    //before sleeping at night during travel
+    <string name="text_during_travel_1">My Lord! I seek refuge with You from the whisperings (suggestions) of the Shayatin (devils). And I seek refuge with You, My Lord! lest they may attend (or come near) me.</string>
+    <string name="text_during_travel_2">I seek refuge with Allah against the Satan, the outcast.</string>
+    <string name="text_during_travel_3">I seek refuge in the Perfect Words of Allah from the evil of what He has created.</string>
+    //Food
+    //when beginning a meal
+    <string name="text_beginning_a_meal_1">In the name of Allah , the Entirely Merciful, the Especially Merciful.</string>
+    //if one forget to mention allah at the beginning
+    <string name="text_the_beginning_1">In the name of God, the beginning and the end</string>
+    //after finishing a meal
+    <string name="text_finishing_a_meal_1">Praise be to Allah Who has fed us and given us drink and made us Muslims.</string>
+    //when given a drink
+    <string name="text_a_drink_1">O Allah! Feed him who fed me and give him drink who gave me to drink.</string>
+    //upon drinking milk
+    <string name="text_drinking_milk_1">O Allah! Bless us in it and give us increase of it.</string>
+    //when dining at someone’s house
+    <string name="text_house_1">O Allah! Bless them in what You have provided for them, and forgive them and have Mercy on them.</string>
+    //for someone who offers you a meal
+    <string name="text_you_a_meal_1">O Allah, feed the one who has fed me and drink to the one who has given me drink.</string>
+    //when openning your fast
+    <string name="text_your_fast_1">O Allah! I fasted for You and I believe in You and I put my trust in You and I break my fast with Your sustenance</string>
+    //For someone who provides you with Iftar
+    <string name="text_with_iftar_1">With you, those who are fasting have broken their fast, you have fed those who are righteous, and the angels recite their prayers upon you.</string>
+
+    //Deceased
+    //when a loss occurs
+    <string name="text_loss_occurs_1" translatable="false">Indeed we belong to Allah , and indeed to Him we will return.</string>
+    //when visiting graves
+    <string name="text_visiting_graves_1" translatable="false">Oh Muslims residing here, salaams on you, by the will of Allah we will also be coming to you. We seek safety for us and you.</string>
+    //when offering condolenca
+    <string name="text_offering_condolenca_1" translatable="false">Surely, Allah takes what is His, and what He gives is His, and to all things He has appointed a time. So, have patience and be rewarded</string>
+    //when closing the eyes of the deceased
+    //For the deceased at the funeral prayer
+    <string name="text_funeral_prayer_1" translatable="false">O Allah, forgive him and have mercy on him and give him strength and pardon him. Be generous to him and cause his entrance to be wide and wash him with water and snow and hail. Cleanse him of his transgressions as white cloth is cleansed of stains. Give him an abode better than his home, and a family better than his family and a wife better than his wife. Take him into Paradise and protect him from the punishment of the grave [and from the punishment of Hell-fire].</string>
+    <string name="text_funeral_prayer_2" translatable="false">O Allah forgive our living and our dead, those who are with us and those who are absent, our young and our old, our menfolk and our womenfolk. O Allah, whomever you give life from among us give him life in Islam, and whomever you take way from us take him away in Faith. O Allah, do not forbid us their reward and do not send us astray after them.</string>
+    //When placing the deceased in the grave
+    <string name="text_the_graver_1">With the Name of Allah and according to the Sunnah of the Messenger of Allah</string>
+
+    //Hajj / Umrah
+    //tabihya
+    <string name="text_tabihya_1" translatable="false">Ever at Your service, O Allah, every at Your service. Ever at Your Service, You have no partner, ever at Your service. Verily all praise, blessings and dominions are Yours. You have no partner</string>
+    //takbeer when passing the black stone
+    <string name="text_black_stone_1" translatable="false">Allah is the Most Great!</string>
+    //upon reaching the yemeni corner during tawaf
+    <string name="text_during_tawaf_1" translatable="false">Our Lord! Grant us good in this world and good in the hereafter, and save us from the punishment of the Fire</string>
+    //while going to mount safa
+    <string name="text_mount_safa_1" translatable="false">I begin with what Allah began with.Allah is the greatest, Allah is the greatest, Allah is the greatest. None has the right to be worshipped except Allah, alone, without partner. To Him belongs all sovereignty and praise and He is over all things omnipotent. None has the right to be worshipped except Allah alone. He fulfilled His promise, aided His Servant and single-handedly defeated the allies.</string>
+    //When at Mount Safa and Mount Marwah
+    <string name="text_mount_marwah_1" translatable="false">I begin with what Allah began with.Allah is the greatest, Allah is the greatest, Allah is the greatest. None has the right to be worshipped except Allah, alone, without partner. To Him belongs all sovereignty and praise and He is over all things omnipotent. None has the right to be worshipped except Allah alone. He fulfilled His promise, aided His Servant and single-handedly defeated the allies.</string>
+    //for reciting at al-mash’ar al-haraam (muzdalifah)
+    <string name="text_al_haraam_1" translatable="false">Allah is the Most Great. Allah is One. There is none worthy of worship but Allah.</string>
+    //when throwing stone at jamaraat
+    <string name="text_at_jamaraat_1" translatable="false">Allah is the Most Great!</string>
+    //at arafat
+    <string name="text_at_arafat_1" translatable="false">None has the right to be worshiped except Allah, alone, without partner. To Him belongs sovereignty and all praise and He is over all things omnipotent.</string>
+    //When sacrificing an animal
+    <string name="text_an_animal_1">With the Name of Allah, Allah is the Most Great! [O Allah, from You and to You.] O Allah, accept it from me.</string>
+
+    //Ramadan
+    //When openning your fast
+    <string name="text_openning_your_fast_1" translatable="false">O Allah! I fasted for You and I believe in You and I put my trust in You and I break my fast with Your sustenance</string>
+    //For the night of destiny
+    <string name="text_of_destiny_1" translatable="false">O Allah You are The One Who forgives greatly, and loves to forgive, so forgive me</string>
+    //For someone who provides you with Iftar
+    <string name="text_you_with_iftar_1" translatable="false">With you, those who are fasting have broken their fast, you have fed those who are righteous, and the angels recite their prayers upon you.</string>
+    //on the sighting of the crescent moon
+    <string name="text_crescent_moon_1" translatable="false">Allah is the Most Great. O Allah, bring us the new moon with security and Faith, with peace and in Islam, and in harmony with what our Lord loves and what pleases Him. Our Lord and your Lord is Allah.</string>
+
+    //Nature
+    //For rain
+    <string name="text_for_rain_1" translatable="false">O Allah, shower upon us abundant rain, beneficial not harmful, swiftly and not delayed.</string>
+    //when it rains
+    <string name="text_it_rains_1" translatable="false">O Allah, (bring) beneficial rain clouds.</string>
+    //after rainfall
+    <string name="text_after_rainfall_1" translatable="false">We have been given rain by the grace and mercy of Allah.</string>
+    <string name="text_after_rainfall_2" translatable="false">O Allah, (bring) beneficial rain clouds.</string>
+    <string name="text_after_rainfall_3" translatable="false">O Allah, let it pass us and not fall upon us, but upon the hills and mountains, and the center of the valleys, and upon the forested lands.</string>
+    //Upon hearing thunder
+    <string name="text_hearing_thunder_1" translatable="false">Glory is to Him Whom thunder and angels glorify due to fear of Him.</string>
+    //During a windstorm
+    <string name="text_a_windstorm_1" translatable="false">O Allah , I ask You for the good of it and seek refuge in You against its evil.</string>
+
+    //Good ettiquete
+    //For greeting people
+    <string name="text_greeting_people_1" translatable="false">May the peace, mercy, and blessings of Allah be upon you</string>
+    //When responding to Salam
+    <string name="text_to_Salam_1" translatable="false">Wa’alaikum assalam wa rahmatullahi wa barakatuh</string>
+    //For thanking someone
+    <string name="text_thanking_someone_1" translatable="false">May Allah reward you with good.</string>
+    //upon hearing someone sneeze
+    <string name="text_someone_sneeze_1" translatable="false">May Allah have mercy upon you</string>
+    //Upon sneezing
+    <string name="text_Upon_sneezing_1" translatable="false">All praise is for Allah.</string>
+    //Sneezers replies back
+    <string name="text_replies_back_1" translatable="false">May Allah guide you and rectify your condition.</string>
+    //At the end of a Gathering/Majlis
+    <string name="text_a_Gathering_1" translatable="false">Glory is to You, O Allah, and praise is to You. I bear witness that there is none worthy of worship but You. I seek Your forgiveness and repent to You.</string>
+    //When entering market
+    <string name="text_entering_market_1" translatable="false">There is no Lord except Allah. He is One and has no partners. His is the Kingdom and for Him are all praises. He gives life and gives death. He is eternal and everlasting In His control is goodness, and He has power over everything.</string>
+    //When someone praises you
+    <string name="text_praises_you_1">O Allah, do not call me to account for what they say and forgive me for what they have no knowledge of [and make me better than they imagine].</string>
+
+    //decision / guidance
+    //For Istikhara
+    <string name="text_For_Istikhara_1" translatable="false">O Allah, I seek the counsel of Your Knowledge, and I seek the help of Your Omnipotence, and I beseech You for Your Magnificent Grace. Surely, You are Capable and I am not. You know and I know not, and You are the Knower of the unseen. O Allah, if You know that this matter [then mention the thing to be decided] is good for me in my religion and in my life and for my welfare in the life to come, - [or say: in this life and the afterlife] - then ordain it for me and make it easy for me, then bless me in it. And if You know that this matter is bad for me in my religion and in my life and for my welfare in the life to come, - [or say: in this life and the afterlife] - then distance it from me, and distance me from it, and ordain for me what is good wherever it may be, and help me to be content with it. Whoever seeks the counsel of the Creator will not regret it and whoever seeks the advice of the believers will feel confident about his decisions. Allah said in the Qur\'an: "And consult them in the affair. Then when you have taken a decision, put your trust in Allah."</string>
+    //For Justice
+    <string name="text_For_Justice_1" translatable="false">Our Lord! Decide Thou between us and our people in truth, for Thou art the best to decide.</string>
+    //Seek Allah's guidance
+    <string name="text_guidance_1" translatable="false">Praise to Allah , who has guided us to this; and we would never have been guided if Allah had not guided us.</string>
+    <string name="text_guidance_2" translatable="false">Allah is the best guardian, and He is the most merciful of the merciful.</string>
+    //Seek Allah's satisfaction
+    <string name="text_satisfaction_2" translatable="false">Our Lord! Make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful.</string>
+    //For success
+    <string name="text_for_success_1" translatable="false">My success is not but through Allah. Upon him I have relied, and to Him I return.</string>
+    //strengthen your imaan
+    <string name="text_your_imaan_1" translatable="false">My success is not but through Allah. Upon him I have relied, and to Him I return.</string>
+    <string name="text_your_imaan_2" translatable="false">I am pleased with Allah as a Lord, and Islam as a religion and Muhammad peace be upon to him as a Prophet. (three times)</string>
+    <string name="text_your_imaan_3" translatable="false">I seek refuge in Allah.</string>
+    <string name="text_your_imaan_4" translatable="false">I believe in Allah and His Messenger.</string>
+    <string name="text_your_imaan_5">Our Lord! Let not our hearts deviate (from the truth) after You have guided us, and grant us mercy from You. Truly, You are the Bestower.</string>
+
+    //
+    <string name="text_book_mark_duas" translatable="false">Bookmark - Duas</string>
+    <string name="text_book_mark_azkar" translatable="false">Bookmark - Azkar</string>
+    <string name="text_book_mark_quran" translatable="false">Bookmark</string>
+    <string name="text_ayah" translatable="false">Ayah</string>
+    <string name="text_islam_map" translatable="false">Islam map</string>
+    <string name="text_islam_map2" translatable="false">Nearby Mosques</string>
+    <string name="text_islam_map3" translatable="false">Nearby Restaurants</string>
+    <string name="text_islam_map4" translatable="false">Nearby Halal Restaurants</string>
+    <string name="text_day" translatable="false">Day</string>
+    <string name="text_days" translatable="false">Days</string>
+    <string name="text_no_wifi" translatable="false">No Wifi Connection</string>
+    <string name="text_no_wifi2" translatable="false">Please connect to wifi to use all the features of this app</string>
+    <string name="text_connect" translatable="false">Connect</string>
+    <string name="text_calculation_method" translatable="false">Calculation Method</string>
+    <string name="text_default_font" translatable="false">Default Font</string>
+    <string name="text_uthmanic_hafs" translatable="false">Uthmanic Hafs</string>
+    <string name="text_qibla" translatable="false">Qibla</string>
+    <string name="text_pray_now" translatable="false">Pray now</string>
+    <string name="text_praying_time_adj" translatable="false">Praying Time Adjustment</string>
+    <string name="text_All" translatable="false">All</string>
+    <string name="text_Fajrl" translatable="false">Fajr</string>
+    <string name="text_Sunrise" translatable="false">Sunrise</string>
+    <string name="text_Dhuhr" translatable="false">Dhuhr</string>
+    <string name="text_Asr" translatable="false">Asr</string>
+    <string name="text_Maghrib" translatable="false">Maghrib</string>
+    <string name="text_Isha" translatable="false">Isha</string>
+    <string name="text_Inaccurate" translatable="false">Inaccurate location? Tap me for</string>
+    <string name="text_feedback" translatable="false">Feedback</string>
+    <string name="text_Notification" translatable="false">Notification</string>
+    <string name="text_Vibrate" translatable="false">Vibrate</string>
+    <string name="Fajr" translatable="false">Fajr</string>
+    <string name="Sunrise" translatable="false">Sunrise</string>
+    <string name="Dhuhr" translatable="false">Dhuhr</string>
+    <string name="Asr" translatable="false">Asr</string>
+    <string name="Maghrib" translatable="false">Maghrib</string>
+    <string name="Isha" translatable="false">Isha</string>
+    <string name="text_minute" translatable="false">minute</string>
+    <string name="text_minutes" translatable="false">minutes</string>
+    <string name="text_share_reminder" translatable="false">Share Reminder</string>
+    <string name="text_Min" translatable="false">Min</string>
+    <string name="text_Next_prayer_in" translatable="false">Next prayer in:</string>
+    <string name="text_Pre_Notification" translatable="false">Pre-Notification</string>
+    <string name="text_Hanafi" translatable="false">Hanafi</string>
+    <string name="text_Shafi_Maliki_Hanbali" translatable="false">Shafi/ Maliki/ Hanbali</string>
+    <string name="text_Widget" translatable="false">Widget</string>
+    <string name="text_Convenient" translatable="false">Convenient</string>
+    <string name="text_Pray_anytime" translatable="false">Pray anytime, anywhere.\n Connect with your faith, no matter where you are</string>
+    <string name="text_intro1" translatable="false">Prayer Time’s Countdown &amp; Reminder</string>
+    <string name="text_intro2" translatable="false">Help you notice on your prayers time \n Never miss any daily prayers</string>
+    <string name="text_intro3" translatable="false">The perfect guide for your spiritual and culinary journey</string>
+    <string name="text_intro4" translatable="false">Read the Quran and Remember Azkar Every Day to Keep Your Spirit Strong</string>
+    <string name="title_intro4" translatable="false">Quran &amp; Azkar</string>
+    <string name="text_Prayer_Time" translatable="false">Prayer Time</string>
+    <string name="text_share_image" translatable="false">Share image</string>
+    <string name="text_translation" translatable="false">Translation:</string>
+    <string name="text_tap_to_test" translatable="false">Tap to test sound effect</string>
+    <string name="text_Sound_Setting" translatable="false">Sound Setting</string>
+    <string name="text_Page_Background" translatable="false">Page Background</string>
+    <string name="text_Pre_Adhan_reminder" translatable="false">Pre-Adhan Reminder</string>
+    <string name="text_all_the_setting" translatable="false">All the settings below will also be applied for Duas &amp; Azkar</string>
+    <string name="text_next_prayer" translatable="false">Next Prayer</string>
+    <string name="text_coming_prayers" translatable="false">Upcoming Prayers</string>
+
+
+    <!--Azkar-->
+    <string name="string_azkar_detail_arabic_1_1_1" translatable="false">اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكَ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</string>
+    <string name="string_azkar_detail_spelling_1_1_1" translatable="false">Allaahumma salli \'alaa Muhammadin wa \'alaa \'aali Muhammadin, kamaa sallayta \'alaa \'Ibraaheema wa \'alaa \'aali \'Ibraaheema, \'innaka Hameedun Majeed. Allaahumma baarik \'alaa Muhammadin wa \'alaa \'aali Muhammadin, kamaa baarakta \'alaa \'Ibraaheema wa \'alaa \'aali \'Ibraaheema, \'innaka Hameedun Majeed</string>
+
+    // Daily Dhikr
+    // Darood-e-ibraheemi
+    <string name="text_e_ibraheemi_1" translatable="false">O Allah, bestow Your favor on Muhammad and on the family of Muhammad as You have bestowed Your favor on Ibrahim and on the family of Ibrahim, You are Praiseworthy, Most Glorious. O Allah, bless Muhammad and the family of Muhammad as You have blessed Ibrahim and the family of Ibrahim, You are Praiseworthy, Most Glorious.</string>
+    //after salah (preyer) tasbeeh
+    <string name="text_tasbeeh_1" translatable="false">Glory be to Allah Praise be to Allah Allah is the greatest</string>
+    //everyday duas
+    <string name="text_duas_1" translatable="false">O Allah, I ask You for knowledge that is of benefit , a good provision , and deeds that will be accepted.</string>
+    <string name="text_duas_2" translatable="false">O Allah , I ask You for Paradise and seek Your protection from the Fire.</string>
+    <string name="text_duas_3" translatable="false">Glory is to Allah, praise is to Allah, Allah is the Most Great!</string>
+    <string name="text_duas_4" translatable="false">There is none worthy of worship but You, glory is to You. Surely, I was among the wrongdoers.</string>
+    //before starting anything
+    <string name="text_starting_anything_1" translatable="false">In the name of Allah , the Entirely Merciful, the Especially Merciful.</string>
+    //for this word and the aakhira
+    <string name="text_the_aakhira_1" translatable="false">Our Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!</string>
+    <string name="text_the_aakhira_2">Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.</string>
+    //reward of one-third of quran
+
+
+    ////Daily Rememberence
+    //morning rememberence
+    <string name="text_morning_rememberence_1" translatable="false">We have reached the morning and at this very time unto Allah belongs all sovereignty, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent. My Lord, I ask You for the good of this day and the good of what follows it and I take refuge in You from the evil of this day and the evil of what follows it. My Lord, I take refuge in You from laziness and senility. My Lord, I take refuge in You from torment in the Fire and punishment in the grave.</string>
+    <string name="text_morning_rememberence_2" translatable="false">O Allah, by your leave we have reached the morning and by Your leave we have reached the evening, by Your leave we live and die and unto You is our resurrection.</string>
+    <string name="text_morning_rememberence_3" translatable="false">O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.</string>
+    <string name="text_morning_rememberence_4" translatable="false">O Allah, verily I have reached the morning and call on You, the bearers of Your throne, Your angles, and all of Your creation to witness that You are Allah, none has the right to be worshipped except You, alone, without partner and that Muhammad is Your Servant and Messenger. (four times).</string>
+    <string name="text_morning_rememberence_5" translatable="false">O Allah, what blessing I or any of Your creation have risen upon, is from You alone, without partner, so for You is all praise and unto You all thanks.</string>
+    <string name="text_morning_rememberence_6" translatable="false">O Allah, grant my body health, O Allah, grant my hearing health, O Allah, grant my sight health. None has the right to be worshipped except You.(three times) O Allah, I take refuge with You from disbelief and poverty, and I take refuge with You from the punishment of the grave. None has the right to be worshipped except You. (three times)</string>
+    <string name="text_morning_rememberence_7" translatable="false">Allah is Sufficient for me, none has the right to be worshipped except Him, upon Him I rely and He is Lord of the exalted throne. (seven times morning and evening)</string>
+    <string name="text_morning_rememberence_8" translatable="false">I take refuge in Allah’s perfect words from the evil He has created. (three times in the evening)</string>
+    <string name="text_morning_rememberence_9" translatable="false">O Allah, I ask You for pardon and well-being in this life and the next. O Allah, I ask You for pardon and well-being in my religious and worldly affairs, and my family and my wealth. O Allah, veil my weaknesses and set at ease my dismay. O Allah, preserve me from the front and from behind and on my right and on my left and from above, and I take refuge with You lest I be swallowed up by the earth.</string>
+    <string name="text_morning_rememberence_10" translatable="false">O Allah, Knower of the unseen and the seen, Creator of the heavens and the Earth, Lord and Sovereign of all things, I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.</string>
+    <string name="text_morning_rememberence_11" translatable="false">In the name of Allah with whose name nothing is harmed on earth nor in the heavens and He is The All-Seeing, The All-Knowing.(three times)</string>
+    <string name="text_morning_rememberence_12" translatable="false">I am pleased with Allah as a Lord, and Islam as a religion and Muhammad peace be upon to him as a Prophet. (three times)</string>
+    <string name="text_morning_rememberence_13" translatable="false">How perfect Allah is and I praise Him by the number of His creation and His pleasure, and by the weight of His throne, and the ink of His words. (three times)</string>
+    <string name="text_morning_rememberence_14" translatable="false">How perfect Allah is and I praise Him.(one hundred times)</string>
+    <string name="text_morning_rememberence_15" translatable="false">O Ever Living, O Self-Subsisting and Supporter of all, by Your mercy I seek assistance, rectify for me all of my affairs and do not leave me to myself, even for the blink of an eye.</string>
+    <string name="text_morning_rememberence_16" translatable="false">None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise, and He is over all things omnipotent. (one hundred times)</string>
+    <string name="text_morning_rememberence_17">We have reached the morning and at this very time all sovereignty belongs to Allah, Lord of the worlds. O Allah, I ask You for the good of this day, its triumphs and its victories, its light and its blessings and its guidance, and I take refuge in You from the evil of this day and the evil that follows it.</string>
+    //evening rememberence
+    <string name="text_evening_rememberence_1" translatable="false">We have reached the evening and at this very time unto Allah belongs all sovereignty, and all praise is for Allah. None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent. My Lord, I ask You for the good of this night and the good of what follows it and I take refuge in You from the evil of this night and the evil of what follows it. My Lord, I take refuge in You from laziness and senility. My Lord, I take refuge in You from torment in the Fire and punishment in the grave.</string>
+    <string name="text_evening_rememberence_2" translatable="false">O Allah, by Your leave we have reached the evening and by Your leave we have reached the morning, by Your leave we live and die and unto You is our return.</string>
+    <string name="text_evening_rememberence_3" translatable="false">O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.</string>
+    <string name="text_evening_rememberence_4" translatable="false">O, Allah, we have reached the evening, calling You to witness, and calling the carriers of Your Throne to witness, and Your angels, and all of Your creation, that You are Allah, none has the right to be worshipped but You, Alone, without a partner, and that Muhammad (S.A.W.) is Your slave and Your Messenger.</string>
+    <string name="text_evening_rememberence_5" translatable="false">O Allah, what blessing I or any of Your creation have risen upon, is from You alone, without partner, so for You is all praise and unto You all thanks.</string>
+    <string name="text_evening_rememberence_6" translatable="false">O Allah, grant my body health, O Allah, grant my hearing health, O Allah, grant my sight health. None has the right to be worshipped except You.(three times) O Allah, I take refuge with You from disbelief and poverty, and I take refuge with You from the punishment of the grave. None has the right to be worshipped except You. (three times)</string>
+    <string name="text_evening_rememberence_7" translatable="false">Allah is Sufficient for me, none has the right to be worshipped except Him, upon Him I rely and He is Lord of the exalted throne. (seven times morning and evening)</string>
+    <string name="text_evening_rememberence_8" translatable="false">I take refuge in Allah’s perfect words from the evil He has created. (three times in the evening)</string>
+    <string name="text_evening_rememberence_9" translatable="false">O Allah, I ask You for pardon and well-being in this life and the next. O Allah, I ask You for pardon and well-being in my religious and worldly affairs, and my family and my wealth. O Allah, veil my weaknesses and set at ease my dismay. O Allah, preserve me from the front and from behind and on my right and on my left and from above, and I take refuge with You lest I be swallowed up by the earth.</string>
+    <string name="text_evening_rememberence_10" translatable="false">O Allah, Knower of the unseen and the seen, Creator of the heavens and the Earth, Lord and Sovereign of all things, I bear witness that none has the right to be worshipped except You. I take refuge in You from the evil of my soul and from the evil and shirk of the devil, and from committing wrong against my soul or bringing such upon another Muslim.</string>
+    <string name="text_evening_rememberence_11" translatable="false">In the name of Allah with whose name nothing is harmed on earth nor in the heavens and He is The All-Seeing, The All-Knowing.(three times)</string>
+    <string name="text_evening_rememberence_12" translatable="false">I am pleased with Allah as a Lord, and Islam as a religion and Muhammad peace be upon to him as a Prophet. (three times)</string>
+    <string name="text_evening_rememberence_13" translatable="false">How perfect Allah is and I praise Him by the number of His creation and His pleasure, and by the weight of His throne, and the ink of His words. (three times)</string>
+    <string name="text_evening_rememberence_14" translatable="false">How perfect Allah is and I praise Him.(one hundred times)</string>
+    <string name="text_evening_rememberence_15" translatable="false">O Ever Living, O Self-Subsisting and Supporter of all, by Your mercy I seek assistance, rectify for me all of my affairs and do not leave me to myself, even for the blink of an eye.</string>
+    <string name="text_evening_rememberence_16" translatable="false">None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise, and He is over all things omnipotent. (one hundred times)</string>
+    <string name="text_evening_rememberence_17">We have reached the morning and at this very time all sovereignty belongs to Allah, Lord of the worlds. O Allah, I ask You for the good of this day, its triumphs and its victories, its light and its blessings and its guidance, and I take refuge in You from the evil of this day and the evil that follows it.</string>
+    //After Prayers
+    //after salah (prayer) tasbeeh
+
+    //after prayer remembrances
+    <string name="text_remembrances_1" translatable="false">I ask Allah for forgiveness.(three times) O Allah, You are As-Salam and from You is all peace, blessed are You, O Possessor of majesty and honour.’ AS-Salam: The One Who is free from all defects and deficiencies.</string>
+    <string name="text_remembrances_2" translatable="false">None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent.O Allah, none can prevent what You have willed to bestow and none can bestow what You have willed to prevent, and no wealth or majesty can benefit anyone, as from You is all wealth and majesty.</string>
+    <string name="text_remembrances_3" translatable="false">How perfect Allah is, all praise is for Allah, and Allah is the greatest.’ (thirty-three times) None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise and He is over all things omnipotent.</string>
+    <string name="text_remembrances_4" translatable="false">Say : He is Allah,(the) One, Allahus-Samad ( The Self-Sufficient Master, Whom all creatures need, He neither eats nor drinks ). He begots not , nor was He begotten; And there is none co-equal or comparable unto Him. [Al-Ikhlas] Say : I seek refuge with ( Allah ) the Lord of the daybreak, From the evil of what He has created; And from the evil of the darkening ( night ) as it comes with its darkness; ( or the moon as it sets or goes away ). And from the evil of the witchcrafts when they blow in the knots, And from the evil of the envier when he envies. [Al-Falaq] Say : I seek refuge with (Allah ) the lord of mankind, The king of mankind, The Ilah ( God ) of mankind, From the evil of the whisperer ( devi l who whispers evil in the hearts of men) , who withdraws ( from his whispering in one’s heart after one remembers Allah ), Who whispers in the breasts of mankind , Of jinns and men. [An-Nas] After morning and evening prayers, 3 times. After the other prayers 1 time.</string>
+    <string name="text_remembrances_5" translatable="false">Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great.</string>
+    <string name="text_remembrances_6" translatable="false">None has the right to be worshipped except Allah, alone, without partner, to Him belongs all sovereignty and praise, He gives life and causes death and He is over all things omnipotent. (ten times after the maghrib and fajr prayers)</string>
+    <string name="text_remembrances_7" translatable="false">O Allah, I ask You for knowledge which is beneficial and sustenance which is good, and deeds which are acceptable. (To be said after giving salam for the fajr prayer)</string>
+    //offer salah regularly
+    <string name="text_regularly_1" translatable="false">Indeed, my Lord is the Hearer of supplication. My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.</string>
+
+
+    //Rizq (Sustenance)
+    //for rizq (sustenance)
+    <string name="text_rizq_1" translatable="false">O Allah, I ask You for knowledge that is of benefit , a good provision , and deeds that will be accepted.</string>
+    <string name="text_rizq_2" translatable="false">O Allah forgive me, have mercy on me, guide me, support me, protect me, provide for me and elevate me.</string>
+    <string name="text_rizq_3" translatable="false">O Allah, I ask for Your favor.</string>
+    <string name="text_rizq_4" translatable="false">Allah is very Gracious and Kind to His slaves. He gives provisions to whom He wills. And He is the All-Strong, the All-Mighty.</string>
+    <string name="text_rizq_5" translatable="false">O Allah our Lord! Send us from heaven a table set (with viands), that there may be for us - for the first and the last of us - a solemn festival and a sign from thee; and provide for our sustenance, for thou art the best Sustainer (of our needs).</string>
+    //when you are in need
+    <string name="text_need_1" translatable="false">My Lord! Truly, I am in need of whatever good that You bestow on me!</string>
+    //for forgiveness and allah’s mercy
+    <string name="text_allah_mercy_1" translatable="false">(O my Lord) You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers. And ordain for us good in this world, and in the Hereafter. Certainly we have turned unto You.</string>
+    <string name="text_allah_mercy_2" translatable="false">My Lord! Forgive and have mercy, for You are the Best of those who show mercy!</string>
+    <string name="text_allah_mercy_3" translatable="false">Our Lord! We have wronged our own souls: If thou forgive us not and bestow not upon us Thy Mercy, we shall certainly be lost.</string>
+    <string name="text_allah_mercy_4" translatable="false">Our Lord! Bestow on us Mercy from Thyself, and dispose of our affair for us in the right way!</string>
+    <string name="text_allah_mercy_5">Our Lord! We believe, so forgive us, and have mercy on us, for You are the Best of all who show mercy!</string>
+    //for praising allah
+    <string name="text_praising_allah_1" translatable="false">O Allah! Possessor of the kingdom, You give the kingdom to whom You will, and You take the kingdom from whom You will, and You endue with honour whom You will, and You humiliate whom You will. In Your Hand is the good. Verily, You are Able to do all things. You make the night to enter into the day, and You make the day to enter into the night (i.e. increase and decrease in the hours of the night and the day during winter and summer), You bring the living out of the dead, and You bring the dead out of the living. And You give wealth and sustenance to whom You will, without limit (measure or account).</string>
+    <string name="text_praising_allah_2" translatable="false">So glorify Allah [above all that (evil) they associate with Him (O believers)], when you come up to the evening [i.e. offer the (Maghrib) sunset and (\'Isha\') night prayers], and when you enter the morning [i.e offer the (Fajr) morning prayer]. And His is all the praises and thanks in the heavens and the earth, and (glorify Him) in the afternoon (i.e. offer \'Asr prayer) and when you come up to the time, when the day begins to decline (i.e offer Zuhr prayer). (Ibn \'Abbas said: "These are the five compulsory congregational prayers mentioned in the Quran)." He brings out the living from the dead, and brings out the dead from the living. And He revives the earth after its death. And thus shall you be brought out (resurrected).</string>
+    <string name="text_praising_allah_3" translatable="false">Glorified is Allah and praised is He. Glorified is Allah the most great.</string>
+    <string name="text_praising_allah_4" translatable="false">Glory is to Allah, and praise is to Allah, and there is none worthy of worship but Allah, and Allah is the Most Great.</string>
+    <string name="text_praising_allah_5" translatable="false">How perfect Allah is</string>
+    <string name="text_praising_allah_6" translatable="false">There is no might and no power except by Allah.</string>
+    <string name="text_praising_allah_7" translatable="false">Glorified is Allah the Most Great and praised is He.</string>
+    <string name="text_praising_allah_8" translatable="false">He is Allah , other than whom there is no deity, Knower of the unseen and the witnessed. He is the Entirely Merciful, the Especially Merciful. He is Allah , other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Bestower of Faith, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allah above whatever they associate with Him. He is Allah , the Creator, the Inventor, the Fashioner; to Him belong the best names. Whatever is in the heavens and earth is exalting Him. And He is the Exalted in Might, the Wise.</string>
+    <string name="text_praising_allah_9" translatable="false">What Allah willed [has occurred], there is no power except in Allah.</string>
+    //for success
+    <string name="text_for_success_4" translatable="false">My success is not but through Allah. Upon him I have relied, and to Him I return.</string>
+    //increase in knowledge
+    <string name="text_knowledge_1" translatable="false">My Lord! increase me in knowledge</string>
+    <string name="text_knowledge_2" translatable="false">O Allah, I ask You for knowledge that is of benefit , a good provision , and deeds that will be accepted.</string>
+    <string name="text_knowledge_3" translatable="false">My Lord! Bestow Hukman (religious knowledge, right judgement of the affairs and Prophethood) on me, and join me with the righteous. And grant me an honourable mention in later generations. And place me among the inheritors of the Garden of Pleasure. And forgive my father. Indeed, he has been of those astray. And disgrace me not on the Day when (all the creatures) will be resurrected. The Day when there will not benefit [anyone] wealth or children, But only one who comes to Allah with a sound heart.</string>
+    //grant me confidence and eloquence
+    <string name="text_eloquence_1" translatable="false">O my Lord! Open for me my chest. And ease my task for me. And make loose the knot from my tongue, that they understand my speech."</string>
+    <string name="text_eloquence_2" translatable="false">Glory be to You, we have no knowledge except what you have taught us. Verily, it is You, the All-Knower, the All-Wise.</string>
+    //for protection from ignorance
+    <string name="text_ignorance_1" translatable="false">I seek refuge in Allah from being among the ignorant.</string>
+    //protection from foolishness
+    <string name="text_foolishness_1" translatable="false">O Allah, I seek refuge in You lest I misguide others , or I am misguided by others , lest I cause others to err or I am caused to err , lest I abuse others or be abused, and lest I behave foolishly or meet with the foolishness of others.</string>
+
+    //Faith
+    //strengthen your imaan
+    <string name="text_strengthen_your_imaan_1" translatable="false">I am pleased with Allah as a Lord, and Islam as a religion and Muhammad peace be upon to him as a Prophet. (three times)</string>
+    <string name="text_strengthen_your_imaan_2" translatable="false">I seek refuge in Allah.</string>
+    <string name="text_strengthen_your_imaan_3" translatable="false">I believe in Allah and His Messenger.</string>
+    <string name="text_strengthen_your_imaan_4" translatable="false">Our Lord! Let not our hearts deviate (from the truth) after You have guided us, and grant us mercy from You. Truly, You are the Bestower.</string>
+    <string name="text_strengthen_your_imaan_5">Our Lord! Forgive us our sins and our transgressions (in keeping our duties to You), establish our feet firmly, and give us victory over the disbelieving folk.</string>
+    //to make us practicing muslims
+    <string name="text_practicing_muslims_1" translatable="false">Our Lord! We believe in what Thou hast revealed, and we follow the Messenger. Then write us down among those who bear witness.</string>
+    //seek forgiveness and strengthen your imaan
+
+    //pledge to allah
+    <string name="text_to_allah_1" translatable="false">Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah .</string>
+    <string name="text_to_allah_2" translatable="false">Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah , Lord of the worlds. He has no partner. And of this I have been commanded, and I am the first of the Muslims.</string>
+    //for righteous company
+    <string name="text_righteous_company_1" translatable="false">Creator of the heavens and earth, You are my protector in this world and in the Hereafter. Cause me to die a Muslim and join me with the righteous.</string>
+    <string name="text_righteous_company_2" translatable="false">Our Lord! We believe; write us down among the witnesses</string>
+    //seek forgiveness and protection from hell
+    <string name="text_from_hell_1" translatable="false">Our Lord, You have encompassed all things in mercy and knowledge, so forgive those who have repented and followed Your way and protect them from the punishment of Hellfire.</string>
+    <string name="text_from_hell_2" translatable="false">Our Lord! We have indeed believed, so forgive us our sins and save us from the punishment of the Fire.</string>
+    <string name="text_from_hell_3" translatable="false">Our Lord! You have not created (all) this without purpose, glory to You! (Exalted be You above all that they associate with You as partners). Give us salvation from the torment of the Fire. *Our Lord! Verily, whom You admit to the Fire, indeed, You have disgraced him, and never will the Zaalimoon (polytheists and wrong-doers) find any helpers. *Our Lord! Verily, we have heard the call of one (Muhammad p.b.u.h.) calling to Faith: \'Believe in your Lord,\' and we have believed. *Our Lord! Forgive us our sins and remit from us our evil deeds, and make us die in the state of righteousness along with Al-Abraar (those who are obedient to Allah and follow strictly His Orders). *Our Lord! Grant us what You promised unto us through Your Messengers and disgrace us not on the Day of Resurrection, for You never break (Your) Promise.</string>
+    <string name="text_from_hell_4" translatable="false">Allah burdens not a person beyond his scope. He gets reward for that (good) which he has earned, and he is punished for that (evil) which he has earned. "Our Lord! Punish us not if we forget or fall into error, our Lord! Lay not on us a burden like that which You did lay on those before us; our Lord! Put not on us a burden greater than we have strength to bear. Pardon us and grant us Forgiveness. Have mercy on us. You are our Maula (Patron, Supporter and Protector, etc.) and give us victory over the disbelieving people."</string>
+    <string name="text_from_hell_5" translatable="false">Our Lord! Perfect our Light for us, and grant us Forgiveness: for Thou hast power over all things.</string>
+    //for forgiveness for your parent and all muslims
+    <string name="text_all_muslims_1" translatable="false">O our Lord! Cover (us) with Thy Forgiveness - me, my parents, and (all) Believers, on the Day that the Reckoning will be established!</string>
+    //for jannah
+    <string name="text_for_jannah_1" translatable="false">Our Lord! Avert from us the Wrath of Hell, for its Wrath is indeed an affliction grievous,- Evil indeed is it as an abode, and as a place to rest in.</string>
+    <string name="text_for_jannah_2" translatable="false">Our Lord! And make them enter the \'Adn (Eden) Paradise (everlasting Gardens) which you have promised them, and to the righteous among their fathers, their wives, and their offspring! Verily, You are the All-Mighty, the All-Wise. And save them from (the punishment, because of what they did of) the sins, and whomsoever You save from (the punishment, because of what they did of) the sins (i.e. excuse them) that Day, him verily, You have taken into mercy." And that is the supreme success."</string>
+    //for forgiveness
+    <string name="text_forgiveness_1" translatable="false">O my Lord! I seek refuge with You from asking You that of which I have no knowledge. And unless You forgive me and have Mercy on me, I would indeed be one of the losers.</string>
+    <string name="text_forgiveness_2" translatable="false">Lord, forgive me. My Lord, forgive me.</string>
+    <string name="text_forgiveness_3" translatable="false">O Allah forgive me, have mercy on me, guide me, support me, protect me, provide for me and elevate me.</string>
+    <string name="text_forgiveness_4" translatable="false">O Allah, forgive me all my sins, great and small, the first and the last, those that are apparent and those that are hidden.</string>
+    <string name="text_forgiveness_5" translatable="false">O Allah, I seek protection in Your pleasure from Your anger, and I seek protection in Your forgiveness from Your punishment. I seek protection in You from You. I cannot count Your praises. You are as You have praised Yourself.</string>
+    <string name="text_forgiveness_6" translatable="false">I seek the forgiveness of Allah and repent to him.</string>
+    <string name="text_forgiveness_7" translatable="false">O Allah, I have greatly wronged myself and no one forgives sins but You. So, grant me forgiveness and have mercy on me. Surely, you are Forgiving, Merciful.</string>
+    <string name="text_forgiveness_8" translatable="false">O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed. I acknowledge Your favour upon me and I acknowledge my sin, so forgive me, for verily none can forgive sin except You.</string>
+    <string name="text_forgiveness_9" translatable="false">O Allah, I ask You by Your mercy, which encompasses all things, that You forgive me.</string>
+    <string name="text_forgiveness_10" translatable="false">My Lord, forgive me and accept my repentance, You are the Ever-Relenting, the All-Forgiving.</string>
+    //forgiveness for your siblings
+    <string name="text_siblings_1" translatable="false">O my Lord! Forgive me and my brother, and make us enter into Your Mercy, for you are the Most Merciful of those who show mercy.</string>
+    //for asking forgiveness for youself and anyone who enters your house
+    <string name="text_your_house_1">My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction.</string>
+    //for repentance
+    <string name="text_repentance_1" translatable="false">I seek the forgiveness of Allah the Mighty, Whom there is none worthy of worship except Him, the Living, the Eternal, and I repent to Him, Allah will forgive him even if he has deserted the army\'s ranks.</string>
+    <string name="text_repentance_2" translatable="false">(And say O Muhammad SAW to these polytheists:) Such is Allah, my Lord in Whom I put my trust, and to Him I turn in all of my affairs and in repentance.</string>
+    //for thanking allah
+    <string name="text_thanking_allah_1" translatable="false">There is none worth of worship but Allah alone, Who has no partner, His is the dominion and to Him belongs all praise, and He is able to do all things. Glory is to Allah. Praise is to Allah. There is none worth of worship but Allah. Allah is the Most Great. There is no might and no power except by Allah\'s leave, the Exalted, the Mighty. My Lord, forgive me.</string>
+    <string name="text_thanking_allah_2" translatable="false">Glory to my Lord the Exalted.</string>
+    <string name="text_thanking_allah_3" translatable="false">Glory is to You , O Allah , our Lord , and praise is Yours . O Allah , forgive me.</string>
+    <string name="text_thanking_allah_4" translatable="false">Glory (to You) , Most Holy (are You) , Lord of the angels and the Spirit</string>
+    <string name="text_thanking_allah_5" translatable="false">Glory is to You, Master of power, of dominion, of majesty and greatness.</string>
+    <string name="text_thanking_allah_6" translatable="false">None has the right to be worshipped but Allah alone, Who has no partner. His is the dominion and His is the praise. He brings life and He causes death, and He is Able to do all things.</string>
+    <string name="text_thanking_allah_7" translatable="false">None has the right to be worshipped but Allah alone, He has no partner, His is the dominion and His is the praise and He is Able to do all things. There is no power and no might except by Allah . None has the right to be worshipped but Allah, and we do not worship any other besides Him . His is grace , and His is bounty and to Him belongs the most excellent praise. None has the right to be worshipped but Allah . (We are) sincere in making our religious devotion to Him, even though the disbelievers may dislike it.</string>
+    <string name="text_thanking_allah_8" translatable="false">Glory is to Allah and praise is to Him, by the multitude of His creation, by His Pleasure, by the weight of His Throne, and by the extent of His Words.</string>
+    <string name="text_thanking_allah_9" translatable="false">Glory is to Allah, praise is to Allah, Allah is the Most Great!</string>
+    <string name="text_thanking_allah_10" translatable="false">Praise is to Allah Who has provided us with food and with drink, sufficed us and gave us an abode for how many are there with no provision and no home.</string>
+    <string name="text_thanking_allah_11" translatable="false">Allah be praised with an abundant beautiful blessed praise, a never-ending praise, a praise which we will never bid farewell to and an indispensable praise, He is our Lord.</string>
+    //for being grateful to allah
+    <string name="text_grateful_to_allah_1" translatable="false">My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims.</string>
+    <string name="text_grateful_to_allah_2" translatable="false">My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.</string>
+    //on hearing good news
+    <string name="text_good_new_1" translatable="false">All praise is to Allah, Just as Allah willed Blessed is Allah</string>
+    //for leaving everything in the hands of
+    //protection and help from allah
+    <string name="text_help_from_allah_1">Allah, Revealer of the Book, Swift to account, defeat the groups (of disbelievers). O Allah, defeat them and shake them.</string>
+    <string name="text_help_from_allah_2">He is Allah (the) One. The Self-Sufficient Master, Whom all creatures need, He begets not nor was He begotten, and there is none equal to Him.</string>
+    <string name="text_help_from_allah_3" translatable="false">Allah! There is none worthy of worship but He, the Ever Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great.</string>
+    <string name="text_help_from_allah_4">I seek refuge with (Allah) the Lord of the daybreak, from the evil of what He has created, and from the evil of the darkening (night) as it comes with its darkness, and from the evil of those who practice witchcraft when they blow in the knots, and from the evil of the envier when he envies.</string>
+    <string name="text_help_from_allah_5" translatable="false">I seek refuge with (Allah) the Lord of mankind, the King of mankind , the God of mankind , from the evil of the whisperer who withdraws, who whispers in the breasts of mankind, of jinns and men.</string>
+    <string name="text_help_from_allah_6" translatable="false">O Allah, I seek refuge in You from the punishment of the grave, and I seek refuge in You from the trial of the False Messiah, and I seek refuge in You from the trials of life and death. O Allah, I seek refuge in You from sin and from debt.</string>
+    <string name="text_help_from_allah_7" translatable="false">O Allah, save me from Your punishment on the Day that You resurrect Your slaves.</string>
+    <string name="text_help_from_allah_8" translatable="false">O Allah, Knower of the unseen and the evident , Maker of the heavens and the earth , Lord of everything and its Possessor , I bear witness that there is none worthy of worship but You . I seek refuge in You from the evil of my soul and from the evil of Satan and his helpers . (I seek refuge in You) from bringing evil upon my soul and from harming any Muslim.</string>
+    <string name="text_help_from_allah_9" translatable="false">O Allah, I seek Your forgiveness and Your protection in this world and the next. O Allah, I seek Your forgiveness and Your protection in my religion, in my worldly affairs, in my family and in my wealth. O Allah, conceal my secrets and preserve me from anguish . O Allah , guard me from what is in front of me and behind me , from my left , and from my right , and from above me . I seek refuge in Your Greatness from being struck down from beneath me.</string>
+    <string name="text_help_from_allah_10" translatable="false">We have entered a new day and with it all dominion is Allah\'s. Praise is to Allah. None has the right to be worshipped but Allah alone, Who has no partner. To Allah belongs the dominion, and to Him is the praise and He is Able to do all things. My Lord, I ask You for the goodness of this day and of the days that come after it, and I seek refuge in You from the evil of this day and of the days that come after it. My Lord, I seek refuge in You from laziness and helpless old age. My Lord, I seek refuge in You from the punishment of Hell-fire , and from the punishment of the grave. When you say this in the evening you should say: \'Amsaynaa wa\'amsal-mulku lillaah: "We have ended another day and with it all dominion is Allah\'s" and Rabbi \'as\'aluka khayra maa fee haathihil-laylati, wa khayra maa ba\'dahaa, wa \'a\'oothu bika min sharri maa fee haathihil-laylati wa sharri maa ba\'dahaa: "I ask You for the good things of this night and of the nights that come after it and I seek refuge in You from the evil of this night and of the nights that come after it."</string>
+    <string name="text_help_from_allah_11">Know that Allah is your protector. Excellent is the protector, and Excellent is the helper.</string>
+    //for protection from satan/shaytan
+    <string name="text_shaytan_1">My Lord! I seek refuge with You from the whisperings (suggestions) of the Shayatin (devils). And I seek refuge with You, My Lord! lest they may attend (or come near) me.</string>
+    <string name="text_shaytan_2">I seek refuge with Allah against the Satan, the outcast.</string>
+    <string name="text_shaytan_3">I seek refuge in the Perfect Words of Allah from the evil of what He has created.</string>
+    //to keep your family safe from transgressors
+    <string name="text_transgressors_1">My Lord! Save me and my family from what they do.</string>
+    //for your child’s protection
+    <string name="text_protection_1">I seek protection for you in the Perfect Words of Allah from every devil and every beast, and from every envious blameworthy eye.</string>
+    //for protection from oppressors
+    <string name="text_oppressors_1">Our Lord! Rescue us from this town whose people are oppressors; and raise for us from You one who will protect, and raise for us from You one who will help.</string>
+    <string name="text_oppressors_2">O Allah, You are my strength and You are my support. For Your sake I go forth and for Your sake I advance and for Your sake I fight.</string>
+    //for curbing fear
+    <string name="text_fear_1">O Allah, suffice (i.e. protect) me against them however You wish.</string>
+    //for protection from the wrongdoers
+    <string name="text_wrongdoers_1">Upon Allah do we rely. Our Lord, make us not [objects of] trial for the wrongdoing people. And save us by Your mercy from the disbelieving people.</string>
+    <string name="text_wrongdoers_2">O our Lord! Truly Thou dost know what we conceal and what we reveal: for nothing whatever is hidden from Allah, whether on earth or in heaven</string>
+    <string name="text_wrongdoers_3">Our Lord! We fear lest he hasten with insolence against us, or lest he transgress all bounds</string>
+    //for parents
+    <string name="text_parents_1" translatable="false">O my Lord! Make me one who performs As-Salaat (Iqaamat-as-Salaat), and (also) from my offspring, our Lord! And accept my invocation.</string>
+    <string name="text_parents_2" translatable="false">My Lord, have mercy upon them (parents) as they brought me up [when i was] small.</string>
+    //for fear of committing shirk
+    <string name="text_shirk_1" translatable="false">O Allah, I seek refuge in You lest I associate anything with You knowingly, and I seek Your forgiveness for what I know not.</string>
+    //for this wolrd and the aakhira
+    <string name="text_aakhira_1" translatable="false">Our Lord! Give us in this world that which is good and in the Hereafter that which is good, and save us from the torment of the Fire!</string>
+    <string name="text_aakhira_2" translatable="false">Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allah does not fail in His promise.</string>
+    //to be a pious muslim
+    <string name="text_pious_muslim_1" translatable="false">Our Lord! Place us not with the people who are Zaalimoon (polytheists and wrong doers).</string>
+    <string name="text_pious_muslim_2" translatable="false">My Lord, then do not place me among the wrongdoing people.</string>
+
+    //seek allah’s satisfaction
+    <string name="text_allah_satisfaction_1" translatable="false">Our Lord! Accept (this service) from us: For Thou art the All-Hearing, the All-knowin</string>
+    <string name="text_allah_satisfaction_2" translatable="false">Our Lord! Make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful.</string>
+
+    //Family
+    //for parent
+    //for a blissfull family
+    <string name="text_family_1">O my Lord! Grant unto us wives and offspring who will be the comfort of our eyes, and give us (the grace) to lead the righteous.</string>
+    //asking allah to grant you a child
+    <string name="text_a_child_1">O my Lord! Grant me from You, a good offspring. You are indeed the All-Hearer of invocation.</string>
+    <string name="text_a_child_2">O My Lord! Leave me not single (childless), though You are the Best of the inheritors.</string>
+
+
+    //Health / Iiness
+    //for a healthy life
+    <string name="text_healthy_life_1" translatable="false">O Allah, make me healthy in my body. O Allah, preserve for me my hearing. O Allah, preserve for me my sight. There is none worthy of worship but You . O Allah , I seek refuge in You from disbelief and poverty and I seek refuge in You from the punishment of the grave . There is none worthy of worship but You.</string>
+    //when visiting the sick
+    <string name="text_the_sick_1" translatable="false">Do not worry, it will be a purification (for you), Allah willing.</string>
+    <string name="text_the_sick_2" translatable="false">I ask Allah who is the Lofty and the Lord of the Mighty Throne that He cures you\n(Prophet Mohammad (SAW.) said that by reciting this dua seven times, the ill person will regain his health and if death occurs then that (death) is a different issue (i.e. death is written it cannot be prevented))</string>
+    //to alleviate pain
+    <string name="text_alleviate_pain_1" translatable="false">In the Name of Allah I seek refuge in Allah and in His Power from the evil of what I find and of what I guard against.</string>
+    //upon seeing someone going through a trial or tribulation
+    <string name="text_tribulation_1" translatable="false">Praise is to Allah Who has spared me what He has afflicted you with, and preferred me greatly above much of what He has created.</string>
+    //if you fall on hard times
+    <string name="text_hard_times_1" translatable="false">Indeed, adversity has touched me, and you are the Most Merciful of the merciful.</string>
+    <string name="text_hard_times_2" translatable="false">There is none worthy of worship but Allah, Allah is the Most Great. None has the right to be worshipped but Allah alone. None has the right to be worshipped but Allah alone, Who has no partner. There is none worthy of worship but Allah, His is the dominion and His is the praise. There is none worthy of worship but Allah, there is no power and no might but by Allah.</string>
+    //when you are nearing your death
+    <string name="text_nearing_your_death_1" translatable="false">There is none worthy of worship but Allah</string>
+    <string name="text_nearing_your_death_2" translatable="false">I bear witness that none has the right to be worshipped but Allah alone, Who has no partner; and I bear witness that Muhammad is His slave and His Messenger.</string>
+
+    //Loss / Failure
+    //when you fail or lose at something
+    <string name="text_something_1" translatable="false">It is the Decree of Allah and He does whatever He wills.</string>
+    //when a loss occurs
+    <string name="text_occurs_1" translatable="false">Indeed we belong to Allah , and indeed to Him we will return.</string>
+    //when stricken by tragedy
+    <string name="text_tragedy_1" translatable="false">We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better.</string>
+    <string name="text_tragedy_2" translatable="false">Allah is sufficient for us and the best of those on whom to depend.</string>
+    //for seeking allah’s help
+    <string name="text_allah_help_1" translatable="false">Allah is sufficient for us and the best of those on whom to depend.</string>
+    <string name="text_allah_help_2" translatable="false">I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know.</string>
+    //at time of worry and sorry
+    <string name="text_worry_sorry_1" translatable="false">O Allah, I seek refuge in you from grief and sadness, from weakness and from laziness, from miserliness and from cowardice, from being overcome by debt and overpowered by men (i .e . others).</string>
+    //when in distress
+    <string name="text_in_distress_1">None has the right to be worshipped but You (O Allah), Glorified (and Exalted) are You. Truly, I have been of the wrong-doers.</string>
+    <string name="text_in_distress_2" translatable="false">O Allah, I hope for Your mercy. Do not leave me to myself even for the blinking of an eye (i.e. a moment). Correct all of my affairs for me. There is none worthy of worship but You.</string>
+    <string name="text_in_distress_3">There is none worthy of worship but Allah the Mighty, the Forbearing. There is none worthy of worship but Allah, Lord of the Magnificent Throne. There is none worthy of worship but Allah, Lord of the heavens and Lord of the earth, and Lord of the Noble Throne.</string>
+    //for overcoming your weaknesses
+    <string name="text_weaknesses_1" translatable="false">O Allah! I seek refuge in You from grief and sadness, from weakness and from laziness, from miserliness and from cowardice, from being overcome by debt and from being overpowered by men (other people).</string>
+    //when striken by tragedy
+    <string name="text_by_tragedy_1" translatable="false">We are from Allah and unto Him we return. O Allah take me out of my plight and bring to me after it something better.</string>
+    <string name="text_by_tragedy_2" translatable="false">Allah is sufficient for us and the best of those on whom to depend.</string>
+    //on hearing a bad news
+    <string name="text_a_bad_1" translatable="false">Praise is to Allah in all circumstances.</string>
+    //when someone insults you
+    <string name="text_insults_you_1" translatable="false">My Lord, judge [between us] in truth. And our Lord is the Most Merciful, the one whose help is sought against that which you describe.</string>
+    //when feeling frightened
+    <string name="text_frightened_1" translatable="false">There is none worthy of worship but Allah.</string>
+    //to trust upon allah
+    <string name="text_upon_allah_1" translatable="false">Allah is sufficient for me. Laa ilaaha illa Huwa (none has the right to be worshipped but He), in Him I put my trust and He is the Lord of the Mighty Throne.</string>
+    <string name="text_upon_allah_2">And you will remember what I [now] say to you, and I entrust my affair to Allah . Indeed, Allah is Seeing of [His] servants.</string>
+
+
+    //Patience
+    //for patience
+    <string name="text_for_patience_1">Our Lord! Bestow on us endurance, make our foothold sure, and give us help against the disbelieving folk.</string>
+    <string name="text_for_patience_2">Our Lord! pour out on us patience, and cause us to die as Muslims.</string>
+    ////for controlling your anger
+    <string name="text_your_anger_1">I seek refuge with Allah against the Satan, the outcast.</string>
+
+
+    //Debt
+    //settle a debt
+    <string name="text_a_debt_1">O Allah, suffice me with what You have allowed instead of what You have forbidden, and make me independent of all others besides You.</string>
+    //for someone who lens you money
+    <string name="text_you_money_1">May Allah bless you in your family and your wealth, surely the reward for a loan is praise and returning (what was borrowed).</string>
+
+
+    //During Menstruation
+    //to be pious muslims
+    <string name="text_pious_muslims_1" translatable="false">Our Lord! Place us not with the people who are Zaalimoon (polytheists and wrong doers).</string>
+    //for forgiveness for your parents and all muslims
+    <string name="text_and_all_muslims_1" translatable="false">O our Lord! Cover (us) with Thy Forgiveness - me, my parents, and (all) Believers, on the Day that the Reckoning will be established!</string>
+    //seek forgiveness and strengthen your imaan
+    <string name="text_and_strengthen_your_imaan_1" translatable="false">Allah burdens not a person beyond his scope. He gets reward for that (good) which he has earned, and he is punished for that (evil) which he has earned. "Our Lord! Punish us not if we forget or fall into error, our Lord! Lay not on us a burden like that which You did lay on those before us; our Lord! Put not on us a burden greater than we have strength to bear. Pardon us and grant us Forgiveness. Have mercy on us. You are our Maula (Patron, Supporter and Protector, etc.) and give us victory over the disbelieving people."</string>
+    //for protection from the evil eye
+    <string name="text_evil_eye_1">I seek refuge in perfect words of Allah from the evil of what He has created</string>
+    //for protection against enemies
+    <string name="text_against_enemies_1" translatable="false">O God, who sent down the Book, who is quick to judge, defeat the parties, O God, defeat them and shake them.</string>
+    //protection from natural disasters calamities
+    <string name="text_calamities_1" translatable="false"> In the name of Allah with whose name nothing is harmed on earth nor in the heavens and He is The All-Seeing, The All-Knowing. (three times)</string>
+    //forgiviness for you siblings
+    <string name="text_you_siblings_1" translatable="false">O my Lord! Forgive me and my brother, and make us enter into Your Mercy, for you are the Most Merciful of those who show mercy.</string>
+    //during illness
+    <string name="text_during_illness_1" translatable="false">[Surat Al-Ikhlas] Say: He is God, one. God is the eternal. He did not beget, nor was He born, and there was no one equal to Him. [Surat Al-Falaq] Say, “I seek refuge in the Lord of Creation from the evil of what He created, and from the evil of the darkening when it approaches, and from the evil of blowing into knots, and from the evil of blowing into knots, and from the evil of blowing into knots from the envier when he envies. [Surat Al-Ikhlas] Say, “I seek refuge in the Lord of the people, the King of the people, the God of the people, from the evil of the whispering whisperer who whispers into the hearts of the people, from the jinn and humanity.”</string>
+    //for patience during difficult times
+    <string name="text_difficult_times_1" translatable="false">Our Lord, pour upon us patience and cause us to die as Muslims.</string>
+    //reward of one-third of quran
+    <string name="text_of_quran_1" translatable="false">[Surat Al-Ikhlas] Say: He is God, one. God is the eternal. He did not beget, nor was He born, and there was no one equal to Him</string>
+
+
+    <string name="string_prayer_time_will_begin">Prayer time will begin in %s minute</string>
+    <string name="string_prayer_time_will_begin_s">Prayer time will begin in %s minutes</string>
+
+    <!-- Hijri Months -->
+    <string name="string_praying_time_adjustment">%s min</string>
+    <string name="string_plus_praying_time_adjustment">+%s min</string>
+    <string name="string_not_adjusted">Not Adjusted</string>
+    <string name="string_it_will_correct_the_corresponding">It will correct the corresponding Islamic calendar date against the Gregorian calendar</string>
+    <string name="string_settings">Settings</string>
+    <string name="string_english">English</string>
+    <string name="string_time_calculator">Time Calculator</string>
+    <string name="string_calculator_method">Calculator Method</string>
+    <string name="string_manual_setting">Manual Setting</string>
+    <string name="string_praying_time_adjustment_setting">Praying Time Adjustment</string>
+    <string name="string_date_correction">Date Correction</string>
+    <string name="string_notification_bar">Notification Bar</string>
+    <string name="string_fixed_countdown_on_notification">Fixed Countdown On Notification</string>
+    <string name="string_other">Other</string>
+    <string name="string_share">Share</string>
+    <string name="string_rate">Rate</string>
+    <string name="string_private_policy">Private Policy</string>
+
+    <string name="string_exit">Exit</string>
+
+    <string name="string_oh_no">Oh, no!</string>
+    <string name="string_please_give_us_some_feedback">Please give us some feedback</string>
+    <string name="string_we_love_you_too">We love you too!</string>
+    <string name="string_thanks_for_your_feedback">Thanks for your feedback</string>
+    <string name="string_do_you_like_the_app">Do you like the app?</string>
+    <string name="string_let_us_know_your_experience">Let us know your experience</string>
+    <string name="Please_feedback">Please feedback</string>
+    <string name="string_quran">Quran</string>
+    <string name="string_thank_for_rate">Thank you for rating the app</string>
+    <string name="string_surah">Surah</string>
+    <string name="string_juz">Juz</string>
+    <string name="string_quran_settings">Quran Settings</string>
+    <string name="string_translation">Translation</string>
+    <string name="string_display">Display</string>
+    <string name="string_language_selection">Language Selection</string>
+    <string name="string_content">Content</string>
+    <string name="string_font_amp_size"><![CDATA[Font & Size]]></string>
+    <string name="string_audio">Audio</string>
+    <string name="string_reciter">Reciter</string>
+    <string name="string_translation_display">Translation Display</string>
+    <string name="string_phonetic_translation">Phonetic Translation</string>
+    <string name="string_language_translation">Language Translation</string>
+    <string name="string_preview">Preview</string>
+    <string name="string_enable_audio">Enable Audio</string>
+    <string name="string_auto_scroll_with_audio">Auto-scroll with audio</string>
+    <string name="string_font_size">Font Size</string>
+    <string name="string_font_style">Font Style</string>
+    <string name="string_tasbih">Tasbih</string>
+    <string name="string_round">Round :</string>
+    <string name="string_done">Done</string>
+    <string name="string_customize">Customize</string>
+    <string name="string_adjust_total_times">Adjust total times</string>
+    <string name="string_adjust_the_number_of_rounds">Adjust the number of rounds</string>
+    <string name="string_reset">Reset</string>
+    <string name="string_do_you_want_to_reset_the_counter">Do you want to reset the counter</string>
+    <string name="string_continue_reading">Continue Reading - %s</string>
+
+    <string name="text_location_1" translatable="false">Location is not enabled</string>
+    <string name="text_location_2" translatable="false">Please enable location to use all features of this app</string>
+    <string name="text_bookmark_duas" translatable="false">Tap on the bookmark icon to add duas into bookmarks</string>
+    <string name="text_bookmark_azkar" translatable="false">Tap on the bookmark icon to add azkar into bookmarks</string>
+
+    <string name="text_sample" translatable="false">This is a sample file</string>
+
+
+    // no trans
+    <string name="FIRST_DAY_OF_YEAR" translatable="false">Hijri new year</string>
+    <string name="YAWM_ASHURA" translatable="false">Yawm Ashura</string>
+    <string name="MAWLID_A_NABAWI" translatable="false">Al Mawlid A Nabawi</string>
+    <string name="LAILAT_AL_MIRAJ" translatable="false">Lailat Al Miiraj</string>
+    <string name="MID_SHAABAN_NIGHT" translatable="false">Laila Al Baraah</string>
+    <string name="MID_SHAABAN" translatable="false">Mid Of Shaaban</string>
+    <string name="FIRST_DAY_OF_RAMADAN" translatable="false">1st Day Of Ramadan</string>
+    <string name="hijri" translatable="false">Hijri</string>
+    <string name="hijri_month_1" translatable="false">Mouharram</string>
+    <string name="hijri_month_2" translatable="false">Safar</string>
+    <string name="hijri_month_3" translatable="false">Rabi\' Al-Awwal</string>
+    <string name="hijri_month_4" translatable="false">Rabi\' Al-Thani</string>
+    <string name="hijri_month_5" translatable="false">Jumada Al-Awwal</string>
+    <string name="hijri_month_6" translatable="false">Jumada Al-Thani</string>
+    <string name="hijri_month_7" translatable="false">Rajab</string>
+    <string name="hijri_month_8" translatable="false">Sha\'ban</string>
+    <string name="hijri_month_9" translatable="false">Ramadan</string>
+    <string name="hijri_month_10" translatable="false">Shawwal</string>
+    <string name="hijri_month_11" translatable="false">Dhu Al-Qi\'dah</string>
+    <string name="hijri_month_12" translatable="false">Dhu al-Hijjah</string>
+    <string name="DAY_20_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_21_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_22_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_23_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_24_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_25_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_26_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_27_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_28_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_29_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+    <string name="DAY_30_OF_RAMADAN" translatable="false">العشر الاواخر</string>
+
+    // trans
+    <string name="text_date_comparison">Date comparison</string>
+    <string name="text_gregrorian_calendar" translatable="false">Gregrorian calendar</string>
+    <string name="text_islamic_calendar" translatable="false">Islamic calendar</string>
+    <string name="text_praying_time" translatable="false">Prayer Times</string>
+    <string name="title_activity_islam_map" translatable="false">IslamMapActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="string_indonesian" translatable="false">Indonesian</string>
+    <string name="string_urdu" translatable="false">Urdu</string>
+    <string name="string_hindi" translatable="false">Hindi</string>
+    <string name="string_turkish" translatable="false">Turkish</string>
+
+    <string name="string_salah" translatable="false">Salah</string>
+
+
+    // no transplant
+    <string name="text_font_1" translatable="false">رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ العَلِيم</string>
+    <string name="text_font_2" translatable="false">رَبَّنَآ اِنَّنَآ اٰمَنَّا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَقِنَا عَذَابَ النَّار</string>
+    <string name="text_font_3" translatable="false">رَبَّنَآ اِنَّنَآ اٰمَنَّا فَاغْفِرْ لَنَا ذُنُوْبَنَا وَقِنَا عَذَابَ النَّار</string>
+    <string name="text_font_4" translatable="false">رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِين</string>
+    <string name="number_1" translatable="false">1</string>
+    <string name="number_2" translatable="false">2</string>
+    <string name="number_3" translatable="false">3</string>
+    <string name="number_4" translatable="false">4</string>
+    <string name="text_book_mark_duas_1" translatable="false">لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِالله</string>
+    <string name="text_book_mark_duas_2" translatable="false">Laa hawla wa laa quwwata \'illaa billaah</string>
+    <string name="text_book_mark_azkar_1" translatable="false">سُبْحَانَ اللَّهِ وَبِحَمْدِهِ . (مائة مرة)</string>
+    <string name="text_book_mark_azkar_2" translatable="false">Subhanal-lahi wabihamdih.</string>
+    <string name="text_book_mark_quran_1" translatable="false">Al-Faatiha</string>
+    <string name="text_book_mark_quran_2" translatable="false">The Opening (7)</string>
+    <string name="SUN" translatable="false">Sun</string>
+    <string name="MON" translatable="false">Mon</string>
+    <string name="TUE" translatable="false">Tue</string>
+    <string name="WED" translatable="false">Wed</string>
+    <string name="THU" translatable="false">Thu</string>
+    <string name="FRI" translatable="false">Fri</string>
+    <string name="SAT" translatable="false">Sat</string>
+    <string name="Day" translatable="false">Day</string>
+    <string name="text_tasbih_1" translatable="false">/</string>
+    <string name="text_preview_1" translatable="false">Rabbana taqabbal minna innaka antas Sameeaul Aleem</string>
+    <string name="text_preview_2" translatable="false">Our Lord! Accept (this service) from us: For Thou art the All-Hearing, the All-knowing.</string>
+    <string name="text_preview_3" translatable="false">Rabbana innana amanna faghfir lana dhunuubana wa qinna \'adhaban-Naar</string>
+    <string name="text_preview_4" translatable="false">Our Lord! We have indeed believed, so forgive us our sins and save us from the punishment of the Fire.</string>
+
+    // trans
+    <string name="string_please_select_language">Please select language</string>
+    <string name="string_please_connect_to_the_internet_to_use_this_feature">Please connect to the internet to use this feature</string>
+    <string name="string_please_connect_to_the_internet_to_play_audio">Please connect to the internet to play audio</string>
+    <string name="string_pin_app_widget_is_not_supported">Pin app widget is not supported</string>
+    <string name="string_please_customize_the_number_of_round">Please customize the number of round</string>
+    <string name="string_please_enter_the_value_of_the_number_of_rounds">Please enter the value of the number of rounds!</string>
+    <string name="string_value_of_the_number_of_rounds_that_exist">Value of the number of rounds that exist</string>
+    <string name="string_let_me_recommend_you_this_application">Let me recommend you this application</string>
+    <string name="string_search">Search</string>
+    <string name="string_add_to_home_screen">Add to home screen</string>
+    <string name="string_rotate_your_phone_until_the_mecca_appear">Rotate your phone until the Great Mosque of Mecca appear</string>
+    <string name="string_round_10">The value of the smallest number of rounds is 10</string>
+    <string name="string_step_1"><![CDATA[<b>Step 1:</b>]]> Make sure you are covering your awrah at the very least and that you have performed <![CDATA[<b>wudu</b>]]>. Men should cover their entire body, including their navel and knees. A woman\'s body must be covered everywhere but her hands, feet, and face.</string>
+    <string name="string_step_2"><![CDATA[<b>Step 2:</b>]]> Look for a spotless area where you won\'t bother other people, such as on a prayer mat. Faced towards the Ka\'bah in Makkah, this is the direction of the Qiblah. You can pray while seated if you are sick or disabled and cannot stand.</string>
+    <string name="string_step_3"><![CDATA[<b>Step 3:</b>]]> Declare your intention for the Salah either aloud or silently to start. You can do this in Arabic or in the language of your choice. Declare, \"I intend to pray two rak’at for Tarawih for Allah facing the Ka’bah\".</string>
+    <string name="string_step_4"><![CDATA[<b>Step 4:</b>]]> Say <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]> and raise your hands to your shoulders for women and your earlobes for men. \"Allah is the Greatest,\" this signifies. (This step is shown below). You are currently in a state of ihram, which prohibits you from doing anything earthly that could divert your attention, including chatting, laughing, eating, drinking, or thinking about anything.</string>
+    <string name="string_step_5"><![CDATA[<b>Step 5:</b>]]> Man place your right hand over your left, just below the naval. Women should place their hands over their chest.</string>
+    <string name="string_step_6"><![CDATA[<b>Step 6:</b>]]> Quietly say this sentence <![CDATA[<b><i>\"SubhanaK-Allahumma wa bihamdiKa,<br>wa tabaarak-asmuKa, wa ta-‘aala jadduKa, wa la ilaaha illa ghayruK\"</i></b>]]>. This signifies \"O Allah, glory and praise are for You; blessed is Your Name; exalted is Your Majesty; there is no god but You\"</string>
+    <string name="string_step_7"><![CDATA[<b>Step 7:</b>]]> Afterward, softly recite: <![CDATA[<b><i>\"Auudhu bi-Llahi min ash-Shaitaanir rajeem bismi-Llahir Rahmaani Raheem\"</i></b>]]>. This implies \"I ask Allah for protection from Satan, the accursed one, invoking the name of Allah, the Most Compassionate, the Most Merciful\".</string>
+    <string name="string_step_8"><![CDATA[<b>Step 8:</b>]]> Continue to recite: <![CDATA[<b><i>\"Surah al-Fatihah\"</i></b>]]>, then conclude with <![CDATA[<b><i>\"Amin\"</i></b>]]>, signifying \"may it be granted\". If you\'re leading a prayer, make sure to recite all Surahs in Tarawih aloud!</string>
+    <string name="string_step_9"><![CDATA[<b>Step 9:</b>]]> Afterwards, recite any other Surah. The minimum recitation is three verses, or one lengthy verse equivalent to three shorter ones. Yet, it\'s preferable to recite an entire Surah.</string>
+    <string name="string_step_10"><![CDATA[<b>Step 10:</b>]]> Bend forward and utter <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]>, meaning \"Allah is the Greatest\", placing your hands on your knees, maintaining a straight back. Pause in this position, known as Ruku (bowing), and repeat <![CDATA[<b><i>\"Subhaana Rabbiy-al-Adheem\"</i></b>]]> at least three times, meaning \"Glory be to my Lord, the Great\".</string>
+    <string name="string_step_11"><![CDATA[<b>Step 11:</b>]]> When rising to a fully upright position again, proclaim, <![CDATA[<b><i>\"Sami-Allahu liman hamidaH\"</i></b>]]> - \"Allah heard the one who praised Him\". Following that, declare, <![CDATA[<b><i>\"Rabbana laKal hamd\"</i></b>]]> - \"O our Lord, all praise belongs to You\".</string>
+    <string name="string_step_12"><![CDATA[<b>Step 12:</b>]]> Once more, say <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]> and lower into prostration, known as \"Sujood\". While prostrating, ensure your forehead, nose, palms of both hands, knees, and toes pointing forward make contact with the floor.</string>
+    <string name="string_step_13"><![CDATA[<b>Step 13:</b>]]> Repeat at least three times, <![CDATA[<b><i>\"Subhaana Rabbiy-al-Aalaa\"</i></b>]]> - \"Glory be to my Lord, the Highest\".</string>
+    <string name="string_step_14"><![CDATA[<b>Step 14:</b>]]> Rise to a sitting position while saying <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]>. Place the palms of your hands on your knees. Sit on the flat of your left foot, keeping the toes of the right foot planted and pointing forward. For women, lean on their left hip with both feet pointing to the right side.</string>
+    <string name="string_step_15"><![CDATA[<b>Step 15:</b>]]> After a brief pause, return to prostration while saying <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]>, and repeat step 13.</string>
+    <string name="string_step_16"><![CDATA[<b>Step 16:</b>]]> Rise to a full standing position while saying <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]>. You have now finished your first unit, or rak‘ah, of Tarawih.</string>
+    <string name="string_step_17"><![CDATA[<b>Step 17:</b>]]> Repeat steps 8 through 15 once more.</string>
+    <string name="string_step_18"><![CDATA[<b>Step 18:</b>]]> After completing steps 8 through 15 again, return to a sitting position as described in step 14.</string>
+    <string name="string_step_19"><![CDATA[<b>Step 19:</b>]]> While in a seated position, recite the initial segment of the Tashaahud: <![CDATA[<b><i>\"At-tahiyyatu lillah, was-salawaatu wat-tayyibaat. As-salaamu ‘alayka ayyuhan-Nabiyyu wa rahmat-Ullahi wa barakaatu. As-salaamu alayna, wa alaa ibaadi-llahis saaliheen\"</i></b>]]>. This means \"All compliments are for Allah, and prayers and goodness. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and on the righteous servants of Allah.\"</string>
+    <string name="string_step_20"><![CDATA[<b>Step 20:</b>]]> Next, with your hands resting on your knees, lift your right index finger while holding the other fingers of your right hand together. Then, recite the second portion of the Tashaahud: <![CDATA[<b><i>\"Ashhadu an laa ilaaha ill-Allahu wa ashhadu anna Muhammadan abduHu wa Rasooluh\"</i></b>]]>. This signifies \"I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and messenger\".</string>
+    <string name="string_step_21"><![CDATA[<b>Step 21:</b>]]> Lower your right index finger, returning both palms to rest on your knees</string>
+    <string name="string_step_22"><![CDATA[<b>Step 22:</b>]]> While remaining seated, recite: <![CDATA[<b><i>\"Allahumma salli alaa Muhammadiw wa alaa aali Muhammadin, kamaa sallayta alaa Ibraheema wa alaa aali Ibraheema, innaKa Hameedum Majeed. Allahumma baarik ‘alaa Muhammadiw wa alaa aali Muhammadin, kamaa baarakta alaa Ibraheema wa alaa aali Ibraheema, innaKa Hameedum Majeed\"</i></b>]]>. This translates to \"O Allah, send Your mercy upon Muhammad and the family of Muhammad, just as You sent mercy upon Ibrahim and the family of Ibrahim. Truly You are Praiseworthy and Glorious. O Allah, send blessings upon Muhammad and the family of Muhammad, just as You sent blessings upon Ibrahim and the family of Ibrahim. Truly You are Praiseworthy and Glorious\".</string>
+    <string name="string_step_23"><![CDATA[<b>Step 23:</b>]]> It is highly recommended to recite some supplications (dua). One straightforward and comprehensive supplication is, <![CDATA[<b><i>\"Rabbana aatina fid-dunya hasanataw wa fil-aakhirati hasantaw wa qina adhaaban Naar\"</i></b>]]>. This means \"O our Lord, give us good in this world and good in the hereafter and protect us from the punishment of the Fire\".</string>
+    <string name="string_step_24"><![CDATA[<b>Step 24:</b>]]> Conclude the Salah by turning your head to the right, saying <![CDATA[<b><i>\"Assalamu alaikum wa rahmat-Ullahi wa barakaatuH\"</i></b>]]>. Then repeat these words while turning your head to the left. They mean, \"May peace, the mercy of Allah, and His blessings be upon you\".</string>
+    <string name="string_step_25"><![CDATA[<b>Step 25:</b>]]> Your initial set of two rak’at is now finished! Please proceed back to Step 3 to begin your next two rak’at.</string>
+    <string name="string_tarawih">Tarawih</string>
+    <string name="string_tarawih_prayer">Tarawih Prayer</string>
+    <string name="string_dialog_tarawih_1">Introducing our latest features: <![CDATA[<b>The Tarawih</b>]]> &amp; <![CDATA[<b>Ramanda Greetings</b>]]> guide is now available!</string>
+    <string name="string_dialog_tarawih_2">Take me there</string>
+    <string name="string_text_size">Text Size</string>
+    <string name="string_text_shadow">Text Shadow</string>
+    <string name="string_background_blur">Background Blur</string>
+    <string name="string_font_style_ramadan">Font Style</string>
+    <string name="string_color">Color</string>
+    <string name="string_send">Send</string>
+    <string name="string_background">Background</string>
+    <string name="string_app_download_link">App Download Link</string>
+    <string name="string_share_image">Share Image</string>
+    <string name="string_click_here_to_download_the_app">Click here to download the app: %s</string>
+    <string name="string_greeting">Greetings</string>
+    <string name="string_grant_permissions_later">Grant permissions later</string>
+    <string name="string_notification">Notification</string>
+    <string name="string_location_permission">Location Permission</string>
+    <string name="string_notification_permission">Notification Permission</string>
+    <string name="string_appear_on_top_permission">Appear on top Permission</string>
+    <string name="string_des_location_quibla">The app needs Location Permission to activate Qibla</string>
+    <string name="string_des_location_islam_map">The app needs Location Permission to activate Islam map</string>
+    <string name="string_des_location_widget">The app needs Location Permission to activate Widget</string>
+    <string name="string_des_notification_widget">The app needs Notification Permission to activate Widget</string>
+    <string name="string_des_appear_on_top_widget">The app needs Appear On Top Permission to activate Widget</string>
+    <string name="string_des_location_home">The app needs Location Permission to enable getting prayer times</string>
+    <string name="string_des_notification_home">The app needs Location Permission to allow notifications when it\'s prayer time</string>
+    <string name="string_des_appear_on_top_home">The app needs Appear On Top Permission to allow the display of the prayer notification screen</string>
+    <string name="string_you_can_select_location">You Can Select Location</string>
+    <string name="string_you_can_select_notification">You Can Select Notification</string>
+    <string name="string_you_can_select_appear_on_top">You Can Select Appear on top</string>
+    <string name="permission_description" translatable="false">The app needs to use the foreground service permission to ensure the reminder function works properly.With reminder function: user can set alarm to schedule Muslim prayers (Fair, Sunrise, Dhur, Ars, Maghrib, Isha) every day.</string>
+    <string name="permission_description_update_information" translatable="false">We need to use the FOREGROUND_SERVICE_SPECIAL_USE permission to update data on the app widgets that the user has added on the device screen. Please allow us to use this permission. Thank you.</string>
+    <string name="permission_description_fixed_countdown" translatable="false">We need to use the FOREGROUND_SERVICE_SPECIAL_USE permission to display a notification. The notification displays information: next prayer time, countdown time to that prayer time, current Muslim day. Please allow us to use this permission. Thank you.</string>
+    <string name="string_go">Go</string>
+    <string name="string_continue">Continue</string>
+    <string name="string_skip">Skip</string>
+    <string name="string_are_you_sure_exit_the_app">Are you sure exit the app?</string>
+    <string name="string_yes">Yes</string>
+    <string name="string_no">No</string>
+
+    <string name="str_kareem">Kareem</string>
+    <string name="ramadan_is_a_time_for_reflection_and_gratitude_may_you_be_granted_the_strength_to_practice_your_faith_the_patience_to_overcome_challenges_and_the_joy_in_every_moment_ramadan_mubarak">Ramadan is a time for reflection and gratitude. May you be granted the strength to practice your faith, the patience to overcome challenges, and the joy in every moment. Ramadan Mubarak!</string>
+    <string name="str_picture_color">Picture Color</string>
+
+
+    // ================================
+    <string name="title_intro_1">Quran &amp; Daily Duas</string>
+    <string name="title_intro_2">Qibla Compass</string>
+    <string name="title_intro_3">Prayer time</string>
+    <string name="title_intro_4">Islamic Calendar</string>
+    <string name="content_intro_1">Read and listen to the Quran, and explore daily duas and azkar.</string>
+    <string name="content_intro_2">Easily find your Qibla direction, no matter where you are.</string>
+    <string name="content_intro_3">Never miss a prayer - accurate times, always on time.</string>
+    <string name="content_intro_4">Track important dates like Ramadan, Eid al-Fitr, Eid al-Adha, and more.</string>
+    <string name="please_select_language">Please select your language</string>
+    <string name="str_zakat">Zakat</string>
+    <string name="str_allah">Allah</string>
+    <string name="continue_rotate_title">Rorate your phone until Kaaba in the center.</string>
+    <string name="success_destination">This is the Qibla direction!</string>
+    <string name="north_title">North (N)</string>
+    <string name="northeast_title">Northeast (NE)</string>
+    <string name="east_title">East (E)</string>
+    <string name="southeast_title">Southeast (SE)</string>
+    <string name="south_title">South (S)</string>
+    <string name="southwest_title">Southwest (SW)</string>
+    <string name="west_title">West (W)</string>
+    <string name="northwest_title">Northwest (NW)</string>
+    <string name="bookmark_title">Bookmark</string>
+    <string name="round_title">Round</string>
+    <string name="adjust_rounds_title">Adjust rounds</string>
+    <string name="currency_unit">Currency Unit</string>
+    <string name="calculate_zakat">Calculate Zakat</string>
+    <string name="total_amount_of_zakat">Total Amount of Zakat</string>
+    <string name="property_information">Property Information</string>
+    <string name="str_gold">Gold</string>
+    <string name="str_silver">Silver</string>
+    <string name="str_money">Money</string>
+    <string name="str_investment">Investment</string>
+    <string name="business_assets">Business Assets</string>
+    <string name="other_savings">Other savings</string>
+    <string name="str_debt">Debt</string>
+    <string name="str_nisab">Nisab</string>
+    <string name="str_find">Find</string>
+    <string name="str_unknown">Unknown</string>
+    <string name="loading_data_mosque_please_wait">Loading data mosque. Please wait...</string>
+    <string name="allah_99_name_title">99 Name of allah</string>
+
+    <string name="the_most_or_entirely_merciful">The Most or Entirely Merciful</string>
+    <string name="the_bestower_of_mercy">The Bestower of Mercy</string>
+    <string name="the_king_and_owner_of_dominion">The King and Owner of Dominion</string>
+    <string name="the_absolutely_pure">The Absolutely Pure</string>
+    <string name="the_perfection_and_giver_of_peace">The Perfection and Giver of Peace</string>
+    <string name="the_one_who_gives_emaan_and_security">The One Who gives Emaan and Security</string>
+    <string name="the_guardian">The Guardian</string>
+    <string name="the_witness">The Witness</string>
+    <string name="the_overseer">The Overseer</string>
+    <string name="the_all_mighty">The All Mighty</string>
+    <string name="the_compeller">The Compeller</string>
+    <string name="_the_restorer">The Restorer</string>
+    <string name="the_supreme">The Supreme</string>
+    <string name="_the_majestic"> The Majestic</string>
+    <string name="the_creator">The Creator</string>
+    <string name="_the_maker"> The Maker</string>
+    <string name="the_originator">The Originator</string>
+    <string name="the_fashioner">The Fashioner</string>
+    <string name="the_all_and_oft_forgiving">The All- and Oft-Forgiving</string>
+    <string name="the_subduer">The Subduer</string>
+    <string name="the_ever_dominating">The Ever-Dominating</string>
+    <string name="the_giver_of_gifts">The Giver of Gifts</string>
+    <string name="the_provider">The Provider</string>
+    <string name="the_opener">The Opener</string>
+    <string name="_the_judge">The Judge</string>
+    <string name="the_all_knowing">The All-Knowing</string>
+    <string name="_the_omniscient"> The Omniscient</string>
+    <string name="the_withholder">The Withholder</string>
+    <string name="the_extender">The Extender</string>
+    <string name="the_reducer">The Reducer</string>
+    <string name="the_abaser">The Abaser</string>
+    <string name="the_exalter">The Exalter</string>
+    <string name="_the_elevator"> The Elevator</string>
+    <string name="the_honourer">The Honourer</string>
+    <string name="the_bestower">The Bestower</string>
+    <string name="the_dishonourer">The Dishonourer</string>
+    <string name="the_humiliator">The Humiliator</string>
+    <string name="the_all_hearing">The All-Hearing</string>
+    <string name="the_all_seeing">The All-Seeing</string>
+    <string name="the_judge">The Judge</string>
+    <string name="_the_giver_of_justice"> The Giver of Justice</string>
+    <string name="the_utterly_just">The Utterly Just</string>
+    <string name="the_subtle_one">The Subtle One</string>
+    <string name="the_most_gentle"> The Most Gentle</string>
+    <string name="the_acquainted">The Acquainted</string>
+    <string name="the_all_aware"> The All-Aware</string>
+    <string name="the_most_forbearing">The Most Forbearing</string>
+    <string name="the_forgiving">The Forgiving</string>
+    <string name="the_exceedingly_forgiving"> The Exceedingly Forgiving</string>
+    <string name="the_most_appreciative">The Most Appreciative</string>
+    <string name="the_most_high">The Most High</string>
+    <string name="_the_exalted"> The Exalted</string>
+    <string name="the_greatest">The Greatest</string>
+    <string name="the_most_grand">The Most Grand</string>
+    <string name="the_preserver">The Preserver</string>
+    <string name="the_all_heedful_and_all_protecting">The All-Heedful and All-Protecting</string>
+    <string name="the_sustainer">The Sustainer</string>
+    <string name="the_maintainer">The Maintainer</string>
+    <string name="the_reckoner">The Reckoner</string>
+    <string name="the_majestic">The Majestic</string>
+    <string name="the_most_generous">The Most Generous</string>
+    <string name="_the_most_esteemed">The Most Esteemed</string>
+    <string name="the_watchful">The Watchful</string>
+    <string name="the_all_watchful">The All-Watchful</string>
+    <string name="the_responsive">The Responsive</string>
+    <string name="the_answerer">The Answerer</string>
+    <string name="the_all_encompassing">The All-Encompassing</string>
+    <string name="the_boundless">The Boundless</string>
+    <string name="the_all_wise">The All-Wise</string>
+    <string name="the_most_loving">The Most Loving</string>
+    <string name="the_glorious">The Glorious</string>
+    <string name="the_most_honorable"> The Most Honorable</string>
+    <string name="the_infuser_of_new_life">The Infuser of New Life</string>
+    <string name="the_all_observing_witnessing">The All Observing Witnessing</string>
+    <string name="absolute_truth">Absolute Truth</string>
+    <string name="the_trustee">The Trustee</string>
+    <string name="the_disposer_of_affairs"> The Disposer of Affairs</string>
+    <string name="the_all_strong">The All-Strong</string>
+    <string name="the_firm">The Firm</string>
+    <string name="the_steadfast"> The Steadfast</string>
+    <string name="the_protecting_associate">The Protecting Associate</string>
+    <string name="the_praiseworthy">The Praiseworthy</string>
+    <string name="the_all_enumerating">The All-Enumerating</string>
+    <string name="the_counter"> The Counter</string>
+    <string name="the_initiator"> The Initiator</string>
+    <string name="the_restorer">The Restorer</string>
+    <string name="the_reinstater">The Reinstater</string>
+    <string name="the_giver_of_life">The Giver of Life</string>
+    <string name="the_creator_of_death">The Creator of Death</string>
+    <string name="ever_living">Ever-Living</string>
+    <string name="the_self_subsisting"> The Self-Subsisting</string>
+    <string name="the_perceiver">The Perceiver</string>
+    <string name="the_illustrious">The Illustrious</string>
+    <string name="the_magnificent"> The Magnificent</string>
+    <string name="the_one">The One</string>
+    <string name="the_indivisible"> The Indivisible</string>
+    <string name="unique">Unique</string>
+    <string name="the_only_one"> The Only One</string>
+    <string name="the_eternal">The Eternal</string>
+    <string name="satisfier_of_needs"> Satisfier of Needs</string>
+    <string name="the_omnipotent">The Omnipotent</string>
+    <string name="the_powerful">The Powerful</string>
+    <string name="the_expediter">The Expediter</string>
+    <string name="the_promoter">The Promoter</string>
+    <string name="the_delayer">The Delayer</string>
+    <string name="the_first">The First</string>
+    <string name="the_last">The Last</string>
+    <string name="the_utmost"> The Utmost</string>
+    <string name="the_manifest">The Manifest</string>
+    <string name="the_all_surpassing"> The All-Surpassing</string>
+    <string name="the_hidden_one">The Hidden One</string>
+    <string name="knower_of_the_hidden"> Knower of the Hidden</string>
+    <string name="the_sole_governor">The Sole Governor</string>
+    <string name="the_self_exalted">The Self Exalted</string>
+    <string name="source_of_all_goodness">Source of All Goodness</string>
+    <string name="the_ever_pardoning">The Ever-Pardoning</string>
+    <string name="the_avenger">The Avenger</string>
+    <string name="the_pardoner">The Pardoner</string>
+    <string name="the_most_kind">The Most Kind</string>
+    <string name="master_of_the_dominion">Master of the Dominion</string>
+    <string name="owner_of_the_kingdom"> Owner of the Kingdom</string>
+    <string name="possessor_of_glory_and_honour">Possessor of Glory and Honour</string>
+    <string name="the_just_one">The Just One</string>
+    <string name="the_gatherer">The Gatherer</string>
+    <string name="the_uniter">The Uniter</string>
+    <string name="the_self_sufficient">The Self-Sufficient</string>
+    <string name="the_wealthy">The Wealthy</string>
+    <string name="the_enricher">The Enricher</string>
+    <string name="the_distresser">The Distresser</string>
+    <string name="the_propitious">The Propitious</string>
+    <string name="the_benefactor"> The Benefactor</string>
+    <string name="the_light">The Light</string>
+    <string name="the_guide">The Guide</string>
+    <string name="the_incomparable_originator">The Incomparable Originator</string>
+    <string name="the_ever_lasting">The Ever-Lasting</string>
+    <string name="the_inheritor">The Inheritor</string>
+    <string name="the_guide_to_the_right_path">The Guide to the Right Path</string>
+    <string name="the_patient">The Patient</string>
+    <string name="no_data">No data</string>
+    <string name="get_started_title">Get Started</string>
+    <string name="radar_title">Radar</string>
+    <string name="radar_content">The device does not support this feature or functionality.</string>
+    <string name="exit_the_app_title">Exit the app?</string>
+    <string name="what_problems_you_encounter_during_use">What problems you encounter during use</string>
+    <string name="restart">Restart</string>
+    <string name="nothing_interesting_anymore">Nothing interesting anymore</string>
+    <string name="explore">Explore</string>
+    <string name="still_uninstall">Still uninstall</string>
+    <string name="why_uninstall_application">Why uninstall application</string>
+    <string name="difficult_to_use">Difficult to use</string>
+    <string name="too_many_ads">Too many ads</string>
+    <string name="others">Others</string>
+    <string name="please_enter_the_reason_why_uninstall_application">Please enter the reason why uninstall application</string>
+    <string name="don_t_uninstall_yet">Don\'t uninstall yet</string>
+    <string name="loading_0">Loading (0%)...</string>
+    <string name="loading_splash">"Loading "</string>
+    <string name="prayer_reminder_not_working">Prayer reminder not working</string>
+    <string name="qibla_compass_not_working">Qibla Compass not working</string>
+    <string name="uninstall">Uninstall</string>
+
+</resources>

@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_this_action_can_contain_ads">Это действие может содержать рекламу</string>
+    <string name="string_language">Язык</string>
+    <string name="string_next">Далее</string>
+    <string name="string_permission">Разрешение</string>
+    <string name="string_allow_per_we_muslim">Muslim Prayer - Quran Compass требует разрешения на использование местоположения устройства, отображение поверх других окон и отправку уведомлений (с Android 13 и выше)</string>
+    <string name="string_location">Местоположение</string>
+    <string name="string_appear_on_top">Появляться поверх других</string>
+    <string name="string_allow_notification">Разрешить уведомления</string>
+    <string name="string_you_need_to_accept_full_permission">Вам необходимо принять все разрешения для использования приложения</string>
+    <string name="string_you_need_to_enable_permission_to_use_this_features">Вам необходимо включить разрешения, чтобы использовать эти функции</string>
+    <string name="go_to_setting">Перейти в настройки</string>
+    <string name="string_cancel">Отмена</string>
+    <string name="string_save">Сохранить</string>
+    <string name="string_juristic_method">Юридический метод</string>
+    <string name="string_adjust_islamic_calendar">Настроить исламский календарь</string>
+    <string name="string_azkar">Азкар</string>
+    <string name="string_daily_dhikr">Ежедневный зикр</string>
+    <string name="string_daily_dhikr_1">Даруд Ибрахими</string>
+    <string name="string_daily_dhikr_2">Тасбих после молитвы (Салат)</string>
+    <string name="string_daily_dhikr_3">Ежедневные дуа</string>
+    <string name="string_daily_dhikr_4">Перед началом любого дела</string>
+    <string name="string_daily_dhikr_5">Для этого мира и загробной жизни</string>
+    <string name="string_daily_dhikr_6">Для защиты и помощи Аллаха</string>
+    <string name="string_daily_dhikr_7">Вознаграждение, равное трети Корана</string>
+    <string name="string_daily_rememberence">Ежедневное поминание</string>
+    <string name="string_daily_rememberence_1">Утреннее поминание</string>
+    <string name="string_daily_rememberence_2">Вечернее поминание</string>
+    <string name="string_after_prayer">После молитвы</string>
+    <string name="string_after_prayer_1">Тасбих после молитвы (Салат)</string>
+    <string name="string_after_prayer_2">Поминания после молитвы</string>
+    <string name="string_after_prayer_3">Совершать Салат регулярно</string>
+    <string name="string_after_prayer_4">Для защиты и помощи Аллаха</string>
+    <string name="string_Rizq_sustenance">Ризк (пропитание)</string>
+    <string name="string_Rizq_sustenance_1">Для ризка (пропитания)</string>
+    <string name="string_Rizq_sustenance_2">Когда у вас есть нужда</string>
+    <string name="string_Rizq_sustenance_3">Для прощения и милости Аллаха</string>
+    <string name="string_Rizq_sustenance_4">Для восхваления Аллаха</string>
+    <string name="string_Rizq_sustenance_5">Для успеха</string>
+    <string name="string_knowledge">Знание</string>
+    <string name="string_knowledge_1">Увеличение знаний</string>
+    <string name="string_knowledge_2">Даруй мне уверенность и красноречие</string>
+    <string name="string_knowledge_3">Для защиты от невежества</string>
+    <string name="string_knowledge_4">Защита от глупости</string>
+    <string name="string_faith">Вера</string>
+    <string name="string_faith_1">Укрепи свой иман</string>
+    <string name="string_faith_2">Чтобы стать практикующим мусульманином</string>
+    <string name="string_faith_3">Ищи прощения и укрепи свой иман</string>
+    <string name="string_faith_4">Преданность Аллаху</string>
+    <string name="string_faith_5">Для праведного окружения</string>
+    <string name="string_day_of_judgement">Судный день</string>
+    <string name="string_day_of_judgement_1">Для этого мира и загробной жизни</string>
+    <string name="string_day_of_judgement_2">Ищи прощения и защиты от ада</string>
+    <string name="string_day_of_judgement_3">Для прощения твоих родителей и всех мусульман</string>
+    <string name="string_day_of_judgement_4">Для Рая (Джанны)</string>
+    <string name="string_forgiveness">Прощение</string>
+    <string name="string_forgiveness_1">Ищи прощения и укрепи свой иман</string>
+    <string name="string_forgiveness_2">Для прощения</string>
+    <string name="string_forgiveness_3">Для прощения и милости Аллаха</string>
+    <string name="string_forgiveness_4">Ищи прощения и защиты от ада</string>
+    <string name="string_forgiveness_5">Для прощения твоих родителей и всех мусульман</string>
+    <string name="string_forgiveness_6">Прощение для твоих братьев</string>
+    <string name="string_forgiveness_7">Просить прощения за себя и всех, кто входит в твой дом</string>
+    <string name="string_forgiveness_8">Для покаяния</string>
+    <string name="string_forgiveness_9">Укрепи свой иман</string>
+    <string name="string_forgiveness_10">Ищи довольства Аллаха</string>
+    <string name="string_praising_allah">Восхваление Аллаха</string>
+    <string name="string_praising_allah_1">Для восхваления и прославления Аллаха</string>
+    <string name="string_praising_allah_2">Для благодарности Аллаху</string>
+    <string name="string_praising_allah_3">Чтобы быть благодарным Аллаху</string>
+    <string name="string_praising_allah_4">При получении хороших новостей</string>
+    <string name="string_praising_allah_5">Для ризка (пропитания)</string>
+    <string name="string_praising_allah_6">Чтобы довериться Аллаху</string>
+    <string name="string_protection">Защита</string>
+    <string name="string_protection_1">Защита и помощь Аллаха</string>
+    <string name="string_protection_2">Ищи прощения и защиты от ада</string>
+    <string name="string_protection_3">Для защиты от Шайтана</string>
+    <string name="string_protection_4">Для защиты от сглаза</string>
+    <string name="string_protection_5">Чтобы уберечь семью от преступников</string>
+    <string name="string_protection_6">Для защиты ребенка</string>
+    <string name="string_protection_7">Для защиты от угнетателей</string>
+    <string name="string_protection_8">Для защиты от врагов</string>
+    <string name="string_protection_9">Чтобы преодолеть страх</string>
+    <string name="string_protection_10">Для защиты от злодеев</string>
+    <string name="string_patience">Терпение</string>
+    <string name="string_patience_1">Чтобы иметь терпение</string>
+    <string name="string_patience_2">Для терпения в трудные моменты</string>
+    <string name="string_patience_3">Чтобы контролировать свой гнев</string>
+    <string name="string_patience_4">Когда кто-то тебя оскорбляет</string>
+    <string name="string_debt">Долг</string>
+    <string name="string_debt_1">Чтобы оплатить долг</string>
+    <string name="string_debt_2">За того, кто дал тебе деньги в долг</string>
+    <string name="string_debt_3">Для успеха</string>
+    <string name="string_debt_4">Для пропитания (ризк)</string>
+    <string name="string_during_menstruation">Во время менструации</string>
+    <string name="string_during_menstruation_1">Даруд-Ибрахими</string>
+    <string name="string_during_menstruation_2">Для этого мира и загробной жизни</string>
+    <string name="string_during_menstruation_3">Для прощения и милости Аллаха</string>
+    <string name="string_during_menstruation_4">Чтобы укрепить свою веру</string>
+    <string name="string_during_menstruation_5">Чтобы быть практикующим мусульманином</string>
+    <string name="string_during_menstruation_6">Чтобы благодарить Аллаха</string>
+    <string name="string_during_menstruation_7">Чтобы быть праведным мусульманином</string>
+    <string name="string_during_menstruation_8">Для здоровой жизни</string>
+    <string name="string_during_menstruation_9">Чтобы облегчить боль</string>
+    <string name="string_during_menstruation_10">Если проходишь через трудные времена</string>
+    <string name="string_during_menstruation_11">Чтобы просить помощи у Аллаха</string>
+    <string name="string_during_menstruation_12">Когда испытываешь тревогу</string>
+    <string name="string_during_menstruation_13">Чтобы иметь терпение в трудные моменты</string>
+    <string name="string_during_menstruation_14">Чтобы довериться Аллаху</string>
+    <string name="string_duas">Молитвы (Дуа)</string>
+    <string name="string_daily">Ежедневно</string>
+    <string name="string_sleeping">Сон</string>
+    <string name="string_sleeping_1">Когда просыпаешься</string>
+    <string name="string_sleeping_2">Перед сном</string>
+    <string name="string_toilet">Туалет</string>
+    <string name="string_toilet_1">Перед входом в туалет</string>
+    <string name="string_toilet_2">После выхода из туалета</string>
+    <string name="string_ablution">Омовение</string>
+    <string name="string_ablution_1">При начале омовения</string>
+    <string name="string_ablution_2">После завершения омовения</string>
+    <string name="string_mosque">Мечеть</string>
+    <string name="string_mosque_1">По пути в мечеть</string>
+    <string name="string_mosque_2">При входе в мечеть</string>
+    <string name="string_mosque_3">При выходе из мечети</string>
+    <string name="string_prayer">Молитва</string>
+    <string name="string_prayer_1">Во время азана</string>
+    <string name="string_prayer_2">После слушания азана</string>
+    <string name="string_prayer_3">После такбира (начала молитвы)</string>
+    <string name="string_prayer_4">Во время руку (поклона в молитве)</string>
+    <string name="string_prayer_5">Во время суджуда (земного поклона)</string>
+    <string name="string_prayer_6">При сидении между двумя поклонами</string>
+    <string name="string_prayer_7">Поклон при чтении Корана</string>
+    <string name="string_prayer_8">При сидении в молитве (ташаххуд)</string>
+    <string name="string_prayer_9">Даруд-Ибрахими</string>
+    <string name="string_prayer_10">После ташаххуда</string>
+    <string name="string_prayer_11">Дуа-е-Кунут (читается в молитве Витр)</string>
+    <string name="string_prayer_12">После утренней молитвы (Фаджр)</string>
+    <string name="string_home">Дом</string>
+    <string name="string_home_1">При выходе из дома</string>
+    <string name="string_home_2">При входе в дом</string>
+    <string name="string_occasional">Случайные</string>
+
+    <string name="string_deceased">Умершие</string>
+    <string name="string_deceased_1">Когда происходит потеря</string>
+    <string name="string_deceased_2">При посещении могил</string>
+    <string name="string_deceased_3">При выражении соболезнований</string>
+    <string name="string_deceased_4">При закрытии глаз умершего</string>
+    <string name="string_deceased_5">За умершего во время похоронной молитвы</string>
+    <string name="string_deceased_6">При погребении умершего</string>
+
+    <string name="string_haj_umrah">Хадж / Умра</string>
+    <string name="string_haj_umrah_1">Тальбия</string>
+    <string name="string_haj_umrah_2">Такбир при прохождении Черного Камня</string>
+    <string name="string_haj_umrah_3">При достижении Йеменского угла во время тавафа</string>
+    <string name="string_haj_umrah_4">Когда поднимаетесь на гору Сафа</string>
+    <string name="string_haj_umrah_5">Когда находитесь на горах Сафа и Марва</string>
+    <string name="string_haj_umrah_6">При чтении молитвы в Аль-Маш\'ар аль-Харам (Муздалифа)</string>
+    <string name="string_haj_umrah_7">При бросании камней в Джамарат</string>
+    <string name="string_haj_umrah_8">На равнине Арафат</string>
+    <string name="string_haj_umrah_9">При жертвоприношении животного</string>
+    <string name="text_you_a_meal_1">О Аллах, накорми того, кто накормил меня, и напои того, кто напоил меня.</string>
+    <string name="text_your_fast_1">О Аллах! Я постился ради Тебя, верю в Тебя, полагаюсь на Тебя и разрываю пост Твоим уделом.</string>
+    <string name="string_ramadan">Рамадан</string>
+    <string name="string_ramadan_1">При открытии поста</string>
+    <string name="string_ramadan_2">В Ночь Предопределения (Лайлатуль-Кадр)</string>
+    <string name="string_ramadan_3">За того, кто предоставляет вам ифтар</string>
+    <string name="string_ramadan_4">При появлении серпа новой луны</string>
+    <string name="text_praises_you_1">О Аллах, не взыщи с меня за то, что они говорят, и прости меня за то, чего они не знают [и сделай меня лучше, чем они представляют].</string>
+    <string name="text_in_distress_1">Нет никого, кто заслуживал бы поклонения, кроме Тебя (О Аллах), Ты Преславен и Превознесен. Поистине, я был из числа несправедливых.</string>
+    <string name="text_in_distress_2" translatable="false">O Allah, I hope for Your mercy. Do not leave me to myself even for the blinking of an eye (i.e. a moment). Correct all of my affairs for me. There is none worthy of worship but You.</string>
+    <string name="text_in_distress_3">Нет никого, кто заслуживал бы поклонения, кроме Аллаха, Великого, Терпеливого. Нет никого, кто заслуживал бы поклонения, кроме Аллаха, Господа Великого Трона. Нет никого, кто заслуживал бы поклонения, кроме Аллаха, Господа небес, Господа земли и Господа Благородного Трона.</string>
+    <string name="string_step_1"><![CDATA[<b>Шаг 1:</b>]]> Убедитесь, что ваше аурат закрыто, по крайней мере, и что вы совершили <![CDATA[<b>вуду</b>]]>. Мужчины должны закрывать все тело, включая пупок и колени. Женщина должна быть покрыта полностью, кроме рук, стоп и лица.</string>
+    <string name="string_step_2"><![CDATA[<b>Шаг 2:</b>]]> Найдите чистое место, где вы не будете мешать другим людям, например, на молитвенном коврике. Встаньте лицом к Каабе в Мекке — это направление Киблы. Если вы больны или имеете инвалидность и не можете стоять, молитесь сидя.</string>
+    <string name="string_step_3"><![CDATA[<b>Шаг 3:</b>]]> Произнесите намерение для Салата вслух или про себя, чтобы начать. Вы можете сделать это на арабском или на любом другом языке. Например, «Я намереваюсь совершить два ракаата Таравиха ради Аллаха, лицом к Каабе».</string>
+    <string name="string_step_4"><![CDATA[<b>Шаг 4:</b>]]> Скажите <![CDATA[<b><i>«Аллаху Акбар»</i></b>]]> и поднимите руки к плечам (для женщин) или к мочкам ушей (для мужчин). Это означает «Аллах — величайший». (Этот шаг показан ниже). Теперь вы находитесь в состоянии ихрама, что запрещает вам делать что-либо мирское, что может отвлекать, включая разговоры, смех, еду, питье или посторонние мысли.</string>
+    <string name="string_step_5"><![CDATA[<b>Шаг 5:</b>]]> Мужчины кладут правую руку поверх левой чуть ниже пупка. Женщины должны положить руки на грудь.</string>
+    <string name="string_step_6"><![CDATA[<b>Шаг 6:</b>]]> Тихо произнесите следующее предложение <![CDATA[<b><i>«СубханаК-Аллахумма ва бихамдиКа, <br>ва табарак-асмуКа, ва та-‘аала джаддуКа, ва ла илаха илла гайруК»</i></b>]]>. Это означает «О Аллах, слава и хвала Тебе; благословенно Имя Твое; возвышенно Величие Твое; нет бога, кроме Тебя».</string>
+    <string name="string_step_7"><![CDATA[<b>Шаг 7:</b>]]> Затем тихо произнесите: <![CDATA[<b><i>«А\'удзу би-Ллахи мин аш-Шайтанир раджим, бисми-Ллахир Рахмани Рахим»</i></b>]]>. Это означает «Я прибегаю к защите Аллаха от проклятого Шайтана, с именем Аллаха, Милостивого, Милосердного».</string>
+    <string name="string_step_8"><![CDATA[<b>Шаг 8:</b>]]> Продолжайте читать: <![CDATA[<b><i>«Сурат аль-Фатиха»</i></b>]]>, затем завершите словами <![CDATA[<b><i>«Амин»</i></b>]]>, что означает «да будет так». Если вы ведете молитву, читайте все суры в Таравихе вслух!</string>
+    <string name="string_step_9"><![CDATA[<b>Шаг 9:</b>]]> После этого прочитайте любую другую суру. Минимальное чтение — три аята или один длинный аят, эквивалентный трем коротким. Однако лучше всего прочитать целую суру.</string>
+    <string name="string_step_10"><![CDATA[<b>Шаг 10:</b>]]> Наклонитесь вперед и произнесите <![CDATA[<b><i>«Аллаху Акбар»</i></b>]]>, что означает «Аллах — величайший», положив руки на колени и держа спину прямой. Остановитесь в этом положении, известном как руку (поклон), и повторите <![CDATA[<b><i>«Субхана Раббий-аль-Азым»</i></b>]]> минимум три раза, что означает «Слава моему Господу, Великому».</string>
+    <string name="string_step_11"><![CDATA[<b>Шаг 11:</b>]]> Поднимаясь в вертикальное положение, скажите <![CDATA[<b><i>«Сами-Аллаху лиман хамидаХ»</i></b>]]> — «Аллах услышал того, кто восхваляет Его». Затем произнесите <![CDATA[<b><i>«Раббана лаКа-ль-хамд»</i></b>]]> — «О наш Господь, Тебе вся хвала».</string>
+    <string name="string_step_12"><![CDATA[<b>Шаг 12:</b>]]> Снова скажите <![CDATA[<b><i>«Аллаху Акбар»</i></b>]]> и опуститесь в земной поклон, называемый «Суджуд». В этом положении ваш лоб, нос, ладони обеих рук, колени и пальцы ног должны касаться пола.</string>
+    <string name="string_step_13"><![CDATA[<b>Шаг 13:</b>]]> Повторите минимум три раза <![CDATA[<b><i>«Субхана Раббий-аль-А\'ля»</i></b>]]> — «Слава моему Господу, Всевышнему».</string>
+    <string name="string_step_14"><![CDATA[<b>Шаг 14:</b>]]> Поднимитесь в сидячее положение, говоря <![CDATA[<b><i>«Аллаху Акбар»</i></b>]]>. Ладони должны находиться на коленях.</string>
+    <string name="string_step_15"><![CDATA[<b>Шаг 15:</b>]]> После небольшой паузы вернитесь в земной поклон, сказав <![CDATA[<b><i>«Аллаху Акбар»</i></b>]]>, и повторите шаг 13.</string>
+    <string name="string_step_16"><![CDATA[<b>Шаг 16:</b>]]> Встаньте в полный рост, произнося <![CDATA[<b><i>«Аллаху Акбар»</i></b>]]>. Теперь вы завершили первую рак‘а Таравиха.</string>
+    <string name="string_step_17"><![CDATA[<b>Шаг 17:</b>]]> Повторите шаги 8–15 снова.</string>
+    <string name="string_step_24"><![CDATA[<b>Шаг 24:</b>]]> Завершите молитву, повернув голову вправо и сказав <![CDATA[<b><i>«Ассаляму алейкум ва рахмату-Ллахи ва баракатуХ»</i></b>]]>. Затем повторите эти слова, повернув голову влево. Это означает «Мир, милость Аллаха и Его благословение да пребудут с вами».</string>
+    <string name="string_step_25"><![CDATA[<b>Шаг 25:</b>]]> Ваши первые два рак‘ата завершены! Перейдите снова к шагу 3, чтобы начать следующий цикл.</string>
+    <string name="string_step_18"><![CDATA[<b>Шаг 18:</b>]]> После повторного выполнения шагов с 8 по 15 снова примите сидячее положение, как описано в шаге 14.</string>
+    <string name="string_step_19"><![CDATA[<b>Шаг 19:</b>]]> В сидячем положении прочитайте первую часть Ташаххуда: <![CDATA[<b><i>\"Ат-тахийяту лиллах, вас-саляуату ват-таййибат. Ас-саляму ‘алайка айюхан-Набийю ва рахмату-Ллахи ва баракату. Ас-саляму ‘алайна, ва ‘аля ‘ибадиллахис-салихин\"</i></b>]]>. Это означает: «Все приветствия принадлежат Аллаху, а также молитвы и добрые дела. Мир тебе, о Пророк, и милость Аллаха и Его благословения. Мир нам и праведным рабам Аллаха.»</string>
+    <string name="string_step_20"><![CDATA[<b>Шаг 20:</b>]]> Далее, положив руки на колени, поднимите указательный палец правой руки, а остальные пальцы держите вместе. Затем прочитайте вторую часть Ташаххуда: <![CDATA[<b><i>\"Ашхаду ан ля иляха иллаллаху ва ашхаду анна Мухаммадан абдуху ва Расулюх\"</i></b>]]>. Это означает: «Я свидетельствую, что нет божества, кроме Аллаха, и свидетельствую, что Мухаммад – Его раб и посланник.»</string>
+    <string name="string_step_21"><![CDATA[<b>Шаг 21:</b>]]> Опустите указательный палец правой руки, вернув обе ладони на колени.</string>
+    <string name="string_step_22"><![CDATA[<b>Шаг 22:</b>]]> Оставаясь в сидячем положении, прочитайте: <![CDATA[<b><i>\"Аллахумма салли ‘аля Мухаммадиу ва ‘аля али Мухаммадин, кяма салляйта ‘аля Ибраhима ва ‘аля али Ибраhима, иннаКа Хамидум Маджид. Аллахумма барик ‘аля Мухаммадиу ва ‘аля али Мухаммадин, кяма баракта ‘аля Ибраhима ва ‘аля али Ибраhима, иннаКа Хамидум Маджид\"</i></b>]]>. Это переводится как: «О Аллах, ниспошли милость Мухаммаду и его семье, как Ты ниспослал милость Ибрахиму и его семье. Поистине, Ты – Достохвальный и Славный. О Аллах, ниспошли благословения Мухаммаду и его семье, как Ты ниспослал благословения Ибрахиму и его семье. Поистине, Ты – Достохвальный и Славный».</string>
+    <string name="string_step_23"><![CDATA[<b>Шаг 23:</b>]]> Настоятельно рекомендуется произносить дополнительные молитвы (дуа). Одна из простых и содержательных молитв: <![CDATA[<b><i>\"Раббана атина фи-ддунья хасанатав ва фи-ль-ахират хасанатав ва кина азабан-Нар\"</i></b>]]>. Это означает: «О наш Господь, даруй нам благо в этом мире и благо в вечности, и защити нас от наказания Огня».</string>
+    <string name="the_most_grand">Самый Великолепный</string>
+    <string name="the_all_heedful_and_all_protecting">Всё Внимающий и Всё Защищающий</string>
+    <string name="the_maintainer">Сохраняющий</string>
+    <string name="the_majestic">Величественный</string>
+    <string name="_the_most_esteemed">Самый Уважаемый</string>
+    <string name="the_watchful">Бдительный</string>
+    <string name="the_all_watchful">Всегда Бдительный</string>
+    <string name="the_answerer">Отвечающий</string>
+    <string name="the_all_encompassing">Всеобъемлющий</string>
+    <string name="the_boundless">Безграничный</string>
+    <string name="the_most_loving">Самый Любящий</string>
+    <string name="the_glorious">Славный</string>
+    <string name="the_most_honorable">Самый Почитаемый</string>
+    <string name="the_infuser_of_new_life">Давший Новую Жизнь</string>
+    <string name="the_all_observing_witnessing">Все Наблюдающий Свидетель</string>
+    <string name="absolute_truth">Абсолютная Истина</string>
+    <string name="the_trustee">Доверенный</string>
+    <string name="the_disposer_of_affairs">Распорядитель Дел</string>
+    <string name="the_all_strong">Все Сильный</string>
+    <string name="the_firm">Непоколебимый</string>
+    <string name="the_steadfast">Стойкий</string>
+    <string name="the_protecting_associate">Защищающий Союзник</string>
+    <string name="the_praiseworthy">Достойный Похвалы</string>
+    <string name="the_all_enumerating">Все Считающий</string>
+    <string name="the_counter">Счетчик</string>
+    <string name="the_initiator">Инициатор</string>
+    <string name="the_restorer">Восстановитель</string>
+    <string name="the_reinstater">Возобновляющий</string>
+    <string name="the_giver_of_life">Давший Жизнь</string>
+    <string name="the_creator_of_death">Создатель Смерти</string>
+    <string name="ever_living">Вечно Живущий</string>
+    <string name="the_self_subsisting">Самодостаточный</string>
+    <string name="the_perceiver">Воспринимающий</string>
+    <string name="the_illustrious">Выдающийся</string>
+    <string name="the_magnificent">Великолепный</string>
+    <string name="the_one">Единый</string>
+    <string name="the_indivisible">Неделимый</string>
+    <string name="unique">Уникальный</string>
+    <string name="the_only_one">Единственный</string>
+    <string name="the_eternal">Вечный</string>
+    <string name="satisfier_of_needs">Удовлетворитель Потребностей</string>
+    <string name="the_omnipotent">Всемогущий</string>
+    <string name="the_powerful">Мощный</string>
+    <string name="the_expediter">Ускоритель</string>
+    <string name="the_promoter">Продвигающий</string>
+    <string name="the_delayer">Замедляющий</string>
+    <string name="the_first">Первый</string>
+    <string name="the_last">Последний</string>
+    <string name="the_utmost">Наивысший</string>
+    <string name="the_manifest">Явный</string>
+    <string name="the_all_surpassing">Все Превозмогающий</string>
+    <string name="the_hidden_one">Скрытый</string>
+    <string name="knower_of_the_hidden">Знающий Скрытое</string>
+    <string name="the_sole_governor">Единственный Правитель</string>
+    <string name="the_self_exalted">Сам Возвышенный</string>
+    <string name="source_of_all_goodness">Источник Всего Добра</string>
+    <string name="the_ever_pardoning">Вечно Прощающий</string>
+    <string name="the_avenger">Мститель</string>
+    <string name="the_pardoner">Прощающий</string>
+    <string name="the_most_kind">Самый Добрый</string>
+    <string name="master_of_the_dominion">Владыка Власти</string>
+    <string name="owner_of_the_kingdom">Владелец Царства</string>
+    <string name="possessor_of_glory_and_honour">Обладатель Славы и Чести</string>
+    <string name="the_just_one">Справедливый</string>
+    <string name="the_gatherer">Собиратель</string>
+    <string name="the_uniter">Объединитель</string>
+    <string name="the_self_sufficient">Самодостаточный</string>
+    <string name="the_wealthy">Богатый</string>
+    <string name="the_enricher">Обогащающий</string>
+    <string name="the_distresser">Причиняющий Беды</string>
+    <string name="the_propitious">Благоприятный</string>
+    <string name="the_benefactor">Благотворитель</string>
+    <string name="the_light">Свет</string>
+    <string name="the_incomparable_originator">Непревзойденный Создатель</string>
+    <string name="the_inheritor">Наследник</string>
+    <string name="the_guide_to_the_right_path">Проводник на Правильный Путь</string>
+    <string name="string_nature">Природа</string>
+    <string name="string_nature_1">За дождь</string>
+    <string name="string_nature_2">Когда идет дождь</string>
+    <string name="string_nature_3">После дождя</string>
+    <string name="string_nature_4">Когда идет сильный дождь</string>
+    <string name="string_nature_5">При слышании грома</string>
+    <string name="string_nature_6">Во время шторма</string>
+
+    <string name="string_good_ettiquete">Хорошие манеры</string>
+    <string name="string_good_ettiquete_1">При приветствии людей</string>
+    <string name="string_good_ettiquete_2">При ответе на приветствие (Салам)</string>
+    <string name="string_good_ettiquete_3">При благодарности кому-то</string>
+    <string name="string_good_ettiquete_4">При чихании</string>
+    <string name="string_good_ettiquete_5">Когда кто-то рядом чихает</string>
+    <string name="string_good_ettiquete_6">Ответ на чихание</string>
+    <string name="string_good_ettiquete_7">При входе на рынок</string>
+    <string name="string_good_ettiquete_8">В конце собрания / маджлиса</string>
+    <string name="string_good_ettiquete_9">Когда кто-то хвалит вас</string>
+
+    <string name="string_decision_guidance">Решение / Руководство</string>
+    <string name="string_decision_guidance_1">Для истихары</string>
+    <string name="string_decision_guidance_2">Для справедливости</string>
+    <string name="string_decision_guidance_3">Чтобы искать руководство Аллаха</string>
+    <string name="string_decision_guidance_4">Чтобы искать довольство Аллаха</string>
+    <string name="string_decision_guidance_5">Для успеха</string>
+    <string name="string_decision_guidance_6">Чтобы укрепить свою веру</string>
+    <string name="app_widget_description_time">Виджет времени мусульманской молитвы</string>
+    <string name="app_widget_description_azkar">Виджет азкар мусульманина</string>
+    <string name="text_wake_up_1" translatable="false">Вся хвала Аллаху, который вернул мне здоровье, вернул мне душу и позволил мне помнить Его.</string>
+    <string name="text_sleeping_1" translatable="false">Во имя Твоё, мой Господь, я ложусь и во имя Твоё я встаю. Если Ты возьмёшь мою душу, будь милостив к ней, а если вернёшь её мне, сохрани её, как Ты сохраняешь своих праведных слуг.</string>
+    <string name="text_entering_toilet_1" translatable="false">(Во имя Аллаха). О Аллах, я прибегаю к Тебе от всякого зла и злодеев.</string>
+    <string name="text_leaving_toilet_1" translatable="false">Я прошу у Тебя прощения, о Аллах.</string>
+    <string name="text_starting_ablution_1" translatable="false">Во имя Аллаха.</string>
+    <string name="text_completing_ablution_1" translatable="false">Я свидетельствую, что никто не имеет права на поклонение, кроме Аллаха, Единого и Без Партнеров, и свидетельствую, что Мухаммад — Его раб и Посланник.</string>
+    <string name="text_completing_ablution_2" translatable="false">О Аллах, сделай меня одним из тех, кто часто обращается к Тебе в покаянии, и тех, кто остается чистым и непорочным.</string>
+    <string name="text_completing_ablution_3" translatable="false">Как совершенен Ты, о Аллах, и восхваляю Тебя! Я свидетельствую, что никто не имеет права на поклонение, кроме Тебя. Я прошу Тебя о прощении и раскаиваюсь перед Тобой.</string>
+    <string name="text_going_to_mosque_1" translatable="false">О Аллах, даруй свет моему сердцу, свет моему языку, свет моим ушам и свет моим глазам. Даруй свет позади меня, передо мной, сверху и снизу. О Аллах, даруй мне свет.</string>
+    <string name="text_entering_osque1" translatable="false">Я прибегаю к Аллаху, Великому, к Его Благородному Лицу и Его вечной власти от проклятого шайтана. Во имя Аллаха, да будет мир и благословения на Посланника Аллаха. О Аллах, открой для меня врата Твоей милости.</string>
+    <string name="text_leaving_mosque_1" translatable="false">Во имя Аллаха, да будет мир и благословения на Посланника Аллаха. О Аллах, прошу Тебя о Твоем милости. О Аллах, защити меня от проклятого шайтана.</string>
+    <string name="text_during_athan_1" translatable="false">Нет силы и могущества, кроме как в Аллахе.</string>
+    <string name="text_listening_athan_1" translatable="false">О Аллах, Господь этого совершенного призыва и установленной молитвы, даруй Мухаммаду заступничество и милость, и возвеличь его до почетной степени, которую Ты ему обещал. [Воистину, Ты не нарушаешь своих обещаний].</string>
+    <string name="text_after_takbeer_1" translatable="false">Я повернул мое лицо искренне к Тому, кто создал небеса и землю, и не из числа тех, кто приписывает Тебе партнеров. Воистину, моя молитва, мой жертвоприношение, моя жизнь и моя смерть принадлежат Аллаху, Господу миров. Он не имеет сотоварищей. Мне приказано так, и я из числа мусульман. О Аллах, Ты — Владыка, никто не имеет права на поклонение, кроме Тебя. Ты — мой Господь, и я — Твой раб. Я совершил несправедливость против моей души и признаю свой грех, так что прости меня за все мои грехи, ибо никто, кроме Тебя, не прощает их. Направь меня к лучшему поведению, ибо никто не может направить меня к нему, кроме Тебя, и огради меня от худшего поведения, ибо никто не может отогнать меня от него, кроме Тебя. Вот я, откликаюсь на Твой зов, рад служить Тебе. Все блага в Твоих руках, и зло не исходит от Тебя. Я существую по Твоей воле и вернусь к Тебе. Благословен и Возвышен Ты, прошу Тебя о прощении и раскаиваюсь перед Тобой.</string>
+    <string name="text_after_takbeer_2" translatable="false">О Аллах! Отдели меня от моих грехов, как Ты отделил Восток от Запада. О Аллах, очисти меня от моих проступков, как очищается белая одежда от пятен. О Аллах! Омой мои грехи льдом, водой и иней.</string>
+    <string name="text_after_takbeer_3" translatable="false">Слава Тебе, о Аллах, и хвала. Благословенно Твое Имя, и вознесена Твоя Великодушие. Никто не достоин поклонения, кроме Тебя.</string>
+    <string name="text_during_ruku_1" translatable="false">Слава моему Господу, Великому.</string>
+    <string name="text_during_ruku_2" translatable="false">Слава Тебе, о Аллах, нашему Господу, и хвала Тебе. О Аллах, прости меня.</string>
+    <string name="text_during_ruku_3" translatable="false">Слава Тебе, Святейший, Господь ангелов и Духа.</string>
+    <string name="text_during_ruku_4" translatable="false">О Аллах! Я склоняюсь перед Тобой (в молитве), верую в Тебя и подчиняюсь Тебе. Перед Тобой смиряется мое ухо, также как и мой взгляд, мой ум, мои кости, мои нервы и все, что мои ноги касаются.</string>
+    <string name="text_during_ruku_5" translatable="false">Слава Тебе, Владыка силы, власти, величия и славы.</string>
+    <string name="text_before_allah_1" translatable="false">Слава моему Господу, Великому.</string>
+    <string name="text_before_allah_2" translatable="false">Слава Тебе, о Аллах, нашему Господу, и хвала Тебе. О Аллах, прости меня.</string>
+    <string name="text_before_allah_3" translatable="false">Слава Тебе, Святейший, Господь ангелов и Духа.</string>
+    <string name="text_before_allah_4" translatable="false">О Аллах, я пред Тобой и верую в Тебя. Я подчинился Тебе. Мое лицо покоряется Тому, кто создал его, сформировал его и дал ему слух и зрение. Благословен Аллах, лучший из творцов.</string>
+    <string name="text_before_allah_5" translatable="false">Слава Тебе, Владыка силы, власти, величия и славы.</string>
+    <string name="text_before_allah_6" translatable="false">О Аллах, я ищу защиты в Твоем удовольствии от Твоего гнева, и ищу защиты в Твоем прощении от Твоего наказания. Я ищу защиты в Тебе от Тебя. Я не могу сосчитать Твои хвалы. Ты так, как Ты сам себя восхваляешь.</string>
+    <string name="text_before_allah_7" translatable="false">О Аллах, прости мне все мои грехи, большие и малые, первые и последние, явные и скрытые.</string>
+    <string name="text_two_sujood_1" translatable="false">Господь, прости меня. Мой Господь, прости меня.</string>
+    <string name="text_two_sujood_2" translatable="false">О Аллах! Прости меня, прояви милосердие ко мне, направь меня, поддержи меня, защити меня, обеспечь меня и возвеличь меня.</string>
+    <string name="text_quran_recitation_1" translatable="false">Я поклонился своему лицу перед Тем, кто создал его и дал ему слух и зрение своей силой и мощью. Слава Аллаху, Лучший из творцов.</string>
+    <string name="text_in_preyer_1" translatable="false">Все поклонения смирения принадлежат Аллаху, и все молитвы и благие деяния. Мир тебе, о Пророк, и милость Аллаха и Его благословения. Мир нам и праведным рабам Аллаха. Свидетельствую, что нет никого, достойного поклонения, кроме Аллаха, и свидетельствую, что Мухаммад — Его раб и Посланник.</string>
+    <string name="text_ibraheemi_1" translatable="false">О Аллах! Даруй благодать Мухаммаду и семье Мухаммада, как даровал благодать Ибрахиму и семье Ибрахима. Ты достойный хвалы, Самый Великолепный. О Аллах! Благослови Мухаммада и семью Мухаммада, как благословил Ибрахима и семью Ибрахима. Ты достойный хвалы, Самый Великолепный.</string>
+    <string name="text_after_tashahhud_1" translatable="false">О Аллах! Я прибегаю к Тебе от наказания в могиле, прибегаю к Тебе от испытания ложным Мессией, прибегаю к Тебе от испытаний жизни и смерти. О Аллах! Я прибегаю к Тебе от греха и долга.</string>
+    <string name="text_after_tashahhud_2" translatable="false">О Аллах! Я совершил большое несправедливое деяние по отношению к себе, и никто не прощает грехи, кроме Тебя. Даруй мне прощение и помилуй меня. Ты, безусловно, Прощающий, Милосердный.</string>
+    <string name="text_after_tashahhud_3" translatable="false">О Аллах! Прости мне то, что я сделал раньше, и то, что оставил, что скрыто и что я сделал открыто, что я превысил, и что Ты знаешь лучше меня. Ты — Кто опережает и Кто отставляет. Нет никого, достойного поклонения, кроме Тебя.</string>
+    <string name="text_e_qunoot_1" translatable="false">О Аллах! Мы обращаемся к Тебе за помощью и просим прощения, верим в Тебя, доверяем Тебе, восхваляем Тебя и благодарим Тебя, и мы не неблагодарны перед Тобой. Мы отвергаем и отказываемся от тех, кто ослушивается Тебя. О Аллах! Мы поклоняемся Тебе, только Тебе молимся и поклоняемся, и стремимся ради Тебя. Мы ожидаем Твоей милости и боимся Твоего наказания. Точно, Твое наказание постигнет неверных, о Аллах!</string>
+    <string name="text_fajr_prayer_1" translatable="false">О Аллах! Я прошу у Тебя полезных знаний, хорошего пропитания и принятых деяний.</string>
+    <string name="text_leaving_home_1" translatable="false">Во имя Аллаха, я полагаюсь на Аллаха, и нет силы и могущества, кроме как у Аллаха.</string>
+    <string name="text_leaving_home_2" translatable="false">О Аллах! Я прибегаю к Тебе, чтобы не сбиться с пути, не быть сбитым, не угнетать и не быть угнетенным, не поступать глупо и не быть наказанным.</string>
+    <string name="text_entering_home_1">Во имя Аллаха мы входим, и во имя Аллаха мы выходим, и на нашего Господа полагаемся.</string>
+    <string name="text_the_stairs_1">Хвала Аллаху, который одел меня в эту одежду и обеспечил ее мне без всякой силы или мощи с моей стороны.</string>
+    <string name="text_the_stairs_2">Аллах — самый великий.</string>
+    <string name="text_the_stairs_3">Хвала Аллаху.</string>
+    <string name="text_new_clothes_1">О Аллах! Тебе хвала. Ты меня одел. Я прошу Тебя о благе для нее и для того, для чего она была создана, и ищу Твоей защиты от зла от нее и зла для того, для чего она была создана.</string>
+    <string name="text_the_mirror_1">О Аллах! Как Ты украсил мои внешние черты, так и сделай красивым мой характер.</string>
+    <string name="text_for_travel_1">Слава Тому, кто создал этот транспорт для нас, хотя мы не могли бы создать его сами. И к нашему Господу мы вернемся.</string>
+    <string name="text_for_travel_2">О мой Господь! Пусть мой вход (в город Медина) будет благим, а выход (из города Мекка) благим. И даруй мне от Себя силу, которая поможет мне.</string>
+    <string name="text_form_travel_1">Аллах велик, Аллах велик, Аллах велик. Нет никого, достойного поклонения, кроме Аллаха, единого, без соратников. Ему принадлежит вся власть и хвала, и Он имеет власть над всеми вещами. Мы возвращаемся, раскаиваемся, поклоняемся и восхваляем нашего Господа. Аллах исполнил Свое обещание, помог Своему рабу и победил союзников в одиночку.</string>
+    <string name="text_approaches_during_travel_1">О земля! Мой Господь и твой Господь — Аллах. Я прибегаю к Аллаху от твоего зла, от всего плохого, что в тебе, от того, что Аллах создал в тебе, и от того, что ходит по тебе. Я прибегаю к Аллаху от львов, больших черных змей, других змей, скорпионов и от зла джиннов, которые живут в земле.</string>
+    <string name="text_accommodation_1">О мой Господь, сделай мое место пребывания благословенным, и Ты — лучший в обеспечении проживания.</string>
+    <string name="text_during_travel_1">О мой Господь! Я прибегаю к Тебе от шепота (намеков) демонов. И я прибегаю к Тебе, о мой Господь, чтобы они не приблизились ко мне.</string>
+    <string name="text_during_travel_2">Я ищу убежища в Аллахе от Шайтана, изгнанного.</string>
+    <string name="text_during_travel_3">Я ищу убежища в совершенных словах Аллаха от зла того, что Он создал.</string>
+    <string name="text_beginning_a_meal_1">Во имя Аллаха, Милостивого, Милосердного.</string>
+    <string name="text_the_beginning_1">Во имя Аллаха, в начале и в конце.</string>
+    <string name="text_finishing_a_meal_1">Хвала Аллаху, который нас кормил и напоил, и сделал нас мусульманами.</string>
+    <string name="text_a_drink_1">О Аллах! Кормящий меня, пои того, кто меня напоил.</string>
+    <string name="text_drinking_milk_1">О Аллах! Благослови нас в этом и даруй нам больше.</string>
+    <string name="text_house_1">О Аллах! Благослови их в том, что Ты им дал, прости их и помилуй их.</string>
+    <string name="text_with_iftar_1">С Тобой разрывают свой пост постящиеся, Ты накормил праведных, и ангелы произносят молитвы за Тебя.</string>
+    <string name="text_loss_occurs_1" translatable="false">Поистине, мы принадлежим Аллаху, и поистине к Нему мы вернемся.</string>
+    <string name="text_visiting_graves_1" translatable="false">О мусульмане, проживающие здесь, мир вам. По воле Аллаха, мы также дойдем до вас. Мы ищем безопасности для нас и для вас.</string>
+    <string name="text_offering_condolenca_1" translatable="false">Поистине, Аллах забирает то, что принадлежит Ему, и дает то, что принадлежит Ему, и всем вещам Он назначил время. Так что терпите, и вы будете вознаграждены.</string>
+    <string name="text_funeral_prayer_1" translatable="false">О Аллах, прости его и помилуй его. Даруй ему силу и оправдай его. Будь щедрым к нему и сделай его вход широким. Омой его водой, снегом и градом. Очисти его от его грехов, как чистят белую ткань от пятен. Даруй ему более лучшее место, чем его дом, более лучшую семью, чем его семья, и более лучшую супругу, чем его супруга. Отведи его в Рай и защити его от наказания в могиле и от наказания в Аду.</string>
+    <string name="text_funeral_prayer_2" translatable="false">О Аллах, прости наших живых и мертвых, тех, кто с нами и тех, кто отсутствует, наших молодежи и пожилых, наших мужчин и женщин. О Аллах, того, кому Ты даруешь жизнь среди нас, даруй ему жизнь в Исламе, и того, кого Ты заберешь из жизни, унеси в вере. О Аллах, не лишай нас его вознаграждения и не сбивай нас после них.</string>
+    <string name="text_the_graver_1">Во имя Аллаха и по Сунне Посланника Аллаха.</string>
+    <string name="text_tabihya_1" translatable="false">Всегда к Тебе, о Аллах, всегда к Тебе. Всегда к Тебе, у Тебя нет соратника, всегда к Тебе. Поистине, вся хвала, благословения и власть принадлежат Тебе. У Тебя нет соратника.</string>
+    <string name="text_black_stone_1" translatable="false">Аллах велик!</string>
+    <string name="text_during_tawaf_1" translatable="false">О наш Господь! Даруй нам добро в этом мире и добро в следующей жизни, и избавь нас от наказания огня.</string>
+    <string name="text_mount_safa_1" translatable="false">Я начинаю с того, с чем начал Аллах. Аллах велик, Аллах велик, Аллах велик. Нет никого, достойного поклонения, кроме Аллаха, одного, без сотоварищей. Ему принадлежит вся власть и хвала, и Он имеет власть над всеми вещами. Нет никого, достойного поклонения, кроме Аллаха одного. Он исполнил Свое обещание, помог Своему рабу и победил союзников один.</string>
+    <string name="text_mount_marwah_1" translatable="false">Я начинаю с того, с чем начал Аллах. Аллах велик, Аллах велик, Аллах велик. Нет никого, достойного поклонения, кроме Аллаха, одного, без сотоварищей. Ему принадлежит вся власть и хвала, и Он имеет власть над всеми вещами. Нет никого, достойного поклонения, кроме Аллаха одного. Он исполнил Свое обещание, помог Своему рабу и победил союзников один.</string>
+    <string name="text_al_haraam_1" translatable="false">Аллах велик. Аллах один. Нет никого достойного поклонения, кроме Аллаха.</string>
+    <string name="text_at_jamaraat_1" translatable="false">Аллах велик!</string>
+    <string name="text_at_arafat_1" translatable="false">Никто не достоин поклонения, кроме Аллаха, одного, без сотоварищей. Ему принадлежит вся власть и хвала, и Он имеет власть над всеми вещами.</string>
+    <string name="text_an_animal_1">Во имя Аллаха, Аллах велик. [О Аллах, от Тебя и для Тебя.] О Аллах, примите это от меня.</string>
+    <string name="text_openning_your_fast_1" translatable="false">О Аллах! Я постился ради Тебя, верю в Тебя, доверяю Тебе и разрываю мой пост с Твоим пропитанием.</string>
+    <string name="text_of_destiny_1" translatable="false">О Аллах! Ты — тот, кто прощает в великой степени и любит прощать, так что прости меня.</string>
+    <string name="text_you_with_iftar_1" translatable="false">С Тобой, постящиеся разрывают свой пост, Ты накормил праведных, и ангелы произносят молитвы за Тебя.</string>
+    <string name="text_crescent_moon_1" translatable="false">Аллах велик. О Аллах, приведи к нам новолуние с безопасностью и верой, с миром и в Исламе, в гармонии с тем, что наш Господь любит и что Ему угодно. Наш Господь и твой Господь — Аллах.</string>
+    <string name="text_for_rain_1" translatable="false">О Аллах, пошли нам дождь обильный, полезный и не вредный, скорый и не замедленный.</string>
+    <string name="text_it_rains_1" translatable="false">О Аллах, пошли нам облака дождя, полезные.</string>
+    <string name="text_after_rainfall_1" translatable="false">Мы получили дождь по благодати и милости Аллаха.</string>
+    <string name="text_greeting_people_1" translatable="false">Мир, милость и благословения Аллаха да будут с вами.</string>
+    <string name="text_to_Salam_1" translatable="false">Ва’алаикум ассалам ва рахматуллахи ва баракатух.</string>
+    <string name="text_For_Istikhara_1" translatable="false">О Аллах, я ищу совета в Твоем знании и помощи в Твоей всемогущей силе, и прошу Тебя о Твоей великолепной милости...</string>
+    <string name="text_For_Justice_1" translatable="false">О наш Господь! Прими решение между нами и нашим народом с правдой, потому что Ты — лучший в принятии решений.</string>
+    <string name="text_guidance_1" translatable="false">Хвала Аллаху, который наставил нас на это; и мы бы не были наставлены, если бы Аллах не наставил нас.</string>
+    <string name="text_guidance_2" translatable="false">Аллах — лучший хранитель, и Он — самый милосердный из милосердных.</string>
+    <string name="text_satisfaction_2" translatable="false">О наш Господь! Сделай нас мусульманами, склоняющимися к Твоей (воле), и наших потомков народом мусульман, склоняющимся к Твоей (воле); и покажи нам наше место для выполнения (обязанных) обрядов; и обратись к нам (с милосердием); ибо Ты — Тот, кто всегда принимает покаяние, Самый Милосердный.</string>
+    <string name="text_for_success_1" translatable="false">Мой успех — это только в помощи Аллаха, который дает мне успех в любой ситуации, и на Тебя, о Аллах, полагается моя вера.</string>
+    <string name="text_your_imaan_1" translatable="false">Мой успех только через Аллаха. На Него я полагаюсь, и к Нему возвращаюсь.</string>
+    <string name="text_your_imaan_2" translatable="false">Я доволен Аллахом как Господом, Исламом как религией и Мухаммадом, мир ему, как Пророком. (три раза)</string>
+    <string name="text_your_imaan_3" translatable="false">Я ищу прибежище у Аллаха.</string>
+    <string name="text_your_imaan_4" translatable="false">Я верую в Аллаха и в Его Посланника.</string>
+    <string name="text_your_imaan_5" translatable="false">О, наш Господь! Не отклоняй наши сердца от истины после того, как Ты нас направил, и даруй нам милость от Себя. Воистину, Ты — Дарующий.</string>
+    <string name="text_book_mark_duas" translatable="false">Закладка - Ду\'а</string>
+    <string name="text_book_mark_azkar" translatable="false">Закладка - Азкар</string>
+    <string name="text_book_mark_quran" translatable="false">Закладка</string>
+    <string name="text_ayah" translatable="false">Айя</string>
+    <string name="text_islam_map" translatable="false">Исламская карта</string>
+    <string name="text_islam_map2" translatable="false">Ближайшие мечети</string>
+    <string name="text_islam_map3" translatable="false">Ближайшие рестораны</string>
+    <string name="text_islam_map4" translatable="false">Ближайшие халяльные рестораны</string>
+    <string name="text_day" translatable="false">День</string>
+    <string name="text_days" translatable="false">Дни</string>
+    <string name="text_no_wifi" translatable="false">Нет WiFi</string>
+    <string name="text_no_wifi2" translatable="false">Подключитесь к WiFi, чтобы использовать все функции этого приложения</string>
+    <string name="text_connect" translatable="false">Подключиться</string>
+    <string name="text_calculation_method" translatable="false">Метод расчета</string>
+    <string name="text_default_font" translatable="false">Шрифт по умолчанию</string>
+    <string name="text_uthmanic_hafs" translatable="false">Утманский Хафс</string>
+    <string name="text_qibla" translatable="false">Кибла</string>
+    <string name="text_pray_now" translatable="false">Молиться сейчас</string>
+    <string name="text_praying_time_adj" translatable="false">Корректировка времени молитвы</string>
+    <string name="text_All" translatable="false">Все</string>
+    <string name="text_Fajrl" translatable="false">Фаджр</string>
+    <string name="text_Sunrise" translatable="false">Восход солнца</string>
+    <string name="text_Dhuhr" translatable="false">Ду\'хр</string>
+    <string name="text_Asr" translatable="false">Аср</string>
+    <string name="text_Maghrib" translatable="false">Магриб</string>
+    <string name="text_Isha" translatable="false">Иша</string>
+    <string name="text_Inaccurate" translatable="false">Неточный местоположение? Нажмите, чтобы</string>
+    <string name="text_feedback" translatable="false">Обратная связь</string>
+    <string name="text_Notification" translatable="false">Уведомление</string>
+    <string name="text_Vibrate" translatable="false">Вибрация</string>
+    <string name="Fajr" translatable="false">Фаджр</string>
+    <string name="Sunrise" translatable="false">Восход солнца</string>
+    <string name="Dhuhr" translatable="false">Ду\'хр</string>
+    <string name="Asr" translatable="false">Аср</string>
+    <string name="Maghrib" translatable="false">Магриб</string>
+    <string name="Isha" translatable="false">Иша</string>
+    <string name="text_minute" translatable="false">минута</string>
+    <string name="text_minutes" translatable="false">минуты</string>
+    <string name="text_share_reminder" translatable="false">Поделиться напоминанием</string>
+    <string name="text_Min" translatable="false">Мин</string>
+    <string name="text_Next_prayer_in" translatable="false">Следующая молитва через:</string>
+    <string name="text_Pre_Notification" translatable="false">Предупреждающее уведомление</string>
+    <string name="text_Hanafi" translatable="false">Ханафи</string>
+    <string name="text_Shafi_Maliki_Hanbali" translatable="false">Шафи/ Малики/ Ханбали</string>
+    <string name="text_Widget" translatable="false">Виджет</string>
+    <string name="text_Convenient" translatable="false">Удобно</string>
+    <string name="text_Pray_anytime" translatable="false">Молись в любое время и в любом месте.\n Оставайся верным, независимо от того, где ты находишься</string>
+    <string name="text_intro1" translatable="false">Обратный отсчет и напоминание о времени молитвы</string>
+    <string name="text_intro2" translatable="false">Помочь тебе помнить о твоем времени молитвы\n Никогда не пропускай ежедневную молитву</string>
+    <string name="text_intro3" translatable="false">Идеальный путеводитель для твоего духовного и кулинарного путешествия</string>
+    <string name="text_intro4" translatable="false">Читай Коран и помни Азкар каждый день, чтобы поддерживать свой дух сильным</string>
+    <string name="title_intro4" translatable="false">Коран &amp; Азкар</string>
+    <string name="text_Prayer_Time" translatable="false">Время молитвы</string>
+    <string name="text_share_image" translatable="false">Поделиться изображением</string>
+    <string name="text_translation" translatable="false">Перевод:</string>
+    <string name="text_tap_to_test" translatable="false">Нажми, чтобы протестировать звук</string>
+    <string name="text_Sound_Setting" translatable="false">Настройки звука</string>
+    <string name="text_Page_Background" translatable="false">Фон страницы</string>
+    <string name="text_Pre_Adhan_reminder" translatable="false">Напоминание перед Азаном</string>
+    <string name="text_all_the_setting" translatable="false">Все нижеуказанные настройки также будут применяться к Ду\'ам и Азкарам</string>
+    <string name="text_next_prayer" translatable="false">Следующая молитва</string>
+    <string name="text_coming_prayers" translatable="false">Предстоящие молитвы</string>
+    <string name="string_azkar_detail_arabic_1_1_1" translatable="false">اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ</string>
+    <string name="string_azkar_detail_spelling_1_1_1" translatable="false">Allaahumma salli \'alaa Muhammadin wa \'alaa \'aali Muhammadin, kamaa sallayta \'alaa \'Ibraaheema wa \'alaa \'aali \'Ibraaheema, \'innaka Hameedun Majeed. Allaahumma baarik \'alaa Muhammadin wa \'alaa \'aali Muhammadin, kamaa baarakta \'alaa \'Ibraaheema wa \'alaa \'aali \'Ibraaheema, \'innaka Hameedun Majeed</string>
+    <string name="text_e_ibraheemi_1" translatable="false">О, Аллах, даруй Свою милость Мухаммаду и семье Мухаммада, как Ты даровал милость Ибрахиму и семье Ибрахима. Ты достоин хвалы, Самый Славный. О, Аллах, благослови Мухаммада и семью Мухаммада, как Ты благословил Ибрахима и семью Ибрахима. Ты достоин хвалы, Самый Славный.</string>
+    <string name="text_tasbeeh_1" translatable="false">Слава Аллаху, хвала Аллаху, Аллах Велик.</string>
+    <string name="text_duas_1" translatable="false">О, Аллах, прошу Тебя о знании, которое принесет пользу, о хорошем пропитании и о делах, которые будут приняты.</string>
+    <string name="text_duas_2" translatable="false">О, Аллах, прошу Тебя о Раю и ищу Твоей защиты от Огня.</string>
+    <string name="text_duas_3" translatable="false">Слава Аллаху, хвала Аллаху, Аллах Велик!</string>
+    <string name="text_duas_4" translatable="false">Нет никого достойного поклонения, кроме Тебя. Слава Тебе! Воистину, я был среди беззакониествующих.</string>
+    <string name="text_starting_anything_1" translatable="false">Во имя Аллаха, Милостивого, Милосердного.</string>
+    <string name="text_the_aakhira_1" translatable="false">О, Господь наш! Даруй нам в этом мире то, что хорошо, и в следующей жизни то, что хорошо, и защити нас от мучений Огня.</string>
+    <string name="text_the_aakhira_2" translatable="false">О, Господь наш! Ты непременно соберешь людей в День, в котором нет сомнений. Воистину, Аллах не нарушает Свое обещание.</string>
+    <string name="text_morning_rememberence_1" translatable="false">Мы пришли к утру, и в этот момент вся власть принадлежит Аллаху, и вся хвала Аллаху. Никто не достоин поклонения, кроме Аллаха, Единого, без сотоварища, Ему принадлежит вся власть и хвала, и Он способен на все. Мой Господь, прошу Тебя о благе этого дня и благе того, что будет, и ищу убежища у Тебя от зла этого дня и зла того, что будет. Мой Господь, ищу у Тебя защиты от лени и старости. Мой Господь, ищу защиты у Тебя от мучений Огня и наказания в могиле.</string>
+    <string name="text_morning_rememberence_2" translatable="false">О, Аллах, по Твоей воле мы пришли к утру, и по Твоей воле мы пришли к ночи, по Твоей воле мы живем и умираем, и к Тебе наш возврат.</string>
+    <string name="text_morning_rememberence_3" translatable="false">О, Аллах, Ты мой Господь, никто не достоин поклонения, кроме Тебя. Ты создал меня, и я Твой раб, и я держусь за Твой завет и обещание, насколько могу. Я ищу защиты у Тебя от зла, которое я совершил. Я признаю Твои дары и признаю свой грех, поэтому прости меня, ведь никто, кроме Тебя, не может прощать грехи.</string>
+    <string name="text_morning_rememberence_4" translatable="false">О, Аллах, я пришел к утру и призываю Тебя, носителей Твоего трона, Твоих ангелов и всю Твою тварь быть свидетелями того, что Ты — Аллах, никто не достоин поклонения, кроме Тебя, Единого, без сотоварища, и что Мухаммад — Твой раб и Посланник. (четыре раза).</string>
+    <string name="text_morning_rememberence_5" translatable="false">О, Аллах, любое благословение, которым я или кто-либо из Твоих созданий пробудились, исходит только от Тебя, без сотоварища, и вся хвала и благодарность Тебе.</string>
+    <string name="text_morning_rememberence_6" translatable="false">О, Аллах, даруй здоровье моему телу, о, Аллах, даруй здоровье моим ушам, о, Аллах, даруй здоровье моему зрению. Никто не достоин поклонения, кроме Тебя. (три раза) О, Аллах, ищу защиты у Тебя от неверия и бедности, и ищу защиты у Тебя от наказания в могиле. Никто не достоин поклонения, кроме Тебя. (три раза)</string>
+    <string name="text_morning_rememberence_7" translatable="false">Аллах достаточно для меня, никто не достоин поклонения, кроме Него, на Него я полагаюсь, и Он — Господь Высокого Трона. (семь раз утром и вечером)</string>
+    <string name="text_morning_rememberence_8" translatable="false">Я ищу защиты в совершенных словах Аллаха от зла того, что Он создал. (три раза вечером)</string>
+    <string name="text_morning_rememberence_9" translatable="false">О, Аллах, прошу прощения и благополучия в этой жизни и в следующей. О, Аллах, прошу прощения и благополучия в моих религиозных и мирских делах, в моей семье и моем богатстве. О, Аллах, прикрой мои слабости и успокой мое беспокойство. О, Аллах, защити меня спереди, сзади, с моей правой и левой стороны и сверху, и ищу защиты у Тебя, чтобы я не был поглощен землей.</string>
+    <string name="text_morning_rememberence_10" translatable="false">О, Аллах, Знатель скрытого и явного, Творец небес и земли, Господь и Владыка всего, свидетельствую, что никто не достоин поклонения, кроме Тебя. Я ищу защиты у Тебя от зла моей души, от зла и идолопоклонства дьявола, и от того, чтобы причинить вред моей душе или навредить другому мусульманину.</string>
+    <string name="text_morning_rememberence_11" translatable="false">Во имя Аллаха, с именем Которого ничего не может причинить вреда на земле и в небесах, и Он — Слышащий, Знающий. (три раза)</string>
+    <string name="text_morning_rememberence_12" translatable="false">Я доволен Аллахом как своим Господом, Исламом как своей религией и Мухаммадом, мир ему, как своим Пророком. (три раза)</string>
+    <string name="text_morning_rememberence_13" translatable="false">Как совершенен Аллах! И хвала Ему по числу Его творений и Его благоволению, по весу Его трона и по чернилам Его слов. (три раза)</string>
+    <string name="text_morning_rememberence_14" translatable="false">Как совершенен Аллах и хвала Ему! (сто раз)</string>
+    <string name="text_morning_rememberence_15" translatable="false">О, Живущий, о, Самодостаточный, я ищу помощи в Твоей милости, исправь все мои дела и не оставляй меня ни на мгновение.</string>
+    <string name="text_morning_rememberence_16" translatable="false">Никто не достоин поклонения, кроме Аллаха, Единого, без сотоварища, Ему принадлежит вся власть и хвала, и Он способен на все. (сто раз)</string>
+    <string name="text_morning_rememberence_17">Мы пришли к утру, и в этот момент вся власть принадлежит Аллаху, Господину миров. О, Аллах, прошу Тебя о благе этого дня, его победах и успехах, его свете, его благословении и его руководстве, и ищу защиты у Тебя от зла этого дня и зла того, что будет.</string>
+    <string name="text_evening_rememberence_1" translatable="false">Мы достигли ночи, и в этот момент вся власть принадлежит Аллаху, вся хвала Аллаху. Нет божества, кроме Аллаха, одного, без сотоварища. Ему принадлежит вся власть и хвала, и Он всемогущ над всем. Мой Господь, я прошу Тебя благополучия этой ночи и благополучия того, что последует. Я ищу убежища у Тебя от зла этой ночи и зла того, что последует. Мой Господь, я ищу убежища у Тебя от лени и старости. Мой Господь, я ищу убежища у Тебя от мучений огня и наказания в могиле.</string>
+    <string name="text_evening_rememberence_2" translatable="false">О, Аллах, по Твоей воле мы достигли ночи, и по Твоей воле мы достигли утра, по Твоей воле мы живем и умираем, и к Тебе наш возврат.</string>
+    <string name="text_evening_rememberence_3" translatable="false">О, Аллах, Ты мой Господь, нет божества, кроме Тебя. Ты создал меня, и я Твой раб, и я держусь за Твой завет и обещание, насколько могу. Я ищу убежища у Тебя от зла, которое я совершил. Я признаю Твои дары мне и признаю свой грех, так прости меня, ведь поистине, никто не может прощать грехи, кроме Тебя.</string>
+    <string name="text_evening_rememberence_4" translatable="false">О, Аллах, мы достигли ночи, призывая Тебя как свидетеля, и призывая свидетелями носителей Твоего трона, Твоих ангелов и всего Твоего творения, что Ты — Аллах, нет божества, кроме Тебя, одного, без сотоварища, и что Мухаммад (мир ему) — Твой раб и Твой посланник.</string>
+    <string name="text_evening_rememberence_5" translatable="false">О, Аллах, вся благодать, с которой я или кто-либо из Твоего творения просыпаемся, исходит только от Тебя, без сотоварища, поэтому Тебе вся хвала и благодарность.</string>
+    <string name="text_evening_rememberence_6" translatable="false">О, Аллах, даруй здоровье моему телу, о, Аллах, даруй здоровье моим ушам, о, Аллах, даруй здоровье моим глазам. Нет божества, кроме Тебя. (трижды) О, Аллах, я ищу убежища у Тебя от неверия и бедности, и ищу убежища у Тебя от наказания в могиле. Нет божества, кроме Тебя. (трижды)</string>
+    <string name="text_evening_rememberence_7" translatable="false">Аллах достаточно для меня, нет божества, кроме Него, на Него я полагаюсь, и Он — Господь Престола Великого. (семь раз утром и вечером)</string>
+    <string name="text_evening_rememberence_8" translatable="false">Я ищу убежища в совершенных словах Аллаха от зла, которое Он создал. (трижды вечером)</string>
+    <string name="text_evening_rememberence_9" translatable="false">О, Аллах, прошу прощения и благополучия в этой жизни и в следующей. О, Аллах, прошу прощения и благополучия в моих религиозных и мирских делах, в моей семье и моем богатстве. О, Аллах, скрывай мои слабости и успокой мое беспокойство. О, Аллах, защищай меня спереди, сзади, справа и слева, и сверху, и ищу убежища у Тебя, чтобы я не был поглощен землей.</string>
+    <string name="text_evening_rememberence_10" translatable="false">О, Аллах, Знающий о сокрытом и явном, Творец небес и земли, Господь и Владыка всего сущего, свидетельствую, что нет божества, кроме Тебя. Я ищу убежища у Тебя от зла моей души и от зла и идолопоклонства шайтана, и от несправедливости по отношению к моей душе или по отношению к другому мусульманину.</string>
+    <string name="text_evening_rememberence_11" translatable="false">Во имя Аллаха, с чьим именем ничто не повредит ни на земле, ни на небесах, и Он — Всеслышащий, Всемогущий. (трижды)</string>
+    <string name="text_evening_rememberence_12" translatable="false">Я доволен Аллахом как Господом, Исламом как религией и Мухаммадом, мир ему, как Пророком. (трижды)</string>
+    <string name="text_evening_rememberence_13" translatable="false">Как совершенен Аллах и хвала Ему за число Его творений, за Его довольство, за тяжесть Его трона и за чернила Его слов! (трижды)</string>
+    <string name="text_evening_rememberence_14" translatable="false">Как совершенен Аллах и хвала Ему! (сто раз)</string>
+    <string name="text_evening_rememberence_15" translatable="false">О Вечный Живой, О Самодостаточный и Поддерживающий все, я ищу помощи в Твоей милости, исправь все мои дела и не оставляй меня самого, даже на мгновение.</string>
+    <string name="text_evening_rememberence_16" translatable="false">Нет божества, кроме Аллаха, одного, без сотоварища, Ему принадлежит вся власть и хвала, и Он всемогущ над всем. (сто раз)</string>
+    <string name="text_evening_rememberence_17" translatable="false">Мы достигли ночи, и в этот момент вся власть принадлежит Аллаху, Господу миров. О, Аллах, прошу Тебя благополучия этой ночи, её побед и триумфов, её света и благословений и её руководства, и ищу убежища у Тебя от зла этой ночи и зла того, что последует.</string>
+    <string name="text_remembrances_1" translatable="false">Я прошу прощения у Аллаха. (трижды) О, Аллах, Ты — Ас-Салам, и от Тебя исходит весь мир, благословен Ты, О Обладатель величия и чести. Ас-Салам: тот, кто свободен от всех недостатков и несовершенств.</string>
+    <string name="text_remembrances_2" translatable="false">Нет божества, кроме Аллаха, одного, без сотоварища, Ему принадлежит вся власть и хвала, и Он всемогущ над всем. О, Аллах, никто не может помешать тому, что Ты решил даровать, и никто не может даровать то, что Ты решил запретить, и никакое богатство или величие не могут принести пользу, ибо вся власть и величие принадлежат Тебе.</string>
+    <string name="text_remembrances_3" translatable="false">Как совершенен Аллах! Вся хвала Аллаху, и Аллах — величайший. (тридцать трижды) Нет божества, кроме Аллаха, одного, без сотоварища, Ему принадлежит вся власть и хвала, и Он всемогущ над всем.</string>
+    <string name="text_remembrances_4" translatable="false">Скажи: Он — Аллах, Единственный, Аллах, Абсолютный (Самодостаточный, от Которого все зависят, Он не ест и не пьет). Он не породил и не был порожден; и нет никого, кто был бы равен или подобен Ему. [Аль-Ихлас] Скажи: Я ищу убежища у Аллаха, Господа зари, от зла того, что Он создал, и от зла тьмы (ночи), когда она становится глубокой (или от зла луны, когда она заходит или исчезает), и от зла колдуний, что дуют на узлы, и от зла завистливого, когда он завидует. [Аль-Фалака] Скажи: Я ищу убежища у Аллаха, Господа человечества, Царя человечества, Бога человечества, от зла шепчущего (дьявола, что шепчет зло в сердца людей), который отступает (от своего шепота, когда человек помнит Аллаха). Который шепчет в груди людей, среди джиннов и людей. [Ан-Нас] После утренних и вечерних молитв 3 раза. После других молитв 1 раз.</string>
+    <string name="text_remembrances_5" translatable="false">Аллах! Нет никого, достойного поклонения, кроме Него, Всегда Живого, Опекуна и Защитника всего сущего. Ни дремота, ни сон не одолевают Его. Ему принадлежит все, что на небесах и что на земле. Кто может заступиться перед Ним без Его разрешения? Он знает, что происходит с ними в этом мире и что будет с ними в Последней жизни. И никто не охватывает ничего из Его знания, кроме того, что Он пожелает. Его Трон простирается над небесами и землей, и Он не чувствует усталости, охраняя и сохраняя их. И Он — Всевышний, Великий.</string>
+    <string name="text_remembrances_6" translatable="false">Никто не имеет права быть поклоняемым, кроме Аллаха, Единого, без сотоварищей, Ему принадлежит вся власть и хвала. Он дает жизнь и вызывает смерть, и Он всемогущ. (десять раз после молитвы Магриба и Фаджр)</string>
+    <string name="text_remembrances_7" translatable="false">О Аллах, я прошу Тебя о полезном знании, хорошем пропитании и делах, которые будут приняты. (Сказать после салама молитвы Фаджр)</string>
+    <string name="text_regularly_1" translatable="false">Поистине, мой Господь — Тот, Кто слушает мольбы. О Господи мой! Сделай меня постоянным в молитве, и [также] многих из моих потомков. О наш Господь, прими мою мольбу!</string>
+    <string name="text_rizq_1" translatable="false">О Аллах, я прошу Тебя о полезном знании, хорошем пропитании и делах, которые будут приняты.</string>
+    <string name="text_rizq_2" translatable="false">О Аллах, прости меня, помилуй меня, направь меня, поддержи меня, защити меня, обеспечь меня и возвысь меня.</string>
+    <string name="text_rizq_3" translatable="false">О Аллах, я прошу Твоего благоволения.</string>
+    <string name="text_rizq_4" translatable="false">Аллах — очень Милостивый и Милосердный к Своим рабам. Он обеспечивает кого хочет. И Он — Всемогущий, Всемогущий.</string>
+    <string name="text_rizq_5" translatable="false">О Аллах, наш Господь! Пошли нам с небес стол, накрытый (с едой), чтобы это было для нас — для первых и последних из нас — как праздник и знамение Тебя; и обеспечь нас пропитанием, ибо Ты — лучший Обеспечивающий (наши нужды).</string>
+    <string name="text_need_1" translatable="false">О мой Господь! Поистине, я нуждаюсь в любом благе, которое Ты мне даруешь.</string>
+    <string name="text_allah_mercy_1" translatable="false">(О Господь мой!) Ты — наш Защитник, так прости нас и помилуй нас; и Ты — лучший из прощающих. И decreта для нас благо в этом мире и в следующей жизни. Поистине, мы обращаемся к Тебе.</string>
+    <string name="text_allah_mercy_2" translatable="false">О Господь мой! Прости и помилуй, ибо Ты — лучший из милующих.</string>
+    <string name="text_allah_mercy_3" translatable="false">О наш Господь! Мы совершили несправедливость против наших собственных душ. Если Ты не простишь нас и не даруешь нам Свою милость, поистине, мы окажемся среди потерянных.</string>
+    <string name="text_allah_mercy_4" translatable="false">О наш Господь! Даруй нам Твою милость и направь наши дела наилучшим образом.</string>
+    <string name="text_allah_mercy_5" translatable="false">О наш Господь! Мы уверовали, так прости нас и помилуй нас, ибо Ты — лучший из милующих.</string>
+    <string name="text_praising_allah_1" translatable="false">О Аллах! Владыка царства, Ты даешь царство кому хочешь и забираешь его у кого хочешь. Ты прославляешь, кого хочешь, и унижаешь, кого хочешь. В Твоей руке — благо. Поистине, Ты можешь делать все. Ты вводишь ночь в день и вводишь день в ночь (то есть увеличение и уменьшение продолжительности ночи и дня зимой и летом). Ты выводишь живых из мертвых и выводишь мертвых из живых. И даешь богатство и пропитание тому, кому хочешь, без меры.</string>
+    <string name="text_praising_allah_2" translatable="false">Славьте Аллаха [выше всего, что (неправомерно) Ему приписывают (о верующие!)], когда наступает вечер [то есть при совершении молитвы Магриб и Иша], и когда наступает утро [то есть при совершении молитвы Фаджр]. Ему принадлежат все хвалы и благодарности на небесах и на земле. И славьте Его вечером (то есть при совершении молитвы Аср) и когда день начинает склоняться к закату (то есть при совершении молитвы Духр). (Ибн \'Аббас сказал: "Это пять обязательных молитв, упомянутых в Коране). Ты выводишь живых из мертвых и мертвых из живых. И Ты оживляешь землю после ее смерти. Так будете вы воскрешены.</string>
+    <string name="text_praising_allah_3" translatable="false">Славен Аллах и восхвален Он. Славен Аллах, Великий.</string>
+    <string name="text_praising_allah_4" translatable="false">Слава Аллаху, и хвала Аллаху, и нет никого, достойного поклонения, кроме Аллаха, и Аллах — Велик.</string>
+    <string name="text_praising_allah_5" translatable="false">Как совершенен Аллах!</string>
+    <string name="text_praising_allah_6" translatable="false">Нет силы и власти, кроме как через Аллаха.</string>
+    <string name="text_praising_allah_7" translatable="false">Славен Аллах, Велик, и восхвален Он.</string>
+    <string name="text_praising_allah_8" translatable="false">Он — Аллах, кроме Кого нет другого божества. Знающий скрытое и явное. Он — Милостивый, Милосердный. Он — Аллах, кроме Кого нет другого божества, Владыка, Чистый, Совершенный, Дарующий веру, Наблюдающий, Всемогущий, Принудительный, Верховный. Славен Аллах за все, что Ему приписывают. Он — Аллах, Творец, Изобретатель, Формирователь; Ему принадлежат самые красивые имена. Все, что есть на небесах и на земле, славит Его. И Он — Всемогущий, Мудрый.</string>
+    <string name="text_praising_allah_9" translatable="false">Что пожелал Аллах [свершилось], нет силы, кроме как в Аллахе.</string>
+    <string name="text_for_success_4" translatable="false">Мой успех — только от Аллаха. На Него полагаюсь и к Нему возвращаюсь.</string>
+    <string name="text_knowledge_1" translatable="false">О Господь мой! Увеличь меня в знании.</string>
+    <string name="text_knowledge_2" translatable="false">О Аллах! Я прошу Тебя о полезном знании, хорошем пропитании и делах, которые будут приняты.</string>
+    <string name="text_knowledge_3" translatable="false">О Господь мой! Даруй мне Хикму (религиозное знание, правильное суждение в делах и Пророчество), и соединяй меня с праведниками. И даруй мне почетное упоминание среди последующих поколений. И поставь меня среди наследников Сада (Рая). И прости моего отца. Поистине, он был среди сбившихся с пути. И не унижай меня в день, когда (все твари) будут воскрешены. В день, когда ни богатство, ни дети не принесут пользы, кроме как тому, кто придет к Аллаху с чистым сердцем.</string>
+    <string name="text_eloquence_1" translatable="false">О Господь мой! Открой мне грудь. И облегчите мне мою задачу. И развяжи узел с моего языка, чтобы они поняли мою речь.</string>
+    <string name="text_eloquence_2" translatable="false">Слава Тебе! У нас нет знания, кроме того, что Ты нас научил. Поистине, Ты — Всезнающий, Мудрый.</string>
+    <string name="text_ignorance_1" translatable="false">Я ищу убежища в Аллахе от того, чтобы быть среди невежественных.</string>
+    <string name="text_foolishness_1" translatable="false">О Аллах! Я ищу убежища в Тебе, чтобы не сбивать с пути других и не быть сбитым с пути другими, чтобы не привести других к ошибкам и не быть введенным в заблуждение, чтобы не причинять вред другим и не подвергаться вреду, и чтобы не вести себя глупо, и не столкнуться с глупостью других.</string>
+    <string name="text_strengthen_your_imaan_1" translatable="false">Я доволен Аллахом как моим Господом, Исламом как моей религией и Мухаммадом, мир ему, как моим Пророком. (Трижды)</string>
+    <string name="text_strengthen_your_imaan_2" translatable="false">Я ищу убежища в Аллахе.</string>
+    <string name="text_strengthen_your_imaan_3" translatable="false">Я верю в Аллаха и Его Посланника.</string>
+    <string name="text_strengthen_your_imaan_4" translatable="false">О, наш Господь! Не отворачивай наши сердца (от истины) после того, как Ты нас наставил, и даруй нам Твою милость. Поистине, Ты — Дарующий.</string>
+    <string name="text_strengthen_your_imaan_5" translatable="false">О, наш Господь! Прости наши грехи и наши нарушения (в исполнении наших обязанностей перед Тобой), укрепи наши шаги и даруй нам победу над неверными.</string>
+    <string name="text_practicing_muslims_1" translatable="false">О, наш Господь! Мы веруем в то, что Ты открыл, и следуем за Посланником. Напиши нас среди тех, кто свидетельствует.</string>
+    <string name="text_to_allah_1" translatable="false">Воистину, я обращаю свое лицо к Тому, Кто создал небеса и землю, склоняясь к истине, и я не из тех, кто приписывает Аллаху сотоварищей.</string>
+    <string name="text_to_allah_2" translatable="false">Поистине, моя молитва, мои жертвоприношения, моя жизнь и моя смерть принадлежат Аллаху, Господу миров. У Него нет сотоварища. И мне было приказано так, и я первый из мусульман.</string>
+    <string name="text_righteous_company_1" translatable="false">Создатель небес и земли, Ты — мой защитник в этом мире и в следующем. Пусть я умру как мусульманин и воссоедини меня с праведниками.</string>
+    <string name="text_righteous_company_2" translatable="false">О, наш Господь! Мы веруем, запиши нас среди свидетелей.</string>
+    <string name="text_from_hell_1" translatable="false">О, наш Господь! Ты охватываешь все Своей милостью и знанием, так что прости тех, кто раскаялся и последовал Твоим путем, и защити их от наказания в Аду.</string>
+    <string name="text_from_hell_2" translatable="false">О, наш Господь! Воистину, мы уверовали, так прости наши грехи и спаси нас от наказания Огня.</string>
+    <string name="text_from_hell_3" translatable="false">О, наш Господь! Ты не создал все это без цели, хвала Тебе. Спаси нас от муки Огня. *О, наш Господь! Воистину, кого Ты введешь в Огонь, Ты его унизил, и несправедливые не найдут помощников. *О, наш Господь! Воистину, мы слышали призыв того (Мухаммада, мир ему) к вере: «Верьте в вашего Господа», и мы уверовали. *О, наш Господь! Прости наши грехи и очисти нас от наших дурных поступков, и пусть мы умрем в праведности вместе с благочестивыми. *О, наш Господь! Даруй нам то, что Ты обещал через Своих Посланников, и не унизь нас в День Воскрешения, ибо Ты никогда не нарушаешь Своего обещания.</string>
+    <string name="text_from_hell_4" translatable="false">Аллах не возлагает на душу больше, чем она может вынести. Получает вознаграждение за добро, которое она совершила, и наказывается за зло, которое она совершила. «О, наш Господь! Не наказывай нас, если мы забудем или ошибемся. О, наш Господь! Не возлагай на нас бремя, как Ты возложил на тех, кто был до нас. О, наш Господь! Не возлагай на нас бремя, превышающее наши силы. Прости нас, даруй нам прощение и помилуй нас. Ты — наш защитник, так даруй нам победу над неверными.»</string>
+    <string name="text_from_hell_5" translatable="false">О, наш Господь! Соверши наш свет для нас и даруй нам прощение, ибо Ты обладаешь властью над всем.</string>
+    <string name="text_all_muslims_1" translatable="false">О, наш Господь! Покрой нас Своим прощением: меня, моих родителей и всех верующих в день, когда установится Счет.</string>
+    <string name="text_for_jannah_1" translatable="false">О, наш Господь! Отведи нас от наказания в Аду, ибо его наказание — это действительно великое страдание. Воистину, это ужасное место для жилья и для отдыха.</string>
+    <string name="text_for_jannah_2" translatable="false">О, наш Господь! Введи их в Сады Эдема (вечный Рай), которые Ты им обещал, вместе с праведными из их родителей, их жен и их потомков. Воистину, Ты — Всемогущий, Мудрый. И спаси их от грехов, и кого Ты спасешь от наказания в тот День, ты наверняка даровал ему Твою милость. И это — величайший успех.</string>
+    <string name="text_forgiveness_1" translatable="false">О, мой Господь! Я ищу прибежища у Тебя от того, что я не знаю. И если Ты не простишь меня и не помилуешь меня, я буду среди потерпевших убытки.</string>
+    <string name="text_forgiveness_2" translatable="false">Господи, прости меня. Мой Господи, прости меня.</string>
+    <string name="text_forgiveness_3" translatable="false">О, Аллах! Прости меня, помилуй меня, наставь меня, поддержи меня, защити меня, обеспечь меня и возвысь меня.</string>
+    <string name="text_forgiveness_4" translatable="false">О, Аллах! Прости мне все мои грехи, большие и малые, первые и последние, явные и скрытые.</string>
+    <string name="text_forgiveness_5" translatable="false">О, Аллах! Я ищу убежища в Твоем довольстве от Твоего гнева, и я ищу убежища в Твоем прощении от Твоего наказания. Я ищу убежища в Тебе от Тебя. Я не могу исчислить Твои хвалы. Ты такой, как Ты себя восхваляешь.</string>
+    <string name="text_siblings_1" translatable="false">О, мой Господь! Прости меня и моего брата, и введи нас в Твою милость, ибо Ты — Милосерднейший из тех, кто милует.</string>
+    <string name="text_your_house_1">О, мой Господь! Прости меня, моих родителей и тех, кто войдет в мой дом как верующий, и верующих мужчин и женщин. И не увеличивай число несправедливых, кроме как в разрушении.</string>
+    <string name="text_repentance_1" translatable="false">Я ищу прощения у Аллаха Всемогущего, у Которого нет другого достойного поклонения, кроме Него, Живого, Вечного, и я каюсь перед Ним. Аллах простит, даже если кто-то дезертировал из рядов армии.</string>
+    <string name="text_repentance_2" translatable="false">Скажи им, о Мухаммад (мир ему): «Таков Аллах, мой Господь, в Которого я верю и к Которому я обращаюсь во всех своих делах и покаянии.»</string>
+    <string name="text_thanking_allah_1" translatable="false">Нет никого достойного поклонения, кроме Аллаха, единственного, без сотоварища. Ему принадлежит царство, и Ему принадлежит вся хвала, и Он способен совершить все.</string>
+    <string name="text_thanking_allah_2" translatable="false">Слава моему Господу, Великому.</string>
+    <string name="text_thanking_allah_3" translatable="false">Слава Тебе, о Аллах, наш Господь, и хвала Тебе. О, Аллах, прости меня!</string>
+    <string name="text_thanking_allah_4" translatable="false">Слава Тебе, Святейший, Господь ангелов и Духа.</string>
+    <string name="text_thanking_allah_5" translatable="false">Слава Тебе, Владыка власти, царства, величия и величия.</string>
+    <string name="text_thanking_allah_6" translatable="false">Нет никого достойного поклонения, кроме Аллаха, единственного, без сотоварища. Ему принадлежит царство, и Ему принадлежит вся хвала.</string>
+    <string name="text_thanking_allah_7" translatable="false">Никто не имеет права на поклонение, кроме Аллаха, только Он, без сотоварища, Ему принадлежит царство, и Ему принадлежит хвала, и Он способен совершить все. Нет силы и могущества, кроме как у Аллаха. Никто не имеет права на поклонение, кроме Аллаха, и мы не поклоняемся никому, кроме Него. Ему принадлежит благодать, Ему принадлежит щедрость, и Ему принадлежит лучшая хвала. Никто не имеет права на поклонение, кроме Аллаха. (Мы) искренни в нашей религиозной преданности к Нему, несмотря на то, что это не нравится неверным.</string>
+    <string name="text_thanking_allah_8" translatable="false">Слава Аллаху и хвала Ему, за многочисленность Его творений, за Его довольство, за вес Его Трона и за просторы Его Слов.</string>
+    <string name="text_thanking_allah_9" translatable="false">Слава Аллаху, хвала Аллаху, Аллах — Великий!</string>
+    <string name="text_thanking_allah_10" translatable="false">Хвала Аллаху, Кто дал нам пищу и питье, кто удовлетворил наши потребности и дал нам дом, сколько людей не имеют ни средств, ни дома.</string>
+    <string name="text_thanking_allah_11" translatable="false">Слава Аллаху, который достоин бесконечной хвалы, прекрасной и благословенной, хвала, которая никогда не прекратится и которая необходима. Он — наш Господь.</string>
+    <string name="text_grateful_to_allah_1" translatable="false">Мой Господь, даруй мне быть благодарным за Твою милость, которую Ты дал мне и моим родителям, и творить добро, которое Тебе угодно, и сделай моих потомков праведными для меня. Воистину, я покаялся перед Тобой, и воистину, я из мусульман.</string>
+    <string name="text_grateful_to_allah_2" translatable="false">Мой Господь, даруй мне быть благодарным за Твою милость, которую Ты дал мне и моим родителям, и творить добро, которое Тебе угодно. И введи меня в число Твоих праведных рабов по Твоей милости.</string>
+    <string name="text_good_new_1" translatable="false">Вся хвала Аллаху, как Аллах пожелал. Благословен Аллах!</string>
+    <string name="text_help_from_allah_1">О, Аллах, Открывающий Книгу, Быстрый в счете, порази (неверных) группы! О, Аллах, разрушь их и потряси их!</string>
+    <string name="text_help_from_allah_2">Он — Аллах, Единственный. Господь Самодостаточный, к которому нуждаются все существа. Он не родил и не был рожден, и нет никого подобного Ему.</string>
+    <string name="text_help_from_allah_3" translatable="false">О, Аллах! Нет никого достойного поклонения, кроме Него, Вечного Живого, Поддерживающего все существующее. Его не одолевает ни дремота, ни сон. Ему принадлежит все, что есть на небесах и на земле. Кто может заступаться перед Ним, кроме как с Его разрешения? Он знает, что происходит с ними в этом мире и что произойдет в будущем. И они не могут охватить Его знания, кроме как того, что Он пожелает. Его Престол простирается над небесами и землей, и не испытывает трудности охватить их. Он — Высокий, Великий.</string>
+    <string name="text_help_from_allah_4">Я ищу убежище у (Аллаха), Господа рассвета, от зла того, что Он создал, от зла темноты (ночи), когда она усиливается, от зла тех, кто занимается колдовством, когда они дуют на узлы, и от зла завистливого, когда он завидует.</string>
+    <string name="text_help_from_allah_5" translatable="false">Я ищу убежище у (Аллаха), Господа человечества, Царя человечества, Бога человечества, от зла скрытого шептунa, который шепчет в груди людей, и джиннов, и людей.</string>
+    <string name="text_help_from_allah_6" translatable="false">О, Аллах! Я ищу убежище у Тебя от наказания в могиле, ищу убежище у Тебя от испытания ложным Мессией и ищу убежище у Тебя от испытаний жизни и смерти. О, Аллах! Я ищу убежище у Тебя от греха и долга.</string>
+    <string name="text_help_from_allah_7" translatable="false">О, Аллах! Спаси меня от Твоего наказания в день, когда Ты воскресишь Своих слуг.</string>
+    <string name="text_help_from_allah_8" translatable="false">О, Аллах! Знатель скрытого и явного, Творец небес и земли, Господь всего и Его Владыка. Я свидетельствую, что никто не достоин поклонения, кроме Тебя. Я ищу убежище у Тебя от зла моей души и от зла Шайтана и его помощников. (Я ищу убежище у Тебя) от принесения зла моей душе и от того, чтобы навредить любому мусульманину.</string>
+    <string name="text_help_from_allah_9" translatable="false">О, Аллах! Я прошу Твоего прощения и защиты в этом мире и в следующем. О, Аллах! Я прошу Твоего прощения и защиты в моей религии, в моих мирских делах, в моей семье и в моем богатстве. О, Аллах! Спрячь мои секреты и защити меня от тревог. О, Аллах! Защити меня от того, что впереди меня, что позади меня, слева и справа от меня, и от того, что над мной. Я ищу убежище в Твоем величии от падения вниз.</string>
+    <string name="text_help_from_allah_10" translatable="false">Мы вступили в новый день, и с ним все царство принадлежит Аллаху. Хвала Аллаху. Никто не достоин поклонения, кроме Аллаха, Единого, не имеющего сотоварища. Аллаху принадлежит царство, Ему принадлежит хвала, и Он способен делать все. Господь мой, прошу Тебя о благости этого дня и тех дней, что будут, и ищу убежище у Тебя от зла этого дня и тех дней, что будут. Господь мой, ищу убежище у Тебя от лени и немощи старости. Господь мой, ищу убежище у Тебя от наказания Адом и наказания в могиле. Когда ты говоришь это ночью, скажи: «Амысайна ва амсаль-мульку лиллях: Мы завершили еще один день, и с ним все царство принадлежит Аллаху», и «Рабби а’суэлука хайра маа фи хазийиль-лайляти, ва хайра маа ба’дахаа, ва а’оозу бика мин шарри маа фи хазийиль-лайляти ва шарри маа ба’дахаа: Я прошу о благости этой ночи и будущих ночей и ищу убежище у Тебя от зла этой ночи и будущих ночей». </string>
+    <string name="text_help_from_allah_11">Знайте, что Аллах — ваш защитник. Прекрасен защитник, и Прекрасен помощник.</string>
+    <string name="text_shaytan_1">Господь мой! Я ищу убежище у Тебя от шепотов (подсказок) шайтанов (демонов). И я ищу убежище у Тебя, о мой Господь, чтобы они не приблизились ко мне.</string>
+    <string name="text_shaytan_2">Я ищу убежище у Аллаха от Шайтана, изгнанного.</string>
+    <string name="text_shaytan_3">Я ищу убежище в Совершенных Словах Аллаха от зла того, что Он создал.</string>
+    <string name="text_transgressors_1">Господь мой! Спаси меня и мою семью от того, что они делают.</string>
+    <string name="text_protection_1">Я ищу защиту для тебя в Совершенных Словах Аллаха от всякого демона, всякого зверя и всякого завистливого и порицаемого глаза.</string>
+    <string name="text_oppressors_1">О, наш Господь! Спаси нас от этого города, жители которого являются угнетателями; и даруй нам от Себя защитника и помощника.</string>
+    <string name="text_oppressors_2">О, Аллах, Ты моя сила и поддержка. Во имя Тебя я иду вперед, во имя Тебя я сражаюсь.</string>
+    <string name="text_fear_1">О, Аллах! Защити меня от них так, как Ты захочешь.</string>
+    <string name="text_wrongdoers_1">Мы полагаемся на Аллаха. О, наш Господь! Не сделай нас объектом испытания для несправедливых людей. Спаси нас Твоей милостью от неверующих.</string>
+    <string name="text_wrongdoers_2">О, наш Господь! Воистину, Ты знаешь, что мы скрываем и что мы открываем, ведь ничего не скрыто от Аллаха, ни на земле, ни на небе.</string>
+    <string name="text_wrongdoers_3">О, наш Господь! Мы боимся, что он нападет на нас с гордостью или нарушит все пределы.</string>
+    <string name="text_parents_1" translatable="false">О, Господь мой! Сделай меня тем, кто установит молитву (Икаамат-с-Салаат), а также моих потомков. О, наш Господь! Прими мою молитву.</string>
+    <string name="text_parents_2" translatable="false">О, мой Господь! Помилуй их (моих родителей), как они воспитали меня, когда я был маленьким.</string>
+    <string name="text_shirk_1" translatable="false">О, Аллах! Я ищу убежище у Тебя, чтобы не приписывать Тебе сотоварищей сознательно, и прошу Твоего прощения за то, что я не знаю.</string>
+    <string name="text_aakhira_1" translatable="false">О, наш Господь! Дай нам в этом мире все, что хорошо, и в следующей жизни все, что хорошо, и избавь нас от мучений Огня.</string>
+    <string name="text_aakhira_2" translatable="false">О, наш Господь! Воистину, Ты соберешь людей в день, в котором нет сомнений. Воистину, Аллах не нарушает Своего обещания.</string>
+    <string name="text_pious_muslim_1" translatable="false">О, наш Господь! Не ставь нас с людьми несправедливыми (Залимун).</string>
+    <string name="text_pious_muslim_2" translatable="false">О, мой Господь! Не ставь меня среди несправедливых.</string>
+    <string name="text_allah_satisfaction_1" translatable="false">О, наш Господь! Прими (эту службу) от нас, ведь Ты — Всеслышащий, Всезнающий.</string>
+    <string name="text_allah_satisfaction_2" translatable="false">О, наш Господь! Сделай нас мусульманами, покорными Твоей Воле, и сделай наших потомков мусульманами, покорными Твоей Воле. Покажи нам наше место для поклонения и прими нас в Твою милость, ибо Ты — Прощающий, Милосердный.</string>
+    <string name="text_family_1">О, Господь мой! Даруй нам жен и потомков, которые будут радостью для наших глаз, и даруй нам благодать направить праведных.</string>
+    <string name="text_a_child_1">О, Господь мой! Дай мне от Себя хороших потомков. Воистину, Ты — Всеслышащий в мольбах.</string>
+    <string name="text_a_child_2">О, Господь мой! Не оставляй меня одиноким (без детей), ведь Ты — лучший из наследников.</string>
+    <string name="text_healthy_life_1" translatable="false">О, Аллах! Сделай меня здоровым телом. О, Аллах! Защити мои уши и зрение. Нет никого достойного поклонения, кроме Тебя. О, Аллах! Я ищу убежище у Тебя от куфра и бедности, и прошу Твоей защиты от наказания в могиле. Нет никого достойного поклонения, кроме Тебя.</string>
+    <string name="text_the_sick_1" translatable="false">Не переживай, это будет очищение для тебя, если Аллах захочет.</string>
+    <string name="text_the_sick_2" translatable="false">Прошу Аллаха, Всемогущего, Владыку Великого Трона, исцелить тебя.</string>
+    <string name="text_alleviate_pain_1" translatable="false">Во имя Аллаха, я ищу убежище у Аллаха и в Его Силе от зла того, что я встречаю и чего боюсь.</string>
+    <string name="text_tribulation_1" translatable="false">Хвала Аллаху, который избавил меня от того, что мучило тебя, и даровал мне великое преимущество перед многими из Его творений.</string>
+    <string name="text_hard_times_1" translatable="false">Воистину, меня постигло несчастье, и Ты — самый Милосердный из милосердных.</string>
+    <string name="text_nearing_your_death_1" translatable="false">Нет никого, достойного поклонения, кроме Аллаха.</string>
+    <string name="text_nearing_your_death_2" translatable="false">Я свидетельствую, что нет никого, достойного поклонения, кроме одного Аллаха, без партнеров, и свидетельствую, что Мухаммад — Его раб и Его Посланник.</string>
+    <string name="text_something_1" translatable="false">Это повеление Аллаха, и Он делает, что хочет.</string>
+    <string name="text_occurs_1" translatable="false">Воистину, мы принадлежим Аллаху, и воистину, к Нему мы вернемся.</string>
+    <string name="text_a_bad_1" translatable="false">Хвала Аллаху при всех обстоятельствах.</string>
+    <string name="text_upon_allah_1" translatable="false">Аллах — достаточно для меня. Нет никого, достойного поклонения, кроме Него. На Него я уповаю, и Он — Владыка Великого Трона.</string>
+    <string name="text_upon_allah_2">И ты вспомнишь, что я тебе сейчас говорю, и я поручаю свое дело Аллаху. Воистину, Аллах видит своих рабов.</string>
+    <string name="text_for_patience_1">О наш Господь! Даруй нам терпение, укрепи наши шаги и даруй нам победу над неверными.</string>
+    <string name="text_for_patience_2">О наш Господь! Излей на нас терпение и сделай нас погибшими как мусульманами.</string>
+    <string name="text_your_anger_1">Я ищу убежище у Аллаха от Шайтана, проклятого.</string>
+    <string name="text_a_debt_1">О Аллах, дай мне достаточность в том, что Ты позволил, вместо того, что Ты запретил, и сделай меня независимым от всех, кроме Тебя.</string>
+    <string name="text_you_money_1">Да благословит Аллах твою семью и твое богатство; воистину, награда за долг — это хвала и возврат долга.</string>
+    <string name="text_pious_muslims_1" translatable="false">О наш Господь! Не поставь нас среди людей, которые несправедливы.</string>
+    <string name="text_and_all_muslims_1" translatable="false">О, наш Господь! Покрой нас Твоим прощением — меня, моих родителей и всех верующих — в День, когда будет установлена отчетность.</string>
+    <string name="text_and_strengthen_your_imaan_1" translatable="false">Аллах не возлагает на душу больше, чем она может вынести. Он наградит за добро, которое совершит, и накажет за зло, которое совершит. «О наш Господь! Не наказывай нас, если мы забудем или ошибемся. О наш Господь! Не возлагай на нас бремена, как Ты возложил на тех, кто был до нас. О наш Господь! Не возлагай на нас того, чего мы не можем вынести. Прости нас, очисти нас и помилуй нас. Ты наш Покровитель и даруй нам победу над неверными.»</string>
+    <string name="text_evil_eye_1">Я ищу убежище в совершенных словах Аллаха от зла того, что Он создал.</string>
+    <string name="text_against_enemies_1" translatable="false">О Аллах, Ты, кто открыл Книгу и судишь быстро, побеждай армии, о Аллах, победим их и заставь их дрожать!</string>
+    <string name="text_calamities_1" translatable="false">Во имя Аллаха, с чьим именем ничего не вредно, ни на земле, ни на небесах, и Он — Всемогущий, Всемудрый. (три раза)</string>
+    <string name="text_you_siblings_1" translatable="false">О, мой Господь! Прости меня и моего брата, и введи нас в Твою милость, ведь Ты — самый Милосердный из милосердных.</string>
+    <string name="text_during_illness_1" translatable="false">[Сура Аль-Ихлас] Скажи: Он — Аллах, Единственный. Аллах — Вечный. Он не родил и не был рожден, и никто не равен Ему. [Сура Аль-Фалак] Скажи: «Я ищу убежище у Господа творений, от зла того, что Он создал, от зла темноты, когда она наступает, от зла тех, кто дует на узлы, и от зла завистника, когда он завидует.» [Сура Ан-Нас] Скажи: «Я ищу убежище у Господа людей, Царя людей, Бога людей, от зла нашептывателя, который скрывается, который нашептывает в сердца людей, как джинов, так и людей.»</string>
+    <string name="text_difficult_times_1" translatable="false">О наш Господь! Излей на нас терпение и сделай нас погибшими как мусульманами.</string>
+    <string name="text_of_quran_1" translatable="false">[Сура Аль-Ихлас] Скажи: Он — Аллах, Единственный. Аллах — Вечный. Он не родил и не был рожден, и никто не равен Ему.</string>
+    <string name="string_prayer_time_will_begin">Время молитвы начнется через %s минут</string>
+    <string name="string_prayer_time_will_begin_s">Время молитвы начнется через %s минуты</string>
+    <string name="string_praying_time_adjustment">%s мин</string>
+    <string name="string_plus_praying_time_adjustment">+%s мин</string>
+    <string name="string_not_adjusted">Не настроено</string>
+    <string name="string_it_will_correct_the_corresponding">Это исправит соответствующую дату исламского календаря относительно григорианского календаря</string>
+    <string name="string_settings">Настройки</string>
+    <string name="string_english">Английский</string>
+    <string name="string_time_calculator">Калькулятор времени</string>
+    <string name="string_calculator_method">Метод расчета</string>
+    <string name="string_manual_setting">Ручная настройка</string>
+    <string name="string_praying_time_adjustment_setting">Настройка времени молитвы</string>
+    <string name="string_date_correction">Коррекция даты</string>
+    <string name="string_notification_bar">Панель уведомлений</string>
+    <string name="string_fixed_countdown_on_notification">Фиксированный отсчет на уведомлении</string>
+    <string name="string_other">Другие</string>
+    <string name="string_share">Поделиться</string>
+    <string name="string_rate">Оценить</string>
+    <string name="string_private_policy">Политика конфиденциальности</string>
+    <string name="string_exit">Выход</string>
+    <string name="string_oh_no">О, нет!</string>
+    <string name="string_please_give_us_some_feedback">Пожалуйста, оставьте свой отзыв</string>
+    <string name="string_we_love_you_too">Мы тоже вас любим!</string>
+    <string name="string_thanks_for_your_feedback">Спасибо за ваш отзыв</string>
+    <string name="string_do_you_like_the_app">Вам нравится приложение?</string>
+    <string name="string_let_us_know_your_experience">Расскажите нам о вашем опыте</string>
+    <string name="Please_feedback">Пожалуйста, оставьте отзыв</string>
+    <string name="string_quran">Коран</string>
+    <string name="string_thank_for_rate">Спасибо за оценку приложения</string>
+    <string name="string_surah">Сура</string>
+    <string name="string_juz">Джуз</string>
+    <string name="string_quran_settings">Настройки Корана</string>
+    <string name="string_translation">Перевод</string>
+    <string name="string_display">Экран</string>
+    <string name="string_language_selection">Выбор языка</string>
+    <string name="string_content">Контент</string>
+    <string name="string_font_amp_size"><![CDATA[Шрифт и размер]]></string>
+    <string name="string_audio">Аудио</string>
+    <string name="string_reciter">Чтец</string>
+    <string name="string_translation_display">Отображение перевода</string>
+    <string name="string_phonetic_translation">Фонетический перевод</string>
+    <string name="string_language_translation">Перевод языка</string>
+    <string name="string_preview">Предварительный просмотр</string>
+    <string name="string_enable_audio">Включить аудио</string>
+    <string name="string_auto_scroll_with_audio">Автопрокрутка с аудио</string>
+    <string name="string_font_size">Размер шрифта</string>
+    <string name="string_font_style">Стиль шрифта</string>
+    <string name="string_tasbih">Тасбих</string>
+    <string name="string_round">Раунд :</string>
+    <string name="string_done">Готово</string>
+    <string name="string_customize">Настроить</string>
+    <string name="string_adjust_total_times">Настроить общее количество раз</string>
+    <string name="string_adjust_the_number_of_rounds">Настроить количество раундов</string>
+    <string name="string_reset">Сбросить</string>
+    <string name="string_do_you_want_to_reset_the_counter">Вы хотите сбросить счетчик?</string>
+    <string name="string_continue_reading">Продолжить чтение - %s</string>
+    <string name="text_location_1" translatable="false">Местоположение не включено</string>
+    <string name="text_location_2" translatable="false">Пожалуйста, включите местоположение, чтобы использовать все функции этого приложения</string>
+    <string name="text_bookmark_duas" translatable="false">Нажмите на значок закладки, чтобы добавить дуас в закладки</string>
+    <string name="text_bookmark_azkar" translatable="false">Нажмите на значок закладки, чтобы добавить азкар в закладки</string>
+    <string name="text_sample" translatable="false">Это тестовый файл</string>
+    <string name="text_date_comparison">Сравнение дат</string>
+    <string name="text_gregrorian_calendar" translatable="false">Григорианский календарь</string>
+    <string name="text_islamic_calendar" translatable="false">Исламский календарь</string>
+    <string name="text_praying_time" translatable="false">Время молитвы</string>
+    <string name="title_activity_islam_map" translatable="false">IslamMapActivity</string>
+    <string name="string_indonesian" translatable="false">Индонезийский</string>
+    <string name="string_urdu" translatable="false">Урду</string>
+    <string name="string_hindi" translatable="false">Хинди</string>
+    <string name="string_turkish" translatable="false">Турецкий</string>
+    <string name="string_salah" translatable="false">Салаат</string>
+    <string name="string_please_select_language">Пожалуйста, выберите язык</string>
+    <string name="string_please_connect_to_the_internet_to_use_this_feature">Пожалуйста, подключитесь к интернету, чтобы использовать эту функцию</string>
+    <string name="string_please_connect_to_the_internet_to_play_audio">Пожалуйста, подключитесь к интернету, чтобы воспроизвести аудио</string>
+    <string name="string_pin_app_widget_is_not_supported">Закрепление виджета приложения не поддерживается</string>
+    <string name="string_please_customize_the_number_of_round">Пожалуйста, настройте количество раундов</string>
+    <string name="string_please_enter_the_value_of_the_number_of_rounds">Пожалуйста, введите значение количества раундов!</string>
+    <string name="string_value_of_the_number_of_rounds_that_exist">Значение существующих раундов</string>
+    <string name="string_let_me_recommend_you_this_application">Позвольте порекомендовать вам это приложение</string>
+    <string name="string_search">Поиск</string>
+    <string name="string_add_to_home_screen">Добавить на главный экран</string>
+    <string name="string_rotate_your_phone_until_the_mecca_appear">Поверните телефон до появления Великой мечети в Мекке</string>
+    <string name="string_round_10">Минимальное значение количества раундов — 10</string>
+    <string name="string_tarawih">Таравих</string>
+    <string name="string_tarawih_prayer">Молитва Таравих</string>
+    <string name="string_dialog_tarawih_1">Представляем наши новые функции: <![CDATA[<b>Таравих</b>]]> и <![CDATA[<b>Руководство по приветствиям Рамадана</b>]]> теперь доступны</string>
+    <string name="string_dialog_tarawih_2">Отвести меня туда</string>
+    <string name="string_text_size">Размер текста</string>
+    <string name="string_text_shadow">Тень текста</string>
+    <string name="string_background_blur">Размытие фона</string>
+    <string name="string_font_style_ramadan">Стиль шрифта</string>
+    <string name="string_color">Цвет</string>
+    <string name="string_send">Отправить</string>
+    <string name="string_background">Фон</string>
+    <string name="string_app_download_link">Ссылка на загрузку приложения</string>
+    <string name="string_share_image">Поделиться изображением</string>
+    <string name="string_click_here_to_download_the_app">Нажмите здесь, чтобы скачать приложение: %s</string>
+    <string name="string_greeting">Приветствие</string>
+    <string name="string_grant_permissions_later">Предоставить разрешения позже</string>
+    <string name="string_notification">Уведомление</string>
+    <string name="string_location_permission">Разрешение на местоположение</string>
+    <string name="string_notification_permission">Разрешение на уведомления</string>
+    <string name="string_appear_on_top_permission">Разрешение на отображение поверх</string>
+    <string name="string_des_location_quibla">Приложение требует разрешение на местоположение для активации Киблы</string>
+    <string name="string_des_location_islam_map">Приложение требует разрешение на местоположение для активации исламской карты</string>
+    <string name="string_des_location_widget">Приложение требует разрешение на местоположение для активации виджета</string>
+    <string name="string_des_notification_widget">Приложение требует разрешение на уведомления для активации виджета</string>
+    <string name="string_des_appear_on_top_widget">Приложение требует разрешение на отображение поверх для активации виджета</string>
+    <string name="string_des_location_home">Приложение требует разрешение на местоположение для включения расписания молитвы</string>
+    <string name="string_des_notification_home">Приложение требует разрешение на местоположение для получения уведомлений о времени молитвы</string>
+    <string name="string_des_appear_on_top_home">Приложение требует разрешение на отображение поверх для отображения уведомления о времени молитвы</string>
+    <string name="string_you_can_select_location">Вы можете выбрать местоположение</string>
+    <string name="string_you_can_select_notification">Вы можете выбрать уведомление</string>
+    <string name="string_you_can_select_appear_on_top">Вы можете выбрать отображение поверх</string>
+    <string name="permission_description" translatable="false">Приложению необходимо использовать разрешение на работу в фоновом режиме, чтобы функция напоминания работала корректно. С помощью этой функции пользователь может настроить будильник для мусульманских молитв (Фаджр, Рассвет, Духр, Аср, Магриб, Иша) каждый день.</string>
+    <string name="permission_description_update_information" translatable="false">Нам нужно использовать разрешение FOREGROUND_SERVICE_SPECIAL_USE для обновления данных на виджетах приложения, добавленных пользователем на экран устройства. Пожалуйста, разрешите нам использовать это разрешение. Спасибо.</string>
+    <string name="permission_description_fixed_countdown" translatable="false">Нам нужно использовать разрешение FOREGROUND_SERVICE_SPECIAL_USE для отображения уведомления. Уведомление отображает информацию: следующее время молитвы, время обратного отсчета до этой молитвы, текущий мусульманский день. Пожалуйста, разрешите нам использовать это разрешение. Спасибо.</string>
+    <string name="string_go">Идти</string>
+    <string name="string_continue">Продолжить</string>
+    <string name="string_skip">Пропустить</string>
+    <string name="string_are_you_sure_exit_the_app">Вы уверены, что хотите выйти из приложения?</string>
+    <string name="string_yes">Да</string>
+    <string name="string_no">Нет</string>
+    <string name="str_kareem">Карим</string>
+    <string name="ramadan_is_a_time_for_reflection_and_gratitude_may_you_be_granted_the_strength_to_practice_your_faith_the_patience_to_overcome_challenges_and_the_joy_in_every_moment_ramadan_mubarak">Рамадан — это время для размышлений и благодарности. Пусть вам будет дарована сила для практики вашей веры, терпение для преодоления трудностей и радость в каждом моменте. Рамадан мубарак!</string>
+    <string name="str_picture_color">Цвет изображения</string>
+    <string name="title_intro_1">Коран и ежедневные дуас</string>
+    <string name="title_intro_2">Компасс Кибла</string>
+    <string name="title_intro_3">Время молитвы</string>
+    <string name="title_intro_4">Исламский календарь</string>
+    <string name="content_intro_1">Читайте и слушайте Коран, а также исследуйте ежедневные дуас и азкар.</string>
+    <string name="content_intro_2">Легко найдите направление Киблы, где бы вы ни находились.</string>
+    <string name="content_intro_3">Никогда не пропустите молитву: точное время всегда вовремя.</string>
+    <string name="content_intro_4">Следите за важными датами, такими как Рамадан, Ид аль-Фитр, Ид аль-Адха и другие.</string>
+    <string name="please_select_language">Пожалуйста, выберите язык</string>
+    <string name="str_zakat">Закат</string>
+    <string name="str_allah">Аллах</string>
+    <string name="continue_rotate_title">Поверните телефон, пока Кааба не окажется в центре.</string>
+    <string name="success_destination">Это направление к Кибле!</string>
+    <string name="north_title">Север (С)</string>
+    <string name="northeast_title">Северо-восток (СВ)</string>
+    <string name="east_title">Восток (В)</string>
+    <string name="southeast_title">Юго-восток (ЮВ)</string>
+    <string name="south_title">Юг (Ю)</string>
+    <string name="southwest_title">Юго-запад (ЮЗ)</string>
+    <string name="west_title">Запад (З)</string>
+    <string name="northwest_title">Северо-запад (СЗ)</string>
+    <string name="bookmark_title">Закладка</string>
+    <string name="round_title">Раунд</string>
+    <string name="adjust_rounds_title">Настроить раунды</string>
+    <string name="currency_unit">Единица валюты</string>
+    <string name="calculate_zakat">Рассчитать Закат</string>
+    <string name="total_amount_of_zakat">Общая сумма Заката</string>
+    <string name="property_information">Информация о собственности</string>
+    <string name="str_gold">Золото</string>
+    <string name="str_silver">Серебро</string>
+    <string name="str_money">Деньги</string>
+    <string name="str_investment">Инвестиция</string>
+    <string name="business_assets">Бизнес-активы</string>
+    <string name="other_savings">Другие сбережения</string>
+    <string name="str_debt">Долг</string>
+    <string name="str_nisab">Нисаб</string>
+    <string name="str_find">Найти</string>
+    <string name="str_unknown">Неизвестно</string>
+    <string name="loading_data_mosque_please_wait">Загрузка данных мечети. Пожалуйста, подождите...</string>
+    <string name="allah_99_name_title">99 имен Аллаха</string>
+    <string name="the_most_or_entirely_merciful">Самый или полностью Милосердный</string>
+    <string name="the_bestower_of_mercy">Дарующий Милосердие</string>
+    <string name="the_king_and_owner_of_dominion">Царь и Властелин Царства</string>
+    <string name="the_absolutely_pure">Абсолютно Чистый</string>
+    <string name="the_perfection_and_giver_of_peace">Совершенство и Дарующий Мир</string>
+    <string name="the_one_who_gives_emaan_and_security">Тот, кто дает Имана и Безопасность</string>
+    <string name="the_guardian">Страж</string>
+    <string name="the_witness">Свидетель</string>
+    <string name="the_overseer">Наблюдатель</string>
+    <string name="the_all_mighty">Всемогущий</string>
+    <string name="the_compeller">Принуждающий</string>
+    <string name="_the_restorer">Восстановитель</string>
+    <string name="the_supreme">Верховный</string>
+    <string name="_the_majestic">Величественный</string>
+    <string name="the_creator">Создатель</string>
+    <string name="_the_maker">Творец</string>
+    <string name="the_originator">Основатель</string>
+    <string name="the_fashioner">Формирующий</string>
+    <string name="the_all_and_oft_forgiving">Тот, кто всегда и часто прощает</string>
+    <string name="the_subduer">Покоритель</string>
+    <string name="the_ever_dominating">Всегда Господствующий</string>
+    <string name="the_giver_of_gifts">Дарующий дары</string>
+    <string name="the_provider">Поставщик</string>
+    <string name="the_opener">Открывающий</string>
+    <string name="_the_judge">Судья</string>
+    <string name="the_all_knowing">Всезнающий</string>
+    <string name="_the_omniscient">Всемогущий</string>
+    <string name="the_withholder">Держатель</string>
+    <string name="the_extender">Пространствующий</string>
+    <string name="the_reducer">Снижающий</string>
+    <string name="the_abaser">Принижающий</string>
+    <string name="the_exalter">Возвышающий</string>
+    <string name="_the_elevator">Поднимающий</string>
+    <string name="the_honourer">Честь</string>
+    <string name="the_bestower">Дарующий</string>
+    <string name="the_dishonourer">Оскорбляющий</string>
+    <string name="the_humiliator">Уничижающий</string>
+    <string name="the_all_hearing">Все слышащий</string>
+    <string name="the_all_seeing">Все видящий</string>
+    <string name="the_judge">Судья</string>
+    <string name="_the_giver_of_justice">Дарующий справедливость</string>
+    <string name="the_utterly_just">Абсолютно справедливый</string>
+    <string name="the_subtle_one">Тонкий</string>
+    <string name="the_most_gentle">Самый мягкий</string>
+    <string name="the_acquainted">Знающий</string>
+    <string name="the_all_aware">Все осведомленный</string>
+    <string name="the_most_forbearing">Самый терпеливый</string>
+    <string name="the_forgiving">Прощающий</string>
+    <string name="the_exceedingly_forgiving">Очень прощающий</string>
+    <string name="the_most_appreciative">Самый признательный</string>
+    <string name="the_most_high">Самый Высокий</string>
+    <string name="_the_exalted">Возвышенный</string>
+    <string name="the_greatest">Величайший</string>
+    <string name="the_preserver">Сохранитель</string>
+    <string name="the_sustainer">Содержатель</string>
+    <string name="the_reckoner">Считатель</string>
+    <string name="the_most_generous">Самый щедрый</string>
+    <string name="the_responsive">Отвечающий</string>
+    <string name="the_all_wise">Всемудрый</string>
+    <string name="the_guide">Гид</string>
+    <string name="the_ever_lasting">Вечный</string>
+    <string name="the_patient">Терпеливый</string>
+    <string name="string_protection_11">Для родителей</string>
+    <string name="string_protection_12">От страха впасть в ширк</string>
+    <string name="string_protection_13">Для этого мира и Ахира</string>
+    <string name="string_protection_14">Чтобы быть благочестивым мусульманином</string>
+    <string name="string_protection_15">Для праведного окружения</string>
+    <string name="string_protection_16">Защита от природных бедствий и катастроф</string>
+    <string name="string_home_3">При подъеме по лестнице / на возвышенность</string>
+    <string name="string_home_4">При спуске по лестнице / с высоты</string>
+
+    <string name="string_garment">Одежда</string>
+    <string name="string_garment_1">При надевании одежды</string>
+    <string name="string_garment_2">При надевании новой одежды</string>
+    <string name="string_garment_3">Когда смотрите в зеркало</string>
+
+    <string name="string_travel">Путешествие</string>
+    <string name="string_travel_1">Во время путешествия</string>
+    <string name="string_travel_2">При возвращении из путешествия</string>
+    <string name="string_travel_3">Когда наступает ночь во время путешествия</string>
+    <string name="string_travel_4">Для размещения</string>
+    <string name="string_travel_5">Перед сном ночью в путешествии</string>
+
+    <string name="string_food">Еда</string>
+    <string name="string_food_1">Перед началом приема пищи</string>
+    <string name="string_food_2">Если забыли упомянуть Аллаха в начале</string>
+    <string name="string_food_3">После окончания трапезы</string>
+    <string name="string_food_4">Когда вам подают напиток</string>
+    <string name="string_food_5">При питье молока</string>
+    <string name="string_food_6">При питье у кого-то дома</string>
+    <string name="string_food_7">За того, кто предложил вам еду</string>
+    <string name="string_food_8">При открытии поста</string>
+    <string name="string_food_9">За того, кто предоставил вам ифтар</string>
+
+    <string name="string_family">Семья</string>
+    <string name="string_family_1">Для родителей</string>
+    <string name="string_family_2">О прощении ваших родителей и всех мусульман</string>
+    <string name="string_family_3">О прощении ваших братьев и сестер</string>
+    <string name="string_family_4">Для счастливой семьи</string>
+    <string name="string_family_5">Просьба к Аллаху даровать вам ребенка</string>
+    <string name="string_family_6">О защите вашего ребенка</string>
+
+    <string name="string_health_liness">Здоровье / Болезнь</string>
+    <string name="string_health_liness_1">О здоровье</string>
+    <string name="string_health_liness_2">При посещении больного</string>
+    <string name="string_health_liness_3">Об облегчении боли</string>
+    <string name="string_health_liness_4">Во время болезни</string>
+    <string name="string_health_liness_5">При виде человека, испытывающего трудности</string>
+    <string name="string_health_liness_6">Если вы попали в тяжелые времена</string>
+    <string name="string_health_liness_7">Когда приближается смерть</string>
+    <string name="string_health_liness_8">При посещении могил</string>
+
+    <string name="string_loss_failure">Потеря / Неудача</string>
+    <string name="string_loss_failure_1">Когда терпите неудачу или что-то теряете</string>
+    <string name="string_loss_failure_2">При утрате</string>
+    <string name="string_loss_failure_3">Когда вас постигло горе</string>
+    <string name="string_loss_failure_4">При виде человека, испытывающего трудности</string>
+    <string name="string_loss_failure_5">О помощи Аллаха</string>
+
+    <string name="string_sorrow_joy">Горе / Радость</string>
+    <string name="string_sorrow_joy_1">В моменты тревоги и печали</string>
+    <string name="string_sorrow_joy_2">В состоянии стресса</string>
+    <string name="string_sorrow_joy_3">О преодолении слабостей</string>
+    <string name="string_sorrow_joy_4">Когда вас постигло горе</string>
+    <string name="string_sorrow_joy_5">При виде человека, испытывающего трудности</string>
+    <string name="string_sorrow_joy_6">При получении плохих новостей</string>
+    <string name="string_sorrow_joy_7">Если вы попали в тяжелые времена</string>
+    <string name="string_sorrow_joy_8">О терпении в трудные времена</string>
+    <string name="string_sorrow_joy_9">Когда вас оскорбляют</string>
+    <string name="string_sorrow_joy_10">Когда чувствуете страх</string>
+    <string name="string_sorrow_joy_11">О защите от несправедливых людей</string>
+    <string name="string_sorrow_joy_12">О помощи Аллаха</string>
+    <string name="string_sorrow_joy_13">О доверии к Аллаху</string>
+    <string name="string_sorrow_joy_14">При получении хороших новостей</string>
+    <string name="string_sorrow_joy_15">Когда вас хвалят</string>
+    <string name="no_data">Нет данных</string>
+    <string name="get_started_title">Начать</string>
+    <string name="radar_title">Радар</string>
+    <string name="radar_content">Устройство не поддерживает эту функцию.</string>
+    <string name="exit_the_app_title">Выйти из приложения?</string>
+    <string name="what_problems_you_encounter_during_use">С какими проблемами вы столкнулись при использовании?</string>
+    <string name="restart">Перезагрузить</string>
+    <string name="nothing_interesting_anymore">Больше ничего интересного</string>
+    <string name="explore">Исследовать</string>
+    <string name="still_uninstall">Все равно удалить</string>
+    <string name="why_uninstall_application">Почему вы хотите удалить приложение?</string>
+    <string name="difficult_to_use">Трудно использовать</string>
+    <string name="too_many_ads">Слишком много рекламы</string>
+    <string name="others">Другое</string>
+    <string name="please_enter_the_reason_why_uninstall_application">Пожалуйста, укажите причину удаления приложения</string>
+    <string name="don_t_uninstall_yet">Не удаляйте пока</string>
+    <string name="loading_0">Загрузка (0%)...</string>
+    <string name="loading_splash">"Загрузка "</string>
+    <string name="prayer_reminder_not_working">Напоминание о молитве не работает</string>
+    <string name="qibla_compass_not_working">Компас киблы не работает</string>
+    <string name="uninstall">Удалить</string>
+
+</resources>

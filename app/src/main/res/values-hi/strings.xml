@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_this_action_can_contain_ads">इस क्रिया में विज्ञापन शामिल हो सकते हैं</string>
+    <string name="string_language">भाषा</string>
+    <string name="string_next">अगला</string>
+    <string name="string_permission">अनुमति</string>
+    <string name="string_allow_per_we_muslim">Muslim Prayer - Quran Compass को डिवाइस की लोकेशन, टॉप पर दिखने और नोटिफिकेशन की अनुमति चाहिए (एंड्रॉइड 13 और उसके बाद)</string>
+    <string name="string_location">जगह</string>
+    <string name="string_appear_on_top">शीर्ष पर दिखें</string>
+    <string name="string_allow_notification">अधिसूचना की अनुमति दें</string>
+    <string name="string_you_need_to_accept_full_permission">आपको ऐप का उपयोग करने के लिए पूर्ण अनुमति स्वीकार करनी होगी</string>
+    <string name="string_you_need_to_enable_permission_to_use_this_features">आपको इस सुविधाओं का उपयोग करने के लिए अनुमति सक्षम करनी होगी</string>
+    <string name="go_to_setting">सेटिंग पर जाएं</string>
+    <string name="string_cancel">रद्द करना</string>
+    <string name="string_save">बचाना</string>
+    <string name="string_juristic_method">न्यायिक विधि</string>
+    <string name="string_adjust_islamic_calendar">इस्लामी कैलेंडर को समायोजित करें</string>
+
+    <!--Azkar-->
+    <string name="string_azkar">अज़कर</string>
+    <string name="string_daily_dhikr">दैनिक धिक्कार</string>
+    <string name="string_daily_dhikr_1">दरूद-ए-इब्राहीमी</string>
+    <string name="string_daily_dhikr_2">आप्तर सलाह (प्रियायर) तस्बीह</string>
+    <string name="string_daily_dhikr_3">हर रोज दुआ</string>
+    <string name="string_daily_dhikr_4">कुछ भी शुरू करने से पहले</string>
+    <string name="string_daily_dhikr_5">इस शब्द और आख़िरी के लिए</string>
+    <string name="string_daily_dhikr_6">अल्लाह से सुरक्षा और मदद के लिए</string>
+    <string name="string_daily_dhikr_7">कुरान के एक तिहाई का इनाम</string>
+
+    <string name="string_daily_rememberence">दैनिक स्मरण</string>
+    <string name="string_daily_rememberence_1">प्रातः स्मरण</string>
+    <string name="string_daily_rememberence_2">संध्या स्मरण</string>
+
+    <string name="string_after_prayer">प्रार्थना के बाद</string>
+    <string name="string_after_prayer_1">सलाह (नमाज़) तस्बीह के बाद</string>
+    <string name="string_after_prayer_2">प्रार्थना स्मरण के बाद</string>
+    <string name="string_after_prayer_3">नियमित रूप से सलाह दें</string>
+    <string name="string_after_prayer_4">अल्लाह से सुरक्षा और मदद के लिए</string>
+
+    <string name="string_Rizq_sustenance">रिज़्क (जीविका)</string>
+    <string name="string_Rizq_sustenance_1">रिज़्क (जीविका) के लिए</string>
+    <string name="string_Rizq_sustenance_2">जब तुम्हें जरूरत हो</string>
+    <string name="string_Rizq_sustenance_3">क्षमा और अल्लाह की दया के लिए</string>
+    <string name="string_Rizq_sustenance_4">अल्लाह की स्तुति करने के लिए</string>
+    <string name="string_Rizq_sustenance_5">कामयाबी के लिये</string>
+
+    <string name="string_knowledge">ज्ञान</string>
+    <string name="string_knowledge_1">ज्ञान में वृद्धि</string>
+    <string name="string_knowledge_2">मुझे आत्मविश्वास और वाक्पटुता प्रदान करें</string>
+    <string name="string_knowledge_3">अज्ञानता से सुरक्षा के लिए</string>
+    <string name="string_knowledge_4">मूर्खता से सुरक्षा</string>
+
+    <string name="string_faith">आस्था</string>
+    <string name="string_faith_1">अपने ईमान को मजबूत करो</string>
+    <string name="string_faith_2">हमें अभ्यासी मुसलमान बनाने के लिए</string>
+    <string name="string_faith_3">माफ़ी मांगें और अपने ईमान को मजबूत करें</string>
+    <string name="string_faith_4">अल्लाह की प्रतिज्ञा करो</string>
+    <string name="string_faith_5">धर्मी कंपनी के लिए</string>
+
+    <string name="string_day_of_judgement">फैसले का दिन</string>
+    <string name="string_day_of_judgement_1">इस दुनिया और आख़िरा के लिए</string>
+    <string name="string_day_of_judgement_2">क्षमा मांगें और नरक से सुरक्षा मांगें</string>
+    <string name="string_day_of_judgement_3">आपके माता-पिता और सभी मुसलमानों के लिए क्षमा प्रार्थना</string>
+    <string name="string_day_of_judgement_4">जन्नत के लिए</string>
+
+    <string name="string_forgiveness">माफी</string>
+    <string name="string_forgiveness_1">माफ़ी मांगें और अपने ईमान को मजबूत करें</string>
+    <string name="string_forgiveness_2">क्षमा के लिए</string>
+    <string name="string_forgiveness_3">क्षमा और अल्लाह की दया के लिए</string>
+    <string name="string_forgiveness_4">क्षमा मांगें और नरक से सुरक्षा मांगें</string>
+    <string name="string_forgiveness_5">आपके माता-पिता और सभी मुसलमानों के लिए क्षमा प्रार्थना</string>
+    <string name="string_forgiveness_6">अपने भाई-बहनों के लिए क्षमा</string>
+    <string name="string_forgiveness_7">अपने लिए और अपने घर में प्रवेश करने वाले किसी भी व्यक्ति के लिए क्षमा मांगने के लिए</string>
+    <string name="string_forgiveness_8">पश्चाताप के लिए</string>
+    <string name="string_forgiveness_9">अपने ईमान को मजबूत करो</string>
+    <string name="string_forgiveness_10">अल्लाह की संतुष्टि की तलाश करो</string>
+
+    <string name="string_praising_allah">अल्लाह की स्तुति करना</string>
+    <string name="string_praising_allah_1">अल्लाह की स्तुति और महिमा करने के लिए</string>
+    <string name="string_praising_allah_2">अल्लाह का शुक्रिया अदा करने के लिए</string>
+    <string name="string_praising_allah_3">अल्लाह के प्रति आभारी होने के लिए</string>
+    <string name="string_praising_allah_4">अच्छी खबर सुनने पर</string>
+    <string name="string_praising_allah_5">रिज़्क (जीविका) के लिए</string>
+    <string name="string_praising_allah_6">सब कुछ अल्लाह के हाथ में छोड़ने के लिए</string>
+
+    <string name="string_protection">सुरक्षा</string>
+    <string name="string_protection_1">अल्लाह से सुरक्षा और मदद</string>
+    <string name="string_protection_2">क्षमा मांगें और नरक से सुरक्षा मांगें</string>
+    <string name="string_protection_3">शैतान/शैतान से सुरक्षा के लिए</string>
+    <string name="string_protection_4">बुरी नजर से बचाव के लिए</string>
+    <string name="string_protection_5">अपने परिवार को अपराधियों से सुरक्षित रखने के लिए</string>
+    <string name="string_protection_6">आपके बच्चे की सुरक्षा के लिए</string>
+    <string name="string_protection_7">उत्पीड़कों से सुरक्षा के लिए</string>
+    <string name="string_protection_8">दुश्मनों से सुरक्षा के लिए</string>
+    <string name="string_protection_9">भय पर अंकुश लगाने के लिए</string>
+    <string name="string_protection_10">गलत काम करने वालों से सुरक्षा के लिए</string>
+    <string name="string_protection_11">माँ बाप के लिए</string>
+    <string name="string_protection_12">शिर्क करने के डर से</string>
+    <string name="string_protection_13">इस दुनिया और आख़िरा के लिए</string>
+    <string name="string_protection_14">एक धर्मपरायण मुसलमान बनना</string>
+    <string name="string_protection_15">धर्मी कंपनी के लिए</string>
+    <string name="string_protection_16">प्राकृतिक आपदाओं एवं आपदाओं से सुरक्षा</string>
+
+    <string name="string_family">परिवार</string>
+    <string name="string_family_1">माता-पिता के लिए</string>
+    <string name="string_family_2">आपके माता-पिता और सभी मुसलमानों के लिए क्षमा प्रार्थना</string>
+    <string name="string_family_3">आप भाई-बहनों के लिए क्षमा</string>
+    <string name="string_family_4">एक आनंदमय परिवार के लिए</string>
+    <string name="string_family_5">अल्लाह से तुम्हें एक बच्चा देने के लिए प्रार्थना करना</string>
+    <string name="string_family_6">आपके बच्चे की सुरक्षा के लिए</string>
+
+    <string name="string_health_liness">स्वास्थ्य/आईनेस</string>
+    <string name="string_health_liness_1">स्वस्थ जीवन के लिए</string>
+    <string name="string_health_liness_2">बीमारों से मिलने जाते समय</string>
+    <string name="string_health_liness_3">दर्द कम करने के लिए</string>
+    <string name="string_health_liness_4">बीमारी के दौरान</string>
+    <string name="string_health_liness_5">किसी को परीक्षण या क्लेश से गुजरते हुए देखना</string>
+    <string name="string_health_liness_6">यदि आप कठिन समय में आते हैं</string>
+    <string name="string_health_liness_7">जब आप अपनी मृत्यु के करीब हों</string>
+    <string name="string_health_liness_8">कब्रों पर जाते समय</string>
+
+    <string name="string_loss_failure">हानि/असफलता</string>
+    <string name="string_loss_failure_1">जब आप किसी चीज़ में असफल होते हैं या हार जाते हैं</string>
+    <string name="string_loss_failure_2">जब हानि होती है</string>
+    <string name="string_loss_failure_3">जब त्रासदी से त्रस्त हो</string>
+    <string name="string_loss_failure_4">किसी को परीक्षण या क्लेश से गुजरते हुए देखना</string>
+    <string name="string_loss_failure_5">अल्लाह की मदद मांगने के लिए</string>
+
+    <string name="string_sorrow_joy">दुःख/खुशी</string>
+    <string name="string_sorrow_joy_1">चिंता और खेद के समय</string>
+    <string name="string_sorrow_joy_2">जब संकट में हो</string>
+    <string name="string_sorrow_joy_3">अपनी कमजोरियों पर काबू पाने के लिए</string>
+    <string name="string_sorrow_joy_4">जब त्रासदी से त्रस्त हुआ</string>
+    <string name="string_sorrow_joy_5">किसी को परीक्षण या क्लेश से गुजरते हुए देखना</string>
+    <string name="string_sorrow_joy_6">एक बुरी खबर सुनने पर</string>
+    <string name="string_sorrow_joy_7">यदि आप कठिन समय में आते हैं</string>
+    <string name="string_sorrow_joy_8">कठिन समय में धैर्य के लिए</string>
+    <string name="string_sorrow_joy_9">जब कोई आपका अपमान करता है</string>
+    <string name="string_sorrow_joy_10">जब डर लग रहा हो</string>
+    <string name="string_sorrow_joy_11">गलत काम करने वालों से सुरक्षा के लिए</string>
+    <string name="string_sorrow_joy_12">अल्लाह की मदद मांगने के लिए</string>
+    <string name="string_sorrow_joy_13">अल्लाह पर भरोसा करना</string>
+    <string name="string_sorrow_joy_14">अच्छी खबर सुनने पर</string>
+    <string name="string_sorrow_joy_15">जब कोई आपकी तारीफ करता है</string>
+
+    <string name="string_patience">धैर्य</string>
+    <string name="string_patience_1">धैर्य के लिए</string>
+    <string name="string_patience_2">कठिन समय में धैर्य के लिए</string>
+    <string name="string_patience_3">अपने गुस्से पर काबू पाने के लिए</string>
+    <string name="string_patience_4">जब कोई आपका अपमान करता है</string>
+
+    <string name="string_debt">ऋृण</string>
+    <string name="string_debt_1">एक ऋण चुकाओ</string>
+    <string name="string_debt_2">किसी ऐसे व्यक्ति के लिए जो आपसे पैसे उधार लेता है</string>
+    <string name="string_debt_3">कामयाबी के लिये</string>
+    <string name="string_debt_4">रिज़्क (जीविका) के लिए</string>
+
+    <string name="string_during_menstruation">मासिक धर्म के दौरान</string>
+    <string name="string_during_menstruation_1">दरूद-ए-इब्राहीमी</string>
+    <string name="string_during_menstruation_2">इस दुनिया और आख़िरा के लिए</string>
+    <string name="string_during_menstruation_3">क्षमा और अल्लाह की दया के लिए</string>
+    <string name="string_during_menstruation_4">अपने ईमान को मजबूत करो</string>
+    <string name="string_during_menstruation_5">हमें अभ्यासी मुसलमान बनाने के लिए</string>
+    <string name="string_during_menstruation_6">अल्लाह का शुक्रिया अदा करने के लिए</string>
+    <string name="string_during_menstruation_7">धर्मपरायण मुसलमान बनना</string>
+    <string name="string_during_menstruation_8">स्वस्थ जीवन के लिए</string>
+    <string name="string_during_menstruation_9">दर्द कम करने के लिए</string>
+    <string name="string_during_menstruation_10">यदि आप कठिन समय में आते हैं</string>
+    <string name="string_during_menstruation_11">अल्लाह की मदद मांगने के लिए</string>
+    <string name="string_during_menstruation_12">जब संकट में हो</string>
+    <string name="string_during_menstruation_13">कठिन समय में धैर्य के लिए</string>
+    <string name="string_during_menstruation_14">अल्लाह पर भरोसा करना</string>
+
+    <!--Duas-->
+    <string name="string_duas">दुआ</string>
+    <string name="string_daily">दैनिक</string>
+
+    <string name="string_sleeping">सोना</string>
+    <string name="string_sleeping_1">जब आप जागोगे</string>
+    <string name="string_sleeping_2">सोने से पहले</string>
+
+    <string name="string_toilet">शौचालय</string>
+    <string name="string_toilet_1">शौचालय में प्रवेश करने से पहले</string>
+    <string name="string_toilet_2">शौचालय से निकलने के बाद</string>
+
+    <string name="string_ablution">स्नान</string>
+    <string name="string_ablution_1">जब स्नान प्रारंभ करें</string>
+    <string name="string_ablution_2">स्नान पूरा करते समय</string>
+
+    <string name="string_mosque">मस्जिद</string>
+    <string name="string_mosque_1">मस्जिद जाते समय</string>
+    <string name="string_mosque_2">मस्जिद में प्रवेश करते ही</string>
+    <string name="string_mosque_3">मस्जिद छोड़ने पर</string>
+
+    <string name="string_prayer">प्रार्थना</string>
+    <string name="string_prayer_1">अथान के दौरान</string>
+    <string name="string_prayer_2">अथान सुनने के बाद</string>
+    <string name="string_prayer_3">तकबीर के बाद (नमाज़ की शुरुआत)</string>
+    <string name="string_prayer_4">रुकू के दौरान (प्रार्थना में झुकना)</string>
+    <string name="string_prayer_5">अल्लाह के सामने सजदा करते समय (सुजुद में)</string>
+    <string name="string_prayer_6">जब दो सुजूद (साष्टांग प्रणाम) के बीच बैठें</string>
+    <string name="string_prayer_7">कुरान पाठ के दौरान साष्टांग प्रणाम</string>
+    <string name="string_prayer_8">जब शिकार में बैठे (तशहुद)</string>
+    <string name="string_prayer_9">दरूद-ए-इब्राहीमी</string>
+    <string name="string_prayer_10">तशहुद के बाद</string>
+    <string name="string_prayer_11">दुआ ए क़ुनूत (वित्र प्रार्थना में पढ़ी जाने वाली)</string>
+    <string name="string_prayer_12">फज्र की नमाज के बाद</string>
+
+    <string name="string_home">घर</string>
+    <string name="string_home_1">घर से निकलते समय</string>
+    <string name="string_home_2">घर में प्रवेश करते ही</string>
+    <string name="string_home_3">सीढ़ियाँ चढ़ते समय/किसी स्थान पर चढ़ते समय</string>
+    <string name="string_home_4">सीढ़ियों से उतरते समय/ऊँचे स्थान से उतरते समय</string>
+
+    <string name="string_garment">गारमेंट</string>
+    <string name="string_garment_1">कपड़े पहनते समय</string>
+    <string name="string_garment_2">नये कपड़े पहनते समय</string>
+    <string name="string_garment_3">दर्पण में देखते समय</string>
+
+    <string name="string_travel">यात्रा</string>
+    <string name="string_travel_1">यात्रा के लिए</string>
+    <string name="string_travel_2">यात्रा से लौटते समय</string>
+    <string name="string_travel_3">यात्रा के दौरान जब रात हो जाती है</string>
+    <string name="string_travel_4">आवास के लिए</string>
+    <string name="string_travel_5">यात्रा के दौरान रात को सोने से पहले</string>
+
+    <string name="string_food">खाना</string>
+    <string name="string_food_1">भोजन आरंभ करते समय</string>
+    <string name="string_food_2">अगर कोई शुरुआत में अल्लाह का जिक्र करना भूल जाए</string>
+    <string name="string_food_3">खाना ख़त्म करने के बाद</string>
+    <string name="string_food_4">जब एक पेय दिया गया</string>
+    <string name="string_food_5">दूध पीने पर</string>
+    <string name="string_food_6">किसी के घर पर भोजन करते समय</string>
+    <string name="string_food_7">किसी ऐसे व्यक्ति के लिए जो आपको भोजन प्रदान करता है</string>
+    <string name="string_food_8">अपना व्रत खोलते समय</string>
+    <string name="string_food_9">किसी ऐसे व्यक्ति के लिए जो आपको इफ्तार प्रदान करता है</string>
+
+    <string name="string_occasional">प्रासंगिक</string>
+
+    <string name="string_deceased">मृतक</string>
+    <string name="string_deceased_1">जब हानि होती है</string>
+    <string name="string_deceased_2">कब्रों पर जाते समय</string>
+    <string name="string_deceased_3">कंडोलेंका चढ़ाते समय</string>
+    <string name="string_deceased_4">मृतक की आंखें बंद करते समय</string>
+    <string name="string_deceased_5">अंतिम संस्कार प्रार्थना में मृतक के लिए</string>
+    <string name="string_deceased_6">मृतक को कब्र में रखते समय</string>
+
+    <string name="string_haj_umrah">हज/उमरा</string>
+    <string name="string_haj_umrah_1">तबिहया</string>
+    <string name="string_haj_umrah_2">काले पत्थर से गुजरते समय तकबीर</string>
+    <string name="string_haj_umrah_3">तवाफ के दौरान यमनी कोने पर पहुंचने पर</string>
+    <string name="string_haj_umrah_4">सफ़ा पर्वत जाते समय</string>
+    <string name="string_haj_umrah_5">जब माउंट सफा और माउंट मारवाह पर</string>
+    <string name="string_haj_umrah_6">अल-मशर अल-हराम (मुज़दलिफा) में पढ़ने के लिए</string>
+    <string name="string_haj_umrah_7">जमरात पर पत्थर फेंकते समय</string>
+    <string name="string_haj_umrah_8">अराफात में</string>
+    <string name="string_haj_umrah_9">किसी जानवर की बलि देते समय</string>
+
+    <string name="string_ramadan">रमजान</string>
+    <string name="string_ramadan_1">अपना व्रत खोलते समय</string>
+    <string name="string_ramadan_2">नियति की रात के लिए (लैलातुल कद्र)</string>
+    <string name="string_ramadan_3">किसी ऐसे व्यक्ति के लिए जो आपको इफ्तार कराता है</string>
+    <string name="string_ramadan_4">अर्धचंद्र के दर्शन पर</string>
+
+    <string name="string_nature">प्रकृति</string>
+    <string name="string_nature_1">बारिश के लिए</string>
+    <string name="string_nature_2">जब बरसात होती है</string>
+    <string name="string_nature_3">वर्षा के बाद</string>
+    <string name="string_nature_4">जब अत्यधिक वर्षा होती है</string>
+    <string name="string_nature_5">गड़गड़ाहट सुनने पर</string>
+    <string name="string_nature_6">तूफ़ान के दौरान</string>
+
+    <string name="string_good_ettiquete">अच्छा शिष्टाचार</string>
+    <string name="string_good_ettiquete_1">लोगों का अभिवादन करने के लिए</string>
+    <string name="string_good_ettiquete_2">सलाम का जवाब देते समय</string>
+    <string name="string_good_ettiquete_3">किसी को धन्यवाद देने के लिए</string>
+    <string name="string_good_ettiquete_4">छींक आने पर</string>
+    <string name="string_good_ettiquete_5">किसी की छींक सुनकर</string>
+    <string name="string_good_ettiquete_6">छींकने वाला जवाब देता है</string>
+    <string name="string_good_ettiquete_7">बाज़ार में प्रवेश करते समय</string>
+    <string name="string_good_ettiquete_8">किसी सभा/मजलिस के अंत में</string>
+    <string name="string_good_ettiquete_9">जब कोई आपकी तारीफ करता है</string>
+
+    <string name="string_decision_guidance">निर्णय/मार्गदर्शन</string>
+    <string name="string_decision_guidance_1">इस्तिखारा के लिए</string>
+    <string name="string_decision_guidance_2">न्याय के लिए</string>
+    <string name="string_decision_guidance_3">अल्लाह का मार्गदर्शन प्राप्त करें</string>
+    <string name="string_decision_guidance_4">अल्लाह की संतुष्टि की तलाश करो</string>
+    <string name="string_decision_guidance_5">कामयाबी के लिये</string>
+    <string name="string_decision_guidance_6">अपने ईमान को मजबूत करो</string>
+    <string name="app_widget_description_time">विजेट मुस्लिम प्रार्थना का समय</string>
+    <string name="app_widget_description_azkar">विजेट मुस्लिम अज़कर</string>
+
+    <!--    When you wake up-->
+    <string name="text_wake_up_1" translatable="false">सारी प्रशंसा अल्लाह के लिए है जिसने मुझे स्वास्थ्य प्रदान किया और मेरी आत्मा लौटा दी और मुझे अपनी याद करने की अनुमति दी।</string>
+    <string name="text_wake_up_2" translatable="false">पैगंबर ने कहा: \'जो कोई रात में जागता है और फिर कहता है:\' अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है, बिना किसी सहयोगी के, उसी का संप्रभुता और प्रशंसा है और वह सभी चीजों पर पूरी तरह से सक्षम है। अल्लाह कितना परिपूर्ण है, और सारी प्रशंसा अल्लाह के लिए है, और अल्लाह के अलावा किसी को पूजा का अधिकार नहीं है, अल्लाह सबसे बड़ा है और अल्लाह के अलावा कोई शक्ति या शक्ति नहीं है, जो सर्वोच्च, सर्वोच्च है। फिर प्रार्थना करते हैं:\' हे मेरे रब मुझे माफ कर दो।\' ... माफ कर दिया जाएगा\' \'\'या उसने कहा: \'और फिर पूछेगा, तो उसे उत्तर दिया जाएगा। यदि वह फिर स्नान करता है और प्रार्थना करता है, तो उसकी प्रार्थना स्वीकार की जाएगी।\'</string>
+    <string name="text_wake_up_3" translatable="false">सारी प्रशंसा अल्लाह के लिए है जिसने हमसे छीनकर हमें जीवन दिया और पुनरुत्थान भी उसी के लिए है।</string>
+
+    <!--    Before entering toilet-->
+    <string name="text_entering_toilet_1" translatable="false">(अल्लाह के नाम पर)। हे अल्लाह, मैं सभी दुष्टों और दुष्कर्मियों से तेरी शरण लेता हूँ।</string>
+    <!--    After leaving toilet-->
+    <string name="text_leaving_toilet_1" translatable="false">मैं आपसे (अल्लाह से) क्षमा मांगता हूं।</string>
+    <!--    When starting ablution-->
+    <string name="text_starting_ablution_1" translatable="false">अल्लाह के नाम पर।</string>
+    <!--    when completing ablution-->
+    <string name="text_completing_ablution_1" translatable="false">मैं गवाही देता हूं कि अल्लाह के अलावा किसी को भी बिना किसी साथी के अकेले पूजा करने का अधिकार नहीं है, और मैं गवाही देता हूं कि मुहम्मद उनके दास और दूत हैं।</string>
+    <string name="text_completing_ablution_2" translatable="false">ऐ अल्लाह, मुझे उन लोगों में से बना जो अक्सर तौबा करके तुम्हारे पास आते हैं और मुझे उन लोगों में से बना जो साफ़ और पवित्र रहते हैं।</string>
+    <string name="text_completing_ablution_3" translatable="false">हे अल्लाह, तू कितना परिपूर्ण है, और मैं तेरी प्रशंसा करता हूं, मैं गवाही देता हूं कि तेरे सिवा किसी को भी पूजा करने का अधिकार नहीं है, मैं तेरी क्षमा चाहता हूं और तेरी ओर तौबा करता हूं।</string>
+    <!--    When going to Mosque-->
+    <string name="text_going_to_mosque_1" translatable="false">हे अल्लाह, मेरे दिल में रोशनी, और मेरी जीभ पर रोशनी, और मेरे कानों में रोशनी, और मेरी आँखों में रोशनी, और मेरे पीछे रोशनी और मेरे सामने रोशनी, और मेरे ऊपर रोशनी और मेरे नीचे रोशनी रख। हे अल्लाह, मुझ पर प्रकाश डाल।</string>
+    <!--    Upon entering Mosque-->
+    <string name="text_entering_osque1" translatable="false">मैं शापित शैतान से सर्वोच्च अल्लाह और उसके महान चेहरे और उसके शाश्वत अधिकार की शरण लेता हूं। अल्लाह के नाम पर, प्रार्थना और शांति अल्लाह के दूत पर हो। हे अल्लाह, मेरे लिए अपनी दया के द्वार खोल दे।</string>
+    <!--    Upon Leaving Mosque-->
+    <string name="text_leaving_mosque_1" translatable="false">अल्लाह के नाम पर, प्रार्थना और शांति अल्लाह के दूत पर हो। ऐ अल्लाह, मैं तुझसे तेरी कृपा माँगता हूँ। हे अल्लाह, शापित शैतान से मेरी रक्षा कर।</string>
+    <!--    During athan-->
+    <string name="text_during_athan_1" translatable="false">अल्लाह के सिवा न कोई शक्ति है और न कोई शक्ति।</string>
+    <!--    after listening athan-->
+    <string name="text_listening_athan_1" translatable="false">हे अल्लाह, इस परिपूर्ण आह्वान और स्थापित प्रार्थना के भगवान। मुहम्मद को सिफ़ारिश और अनुग्रह प्रदान करें, और उसे उस सम्मानित पद पर पहुँचाएँ जिसका आपने उससे वादा किया है, [वास्तव में आप वादों की उपेक्षा नहीं करते हैं]।</string>
+    <!--    After Takbeer-->
+    <string name="text_after_takbeer_1" translatable="false">मैंने ईमानदारी से अपना रुख उसकी ओर कर लिया है जिसने आकाशों और धरती को जन्म दिया है और मैं उन लोगों में से नहीं हूं जो (दूसरों को अल्लाह के साथ) शरीक करते हैं। निस्संदेह मेरी प्रार्थना, मेरा बलिदान, मेरा जीवन और मेरी मृत्यु अल्लाह के लिए है, जो सारे संसार का स्वामी है, उसका कोई साझीदार नहीं है, मुझे यही आदेश दिया गया है और मैं मुसलमानों में से हूं। ऐ अल्लाह, तू ही सर्वशक्तिमान है, तेरे सिवा किसी को इबादत का हक़ नहीं। तू मेरा प्रभु है और मैं तेरा दास हूं, मैं ने अपने प्राण पर अन्याय किया है, और अपना पाप मान लिया है, इसलिये मेरे सब पाप क्षमा कर दे, क्योंकि तेरे सिवा कोई पाप क्षमा नहीं करता। मुझे सर्वोत्तम चरित्रों से बचाएं क्योंकि आपके अलावा कोई भी मुझे इससे नहीं बचा सकता है, और मुझे सबसे बुरे चरित्रों से भी बचा सकता है क्योंकि आपके अलावा कोई भी मुझे इससे बचा नहीं सकता है। आपकी कॉल के उत्तर में मैं आपकी सेवा करने में प्रसन्न हूं। सारी अच्छाई आपके हाथों में है और बुराई आपसे नहीं आती। मैं आपकी इच्छा से अस्तित्व में हूं और आपके पास लौटूंगा। आप धन्य और उच्च हैं, मैं आपसे क्षमा चाहता हूं और आपसे पश्चाताप करता हूं</string>
+    <string name="text_after_takbeer_2" translatable="false">ओ अल्लाह! मुझे मेरे पापों से अलग करो जैसे तुमने पूर्व को पश्चिम से अलग किया है। हे अल्लाह, मुझे मेरे अपराधों से वैसे ही शुद्ध कर जैसे सफ़ेद कपड़ा दाग से साफ़ हो जाता है। ओ अल्लाह! मेरे पापों को बर्फ, पानी और पाले से धो डालो।</string>
+    <string name="text_after_takbeer_3" translatable="false">हे अल्लाह, तेरी महिमा है, और प्रशंसा है। आपका नाम धन्य है और आपकी महिमा महान है। आपके सिवा कोई भी पूजा के योग्य नहीं है।</string>
+
+    <!--    During Ruku-->
+    <string name="text_during_ruku_1" translatable="false">मेरे परम प्रभु की जय।</string>
+    <string name="text_during_ruku_2" translatable="false">महिमा तुम्हारी है, हे अल्लाह, हमारे भगवान, और प्रशंसा तुम्हारी है। हे अल्लाह, मुझे माफ़ कर दो।</string>
+    <string name="text_during_ruku_3" translatable="false">महिमा (आपकी), परम पवित्र (आप हैं), स्वर्गदूतों और आत्मा के भगवान।</string>
+    <string name="text_during_ruku_4" translatable="false">ओ अल्लाह! मैं तुम्हें प्रणाम करता हूं (प्रार्थना में) और मैं तुम पर विश्वास करता हूं और तुम्हारे प्रति समर्पित हूं। आपके समक्ष मेरी श्रवण शक्ति, मेरी दृष्टि, मेरा मन, मेरी हड्डियाँ, मेरी नसें और मेरे पैर जिन पर (यात्रा के लिए) टिके हैं, नम्र हैं।</string>
+    <string name="text_during_ruku_5" translatable="false">महिमा आपकी है, शक्ति, प्रभुत्व, ऐश्वर्य और महानता के स्वामी।</string>
+    //While prostrating before Allah
+    <string name="text_before_allah_1" translatable="false">महिमा मेरे परमप्रधान प्रभु की है।</string>
+    <string name="text_before_allah_2" translatable="false">महिमा तुम्हारी है, हे अल्लाह, हमारे भगवान, और प्रशंसा तुम्हारी है। हे अल्लाह, मुझे माफ़ कर दो।</string>
+    <string name="text_before_allah_3" translatable="false">महिमा (आपकी), परम पवित्र (आप हैं), स्वर्गदूतों और आत्मा के भगवान।</string>
+    <string name="text_before_allah_4" translatable="false">हे अल्लाह, मैं तुझे सजदा करता हूं और मैं तुझ पर ईमान लाता हूं। मैंने तुम्हें सौंप दिया है. मेरा चेहरा उस व्यक्ति के सामने झुकता है जिसने इसे बनाया, इसे बनाया और इसे सुनने और देखने की शक्ति दी। धन्य है अल्लाह, सबसे अच्छा रचयिता।</string>
+    <string name="text_before_allah_5" translatable="false">महिमा आपकी है, शक्ति, प्रभुत्व, ऐश्वर्य और महानता के स्वामी।</string>
+    <string name="text_before_allah_6" translatable="false">हे अल्लाह, मैं तेरे क्रोध से तेरी प्रसन्नता में सुरक्षा चाहता हूँ, और मैं तेरी सज़ा से तेरी क्षमा में सुरक्षा चाहता हूँ। मैं तुझसे तुझमें सुरक्षा चाहता हूँ। मैं आपकी प्रशंसा नहीं गिन सकता। आप वैसे ही हैं जैसे आपने अपनी प्रशंसा की है।</string>
+    <string name="text_before_allah_7" translatable="false">हे अल्लाह, मेरे सभी पापों को माफ कर दो, बड़े और छोटे, पहले और आखिरी, जो प्रकट हैं और जो छिपे हुए हैं।</string>
+    //When sitting between two Sujood
+    <string name="text_two_sujood_1" translatable="false">ईश्वर मुझे माफ़ करो। हे प्रभु, मुझे क्षमा कर दो।</string>
+    <string name="text_two_sujood_2" translatable="false">हे अल्लाह मुझे माफ कर दो, मुझ पर दया करो, मेरा मार्गदर्शन करो, मेरा समर्थन करो, मेरी रक्षा करो, मेरा भरण-पोषण करो और मुझे ऊपर उठाओ।</string>
+    //prostration during quran recitation
+    <string name="text_quran_recitation_1" translatable="false">मैंने उसके सामने अपना चेहरा झुकाया है जिसने इसे बनाया है, और अपनी शक्ति और अपनी शक्ति से इसे सुनने और देखने की शक्ति दी है। महिमा अल्लाह की है, जो रचनाकारों में सर्वोत्तम है।</string>
+    //when sitting in preyer
+    <string name="text_in_preyer_1" translatable="false">नम्रता के सभी अभिवादन अल्लाह के लिए हैं, और सभी प्रार्थनाएँ और भलाई के लिए हैं। आप पर शांति हो, हे पैगंबर, और अल्लाह की दया और उसका आशीर्वाद। हम पर और अल्लाह के नेक बंदों पर शांति हो। मैं गवाही देता हूं कि अल्लाह के अलावा कोई भी पूजा के योग्य नहीं है, और मैं गवाही देता हूं कि मुहम्मद उसके गुलाम और उसके दूत हैं।</string>
+    //darood-e-ibraheemi
+    <string name="text_ibraheemi_1" translatable="false">हे अल्लाह, मुहम्मद और मुहम्मद के परिवार पर अपना अनुग्रह प्रदान करें जैसे आपने इब्राहिम और इब्राहिम के परिवार पर अपना अनुग्रह प्रदान किया है, आप प्रशंसनीय, सबसे गौरवशाली हैं। हे अल्लाह, मुहम्मद और मुहम्मद के परिवार को आशीर्वाद दो जैसे तुमने इब्राहिम और इब्राहिम के परिवार को आशीर्वाद दिया है, तुम प्रशंसनीय, सबसे गौरवशाली हो।</string>
+    //After tashahhud
+    <string name="text_after_tashahhud_1" translatable="false">हे अल्लाह, मैं कब्र की सज़ा से तेरी शरण चाहता हूँ, और झूठे मसीहा की परीक्षा से तेरी शरण चाहता हूँ, और मैं जीवन और मृत्यु की परीक्षा से तेरी शरण चाहता हूँ। ऐ अल्लाह, मैं गुनाह और कर्ज़ से तेरी पनाह चाहता हूँ।</string>
+    <string name="text_after_tashahhud_2" translatable="false">हे अल्लाह, मैंने अपने ऊपर बहुत अत्याचार किया है और तेरे सिवा कोई पाप क्षमा नहीं करता। अत: मुझे क्षमा करें और मुझ पर दया करें। निस्संदेह, तुम क्षमाशील, दयावान हो।</string>
+    <string name="text_after_tashahhud_3" translatable="false">ऐ अल्लाह, जो कुछ मैंने अपने सामने भेजा है और जो मैं अपने पीछे छोड़ गया हूँ, मुझे क्षमा कर दो, जो कुछ मैंने छिपाया है और जो मैंने खुलेआम किया है, जो मैंने अधिक किया है, और जो कुछ तू मुझसे बेहतर जानता है। तू ही है जो भेजता है और तू ही है जो विलम्ब करता है। आपके सिवा कोई भी पूजा के योग्य नहीं है।</string>
+    //Dua e qunoot (recited in witr prayer)
+    <string name="text_e_qunoot_1" translatable="false">ओ अल्लाह! हम आपसे मदद की याचना करते हैं और आपसे क्षमा मांगते हैं और आप पर विश्वास करते हैं और आप पर भरोसा करते हैं और आपकी प्रशंसा करते हैं और हम आपके आभारी हैं और आपके प्रति कृतघ्न नहीं हैं और हम उन लोगों को अलग कर देते हैं और त्याग देते हैं जो आपकी अवज्ञा करते हैं। ओ अल्लाह! हम केवल आपकी ही पूजा करते हैं और आपके लिए ही हम प्रार्थना करते हैं और सजदा करते हैं और हम आपको प्रसन्न करने का वचन लेते हैं और आपकी सेवा के लिए स्वयं को प्रस्तुत करते हैं और हम आपकी दया की आशा करते हैं और आपकी ताड़ना से डरते हैं। निःसन्देह, तेरी यातना काफ़िरों पर आ पड़ेगी, ऐ अल्लाह!</string>
+    //after fajr prayer
+    <string name="text_fajr_prayer_1" translatable="false">हे अल्लाह, मैं तुमसे लाभकारी ज्ञान मांगता हूं, और उनके पास एक अच्छा, और ग्रहणशील ज्ञान था</string>
+    //when leaving home
+    <string name="text_leaving_home_1" translatable="false">अल्लाह के नाम पर, मैं अल्लाह पर भरोसा रखता हूं, और अल्लाह के अलावा कोई शक्ति या शक्ति नहीं है।</string>
+    <string name="text_leaving_home_2" translatable="false">हे अल्लाह, मैं तेरी पनाह लेता हूँ, कहीं ऐसा न हो कि मैं भटक जाऊँ या पथभ्रष्ट हो जाऊँ, या फिसल जाऊँ या लड़खड़ा जाऊँ, या ज़ुल्म करूँ या सताया जाऊँ, या मूर्खतापूर्ण व्यवहार करूँ या मूर्खतापूर्ण व्यवहार न करूँ।\' फिसलन: यानी अनजाने में कोई पाप करना</string>
+    //upon entering home
+    <string name="text_entering_home_1" translatable="false">अल्लाह के नाम पर हम प्रवेश करते हैं और अल्लाह के नाम पर हम निकलते हैं, और हम अपने रब पर भरोसा रखते हैं।</string>
+
+    //when going up the stairs / ascending a place
+    <string name="text_the_stairs_1" translatable="false">सारी प्रशंसा अल्लाह के लिए है जिसने मुझे यह वस्त्र पहनाया और इसे मेरे लिए प्रदान किया, बिना मेरी ओर से किसी शक्ति या शक्ति के।</string>
+    <string name="text_the_stairs_2" translatable="false">अल्लाह महानतम है</string>
+    <string name="text_the_stairs_3" translatable="false">जय भगवन</string>
+    //when wearing new clothes
+    <string name="text_new_clothes_1" translatable="false">हे अल्लाह, प्रशंसा तेरी है। तुमने मुझे कपड़े पहनाये हैं. मैं आपसे इसकी अच्छाई और जिसके लिए इसे बनाया गया है उसकी अच्छाई के बारे में पूछता हूं, और मैं इसकी बुराई और जिसके लिए इसे बनाया गया है उसकी बुराई से आपकी सुरक्षा चाहता हूं।</string>
+    //when looking into the mirror
+    <string name="text_the_mirror_1" translatable="false">ऐ अल्लाह, जैसे तूने मेरे बाहरी रूप को सुन्दर बनाया है, वैसे ही मेरे चरित्र को भी सुन्दर बना दे।</string>
+    //Travel
+    //for travel
+    <string name="text_for_travel_1" translatable="false">उसकी जय हो जिसने हमारे लिए यह परिवहन बनाया, हालाँकि हम इसे अपने आप बनाने में असमर्थ थे। और हम अपने प्रभु की ओर लौटेंगे।</string>
+    <string name="text_for_travel_2" translatable="false">मेरे नाथ! मेरा प्रवेश (अल-मदीना शहर में) अच्छा हो, और इसी तरह मेरा निकास (मक्का शहर से) भी अच्छा हो। और अपनी ओर से मुझे सहायता करने का अधिकार (या कोई ठोस संकेत या प्रमाण) प्रदान करो।</string>
+    //while returning form travel
+    <string name="text_form_travel_1" translatable="false">अल्लाह सबसे महान है, अल्लाह सबसे महान है, अल्लाह सबसे महान है।\nअल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है, अकेले, बिना साथी के। सारी प्रभुता और प्रशंसा उसी की है, और वह सभी चीज़ों पर सर्वशक्तिमान है। हम लौटते हैं, पश्चाताप करते हैं, पूजा करते हैं और अपने प्रभु की स्तुति करते हैं। अल्लाह ने अपना वादा पूरा किया, अपने सेवक की सहायता की, और अकेले ही सहयोगियों को हरा दिया।</string>
+    /when night approaches during travel
+    <string name="text_approaches_during_travel_1" translatable="false">हे पृथ्वी, मेरा प्रभु और तेरा प्रभु परमेश्वर है। मैं तुम्हारे बहुदेववाद से, तुम्हारे भीतर जो कुछ है उसकी बुराई से, जो कुछ उसने तुम्हारे भीतर पैदा किया है उसकी बुराई से, और जो कुछ तुम पर रेंगता है उसकी बुराई से ईश्वर की शरण चाहता हूँ। मैं शेरों से, बड़े काले साँपों से, अन्य साँपों से, बिच्छुओं से, और ज़मीन पर रहने वाले जिन्नों की बुराई से ईश्वर की शरण लेता हूँ। यह एक पिता और उसकी संतान है</string>
+    //for accommodation
+    <string name="text_accommodation_1" translatable="false">मेरे भगवान, मुझे एक धन्य लैंडिंग स्थान पर उतरने दो, और आप [हमें] समायोजित करने के लिए सबसे अच्छे हैं।</string>
+    //before sleeping at night during travel
+    <string name="text_during_travel_1" translatable="false">मेरे नाथ! मैं शयातीन (शैतानों) की फुसफुसाहटों (सुझावों) से आपकी शरण चाहता हूं। और मैं तेरी पनाह चाहता हूँ, मेरे रब! कहीं ऐसा न हो कि वे मेरी शरण में आएँ (या मेरे निकट आएँ)।</string>
+    <string name="text_during_travel_2" translatable="false">मैं शैतान, बहिष्कृत के विरुद्ध अल्लाह की शरण चाहता हूँ।</string>
+    <string name="text_during_travel_3" translatable="false">जो कुछ उसने पैदा किया है उसकी बुराई से मैं अल्लाह के उत्तम शब्दों की शरण चाहता हूँ।</string>
+    //Food
+    //when beginning a meal
+    <string name="text_beginning_a_meal_1" translatable="false">अल्लाह के नाम पर, जो अत्यंत दयालु है, विशेष रूप से दयालु है।</string>
+    //if one forget to mention allah at the beginning
+    <string name="text_the_beginning_1" translatable="false">भगवान के नाम पर, शुरुआत और अंत</string>
+    //after finishing a meal
+    <string name="text_finishing_a_meal_1" translatable="false">उस अल्लाह की स्तुति करो जिसने हमें खिलाया, पिलाया और मुसलमान बनाया।</string>
+    //when given a drink
+    <string name="text_a_drink_1" translatable="false">ओ अल्लाह! उसे खिलाओ जिसने मुझे खिलाया और उसे पिलाओ जिसने मुझे पिलाया।</string>
+    //upon drinking milk
+    <string name="text_drinking_milk_1" translatable="false">ओ अल्लाह! इसमें हमें आशीर्वाद दो और हमें इसमें वृद्धि दो।</string>
+    //when dining at someone’s house
+    <string name="text_house_1" translatable="false">ओ अल्लाह! जो कुछ तूने उन्हें प्रदान किया है उसमें उन्हें आशीर्वाद दो, और उन्हें क्षमा कर दो और उन पर दया करो।</string>
+    //for someone who offers you a meal
+    <string name="text_you_a_meal_1" translatable="false">ऐ अल्लाह, उसे खिलाओ जिसने मुझे खिलाया है और उसे पिलाओ जिसने मुझे पिलाया है।</string>
+    //when openning your fast
+    <string name="text_your_fast_1" translatable="false">ओ अल्लाह! मैंने आपके लिए उपवास किया है और मैं आप पर विश्वास करता हूं और मैंने आप पर भरोसा किया है और मैं आपके भोजन से अपना उपवास तोड़ता हूं</string>
+    //For someone who provides you with Iftar
+    <string name="text_with_iftar_1" translatable="false">तेरे यहां रोजेदारों ने रोजा तोड़ दिया, तू ने नेक लोगों को खाना खिलाया, और फ़रिश्ते तुझ पर अपनी दुआएं पढ़ते हैं।</string>
+
+    //Deceased
+    //when a loss occurs
+    <string name="text_loss_occurs_1" translatable="false">निस्संदेह हम अल्लाह के हैं और हम उसी की ओर लौटेंगे।</string>
+    //when visiting graves
+    <string name="text_visiting_graves_1" translatable="false">हे मुसलमानों, तुम पर सलाम, अल्लाह की इच्छा से हम भी तुम्हारे पास आएँगे। हम अपने और आपके लिए सुरक्षा चाहते हैं।</string>
+    //when offering condolenca
+    <string name="text_offering_condolenca_1" translatable="false">निस्संदेह, अल्लाह जो उसका है लेता है, और जो देता है वह भी उसका है, और उसने हर चीज़ के लिए एक समय निर्धारित कर रखा है। तो, धैर्य रखें और पुरस्कृत हों</string>
+    //when closing the eyes of the deceased
+    //For the deceased at the funeral prayer
+    <string name="text_funeral_prayer_1" translatable="false">ऐ अल्लाह, उसे माफ कर दे और उस पर रहम कर और उसे ताकत दे और उसे माफ कर दे। उसके प्रति उदार बनो और उसके प्रवेश द्वार को चौड़ा करो और उसे पानी, बर्फ और ओलों से धो दो। जैसे सफेद कपड़ा दागों से शुद्ध होता है, वैसे ही उसे उसके अपराधों से शुद्ध करो। उसे उसके घर से बेहतर निवास स्थान दो, और उसके परिवार से बेहतर परिवार और उसकी पत्नी से बेहतर पत्नी दो। उसे जन्नत में ले जाओ और कब्र की सज़ा [और नर्क-आग की सज़ा से] उसकी रक्षा करो।</string>
+    <string name="text_funeral_prayer_2" translatable="false">ऐ अल्लाह हमारे जीवितों और मृतकों को, जो हमारे साथ हैं और जो अनुपस्थित हैं, हमारे जवानों और बूढ़ों को, हमारे पुरुषों और हमारी स्त्रियों को क्षमा कर। ऐ अल्लाह, जिसे तू हम में से जीवन दे, उसे इस्लाम के अनुसार जीवन दे, और जिसे तू हमसे छीन ले, उसे ईमान के साथ जीवन दे। ऐ अल्लाह, हमें उनका बदला न दे और उनके पीछे हमें गुमराह न कर।</string>
+    //When placing the deceased in the grave
+    <string name="text_the_graver_1" translatable="false">अल्लाह के नाम के साथ और अल्लाह के दूत की सुन्नत के अनुसार</string>
+
+    //Hajj / Umrah
+    //tabihya
+    <string name="text_tabihya_1" translatable="false">सदैव आपकी सेवा में, हे अल्लाह, हर कोई आपकी सेवा में। कभी आपकी सेवा में, आपका कोई साथी नहीं, कभी आपकी सेवा में। वास्तव में सारी प्रशंसा, आशीर्वाद और प्रभुत्व आपका ही है। आपका कोई साथी नहीं है</string>
+    //takbeer when passing the black stone
+    <string name="text_black_stone_1" translatable="false">अल्लाह सबसे महान है!</string>
+    //upon reaching the yemeni corner during tawaf
+    <string name="text_during_tawaf_1" translatable="false">हमारे प्रभु! हमें इस दुनिया में अच्छाई और आख़िरत में भलाई प्रदान कर और हमें आग की यातना से बचा</string>
+    //while going to mount safa
+    <string name="text_mount_safa_1" translatable="false">मैं उसी से शुरू करता हूँ जिससे अल्लाह ने शुरुआत की थी। अल्लाह सबसे महान है, अल्लाह सबसे महान है, अल्लाह सबसे महान है। अल्लाह के अलावा किसी को भी अकेले, बिना किसी साथी के पूजा करने का अधिकार नहीं है। सारी प्रभुता और प्रशंसा उसी की है और वह सभी चीज़ों पर सर्वशक्तिमान है। केवल अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है। उन्होंने अपना वादा पूरा किया, अपने सेवक की सहायता की और अकेले ही सहयोगियों को हरा दिया।</string>
+    //When at Mount Safa and Mount Marwah
+    <string name="text_mount_marwah_1" translatable="false">मैं उसी से शुरू करता हूँ जिससे अल्लाह ने शुरुआत की थी। अल्लाह सबसे महान है, अल्लाह सबसे महान है, अल्लाह सबसे महान है। अल्लाह के अलावा किसी को भी अकेले, बिना किसी साथी के पूजा करने का अधिकार नहीं है। सारी प्रभुता और प्रशंसा उसी की है और वह सभी चीज़ों पर सर्वशक्तिमान है। केवल अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है। उन्होंने अपना वादा पूरा किया, अपने सेवक की सहायता की और अकेले ही सहयोगियों को हरा दिया।</string>
+    //for reciting at al-mash’ar al-haraam (muzdalifah)
+    <string name="text_al_haraam_1" translatable="false">अल्लाह सबसे महान है. अल्लाह एक हे। अल्लाह के सिवा कोई इबादत के लायक नहीं।</string>
+    //when throwing stone at jamaraat
+    <string name="text_at_jamaraat_1" translatable="false">अल्लाह सबसे महान है!</string>
+    //at arafat
+    <string name="text_at_arafat_1" translatable="false">अल्लाह के अलावा किसी को भी अकेले, बिना किसी साथी के पूजा करने का अधिकार नहीं है। उसी के लिए संप्रभुता और सारी प्रशंसा है और वह सभी चीज़ों पर सर्वशक्तिमान है।</string>
+    //When sacrificing an animal
+    <string name="text_an_animal_1" translatable="false">अल्लाह के नाम से, अल्लाह सबसे महान है! [हे अल्लाह, तुझसे और तुझसे।] हे अल्लाह, इसे मुझसे स्वीकार कर।</string>
+
+    //Ramadan
+    //When openning your fast
+    <string name="text_openning_your_fast_1" translatable="false">ओ अल्लाह! मैंने आपके लिए उपवास किया है और मैं आप पर विश्वास करता हूं और मैंने आप पर भरोसा किया है और मैं आपके भोजन से अपना उपवास तोड़ता हूं</string>
+    //For the night of destiny
+    <string name="text_of_destiny_1" translatable="false">ऐ अल्लाह तू बहुत माफ करने वाला है और माफ करना पसंद करता है, इसलिए मुझे माफ कर दे</string>
+    //For someone who provides you with Iftar
+    <string name="text_you_with_iftar_1" translatable="false">तेरे यहां रोजेदारों ने रोजा तोड़ दिया, तू ने नेक लोगों को खाना खिलाया, और फ़रिश्ते तुझ पर अपनी दुआएं पढ़ते हैं।</string>
+    //on the sighting of the crescent moon
+    <string name="text_crescent_moon_1" translatable="false">अल्लाह सबसे महान है. हे अल्लाह, हमारे लिए सुरक्षा और विश्वास के साथ, शांति और इस्लाम के साथ, और हमारे प्रभु को जो पसंद है और जो उसे प्रसन्न करता है उसके साथ सद्भाव में नया चाँद लाओ। हमारा रब और तुम्हारा रब अल्लाह है।</string>
+
+    //Nature
+    //For rain
+    <string name="text_for_rain_1" translatable="false">हे अल्लाह, हम पर भरपूर बारिश बरसाओ, फायदेमंद नहीं, नुकसानदेह नहीं, तेजी से और देर से नहीं।</string>
+    //when it rains
+    <string name="text_it_rains_1" translatable="false">हे अल्लाह, लाभकारी वर्षा वाले बादल लाओ।</string>
+    //after rainfall
+    <string name="text_after_rainfall_1" translatable="false">अल्लाह की कृपा और दया से हमें बारिश दी गई है।</string>
+    <string name="text_after_rainfall_2" translatable="false">हे अल्लाह, लाभकारी वर्षा वाले बादल लाओ।</string>
+    <string name="text_after_rainfall_3" translatable="false">हे अल्लाह, इसे हम से गुज़र जाने दो और हम पर नहीं, बल्कि पहाड़ियों और पर्वतों पर, और घाटियों के केंद्र में, और जंगली ज़मीनों पर गिरो।</string>
+    //Upon hearing thunder
+    <string name="text_hearing_thunder_1" translatable="false">महिमा उसी की है जिस के भय से गरजते और स्वर्गदूत महिमा करते हैं।</string>
+    //During a windstorm
+    <string name="text_a_windstorm_1" translatable="false">ऐ अल्लाह, मैं तुझसे इसकी भलाई माँगता हूँ और इसकी बुराई के विरुद्ध तेरी शरण माँगता हूँ।</string>
+    //Good ettiquete
+    //For greeting people
+    <string name="text_greeting_people_1" translatable="false">अल्लाह की शांति, दया और आशीर्वाद आप पर हो</string>
+    //When responding to Salam
+    <string name="text_to_Salam_1" translatable="false">वअलैकुम अस्सलाम वा रहमतुल्लाहि वा बरकातुह</string>
+    //For thanking someone
+    <string name="text_thanking_someone_1" translatable="false">अल्लाह तुम्हें अच्छाई से पुरस्कृत करे।</string>
+    //upon hearing someone sneeze
+    <string name="text_someone_sneeze_1" translatable="false">अल्लाह आप पर रहम करे</string>
+    //Upon sneezing
+    <string name="text_Upon_sneezing_1" translatable="false">सारी प्रशंसा अल्लाह के लिए है।</string>
+    //Sneezers replies back
+    <string name="text_replies_back_1" translatable="false">अल्लाह आपका मार्गदर्शन करे और आपकी हालत सुधारे।</string>
+    //At the end of a Gathering/Majlis
+    <string name="text_a_Gathering_1" translatable="false">हे अल्लाह, महिमा तेरी ही है, और प्रशंसा भी तेरी ही है। मैं गवाही देता हूं कि तेरे सिवा कोई पूज्य नहीं। मैं आपसे क्षमा चाहता हूं और आपसे पश्चाताप करता हूं।</string>
+    //When entering market
+    <string name="text_entering_market_1" translatable="false">अल्लाह के सिवा कोई रब नहीं। वह एक है और उसका कोई साझीदार नहीं है। उसी का राज्य है और उसी के लिये सारी स्तुतियाँ हैं। वह जीवन देता है और मृत्यु देता है। वह शाश्वत और शाश्वत है, उसके नियंत्रण में अच्छाई है, और उसे हर चीज़ पर अधिकार है।</string>
+    //When someone praises you
+    <string name="text_praises_you_1" translatable="false">हे अल्लाह, वे जो कहते हैं उसका हिसाब मुझसे न मांगो और जिस बात का उन्हें ज्ञान नहीं उसके लिए मुझे क्षमा करो [और मुझे उनकी कल्पना से भी बेहतर बनाओ]।</string>
+
+    //decision / guidance
+    //For Istikhara
+    <string name="text_For_Istikhara_1" translatable="false">हे अल्लाह, मैं आपके ज्ञान की सलाह चाहता हूं, और मैं आपकी सर्वशक्तिमानता की मदद चाहता हूं, और मैं आपसे आपकी शानदार कृपा की प्रार्थना करता हूं। निःसंदेह, आप सक्षम हैं और मैं नहीं। तुम जानते हो और मैं नहीं जानता, और तुम परोक्ष को जानने वाले हो। हे अल्लाह, यदि तू जानता है कि यह मामला [तो निर्णय की जाने वाली बात का उल्लेख करें] मेरे लिए मेरे धर्म में और मेरे जीवन में और आने वाले जीवन में मेरे कल्याण के लिए अच्छा है, - [या कहें: इस जीवन में और उसके बाद के जीवन में ] - फिर इसे मेरे लिए व्यवस्थित करें और इसे मेरे लिए आसान बनाएं, फिर इसमें मुझे आशीर्वाद दें। और यदि आप जानते हैं कि यह मामला मेरे धर्म और मेरे जीवन में मेरे लिए बुरा है और आने वाले जीवन में मेरे कल्याण के लिए है, - [या कहें: इस जीवन में और उसके बाद के जीवन में] - तो इसे मुझसे दूर कर दें, और मुझे दूर कर दें उसमें से, और जहां कहीं भी अच्छा हो, मेरे लिये ठहरा दे, और उस पर सन्तुष्ट रहने में मेरी सहायता कर। जो कोई सृष्टिकर्ता की सलाह लेगा, उसे पछतावा नहीं होगा और जो कोई ईमानवालों की सलाह लेगा, वह अपने निर्णयों के बारे में आश्वस्त महसूस करेगा। अल्लाह ने कुरान में कहा: "और मामले में उनसे सलाह करो। फिर जब तुम कोई निर्णय ले लो, तो अल्लाह पर भरोसा रखो।"</string>
+    //For Justice
+    <string name="text_For_Justice_1" translatable="false">हमारे प्रभु! आप हमारे और हमारे लोगों के बीच सच्चाई से फैसला करें, क्योंकि आप निर्णय लेने के लिए सर्वश्रेष्ठ हैं।</string>
+    //Seek Allah's guidance
+    <string name="text_guidance_1" translatable="false">अल्लाह की स्तुति करो, जिसने हमें इस ओर मार्गदर्शन किया; और यदि अल्लाह हमें मार्ग न दिखाता तो हम कदापि मार्गदर्शित न होते।</string>
+    <string name="text_guidance_2" translatable="false">अल्लाह सबसे अच्छा संरक्षक है, और वह दयालु लोगों में भी सबसे अधिक दयालु है।</string>
+    //Seek Allah's satisfaction
+    <string name="text_satisfaction_2" translatable="false">हमारे प्रभु! हम लोगों को अपनी (इच्छा) के सामने झुकते हुए मुसलमान बनाओ, और हमारी संतानों को अपनी (इच्छा) के सामने झुकते हुए मुसलमान बनाओ; और हमें (उचित) संस्कारों के उत्सव के लिए हमारा स्थान दिखाओ; और हमारी ओर फिरो (दया में); क्योंकि तू बारम्बार लौटनेवाला, अत्यन्त दयालु है।</string>
+    //For success
+    <string name="text_for_success_1" translatable="false">मेरी सफलता अल्लाह के माध्यम से नहीं है. मैं ने उस पर भरोसा रखा है, और उसी की ओर मैं लौट आया हूं।</string>
+    //strengthen your imaan
+    <string name="text_your_imaan_1" translatable="false">मेरी सफलता अल्लाह के माध्यम से नहीं है. मैं ने उस पर भरोसा रखा है, और उसी की ओर मैं लौट आया हूं।</string>
+    <string name="text_your_imaan_2" translatable="false">मैं अल्लाह को एक भगवान के रूप में, इस्लाम को एक धर्म के रूप में और मुहम्मद को पैगंबर के रूप में शांति प्रदान करने से प्रसन्न हूं। (तीन बार)</string>
+    <string name="text_your_imaan_3" translatable="false">मैं अल्लाह की शरण चाहता हूं।</string>
+    <string name="text_your_imaan_4" translatable="false">मैं अल्लाह और उसके दूत पर विश्वास करता हूं।</string>
+    <string name="text_your_imaan_5" translatable="false">हमारे प्रभु! हमारे दिल (सच्चाई से) विचलित न हों, इसके बाद कि आपने हमें मार्गदर्शन दिया है, और हमें अपनी ओर से दया प्रदान करें। बरोबर आप दाता हैं।</string>
+
+    <string name="text_book_mark_duas" translatable="false">बुकमार्क - डुआस</string>
+    <string name="text_book_mark_azkar" translatable="false">बुकमार्क - अज़कर</string>
+    <string name="text_book_mark_quran" translatable="false">बुकमार्क</string>
+    <string name="text_ayah" translatable="false">अयाह</string>
+    <string name="text_islam_map" translatable="false">इस्लाम मानचित्र</string>
+    <string name="text_islam_map2" translatable="false">आसपास की मस्जिदें</string>
+    <string name="text_islam_map3" translatable="false">आसपास के रेस्तरां</string>
+    <string name='text_islam_map4' translatable='false'>आस-पास के हलाल रेस्तरां</string>
+    <string name='text_days' translatable='false'>दिन</string>
+    <string name="text_day" translatable="false">दिन</string>
+    <string name="text_no_wifi" translatable="false">कोई वाईफ़ाई कनेक्शन नहीं</string>
+    <string name="text_no_wifi2" translatable="false">कृपया इस ऐप की सभी सुविधाओं का उपयोग करने के लिए वाईफाई से कनेक्ट करें</string>
+    <string name="text_connect" translatable="false">जोड़ना</string>
+    <string name="text_calculation_method" translatable="false">गणना विधि</string>
+    <string name="text_default_font" translatable="false">मूलभूत अक्षर</string>
+    <string name="text_uthmanic_hafs" translatable="false">उथमनिक हफ़्स</string>
+    <string name="text_qibla" translatable="false">किबला</string>
+    <string name="text_pray_now" translatable="false">अभी प्रार्थना करो</string>
+    <string name="text_praying_time_adj" translatable="false">प्रार्थना के समय का समायोजन</string>
+    <string name="text_All" translatable="false">सभी</string>
+    <string name="text_Fajrl" translatable="false">फज्र</string>
+    <string name="text_Sunrise" translatable="false">सूर्योदय</string>
+    <string name="text_Dhuhr" translatable="false">धुहर</string>
+    <string name="text_Asr" translatable="false">अस्र</string>
+    <string name="text_Maghrib" translatable="false">मग़रिब</string>
+    <string name="text_Isha" translatable="false">ईशा</string>
+    <string name="text_Inaccurate" translatable="false">ग़लत स्थान? मेरे लिए टैप करें</string>
+    <string name="text_feedback" translatable="false">प्रतिक्रिया</string>
+    <string name="text_Notification" translatable="false">अधिसूचना</string>
+    <string name="text_Vibrate" translatable="false">कंपन</string>
+    <string name="Fajr" translatable="false">फज्र</string>
+    <string name="Sunrise" translatable="false">सूर्योदय</string>
+    <string name="Dhuhr" translatable="false">धुहर</string>
+    <string name="Asr" translatable="false">अस्र</string>
+    <string name="Maghrib" translatable="false">मग़रिब</string>
+    <string name="Isha" translatable="false">ईशा</string>
+    <string name="text_minute" translatable="false">मिनट</string>
+    <string name="text_minutes" translatable="false">मिनट</string>
+    <string name="text_share_reminder" translatable="false">अनुस्मारक साझा करें</string>
+    <string name="text_Min" translatable="false">मिन</string>
+    <string name="text_Next_prayer_in" translatable="false">अगली प्रार्थना:</string>
+    <string name="text_Pre_Notification" translatable="false">पूर्व अधिसूचना</string>
+    <string name="text_Hanafi" translatable="false">हनाफी</string>
+    <string name="text_Shafi_Maliki_Hanbali" translatable="false">शफी/मलिकी/हनबली</string>
+    <string name="text_Widget" translatable="false">विजेट</string>
+    <string name="text_Convenient" translatable="false">सुविधाजनक</string>
+    <string name="text_Pray_anytime" translatable="false">कभी भी, कहीं भी प्रार्थना करें।\n चाहे आप कहीं भी हों, अपने विश्वास से जुड़ें</string>
+    <string name="text_intro1" translatable="false">प्रार्थना के समय की उलटी गिनती &amp; अनुस्मारक</string>
+    <string name="text_intro2" translatable="false">अपनी प्रार्थना के समय पर ध्यान देने में आपकी सहायता करें \n कोई भी दैनिक प्रार्थना न चूकें</string>
+    <string name="text_intro3" translatable="false">आपकी आध्यात्मिक और पाक यात्रा के लिए सही मार्गदर्शक</string>
+    <string name="text_Prayer_Time" translatable="false">प्रार्थना का समय</string>
+    <string name="text_share_image" translatable="false">चित्र साझा करें</string>
+    <string name="text_translation" translatable="false">अनुवाद:</string>
+    <string name="text_tap_to_test" translatable="false">ध्वनि प्रभाव का परीक्षण करने के लिए टैप करें</string>
+    <string name="text_Sound_Setting" translatable="false">ध्वनि सेटिंग</string>
+    <string name="text_Page_Background" translatable="false">पृष्ठ की पृष्ठभूमि</string>
+    <string name="text_Pre_Adhan_reminder" translatable="false">पूर्व-अज़ान अनुस्मारक</string>
+    <string name="text_all_the_setting" translatable="false">नीचे दी गई सभी सेटिंग्स डुआस और amp के लिए भी लागू की जाएंगी; अज़कर</string>
+    <string name="text_next_prayer" translatable="false">अगली प्रार्थना</string>
+    <string name="text_coming_prayers" translatable="false">आगामी प्रार्थनाएँ</string>
+    // Daily Dhikr
+    // Darood-e-ibraheemi
+    <string name="text_e_ibraheemi_1" translatable="false">हे अल्लाह, मुहम्मद और मुहम्मद के परिवार पर अपना अनुग्रह प्रदान करें जैसे आपने इब्राहिम और इब्राहिम के परिवार पर अपना अनुग्रह प्रदान किया है, आप प्रशंसनीय, सबसे गौरवशाली हैं। हे अल्लाह, मुहम्मद और मुहम्मद के परिवार को आशीर्वाद दो जैसे तुमने इब्राहिम और इब्राहिम के परिवार को आशीर्वाद दिया है, तुम प्रशंसनीय, सबसे गौरवशाली हो।</string>
+    //after salah (preyer) tasbeeh
+    <string name="text_tasbeeh_1" translatable="false">अल्लाह की बड़ाई हो, अल्लाह की बड़ाई हो, अल्लाह सबसे बड़ा है</string>
+    //everyday duas
+    <string name="text_duas_1" translatable="false">हे अल्लाह, मैं तुझसे ऐसा ज्ञान माँगता हूँ जो लाभदायक हो, एक अच्छा रोज़ी हो, और ऐसे कर्म माँगता हूँ जो स्वीकार किए जाएँ।</string>
+    <string name="text_duas_2" translatable="false">ऐ अल्लाह, मैं तुझसे जन्नत माँगता हूँ और आग से तेरी हिफ़ाज़त चाहता हूँ।</string>
+    <string name="text_duas_3" translatable="false">महिमा अल्लाह की है, प्रशंसा अल्लाह की है, अल्लाह सबसे महान है!</string>
+    <string name="text_duas_4" translatable="false">तेरे सिवा कोई उपासना के योग्य नहीं, महिमा तेरी ही है। निस्संदेह, मैं ज़ालिमों में से था।</string>
+    //before starting anything
+    <string name="text_starting_anything_1" translatable="false">अल्लाह के नाम पर, जो अत्यंत दयालु है, विशेष रूप से दयालु है।</string>
+    //for this word and the aakhira
+    <string name="text_the_aakhira_1" translatable="false">हमारे प्रभु! हमें इस दुनिया में जो अच्छा है और आख़िरत में जो अच्छा है वह दे और हमें आग की यातना से बचा ले!</string>
+    <string name="text_the_aakhira_2" translatable="false">ऐ हमारे रब, तू लोगों को ऐसे दिन के लिए इकट्ठा करेगा जिसके बारे में कोई संदेह नहीं। निस्संदेह, अल्लाह अपने वादे से चूकता नहीं।</string>
+    //reward of one-third of quran
+    ////Daily Rememberence
+    //morning rememberence
+    <string name="text_morning_rememberence_1" translatable="false">हम सुबह तक पहुँच चुके हैं और इस समय सारी प्रभुता अल्लाह की है, और सारी प्रशंसा अल्लाह के लिए है। अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है, अकेले, बिना किसी साथी के, उसी के लिए सारी संप्रभुता और प्रशंसा है और वह सभी चीजों पर सर्वशक्तिमान है। मेरे भगवान, मैं आपसे इस दिन की भलाई और इसके बाद आने वाली बुराई के लिए प्रार्थना करता हूं और मैं इस दिन की बुराई और इसके बाद की बुराई से आपकी शरण लेता हूं। मेरे प्रभु, मैं आलस्य और बुढ़ापे से आपकी शरण लेता हूँ। मेरे रब, मैं आग की यातना और कब्र की यातना से तेरी शरण लेता हूँ।</string>
+    <string name="text_morning_rememberence_2" translatable="false">ऐ अल्लाह, तेरी इजाजत से हम सुबह तक पहुंचे और तेरी इजाजत से हम शाम तक पहुंचे, तेरी इजाजत से हम जीते और मरते हैं और तेरी ही तरफ हमारा पुनरुत्थान है।</string>
+    <string name="text_morning_rememberence_3" translatable="false">हे अल्लाह, आप मेरे भगवान हैं, आपके अलावा किसी को भी पूजा करने का अधिकार नहीं है, आपने मुझे बनाया और मैं आपका सेवक हूं और मैं आपकी वाचा का पालन करता हूं और जितना संभव हो सके वादा करता हूं, मैं आपकी शरण लेता हूं जिससे मैं बुराई से बच सकता हूं प्रतिबद्ध है। मैं अपने ऊपर आपके उपकार को स्वीकार करता हूं और अपने पाप को भी स्वीकार करता हूं, इसलिए मुझे क्षमा कर दीजिए, क्योंकि आपके अतिरिक्त कोई भी पाप को क्षमा नहीं कर सकता।</string>
+    <string name="text_morning_rememberence_4" translatable="false">हे अल्लाह, वास्तव में मैं सुबह तक पहुँच गया हूँ और तुम्हें, तुम्हारे सिंहासन के धारकों, तुम्हारे कोणों को, और तुम्हारी सारी सृष्टि को गवाही देने के लिए बुलाता हूँ कि तुम अल्लाह हो, तुम्हारे अलावा किसी को भी पूजा करने का अधिकार नहीं है, अकेले, बिना साथी के और कि मुहम्मद आपके सेवक और दूत हैं। (चार बार)।</string>
+    <string name="text_morning_rememberence_5" translatable="false">ऐ अल्लाह, मैं या तेरी मखलूक में से जो भी आशीर्वाद प्राप्त हुआ है, वह केवल तुझी से है, बिना साझीदार के, अतः सारी प्रशंसा और धन्यवाद भी तुझी के लिए है।</string>
+    <string name="text_morning_rememberence_6" translatable="false">हे अल्लाह, मेरे शरीर को स्वास्थ्य प्रदान करो, हे अल्लाह, मेरे सुनने को स्वास्थ्य प्रदान करो, हे अल्लाह, मेरी दृष्टि को स्वास्थ्य प्रदान करो। तेरे सिवा किसी को इबादत का हक़ नहीं। आपके अतिरिक्त किसी को भी पूजा का अधिकार नहीं है। (तीन बार)</string>
+    <string name="text_morning_rememberence_7" translatable="false">मेरे लिए अल्लाह काफ़ी है, उसके सिवा किसी को इबादत का हक़ नहीं, मैं उस पर भरोसा करता हूँ और वह ऊंचे सिंहासन का रब है। (सुबह और शाम सात बार)</string>
+    <string name="text_morning_rememberence_8" translatable="false">मैं उस बुराई से बचने के लिए अल्लाह के उत्तम शब्दों की शरण लेता हूँ जो उसने पैदा की है। (शाम को तीन बार)</string>
+    <string name="text_morning_rememberence_9" translatable="false">हे अल्लाह, मैं आपसे इस जीवन और अगले जीवन में क्षमा और कल्याण की प्रार्थना करता हूं। हे अल्लाह, मैं आपसे अपने धार्मिक और सांसारिक मामलों, और अपने परिवार और अपनी संपत्ति के लिए क्षमा और कल्याण की प्रार्थना करता हूं। हे अल्लाह, मेरी कमज़ोरियों पर परदा डाल दे और मेरी निराशा को दूर कर दे। ऐ अल्लाह, मुझे आगे से, पीछे से, दाएँ, बाएँ और ऊपर से बचा, और मैं अपनी पनाह लेता हूँ, ऐसा न हो कि ज़मीन में समा जाऊँ।</string>
+    <string name="text_morning_rememberence_10" translatable="false">ऐ अल्लाह, परोक्ष और प्रत्यक्ष को जानने वाला, आकाशों और धरती का रचयिता, हर चीज़ का स्वामी और प्रभु, मैं गवाही देता हूँ कि तेरे सिवा किसी को भी इबादत का अधिकार नहीं है। मैं अपनी आत्मा की बुराई से और शैतान की बुराई और शिर्क से, और अपनी आत्मा के विरुद्ध अत्याचार करने या किसी अन्य मुसलमान पर अत्याचार करने से तेरी शरण लेता हूँ।</string>
+    <string name="text_morning_rememberence_11" translatable="false">अल्लाह के नाम पर जिसके नाम से न धरती पर और न आसमान में किसी चीज़ को नुकसान पहुँचाया जाता है और वह सब कुछ देखने वाला, सब कुछ जानने वाला है। (तीन बार)</string>
+    <string name="text_morning_rememberence_12" translatable="false">मैं अल्लाह को एक भगवान के रूप में, इस्लाम को एक धर्म के रूप में और मुहम्मद को पैगंबर के रूप में शांति प्रदान करने से प्रसन्न हूं। (तीन बार)</string>
+    <string name="text_morning_rememberence_13" translatable="false">अल्लाह कितना परिपूर्ण है और मैं उसकी रचना की संख्या और उसकी प्रसन्नता, और उसके सिंहासन के वजन और उसके शब्दों की स्याही से उसकी प्रशंसा करता हूं। (तीन बार)</string>
+    <string name="text_morning_rememberence_14" translatable="false">अल्लाह कितना परिपूर्ण है और मैं उसकी प्रशंसा करता हूं। (सौ बार)</string>
+    <string name="text_morning_rememberence_15" translatable="false">हे सर्वदा जीवित, हे आत्म-निर्भर और सभी के समर्थक, आपकी दया से मैं सहायता चाहता हूं, मेरे लिए मेरे सभी मामलों को सुधारता हूं और मुझे पलक झपकने के लिए भी मेरे हाल पर नहीं छोड़ता।</string>
+    <string name="text_morning_rememberence_16" translatable="false">अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है, अकेले, बिना किसी साथी के, उसी के लिए सारी संप्रभुता और प्रशंसा है, और वह सभी चीज़ों पर सर्वशक्तिमान है। (सौ बार)</string>
+    <string name="text_morning_rememberence_17" translatable="false">हम सुबह तक पहुँच चुके हैं और इस समय सारी संप्रभुता सारे संसार के स्वामी अल्लाह की है। हे अल्लाह, मैं तुझसे इस दिन की भलाई, इसकी विजय और इसकी जीत, इसकी रोशनी और इसका आशीर्वाद और इसका मार्गदर्शन मांगता हूं, और मैं इस दिन की बुराई और इसके बाद आने वाली बुराई से तेरी शरण लेता हूं।</string>
+    //evening rememberence
+    <string name="text_evening_rememberence_1" translatable="false">हम शाम तक पहुँच चुके हैं और इस समय सारी प्रभुता अल्लाह की है, और सारी प्रशंसा अल्लाह के लिए है। अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है, अकेले, बिना किसी साथी के, उसी के लिए सारी संप्रभुता और प्रशंसा है और वह सभी चीजों पर सर्वशक्तिमान है। मेरे रब, मैं तुझसे इस रात की भलाई और इसके बाद होने वाली भलाई के लिए प्रार्थना करता हूं और मैं इस रात की बुराई और इसके बाद होने वाली बुराई से तेरी शरण लेता हूं। मेरे प्रभु, मैं आलस्य और बुढ़ापे से आपकी शरण लेता हूँ। मेरे रब, मैं आग की यातना और कब्र की यातना से तेरी शरण लेता हूँ।</string>
+    <string name="text_evening_rememberence_2" translatable="false">ऐ अल्लाह, तेरी इजाजत से हम शाम तक पहुँचे हैं और तेरी इजाजत से हम सुबह तक पहुँचे हैं, तेरी इजाजत से हम जीते हैं और मरते हैं और तेरी ही तरफ हमारी वापसी है।</string>
+    <string name="text_evening_rememberence_3" translatable="false">हे अल्लाह, आप मेरे भगवान हैं, आपके अलावा किसी को भी पूजा करने का अधिकार नहीं है, आपने मुझे बनाया और मैं आपका सेवक हूं और मैं आपकी वाचा का पालन करता हूं और जितना संभव हो सके वादा करता हूं, मैं आपकी शरण लेता हूं जिससे मैं बुराई से बच सकता हूं प्रतिबद्ध है। मैं अपने ऊपर आपके उपकार को स्वीकार करता हूं और अपने पाप को भी स्वीकार करता हूं, इसलिए मुझे क्षमा कर दीजिए, क्योंकि आपके अतिरिक्त कोई भी पाप को क्षमा नहीं कर सकता।</string>
+    <string name="text_evening_rememberence_4" translatable="false">हे अल्लाह, हम शाम तक पहुँच चुके हैं, तुम्हें गवाही देने के लिए बुला रहे हैं, और तुम्हारे सिंहासन के वाहकों को, और तुम्हारे फ़रिश्तों को, और तुम्हारी सारी सृष्टि को गवाही दे रहे हैं, कि तुम अल्लाह हो, तुम्हारे अलावा किसी को भी पूजा करने का अधिकार नहीं है, अकेले, बिना किसी साथी के, और वह मुहम्मद (S.A.W.) आपका गुलाम और आपका दूत है।</string>
+    <string name="text_evening_rememberence_5" translatable="false">ऐ अल्लाह, मैं या तेरी मखलूक में से जो भी आशीर्वाद प्राप्त हुआ है, वह केवल तुझी से है, बिना साझीदार के, अतः सारी प्रशंसा और धन्यवाद भी तुझी के लिए है।</string>
+    <string name="text_evening_rememberence_6" translatable="false">हे अल्लाह, मेरे शरीर को स्वास्थ्य प्रदान करो, हे अल्लाह, मेरे सुनने को स्वास्थ्य प्रदान करो, हे अल्लाह, मेरी दृष्टि को स्वास्थ्य प्रदान करो। तेरे सिवा किसी को इबादत का हक़ नहीं। आपके अतिरिक्त किसी को भी पूजा का अधिकार नहीं है। (तीन बार)</string>
+    <string name="text_evening_rememberence_7" translatable="false">मेरे लिए अल्लाह काफ़ी है, उसके सिवा किसी को इबादत का हक़ नहीं, मैं उस पर भरोसा करता हूँ और वह ऊंचे सिंहासन का रब है। (सुबह और शाम सात बार)</string>
+    <string name="text_evening_rememberence_8" translatable="false">मैं उस बुराई से बचने के लिए अल्लाह के उत्तम शब्दों की शरण लेता हूँ जो उसने पैदा की है। (शाम को तीन बार)</string>
+    <string name="text_evening_rememberence_9" translatable="false">हे अल्लाह, मैं आपसे इस जीवन और अगले जीवन में क्षमा और कल्याण की प्रार्थना करता हूं। हे अल्लाह, मैं आपसे अपने धार्मिक और सांसारिक मामलों, और अपने परिवार और अपनी संपत्ति के लिए क्षमा और कल्याण की प्रार्थना करता हूं। हे अल्लाह, मेरी कमज़ोरियों पर परदा डाल दे और मेरी निराशा को दूर कर दे। ऐ अल्लाह, मुझे आगे से, पीछे से, दाएँ, बाएँ और ऊपर से बचा, और मैं अपनी पनाह लेता हूँ, ऐसा न हो कि ज़मीन में समा जाऊँ।</string>
+    <string name="text_evening_rememberence_10" translatable="false">ऐ अल्लाह, परोक्ष और प्रत्यक्ष को जानने वाला, आकाशों और धरती का रचयिता, हर चीज़ का स्वामी और प्रभु, मैं गवाही देता हूँ कि तेरे सिवा किसी को भी इबादत का अधिकार नहीं है। मैं अपनी आत्मा की बुराई से और शैतान की बुराई और शिर्क से, और अपनी आत्मा के विरुद्ध अत्याचार करने या किसी अन्य मुसलमान पर अत्याचार करने से तेरी शरण लेता हूँ।</string>
+    <string name="text_evening_rememberence_11" translatable="false">अल्लाह के नाम पर जिसके नाम से न धरती पर और न आसमान में किसी चीज़ को नुकसान पहुँचाया जाता है और वह सब कुछ देखने वाला, सब कुछ जानने वाला है। (तीन बार)</string>
+    <string name="text_evening_rememberence_12" translatable="false">मैं अल्लाह को एक भगवान के रूप में, इस्लाम को एक धर्म के रूप में और मुहम्मद को पैगंबर के रूप में शांति प्रदान करने से प्रसन्न हूं। (तीन बार)</string>
+    <string name="text_evening_rememberence_13" translatable="false">अल्लाह कितना परिपूर्ण है और मैं उसकी रचना की संख्या और उसकी प्रसन्नता, और उसके सिंहासन के वजन और उसके शब्दों की स्याही से उसकी प्रशंसा करता हूं। (तीन बार)</string>
+    <string name="text_evening_rememberence_14" translatable="false">अल्लाह कितना परिपूर्ण है और मैं उसकी प्रशंसा करता हूं। (सौ बार)</string>
+    <string name="text_evening_rememberence_15" translatable="false">हे सर्वदा जीवित, हे आत्म-निर्भर और सभी के समर्थक, आपकी दया से मैं सहायता चाहता हूं, मेरे लिए मेरे सभी मामलों को सुधारता हूं और मुझे पलक झपकने के लिए भी मेरे हाल पर नहीं छोड़ता।</string>
+    <string name="text_evening_rememberence_16" translatable="false">अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है, अकेले, बिना किसी साथी के, उसी के लिए सारी संप्रभुता और प्रशंसा है, और वह सभी चीज़ों पर सर्वशक्तिमान है। (सौ बार)</string>
+    <string name="text_evening_rememberence_17" translatable="false">हम सुबह तक पहुँच चुके हैं और इस समय सारी संप्रभुता सारे संसार के स्वामी अल्लाह की है। हे अल्लाह, मैं तुझसे इस दिन की भलाई, इसकी विजय और इसकी जीत, इसकी रोशनी और इसका आशीर्वाद और इसका मार्गदर्शन मांगता हूं, और मैं इस दिन की बुराई और इसके बाद आने वाली बुराई से तेरी शरण लेता हूं।</string>
+    //After Prayers
+    //after salah (prayer) tasbeeh
+
+    //after prayer remembrances
+    <string name="text_remembrances_1" translatable="false">मैं अल्लाह से माफ़ी मांगता हूं। (तीन बार) हे अल्लाह, आप अस-सलाम हैं और आपसे सारी शांति है, आप धन्य हैं, हे महिमा और सम्मान के स्वामी। कमियाँ.</string>
+    <string name="text_remembrances_2" translatable="false">अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है, अकेले, बिना किसी भागीदार के, सारी संप्रभुता और प्रशंसा उसी की है और वह सभी चीजों पर सर्वशक्तिमान है। रोकना, और कोई धन या ऐश्वर्य किसी का भला नहीं कर सकता, क्योंकि सारा धन और ऐश्वर्य तुझ ही से है।</string>
+    <string name="text_remembrances_3" translatable="false">अल्लाह कितना परिपूर्ण है, सारी प्रशंसा अल्लाह के लिए है, और अल्लाह सबसे बड़ा है। सभी चीजें सर्वशक्तिमान.</string>
+    <string name="text_remembrances_4" translatable="false">कहो: वह अल्लाह है, (वह) एक, अल्लाहुस-समद (आत्मनिर्भर गुरु, जिसकी सभी प्राणियों को आवश्यकता है, वह न खाता है और न पीता है)। वह न तो उत्पन्न हुआ, और न ही वह उत्पन्न हुआ था; और उसके बराबर या तुलनीय कोई नहीं है। [अल-इखलास] कहो: मैं (अल्लाह) सुबह के भगवान की शरण चाहता हूं, जो कुछ उसने बनाया है उसकी बुराई से; और अँधेरे (रात) की बुराई से, जैसा कि उसके अँधेरे के साथ आता है; (या चंद्रमा जब अस्त होता है या चला जाता है)। और टोने की बुराई से जब वे गांठें फोड़ते हैं, और ईर्ष्या करनेवाले की बुराई से जब वह डाह करता है। [अल-फ़लक] कहो: मैं मानव जाति के स्वामी (अल्लाह), मानव जाति के राजा, मानव जाति के इलाह (ईश्वर), कानाफूसी करने वालों की बुराई से (शैतान जो मनुष्यों के दिलों में बुराई फुसफुसाता है) की शरण लेता हूँ। , जो (अल्लाह को याद करने के बाद अपने दिल में फुसफुसाहट से) दूर हो जाता है, जो मानव जाति, जिन्नों और पुरुषों के सीने में फुसफुसाहट करता है। [अन-नास] सुबह और शाम की प्रार्थना के बाद, 3 बार। अन्य प्रार्थनाओं के बाद 1 बार।</string>
+    <string name="text_remembrances_5" translatable="false">अल्लाह! उसके अलावा कोई भी पूजा के योग्य नहीं है, वह सदैव जीवित है, जो अस्तित्व में मौजूद सभी चीजों का पालन-पोषण और रक्षा करता है। न तो तंद्रा और न ही निद्रा उस पर हावी होती है। उसी का है जो कुछ आकाशों में है और जो कुछ धरती पर है। वह कौन है जो उसकी अनुमति के बिना उसके साथ सिफ़ारिश कर सकता है? वह जानता है कि इस दुनिया में उनके साथ क्या होगा और आख़िरत में उनके साथ क्या होगा। और वे उसके ज्ञान में से किसी भी चीज़ को नज़रअंदाज़ नहीं करेंगे सिवाय उसके जो वह चाहेगा। उसका सिंहासन आकाश और पृथ्वी तक फैला हुआ है, और वह उनकी रक्षा और संरक्षण करने में कोई थकान महसूस नहीं करता है। और वह परमप्रधान, परम महान है।</string>
+    <string name="text_remembrances_6" translatable="false">अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है, अकेले, बिना किसी साथी के, उसी के लिए सारी संप्रभुता और प्रशंसा है, वह जीवन देता है और मृत्यु देता है और वह सभी चीजों पर सर्वशक्तिमान है। (मग़रिब और फ़ज्र की नमाज़ के बाद दस बार)</string>
+    <string name="text_remembrances_7" translatable="false">ऐ अल्लाह, मैं तुझसे ज्ञान माँगता हूँ जो लाभदायक हो, और जीविका जो अच्छी हो, और ऐसे कर्म माँगता हूँ जो स्वीकार्य हों। (फज्र की नमाज़ के लिए सलाम देने के बाद कहा जाने वाला)</string>
+    //offer salah regularly
+    <string name="text_regularly_1" translatable="false">निस्संदेह, मेरा रब दुआ सुननेवाला है। मेरे रब, मुझे और मेरे वंशजों में से बहुतों को नमाज़ स्थापित करने वाला बना। हमारे भगवान, और मेरी प्रार्थना स्वीकार करो।</string>
+
+
+    //Rizq (Sustenance)
+    //for rizq (sustenance)
+    <string name="text_rizq_1" translatable="false">हे अल्लाह, मैं तुझसे ऐसा ज्ञान माँगता हूँ जो लाभदायक हो, एक अच्छा रोज़ी हो, और ऐसे कर्म माँगता हूँ जो स्वीकार किए जाएँ।</string>
+    <string name="text_rizq_2" translatable="false">हे अल्लाह मुझे माफ कर दो, मुझ पर दया करो, मेरा मार्गदर्शन करो, मेरा समर्थन करो, मेरी रक्षा करो, मेरा भरण-पोषण करो और मुझे ऊपर उठाओ।</string>
+    <string name="text_rizq_3" translatable="false">हे अल्लाह, मैं तेरी कृपा माँगता हूँ।</string>
+    <string name="text_rizq_4" translatable="false">अल्लाह अपने बंदों के प्रति बहुत दयालु और दयालु है। वह जिसे चाहता है प्रावधान देता है। और वह सर्वशक्तिमान, सर्वशक्तिमान है।</string>
+    <string name="text_rizq_5" translatable="false">हे अल्लाह हमारे भगवान! हमें स्वर्ग से एक मेज़ का सेट (विंड के साथ) भेजो, ताकि वह हमारे लिए हो - हम में से पहले और आखिरी के लिए - एक गंभीर त्योहार और आपकी ओर से एक संकेत; और हमारा भरण-पोषण कर, क्योंकि तू (हमारी आवश्यकताओं का) सर्वोत्तम पालनकर्ता है।</string>
+    //when you are in need
+    <string name="text_need_1" translatable="false">मेरे नाथ! सचमुच, आप मुझे जो कुछ भी अच्छा देते हैं, मुझे उसकी ज़रूरत है!</string>
+    //for forgiveness and allah’s mercy
+    <string name="text_allah_mercy_1" translatable="false">(हे मेरे भगवान) आप हमारे रक्षक हैं, इसलिए हमें क्षमा करें और हम पर दया करें; और तुम क्षमा करने वालों में सर्वोत्तम हो। और हमारे लिए इस दुनिया और आख़िरत में भलाई की व्यवस्था करो। निःसन्देह हम तेरी ओर फिरे हैं।</string>
+    <string name="text_allah_mercy_2" translatable="false">मेरे नाथ! क्षमा करो और दया करो, क्योंकि तुम दया करने वालों में सर्वश्रेष्ठ हो!</string>
+    <string name="text_allah_mercy_3" translatable="false">हमारे प्रभु! हमने अपनी आत्माओं पर अत्याचार किया है: यदि तू हमें क्षमा नहीं करेगा और हमें अपनी दया नहीं देगा, तो हम निश्चित रूप से नष्ट हो जायेंगे।</string>
+    <string name="text_allah_mercy_4" translatable="false">हमारे प्रभु! हमें अपनी ओर से दया प्रदान करें, और हमारे मामले को सही तरीके से हमारे लिए निपटाएं!</string>
+    <string name="text_allah_mercy_5" translatable="false">हमारे प्रभु! हम ईमान लाए, इसलिए हमें माफ कर दो और हम पर रहम करो, क्योंकि तुम सबसे अच्छे हो जो रहम करते हो!</string>
+    //for praising allah
+    <string name="text_praising_allah_1" translatable="false">ओ अल्लाह! राज्य के स्वामी, तू जिसे चाहता है राज्य देता है, और जिस से चाहता है राज्य ले लेता है, और जिसे चाहता है उसका आदर करता है, और जिसे चाहता है उसे अपमानित करता है। आपके हाथ में अच्छा है. सचमुच, तू सब कुछ करने में समर्थ है। तू रात को दिन में प्रविष्ट कराता है, और दिन को रात में प्रविष्ट कराता है (अर्थात जाड़े और गर्मी में रात और दिन के घण्टों को बढ़ाता और घटाता है), तू जीवित को मरे हुओं में से निकालता है, और तुम मुर्दों को जीवितों में से निकाल लाते हो। और तू जिसे चाहता है, बेहिसाब धन और जीविका देता है।</string>
+    <string name="text_praising_allah_2" translatable="false">अतः अल्लाह की बड़ाई करो [उन सभी (बुराइयों से) ऊपर जो वे उसके साथ जोड़ते हैं], जब तुम शाम को आओ [अर्थात्। (मग़रिब) सूर्यास्त और (\'ईशा\') रात की नमाज़ पढ़ें], और जब आप सुबह में प्रवेश करें [यानी (फज्र) सुबह की नमाज़ पढ़ें]। और आकाशों और धरती में सारी प्रशंसा और धन्यवाद उसी के लिए है, और दोपहर में (उसी की महिमा करो) (अर्थात् अस्र की नमाज़ पढ़ो) और जब तुम उस समय पर आओ, जब दिन ढलने लगे (अर्थात् ज़ुहर की नमाज़ पढ़ो) प्रार्थना)। (इब्न अब्बास ने कहा: "ये कुरान में उल्लिखित पांच अनिवार्य सामूहिक प्रार्थनाएं हैं)।" वह जीवित को मरे हुओं में से निकालता है, और मरे हुओं को जीवित में से निकालता है। और वह धरती को उसकी मृत्यु के बाद पुनर्जीवित करता है। और इस प्रकार तुम्हें बाहर लाया जाएगा (पुनर्जीवित किया जाएगा)।</string>
+    <string name="text_praising_allah_3" translatable="false">महिमामंडित है अल्लाह और प्रशंसा भी उसी की है। महिमामंडित है अल्लाह सबसे महान।</string>
+    <string name="text_praising_allah_4" translatable="false">महिमा अल्लाह के लिए है, और प्रशंसा अल्लाह के लिए है, और अल्लाह के अलावा कोई पूजा के योग्य नहीं है, और अल्लाह सबसे महान है।</string>
+    <string name="text_praising_allah_5" translatable="false">अल्लाह कितना परिपूर्ण है</string>
+    <string name="text_praising_allah_6" translatable="false">अल्लाह के सिवा न कोई शक्ति है और न कोई शक्ति।</string>
+    <string name="text_praising_allah_7" translatable="false">महिमावान वही है जो महानतम है और उसी की प्रशंसा की गई है।</string>
+    <string name="text_praising_allah_8" translatable="false">वह अल्लाह है, जिसके सिवा कोई पूज्य नहीं, परोक्ष और प्रत्यक्ष को जानने वाला है। वह पूर्ण दयालु, विशेष दयालु है। वह अल्लाह है, जिसके अलावा कोई देवता नहीं है, प्रभुत्वशाली, शुद्ध, पूर्ण, विश्वास का दाता, पर्यवेक्षक, शक्तिशाली, सम्मोहक, श्रेष्ठ। जो कुछ भी वे उसका साझीदार बनाते हैं, अल्लाह उससे भी महान है। वह अल्लाह, निर्माता, आविष्कारक, फैशन निर्माता है; सर्वोत्तम नाम उसी के हैं। जो कुछ आकाशों और धरती में है वह उसी की शान बढ़ा रहा है। और वह अत्यंत शक्तिशाली, बुद्धिमान है।</string>
+    <string name="text_praising_allah_9" translatable="false">अल्लाह ने जो चाहा (हो गया), अल्लाह के सिवा कोई शक्ति नहीं।</string>
+    //for success
+    <string name="text_for_success_4" translatable="false">मेरी सफलता अल्लाह के माध्यम से नहीं है. मैं ने उस पर भरोसा रखा है, और उसी की ओर मैं लौट आया हूं।</string>
+    //increase in knowledge
+    <string name="text_knowledge_1" translatable="false">मेरे नाथ! मेरा ज्ञान बढ़ाओ</string>
+    <string name="text_knowledge_2" translatable="false">हे अल्लाह, मैं तुझसे ऐसा ज्ञान माँगता हूँ जो लाभदायक हो, एक अच्छा रोज़ी हो, और ऐसे कर्म माँगता हूँ जो स्वीकार किए जाएँ।</string>
+    <string name="text_knowledge_3" translatable="false">मेरे नाथ! मुझे हुक्ममान (धार्मिक ज्ञान, मामलों का सही निर्णय और पैगम्बरत्व) प्रदान करें और मुझे नेक लोगों के साथ मिला दें। और बाद की पीढ़ियों में मुझे सम्मानजनक उल्लेख प्रदान करें। और मुझे आनन्द के बगीचे के उत्तराधिकारियों में स्थान दो। और मेरे पिता को माफ कर देना. निस्संदेह, वह भटके हुए लोगों में से है। और उस दिन मुझे अपमानित न करना जब (सभी प्राणी) पुनर्जीवित किये जायेंगे। वह दिन जब न माल न औलाद, बल्कि उसी को फायदा होगा जो सच्चे दिल से अल्लाह के पास आएगा।</string>
+    //grant me confidence and eloquence
+    <string name="text_eloquence_1" translatable="false">हे मेरे परमदेव! मेरे लिए अपना सीना खोलो. और मेरे लिए मेरा काम आसान कर दो। और मेरी जीभ की गाँठ खोल दे, कि वे मेरी बातें समझें।"</string>
+    <string name="text_eloquence_2" translatable="false">आपकी जय हो, आपने हमें जो सिखाया है उसके अलावा हमारे पास कोई ज्ञान नहीं है। वास्तव में, वह आप ही हैं, सर्वज्ञ, सर्वज्ञ।</string>
+    //for protection from ignorance
+    <string name="text_ignorance_1" translatable="false">मैं अज्ञानियों के बीच रहने से अल्लाह की शरण चाहता हूँ।</string>
+    //protection from foolishness
+    <string name="text_foolishness_1" translatable="false">ऐ अल्लाह, मैं तेरी पनाह चाहता हूँ ताकि मैं दूसरों को गुमराह न करूँ, या मैं दूसरों से गुमराह न हो जाऊँ, ऐसा न हो कि मैं दूसरों को ग़लती करने का कारण बनूँ या मुझसे ग़लती कराई जाए, ऐसा न हो कि मैं दूसरों को गाली दूँ या मेरे साथ दुर्व्यवहार किया जाए, और ऐसा न हो कि मैं मूर्खतापूर्ण व्यवहार करूँ या दूसरों से मिलूँ दूसरों की मूर्खता.</string>
+    //Faith
+    //strengthen your imaan
+    <string name="text_strengthen_your_imaan_1" translatable="false">मैं अल्लाह को एक भगवान के रूप में, इस्लाम को एक धर्म के रूप में और मुहम्मद को पैगंबर के रूप में शांति प्रदान करने से प्रसन्न हूं। (तीन बार)</string>
+    <string name="text_strengthen_your_imaan_2" translatable="false">मैं अल्लाह की शरण चाहता हूं।</string>
+    <string name="text_strengthen_your_imaan_3" translatable="false">मैं अल्लाह और उसके दूत पर विश्वास करता हूं।</string>
+    <string name="text_strengthen_your_imaan_4" translatable="false">हमारे प्रभु! हमारे दिल (सच्चाई से) विचलित न हों, इसके बाद कि आपने हमें मार्गदर्शन दिया है, और हमें अपनी ओर से दया प्रदान करें। बरोबर आप दाता हैं।</string>
+    <string name="text_strengthen_your_imaan_5" translatable="false">हमारे प्रभु! हमारे पापों और हमारे अपराधों को क्षमा करें (अपने प्रति हमारे कर्तव्यों को निभाते हुए), हमारे पैरों को मजबूती से स्थापित करें, और हमें अविश्वासी लोगों पर विजय प्रदान करें।</string>
+    //to make us practicing muslims
+    <string name="text_practicing_muslims_1" translatable="false">हमारे प्रभु! तूने जो कुछ प्रकट किया है उस पर हम विश्वास करते हैं और हम रसूल का अनुसरण करते हैं। फिर हमें गवाही देनेवालों में लिख लेना।</string>
+    //seek forgiveness and strengthen your imaan
+
+    //pledge to allah
+    <string name="text_to_allah_1" translatable="false">वास्तव में, मैंने अपना रुख उसकी ओर कर लिया है जिसने आकाशों और पृथ्वी को बनाया है, सत्य की ओर झुकाव रखता है, और मैं उन लोगों में से नहीं हूं जो दूसरों को अल्लाह के साथ शरीक करते हैं।</string>
+    <string name="text_to_allah_2" translatable="false">वास्तव में, मेरी प्रार्थना, मेरे बलिदान के संस्कार, मेरा जीना और मरना दुनिया के भगवान, अल्लाह के लिए है। उसका कोई भागीदार नहीं है। और मुझे इसका आदेश दिया गया है, और मैं मुसलमानों में से पहला हूं।</string>
+    //for righteous company
+    <string name="text_righteous_company_1" translatable="false">आकाश और पृथ्वी के निर्माता, आप इस दुनिया में और उसके बाद मेरे रक्षक हैं। मुझे एक मुसलमान के रूप में मरने दो और नेक लोगों के साथ जोड़ दो।</string>
+    <string name="text_righteous_company_2" translatable="false">हमारे प्रभु! हमें यकीन है; हमें गवाहों के बीच लिखो</string>
+    //seek forgiveness and protection from hell
+    <string name="text_from_hell_1" translatable="false">हमारे भगवान, आपने दया और ज्ञान में सभी चीजों को शामिल किया है, इसलिए उन लोगों को माफ कर दें जिन्होंने पश्चाताप किया है और आपके मार्ग का अनुसरण किया है और उन्हें नरक की आग की सजा से बचाएं।</string>
+    <string name="text_from_hell_2" translatable="false">हमारे प्रभु! हम वास्तव में ईमान लाए हैं, अतः हमारे पापों को क्षमा कर दो और हमें आग की यातना से बचा लो।</string>
+    <string name="text_from_hell_3" translatable="false">हमारे प्रभु! आपने (यह सब) बिना किसी उद्देश्य के नहीं बनाया है, आपकी जय हो! (आप उन सब से ऊपर हैं जिन्हें वे आपके साथ भागीदार के रूप में जोड़ते हैं)। हमें अग्नि की पीड़ा से मुक्ति प्रदान करें। *हमारे प्रभु! वास्तव में, जिसे आप आग में प्रवेश करते हैं, आपने उसे अपमानित किया है, और ज़ालिमून (बहुदेववादियों और अत्याचारियों) को कभी भी कोई सहायक नहीं मिलेगा। *हमारे प्रभु! वास्तव में, हमने एक (मुहम्मद पी.बी.यू.एच.) की पुकार सुनी है जो विश्वास के लिए कह रही है: \'अपने भगवान पर विश्वास करो,\' और हमने विश्वास किया है। *हमारे प्रभु! हमारे पापों को क्षमा कर दो और हमारे बुरे कर्मों को हमसे दूर कर दो, और हमें अल-अबरार (जो अल्लाह के आज्ञाकारी हैं और उसके आदेशों का सख्ती से पालन करते हैं) के साथ धार्मिकता की स्थिति में मरो। *हमारे प्रभु! आपने अपने दूतों के माध्यम से जो वादा हमसे किया था, वह हमें प्रदान करें और कयामत के दिन हमें अपमानित न करें, क्योंकि आप कभी भी अपना वादा नहीं तोड़ते।</string>
+    <string name="text_from_hell_4" translatable="false">अल्लाह किसी व्यक्ति पर उसकी क्षमता से अधिक बोझ नहीं डालता। जो कुछ उसने कमाया है, उसके लिए उसे इनाम मिलता है और जो कुछ उसने कमाया है, उसके लिए उसे सज़ा मिलती है। "हमारे भगवान! अगर हम भूल जाएं या ग़लती में पड़ जाएं तो हमें सज़ा न दें, हमारे भगवान! हम पर वैसा बोझ न डालें जैसा आपने हमसे पहले वालों पर डाला था; हमारे भगवान! हम पर अपनी ताकत से ज़्यादा बोझ न डालें सहन करो। हमें क्षमा करो और हमें क्षमा प्रदान करो। हम पर दया करो। तुम हमारे मौला (संरक्षक, समर्थक और रक्षक, आदि) हो और हमें अविश्वासी लोगों पर विजय प्रदान करो।"</string>
+    <string name="text_from_hell_5" translatable="false">हमारे प्रभु! हमारे लिए अपना प्रकाश परिपूर्ण करें, और हमें क्षमा प्रदान करें: क्योंकि आपके पास सभी चीजों पर शक्ति है।</string>
+    //for forgiveness for your parent and all muslims
+    <string name="text_all_muslims_1" translatable="false">हे हमारे भगवान! (हमें) अपनी क्षमा से ढक दो - मुझे, मेरे माता-पिता को, और (सभी) विश्वासियों को, उस दिन जिस दिन गणना स्थापित की जाएगी!</string>
+    //for jannah
+    <string name="text_for_jannah_1" translatable="false">हमारे प्रभु! नरक के प्रकोप को हमसे दूर कर दो, क्योंकि उसका प्रकोप वास्तव में दु:खदायी है, वह निवास और विश्राम का स्थान भी बुरा है।</string>
+    <string name="text_for_jannah_2" translatable="false">हमारे प्रभु! और उन्हें अदन (ईडन) जन्नत (अनन्त उद्यानों) में प्रवेश कराओ, जिसका वादा तुमने उनसे किया है, और उनके बाप, उनकी पत्नियों और उनकी संतानों में से नेक लोगों को! वास्तव में, आप सर्वशक्तिमान, सर्वज्ञ हैं। और उन्हें उनके गुनाहों से बचा लो, और जिस किसी को तुम गुनाहों से बचा लो (अर्थात उन्हें माफ कर दो) उस दिन तुमने उसे पकड़ लिया है दया में।" और यही सर्वोच्च सफलता है।"</string>
+    //for forgiveness
+    <string name="text_forgiveness_1" translatable="false">हे मेरे परमदेव! मैं तेरी शरण चाहता हूँ कि मैं तुझसे वह बात न पूछूँ जिसका मुझे ज्ञान नहीं। और जब तक तू मुझे क्षमा न कर दे और मुझ पर दया न कर दे, मैं निश्चय ही हानि उठानेवालों में से हो जाऊँगा।</string>
+    <string name="text_forgiveness_2" translatable="false">ईश्वर मुझे माफ़ करो। हे प्रभु, मुझे क्षमा कर दो।</string>
+    <string name="text_forgiveness_3" translatable="false">हे अल्लाह मुझे माफ कर दो, मुझ पर दया करो, मेरा मार्गदर्शन करो, मेरा समर्थन करो, मेरी रक्षा करो, मेरा भरण-पोषण करो और मुझे ऊपर उठाओ।</string>
+    <string name="text_forgiveness_4" translatable="false">हे अल्लाह, मेरे सभी पापों को माफ कर दो, बड़े और छोटे, पहले और आखिरी, जो प्रकट हैं और जो छिपे हुए हैं।</string>
+    <string name="text_forgiveness_5" translatable="false">हे अल्लाह, मैं तेरे क्रोध से तेरी प्रसन्नता में सुरक्षा चाहता हूँ, और मैं तेरी सज़ा से तेरी क्षमा में सुरक्षा चाहता हूँ। मैं तुझसे तुझमें सुरक्षा चाहता हूँ। मैं आपकी प्रशंसा नहीं गिन सकता। आप वैसे ही हैं जैसे आपने अपनी प्रशंसा की है।</string>
+    <string name="text_forgiveness_6" translatable="false">मैं अल्लाह से माफ़ी चाहता हूँ और उससे तौबा करता हूँ।</string>
+    <string name="text_forgiveness_7" translatable="false">हे अल्लाह, मैंने अपने ऊपर बहुत अत्याचार किया है और तेरे सिवा कोई पाप क्षमा नहीं करता। अत: मुझे क्षमा करें और मुझ पर दया करें। निस्संदेह, तुम क्षमाशील, दयावान हो।</string>
+    <string name="text_forgiveness_8" translatable="false">हे अल्लाह, आप मेरे भगवान हैं, आपके अलावा किसी को भी पूजा करने का अधिकार नहीं है, आपने मुझे बनाया और मैं आपका सेवक हूं और मैं आपकी वाचा का पालन करता हूं और जितना संभव हो सके वादा करता हूं, मैं आपकी शरण लेता हूं जिससे मैं बुराई से बच सकता हूं प्रतिबद्ध है। मैं अपने ऊपर आपके उपकार को स्वीकार करता हूं और अपने पाप को भी स्वीकार करता हूं, इसलिए मुझे क्षमा कर दीजिए, क्योंकि आपके अतिरिक्त कोई भी पाप को क्षमा नहीं कर सकता।</string>
+    <string name="text_forgiveness_9" translatable="false">हे अल्लाह, मैं तेरी दया से, जो सभी चीज़ों में व्याप्त है, तुझसे प्रार्थना करता हूँ कि तू मुझे क्षमा कर दे।</string>
+    <string name="text_forgiveness_10" translatable="false">मेरे रब, मुझे माफ कर दे और मेरी तौबा क़ुबूल कर ले, तू सदा बख्शने वाला, सब कुछ माफ करने वाला है।</string>
+    //forgiveness for your siblings
+    <string name="text_siblings_1" translatable="false">हे मेरे परमदेव! मुझे और मेरे भाई को क्षमा कर, और हमें अपनी दया में प्रवेश कर, क्योंकि तू दया करने वालों में सबसे अधिक दयालु है।</string>
+    //for asking forgiveness for youself and anyone who enters your house
+    <string name="text_your_house_1" translatable="false">मेरे भगवान, मुझे और मेरे माता-पिता को और जो कोई भी मेरे घर में प्रवेश करता है, उसे और ईमान वाले पुरुषों और ईमान वाली महिलाओं को माफ कर दे। और ज़ालिमों को विनाश के सिवा और न बढ़ाओ।</string>
+    //for repentance
+    <string name="text_repentance_1" translatable="false">मैं सर्वशक्तिमान अल्लाह से क्षमा चाहता हूं, जिसके अलावा कोई भी पूजा के योग्य नहीं है, जीवित, शाश्वत, और मैं उससे पश्चाताप करता हूं, भले ही उसने सेना के रैंकों को छोड़ दिया हो, अल्लाह उसे माफ कर देगा।</string>
+    <string name="text_repentance_2" translatable="false">(और इन मुश्रिकों से कहो, ऐ मुहम्मद सल्ल.) यही अल्लाह है, मेरा पालनहार, जिस पर मैंने भरोसा किया और उसी की ओर मैं अपने सारे मामले सौंपता हूँ और तौबा करता हूँ।</string>
+    //for thanking allah
+    <string name="text_thanking_allah_1" translatable="false">अल्लाह के सिवा कोई इबादत के लायक नहीं, जिसका कोई साझीदार नहीं, उसी का प्रभुत्व है और उसी के लिए सारी प्रशंसा है, और वह हर चीज़ करने में सक्षम है। महिमा अल्लाह की है. प्रशंसा अल्लाह के लिए है. अल्लाह के सिवा कोई इबादत के लायक नहीं। अल्लाह सबसे महान है. अल्लाह की अनुमति के बिना कोई शक्ति या शक्ति नहीं है, जो महान, शक्तिशाली है। हे प्रभु, मुझे क्षमा कर दो।</string>
+    <string name="text_thanking_allah_2" translatable="false">मेरे परम प्रभु की जय।</string>
+    <string name="text_thanking_allah_3" translatable="false">महिमा तुम्हारी है, हे अल्लाह, हमारे भगवान, और प्रशंसा तुम्हारी है। हे अल्लाह, मुझे माफ़ कर दो।</string>
+    <string name="text_thanking_allah_4" translatable="false">महिमा (आपकी), परम पवित्र (आप हैं), स्वर्गदूतों और आत्मा के भगवान</string>
+    <string name="text_thanking_allah_5" translatable="false">महिमा आपकी है, शक्ति, प्रभुत्व, ऐश्वर्य और महानता के स्वामी।</string>
+    <string name="text_thanking_allah_6" translatable="false">किसी को भी पूजा करने का अधिकार नहीं है, केवल अल्लाह को, जिसका कोई साथी नहीं है। प्रभुता उसी की है और प्रशंसा भी उसी की है। वही जीवन लाता है, वही मृत्यु लाता है, और वही सब कुछ करने में समर्थ है।</string>
+    <string name="text_thanking_allah_7" translatable="false">किसी को भी इबादत करने का अधिकार नहीं है, केवल अल्लाह को, उसका कोई साझीदार नहीं, उसी की प्रभुता है, उसी की प्रशंसा है और वही हर काम करने में सक्षम है। अल्लाह के सिवा कोई शक्ति और शक्ति नहीं है। अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है और हम उसके अलावा किसी और की पूजा नहीं करते हैं। उसी की कृपा है, उसी की उदारता है और उसी के लिए उत्तम प्रशंसा है। अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है। (हम) उसके प्रति अपनी धार्मिक भक्ति बनाने में ईमानदार हैं, भले ही अविश्वासियों को यह नापसंद हो।</string>
+    <string name="text_thanking_allah_8" translatable="false">महिमा अल्लाह की है और प्रशंसा उसकी है, उसकी रचना की भीड़ से, उसकी प्रसन्नता से, उसके सिंहासन के वजन से और उसके शब्दों की सीमा से।</string>
+    <string name="text_thanking_allah_9" translatable="false">महिमा अल्लाह की है, प्रशंसा अल्लाह की है, अल्लाह सबसे महान है!</string>
+    <string name="text_thanking_allah_10" translatable="false">स्तुति उस अल्लाह के लिए है जिसने हमें भोजन और पेय प्रदान किया, हमें भरपूर किया और ऐसे कितने लोगों के लिए रहने की जगह दी जिनके पास कोई भोजन नहीं है और जिनके पास कोई घर नहीं है।</string>
+    <string name="text_thanking_allah_11" translatable="false">अल्लाह की प्रशंसा प्रचुर मात्रा में सुंदर धन्य प्रशंसा, कभी न खत्म होने वाली प्रशंसा, एक ऐसी प्रशंसा जिसे हम कभी भी अलविदा नहीं कहेंगे और एक अपरिहार्य प्रशंसा के साथ की जाएगी, वह हमारा भगवान है।</string>
+    //for being grateful to allah
+    <string name="text_grateful_to_allah_1" translatable="false">मेरे भगवान, मुझे अपने उपकार के लिए आभारी होने में सक्षम करें जो आपने मुझ पर और मेरे माता-पिता पर किया है और धार्मिकता का काम कर सकूं जिसे आप स्वीकार करेंगे और मेरी संतान को मेरे लिए धर्मी बनायेंगे। निश्चय ही मैंने तुमसे तौबा कर ली है और मैं मुसलमानों में से हूँ।</string>
+    <string name="text_grateful_to_allah_2" translatable="false">मेरे भगवान, मुझे अपने उपकार के लिए आभारी होने में सक्षम करें जो आपने मुझ पर और मेरे माता-पिता पर किया है और वह धार्मिकता कर सकूं जिसे आप स्वीकार करते हैं। और अपनी दया से मुझे अपने धर्मी सेवकों में शामिल कर ले।</string>
+    //on hearing good news
+    <string name="text_good_new_1" translatable="false">सारी प्रशंसा अल्लाह के लिए है, जैसा अल्लाह ने चाहा, अल्लाह बड़ा धन्य है</string>
+    //for leaving everything in the hands of
+    //protection and help from allah
+    <string name="text_help_from_allah_1" translatable="false">अल्लाह, किताब का खुलासा करने वाला, तुरंत हिसाब देने वाला, (काफिरों के) समूहों को हराने वाला। हे अल्लाह, उन्हें हराओ और उन्हें हिलाओ।</string>
+    <string name="text_help_from_allah_2" translatable="false">वह एक अल्लाह है। आत्मनिर्भर स्वामी, जिसकी सभी प्राणियों को आवश्यकता है, वह न तो पैदा हुआ और न ही कभी पैदा हुआ था, और उसके बराबर कोई भी नहीं है।</string>
+    <string name="text_help_from_allah_3" translatable="false">अल्लाह! उसके अलावा कोई भी पूजा के योग्य नहीं है, वह सदैव जीवित है, जो अस्तित्व में मौजूद सभी चीजों का पालन-पोषण और रक्षा करता है। न तो तंद्रा और न ही निद्रा उस पर हावी होती है। उसी का है जो कुछ आकाशों में है और जो कुछ धरती पर है। वह कौन है जो उसकी अनुमति के बिना उसके साथ सिफ़ारिश कर सकता है? वह जानता है कि इस दुनिया में उनके साथ क्या होगा और आख़िरत में उनके साथ क्या होगा। और वे उसके ज्ञान में से किसी भी चीज़ को नज़रअंदाज़ नहीं करेंगे सिवाय उसके जो वह चाहेगा। उसका सिंहासन आकाश और पृथ्वी तक फैला हुआ है, और वह उनकी रक्षा और संरक्षण करने में कोई थकान महसूस नहीं करता है। और वह परमप्रधान, परम महान है।</string>
+    <string name="text_help_from_allah_4" translatable="false">मैं भोर के पालनहार (अल्लाह) की शरण चाहता हूं, जो कुछ उसने पैदा किया है उसकी बुराई से, और अंधेरे (रात) की बुराई से, जो उसके अंधेरे के साथ आती है, और उन लोगों की बुराई से जो जादू टोना करते हैं गांठों में फूंक मारो, और जब ईर्ष्यालु ईर्ष्या करे तो उसकी बुराई से बचो।</string>
+    <string name="text_help_from_allah_5" translatable="false">मैं मानव जाति के भगवान, मानव जाति के राजा, मानव जाति के ईश्वर की शरण लेता हूं, कानाफूसी करने वाले की बुराई से, जो पीछे हट जाता है, जो मानव जाति, जिन्नों और मनुष्यों के सीने में फुसफुसाता है।</string>
+    <string name="text_help_from_allah_6" translatable="false">हे अल्लाह, मैं कब्र की सज़ा से तेरी शरण चाहता हूँ, और झूठे मसीहा की परीक्षा से तेरी शरण चाहता हूँ, और मैं जीवन और मृत्यु की परीक्षा से तेरी शरण चाहता हूँ। ऐ अल्लाह, मैं गुनाह और कर्ज़ से तेरी पनाह चाहता हूँ।</string>
+    <string name="text_help_from_allah_7" translatable="false">ऐ अल्लाह, जिस दिन तू अपने बंदों को ज़िंदा करेगा उस दिन मुझे अपने अज़ाब से बचा ले।</string>
+    <string name="text_help_from_allah_8" translatable="false">ऐ अल्लाह, परोक्ष और प्रत्यक्ष को जानने वाला, आकाशों और धरती का रचयिता, हर चीज़ का रब और उसका मालिक, मैं गवाही देता हूँ कि तेरे सिवा कोई इबादत के लायक नहीं। मैं अपनी आत्मा की बुराई और शैतान और उसके सहायकों की बुराई से तेरी शरण चाहता हूँ। (मैं आपकी शरण लेता हूं) अपनी आत्मा पर बुराई लाने से और किसी मुसलमान को नुकसान पहुंचाने से।</string>
+    <string name="text_help_from_allah_9" translatable="false">हे अल्लाह, मैं इस दुनिया और अगले दुनिया में आपकी क्षमा और आपकी सुरक्षा चाहता हूं। हे अल्लाह, मैं अपने धर्म में, अपने सांसारिक मामलों में, अपने परिवार में और अपनी संपत्ति में आपकी क्षमा और आपकी सुरक्षा चाहता हूं। हे अल्लाह, मेरे रहस्यों को छुपा और मुझे पीड़ा से बचा। हे अल्लाह, जो कुछ मेरे सामने और मेरे पीछे, मेरे बायें, और मेरे दायें, और मेरे ऊपर से है, उससे मेरी रक्षा कर। मैं अपने नीचे से मारे जाने से बचने के लिए आपकी महानता की शरण लेता हूँ।</string>
+    <string name="text_help_from_allah_10" translatable="false">हमने एक नए दिन में प्रवेश किया है और इसके साथ ही सारा प्रभुत्व अल्लाह का है। प्रशंसा अल्लाह के लिए है. किसी को भी पूजा करने का अधिकार नहीं है, केवल अल्लाह को, जिसका कोई साथी नहीं है। अल्लाह ही की बादशाही है और उसी की प्रशंसा है और वही हर चीज़ करने में समर्थ है। मेरे रब, मैं तुझसे इस दिन और इसके बाद आने वाले दिनों की भलाई माँगता हूँ, और मैं इस दिन और इसके बाद आने वाले दिनों की बुराई से तेरी शरण माँगता हूँ। मेरे रब, मैं आलस्य और असहाय बुढ़ापे से तेरी शरण चाहता हूँ। मेरे रब, मैं नरक की आग के अज़ाब से और क़ब्र के अज़ाब से तेरी शरण चाहता हूँ। जब आप शाम को यह कहते हैं तो आपको कहना चाहिए: \'अम्सयना वा\'अम्सल-मुल्कु लिल्लाह: "हमने एक और दिन समाप्त कर दिया है और इसके साथ ही सारा प्रभुत्व अल्लाह का है" और रब्बी \'अस\' अलुका ख़ैरा मा फी हाथीहिल-लैलाती, वा ख़ैरा माँ बा\'दाहा, वा \'आ\'उथु बिका मिन शरीरी माँ फी हाथीहिल-लैलाती वा शरीरा माँ बा\'दाहा: "मैं आपसे इस रात और रातों की अच्छी चीज़ें माँगता हूँ जो इसके बाद आएंगे और मैं इस रात और इसके बाद आने वाली रातों की बुराई से तेरी पनाह मांगता हूं।"</string>
+    <string name="text_help_from_allah_11" translatable="false">जान लो कि अल्लाह तुम्हारा रक्षक है। उत्कृष्ट रक्षक है, और उत्कृष्ट सहायक है।</string>
+    //for protection from satan/shaytan
+    <string name="text_shaytan_1" translatable="false">मेरे नाथ! मैं शयातीन (शैतानों) की फुसफुसाहटों (सुझावों) से आपकी शरण चाहता हूं। और मैं तेरी पनाह चाहता हूँ, मेरे रब! कहीं ऐसा न हो कि वे मेरी शरण में आएँ (या मेरे निकट आएँ)।</string>
+    <string name="text_shaytan_2" translatable="false">मैं शैतान, बहिष्कृत के विरुद्ध अल्लाह की शरण चाहता हूँ।</string>
+    <string name="text_shaytan_3" translatable="false">जो कुछ उसने पैदा किया है उसकी बुराई से मैं अल्लाह के उत्तम शब्दों की शरण चाहता हूँ।</string>
+    //to keep your family safe from transgressors
+    <string name="text_transgressors_1" translatable="false">मेरे नाथ! मुझे और मेरे परिवार को उनके कृत्य से बचाएं।</string>
+    //for your child’s protection
+    <string name="text_protection_1" translatable="false">मैं अल्लाह के उत्तम शब्दों में हर शैतान और हर जानवर से, और हर ईर्ष्यालु निंदा करने वाली नज़र से तुम्हारे लिए सुरक्षा चाहता हूँ।</string>
+    //for protection from oppressors
+    <string name="text_oppressors_1" translatable="false">हमारे प्रभु! हमें इस नगर से छुड़ा, जिसके लोग अत्याचारी हैं; और अपने पास से हमारे लिये एक को उत्पन्न करो जो हमारी रक्षा करेगा, और अपने में से हमारे लिये एक को उठाओ जो हमारी सहायता करेगा।</string>
+    <string name="text_oppressors_2" translatable="false">ऐ अल्लाह, तू ही मेरी ताकत है और तू ही मेरा सहारा है। मैं आपके लिए आगे बढ़ता हूं, आपके लिए आगे बढ़ता हूं और आपके लिए लड़ता हूं।</string>
+    //for curbing fear
+    <string name="text_fear_1" translatable="false">हे अल्लाह, तू चाहे तो उनसे मेरी रक्षा कर।</string>
+    //for protection from the wrongdoers
+    <string name="text_wrongdoers_1" translatable="false">हम अल्लाह पर भरोसा करते हैं. हमारे भगवान, हमें ज़ालिम लोगों के लिए परीक्षण का विषय न बनाएं। और हमें अपनी दयालुता से काफ़िर लोगों से बचा लो।</string>
+    <string name="text_wrongdoers_2" translatable="false">हे हमारे भगवान! सचमुच तू जानता है कि हम क्या छिपाते हैं और क्या प्रकट करते हैं; क्योंकि जो कुछ अल्लाह से छिपा हुआ है, चाहे वह धरती पर हो या स्वर्ग में</string>
+    <string name="text_wrongdoers_3" translatable="false">हमारे प्रभु! हमें डर है कि कहीं वह हमारे विरुद्ध उद्दंडता करने में जल्दबाजी न कर दे, या सभी सीमाओं का उल्लंघन न कर दे</string>
+    //for parents
+    <string name="text_parents_1" translatable="false">हे मेरे परमदेव! मुझे अस-सलात (इक़ामत-अस-सलात) करने वाला बना दो, और (भी) मेरी संतान में से, हमारे रब! और मेरा आह्वान स्वीकार करें.</string>
+    <string name="text_parents_2" translatable="false">मेरे भगवान, उन (माता-पिता) पर दया करो क्योंकि उन्होंने मुझे [जब मैं छोटा था] पाला था।</string>
+    //for fear of committing shirk
+    <string name="text_shirk_1" translatable="false">हे अल्लाह, मैं तेरी पनाह चाहता हूँ कि मैं जान-बूझकर तेरे साथ कोई साझीदार न बन जाऊँ, और जो मैं नहीं जानता उसके लिए मैं तुझ से क्षमा चाहता हूँ।</string>
+    //for this wolrd and the aakhira
+    <string name="text_aakhira_1" translatable="false">हमारे प्रभु! हमें इस दुनिया में जो अच्छा है और आख़िरत में जो अच्छा है वह दे और हमें आग की यातना से बचा ले!</string>
+    <string name="text_aakhira_2" translatable="false">ऐ हमारे रब, तू लोगों को ऐसे दिन के लिए इकट्ठा करेगा जिसके बारे में कोई संदेह नहीं। निस्संदेह, अल्लाह अपने वादे से चूकता नहीं।</string>
+    //to be a pious muslim
+    <string name="text_pious_muslim_1" translatable="false">हमारे प्रभु! हमें उन लोगों के साथ न रखें जो ज़ालिमून (बहुदेववादी और ज़ालिम) हैं।</string>
+    <string name="text_pious_muslim_2" translatable="false">ऐ मेरे रब, तो फिर मुझे ज़ालिम लोगों में न रखना।</string>
+
+    //seek allah’s satisfaction
+    <string name="text_allah_satisfaction_1" translatable="false">हमारे प्रभु! हमसे (यह सेवा) स्वीकार करें: क्योंकि आप सब कुछ सुनने वाले, सब कुछ जानने वाले हैं</string>
+    <string name="text_allah_satisfaction_2" translatable="false">हमारे प्रभु! हम लोगों को अपनी (इच्छा) के सामने झुकते हुए मुसलमान बनाओ, और हमारी संतानों को अपनी (इच्छा) के सामने झुकते हुए मुसलमान बनाओ; और हमें (उचित) संस्कारों के उत्सव के लिए हमारा स्थान दिखाओ; और हमारी ओर फिरो (दया में); क्योंकि तू बारम्बार लौटनेवाला, अत्यन्त दयालु है।</string>
+
+    //Family
+    //for parent
+    //for a blissfull family
+    <string name="text_family_1" translatable="false">हे मेरे परमदेव! हमें ऐसी पत्नियाँ और सन्तान प्रदान करो जो हमारी आँखों को आराम दें, और हमें धर्मियों का नेतृत्व करने के लिए (अनुग्रह) दो।</string>
+    //asking allah to grant you a child
+    <string name="text_a_child_1" translatable="false">हे मेरे परमदेव! मुझे अपनी ओर से एक अच्छी सन्तान प्रदान करो। आप वास्तव में मंगलाचरण के सर्व-श्रोता हैं।</string>
+    <string name="text_a_child_2" translatable="false">हे मेरे परमदेव! यद्यपि आप उत्तराधिकारियों में सर्वश्रेष्ठ हैं, फिर भी मुझे अविवाहित (निःसंतान) न रहने दीजिये।</string>
+
+
+    //Health / Iiness
+    //for a healthy life
+    <string name="text_healthy_life_1" translatable="false">हे अल्लाह, मुझे मेरे शरीर में स्वस्थ बना दे। हे अल्लाह, मेरी सुनने की क्षमता मेरे लिए सुरक्षित रख। हे अल्लाह, मेरी दृष्टि को मेरे लिए सुरक्षित रख। आपके अलावा कोई भी पूजा के योग्य नहीं है। हे अल्लाह, मैं अविश्वास और गरीबी से तेरी शरण चाहता हूं और कब्र की यातना से तेरी शरण चाहता हूं। आपके सिवा कोई भी पूजा के योग्य नहीं है।</string>
+    //when visiting the sick
+    <string name="text_the_sick_1" translatable="false">चिंता मत करो, यह (तुम्हारे लिए) शुद्धिकरण होगा, अल्लाह ने चाहा।</string>
+    <string name="text_the_sick_2" translatable="false">मैं अल्लाह से प्रार्थना करता हूं जो बुलंद और शक्तिशाली सिंहासन का स्वामी है कि वह तुम्हें ठीक कर दे\n(पैगंबर मोहम्मद (देखा) ने कहा कि इस दुआ को सात बार पढ़ने से बीमार व्यक्ति फिर से स्वस्थ हो जाएगा और यदि मृत्यु हो जाती है तो ( मृत्यु) एक अलग मुद्दा है (अर्थात मृत्यु लिखी हुई है इसे रोका नहीं जा सकता))</string>
+    //to alleviate pain
+    <string name="text_alleviate_pain_1" translatable="false">अल्लाह के नाम पर मैं अल्लाह और उसकी शक्ति में शरण चाहता हूं, जो कुछ भी मैं पाता हूं और जिससे मैं बचता हूं उसकी बुराई से।</string>
+    //upon seeing someone going through a trial or tribulation
+    <string name="text_tribulation_1" translatable="false">प्रशंसा उस अल्लाह के लिए है जिसने मुझे उस चीज़ से बचा लिया जो उसने तुम्हें दी थी, और जो कुछ उसने पैदा किया है उसमें से मुझे बहुत अधिक पसंद किया है।</string>
+    //if you fall on hard times
+    <string name="text_hard_times_1" translatable="false">वास्तव में, विपत्ति ने मुझे छू लिया है, और आप दयालु लोगों में सबसे दयालु हैं।</string>
+    <string name="text_hard_times_2" translatable="false">अल्लाह के अलावा कोई भी पूजा के योग्य नहीं है, अल्लाह सबसे महान है। केवल अल्लाह के अलावा किसी को भी पूजा करने का अधिकार नहीं है। किसी को भी पूजा करने का अधिकार नहीं है, केवल अल्लाह को, जिसका कोई साथी नहीं है। अल्लाह के सिवा कोई इबादत के लायक नहीं, उसी की बादशाही है और उसी की प्रशंसा है। अल्लाह के सिवा कोई इबादत के लायक नहीं, अल्लाह के सिवा कोई ताकत और ताकत नहीं।</string>
+    //when you are nearing your death
+    <string name="text_nearing_your_death_1" translatable="false">अल्लाह के सिवा कोई इबादत के लायक नहीं</string>
+    <string name="text_nearing_your_death_2" translatable="false">मैं गवाही देता हूं कि किसी को भी पूजा का अधिकार नहीं है, केवल अल्लाह को, जिसका कोई साथी नहीं है; और मैं गवाही देता हूं कि मुहम्मद उनके गुलाम और उनके दूत हैं।</string>
+
+    //Loss / Failure
+    //when you fail or lose at something
+    <string name="text_something_1" translatable="false">यह अल्लाह का हुक्म है और वह जो चाहता है वही करता है।</string>
+    //when a loss occurs
+    <string name="text_occurs_1" translatable="false">निस्संदेह हम अल्लाह के हैं और हम उसी की ओर लौटेंगे।</string>
+    //when stricken by tragedy
+    <string name="text_tragedy_1" translatable="false">हम अल्लाह की ओर से हैं और उसी की ओर लौटते हैं। हे अल्लाह मुझे मेरी दुर्दशा से बाहर निकालो और इसके बाद मेरे लिए कुछ बेहतर लाओ।</string>
+    <string name="text_tragedy_2" translatable="false">अल्लाह हमारे लिए काफी है और उन लोगों के लिए सबसे अच्छा है जिन पर भरोसा किया जा सकता है।</string>
+    //for seeking allah’s help
+    <string name="text_allah_help_1" translatable="false">अल्लाह हमारे लिए काफी है और उन लोगों के लिए सबसे अच्छा है जिन पर भरोसा किया जा सकता है।</string>
+    <string name="text_allah_help_2" translatable="false">मैं तो केवल अल्लाह से अपने कष्ट और दुःख की शिकायत करता हूँ और मैं अल्लाह की ओर से वह सब कुछ जानता हूँ जो तुम नहीं जानते।</string>
+    //at time of worry and sorry
+    <string name="text_worry_sorry_1" translatable="false">ऐ अल्लाह, मैं दु:ख और उदासी से, कमज़ोरी और आलस्य से, कंजूसी और कायरता से, कर्ज़ के बोझ से दबे होने से और मनुष्यों (अर्थात दूसरों) से दब जाने से तेरी शरण लेता हूँ।</string>
+    //when in distress
+    <string name="text_in_distress_1" translatable="false">किसी को भी पूजा करने का अधिकार नहीं है, लेकिन आप (हे अल्लाह), महिमावान (और महान) आप ही हैं। सचमुच, मैं ज़ालिमों में से हूँ।</string>
+    <string name="text_in_distress_2" translatable="false">हे अल्लाह, मुझे तेरी दया की आशा है। पलक झपकने (अर्थात एक क्षण) के लिए भी मुझे मेरे हाल पर मत छोड़ो। मेरे लिए मेरे सभी मामले ठीक करो। आपके सिवा कोई भी पूजा के योग्य नहीं है।</string>
+    <string name="text_in_distress_3" translatable="false">अल्लाह के अलावा कोई भी पूजा के योग्य नहीं है, जो शक्तिशाली, सहनशील है। अल्लाह, शानदार सिंहासन के भगवान के अलावा कोई भी पूजा के योग्य नहीं है। अल्लाह, आकाशों का रब, धरती का रब, और महान सिंहासन के रब के अलावा कोई भी इबादत के लायक नहीं है।</string>
+    //for overcoming your weaknesses
+    <string name="text_weaknesses_1" translatable="false">ओ अल्लाह! मैं दु:ख और उदासी से, कमज़ोरी और आलस्य से, कृपणता और कायरता से, कर्ज़ से अभिभूत होने से और मनुष्यों (अन्य लोगों) द्वारा अभिभूत होने से आपकी शरण लेता हूँ।</string>
+    //when striken by tragedy
+    <string name="text_by_tragedy_1" translatable="false">हम अल्लाह की ओर से हैं और उसी की ओर लौटते हैं। हे अल्लाह मुझे मेरी दुर्दशा से बाहर निकालो और इसके बाद मेरे लिए कुछ बेहतर लाओ।</string>
+    <string name="text_by_tragedy_2" translatable="false">अल्लाह हमारे लिए काफी है और उन लोगों के लिए सबसे अच्छा है जिन पर भरोसा किया जा सकता है।</string>
+    //on hearing a bad news
+    <string name="text_a_bad_1" translatable="false">हर परिस्थिति में अल्लाह की ही प्रशंसा है।</string>
+    //when someone insults you
+    <string name="text_insults_you_1" translatable="false">मेरे प्रभु, सच्चाई से [हमारे बीच] न्याय करो। और हमारा रब अत्यंत दयालु है, जिस से उस चीज़ के विरुद्ध सहायता मांगी जाती है जिसका तुम वर्णन करते हो।</string>
+    //when feeling frightened
+    <string name="text_frightened_1" translatable="false">अल्लाह के सिवा कोई इबादत के लायक नहीं।</string>
+    //to trust upon allah
+    <string name="text_upon_allah_1" translatable="false">अल्लाह मेरे लिए काफी है. ला इलाहा इल्ला हुवा (उसके अलावा किसी को भी पूजा करने का अधिकार नहीं है), मैंने उस पर भरोसा किया है और वह शक्तिशाली सिंहासन का भगवान है।</string>
+    <string name="text_upon_allah_2" translatable="false">और जो कुछ मैं तुम से कहता हूं वह तुम्हें स्मरण रहेगा, और मैं अपना मामला अल्लाह को सौंपता हूं। निस्संदेह, अल्लाह अपने बन्दों को देखने वाला है।</string>
+
+
+    //Patience
+    //for patience
+    <string name="text_for_patience_1" translatable="false">हमारे प्रभु! हमें सहनशक्ति प्रदान करें, हमारे पैर जमाने को सुनिश्चित करें और अविश्वासी लोगों के विरुद्ध हमारी सहायता करें।</string>
+    <string name="text_for_patience_2" translatable="false">हमारे प्रभु! हम पर सब्र बरसाओ और हमें मुसलमानों के रूप में मरने दो।</string>
+    ////for controlling your anger
+    <string name="text_your_anger_1" translatable="false">मैं शैतान, बहिष्कृत के विरुद्ध अल्लाह की शरण चाहता हूँ।</string>
+
+
+    //Debt
+    //settle a debt
+    <string name="text_a_debt_1" translatable="false">हे अल्लाह, जो कुछ तूने मना किया है उसके स्थान पर जो कुछ तूने अनुमति दी है, वह मुझे दे दे, और मुझे अपने अलावा अन्य सभी से स्वतंत्र कर दे।</string>
+    //for someone who lens you money
+    <string name="text_you_money_1" translatable="false">अल्लाह आपको आपके परिवार और आपके धन में आशीर्वाद दे, निस्संदेह ऋण का प्रतिफल प्रशंसा और (जो उधार लिया गया था) लौटाना है।</string>
+
+
+    //During Menstruation
+    //to be pious muslims
+    <string name="text_pious_muslims_1" translatable="false">हमारे प्रभु! हमें उन लोगों के साथ न रखें जो ज़ालिमून (बहुदेववादी और ज़ालिम) हैं।</string>
+    //for forgiveness for your parents and all muslims
+    <string name="text_and_all_muslims_1" translatable="false">हे हमारे भगवान! (हमें) अपनी क्षमा से ढक दो - मुझे, मेरे माता-पिता को, और (सभी) विश्वासियों को, उस दिन जिस दिन गणना स्थापित की जाएगी!</string>
+    //seek forgiveness and strengthen your imaan
+    <string name="text_and_strengthen_your_imaan_1" translatable="false">अल्लाह किसी व्यक्ति पर उसकी क्षमता से अधिक बोझ नहीं डालता। जो कुछ उसने कमाया है, उसके लिए उसे इनाम मिलता है और जो कुछ उसने कमाया है, उसके लिए उसे सज़ा मिलती है। "हमारे भगवान! अगर हम भूल जाएं या ग़लती में पड़ जाएं तो हमें सज़ा न दें, हमारे भगवान! हम पर वैसा बोझ न डालें जैसा आपने हमसे पहले वालों पर डाला था; हमारे भगवान! हम पर अपनी ताकत से ज़्यादा बोझ न डालें सहन करो। हमें क्षमा करो और हमें क्षमा प्रदान करो। हम पर दया करो। तुम हमारे मौला (संरक्षक, समर्थक और रक्षक, आदि) हो और हमें अविश्वासी लोगों पर विजय प्रदान करो।"</string>
+    //for protection from the evil eye
+    <string name="text_evil_eye_1" translatable="false">जो कुछ उसने पैदा किया है उसकी बुराई से मैं अल्लाह के उत्तम शब्दों की शरण चाहता हूँ</string>
+    //for protection against enemies
+    <string name="text_against_enemies_1" translatable="false">हे ईश्वर, जिसने किताब उतारी, जो शीघ्र न्याय करता है, पार्टियों को हराता है, हे ईश्वर, उन्हें हराओ और उन्हें हिला दो।</string>
+    //protection from natural disasters calamities
+    <string name="text_calamities_1" translatable="false">  अल्लाह के नाम पर जिसके नाम से न धरती पर और न आसमान में किसी चीज़ को नुकसान पहुँचाया जाता है और वह सब कुछ देखने वाला, सब कुछ जानने वाला है। (तीन बार)</string>
+    //forgiviness for you siblings
+    <string name="text_you_siblings_1" translatable="false">हे मेरे परमदेव! मुझे और मेरे भाई को क्षमा कर, और हमें अपनी दया में प्रवेश कर, क्योंकि तू दया करने वालों में सबसे अधिक दयालु है।</string>
+    //during illness
+    <string name="text_during_illness_1" translatable="false">[सूरत अल-इखलास] कहो: वह भगवान है, एक। ईश्वर शाश्वत है. वह न तो उत्पन्न हुआ, न ही उसका जन्म हुआ, और न ही उसके तुल्य कोई था। [सूरत अल-फ़लक] कहो, "मैं सृष्टि के भगवान की शरण चाहता हूं, जो कुछ उसने बनाया है उसकी बुराई से, और जब वह निकट आता है तो अंधेरा होने की बुराई से, और गांठों में उड़ने की बुराई से, और की बुराई से गांठें बनाने की बुराई से, और जब ईर्ष्या करने वाला ईर्ष्या करता है तो गांठें बनाने की बुराई से। [सूरत अल-इखलास] कहो, "मैं लोगों के भगवान, लोगों के राजा, लोगों के भगवान की शरण लेता हूं, लोगों के दिलों में फुसफुसा कर फुसफुसाने वाले की बुराई से, जिन्न से और मानवता।”</string>
+    //for patience during difficult times
+    <string name="text_difficult_times_1" translatable="false">हमारे भगवान, हम पर सब्र डालो और हमें मुसलमानों के रूप में मरने दो।</string>
+    //reward of one-third of quran
+    <string name="text_of_quran_1" translatable="false">[सूरत अल-इखलास] कहो: वह भगवान है, एक। ईश्वर शाश्वत है. वह न तो उत्पन्न हुआ, न ही उसका जन्म हुआ, और न ही उसके तुल्य कोई था</string>
+    <string name="string_prayer_time_will_begin">प्रार्थना का समय %s मिनट में शुरू होगा</string>
+    <string name="string_prayer_time_will_begin_s">प्रार्थना का समय %s मिनट में शुरू होगा</string>
+
+    <!-- Hijri Months -->
+    <string name="string_praying_time_adjustment">%s मिनट</string>
+    <string name="string_plus_praying_time_adjustment">+%s मिनट</string>
+    <string name="string_not_adjusted">समायोजित नहीं</string>
+    <string name="string_it_will_correct_the_corresponding">यह ग्रेगोरियन कैलेंडर के विरुद्ध संबंधित इस्लामी कैलेंडर की तारीख को सही कर देगा</string>
+    <string name="string_settings">समायोजन</string>
+    <string name="string_english">अंग्रेज़ी</string>
+    <string name="string_time_calculator">समय कैलकुलेटर</string>
+    <string name="string_calculator_method">कैलकुलेटर विधि</string>
+    <string name="string_manual_setting">मैन्युअल सेटिंग</string>
+    <string name="string_praying_time_adjustment_setting">प्रार्थना के समय का समायोजन</string>
+    <string name="string_date_correction">दिनांक सुधार</string>
+    <string name="string_notification_bar">अधिसूचना बार</string>
+    <string name="string_fixed_countdown_on_notification">अधिसूचना पर निश्चित उलटी गिनती</string>
+    <string name="string_other">अन्य</string>
+    <string name="string_share">शेयर करना</string>
+    <string name="string_rate">दर</string>
+    <string name="string_private_policy">निजी नीति</string>
+
+    <string name="string_exit">बाहर निकलना</string>
+
+    <string name="string_oh_no">अरे नहीं!</string>
+    <string name="string_please_give_us_some_feedback">कृपया हमें कुछ प्रतिक्रिया दें</string>
+    <string name="string_we_love_you_too">हम भी तुमसे प्यार करते हैं!</string>
+    <string name="string_thanks_for_your_feedback">आपकी प्रतिक्रिया के लिए धन्यवाद</string>
+    <string name="string_do_you_like_the_app">क्या आपको ऐप पसंद है?</string>
+    <string name="string_let_us_know_your_experience">हमें अपना अनुभव बताएं</string>
+    <string name="Please_feedback">कृपया अपनी प्रतिक्रिया दें</string>
+    <string name="string_quran">कुरान</string>
+    <string name="string_thank_for_rate">ऐप को रेटिंग देने के लिए धन्यवाद</string>
+    <string name="string_surah">सूरा</string>
+    <string name="string_juz">जुज़</string>
+    <string name="string_quran_settings">कुरान सेटिंग्स</string>
+    <string name="string_translation">अनुवाद</string>
+    <string name="string_display">प्रदर्शन</string>
+    <string name="string_language_selection">भाषा चयन</string>
+    <string name="string_content">सामग्री</string>
+    <string name="string_font_amp_size"><![CDATA[फ़ॉन्ट और आकार]]></string>
+    <string name="string_audio">ऑडियो</string>
+    <string name="string_reciter">पढ़नेवाला</string>
+    <string name="string_translation_display">अनुवाद प्रदर्शन</string>
+    <string name="string_phonetic_translation">ध्वन्यात्मक अनुवाद</string>
+    <string name="string_language_translation">भाषा का अनुवाद</string>
+    <string name="string_preview">पूर्व दर्शन</string>
+    <string name="string_enable_audio">ऑडियो सक्षम करें</string>
+    <string name="string_auto_scroll_with_audio">ऑडियो के साथ ऑटो-स्क्रॉल करें</string>
+    <string name="string_font_size">फ़ॉन्ट आकार</string>
+    <string name="string_font_style">लिपि शैली</string>
+    <string name="string_tasbih">Tasbih</string>
+    <string name="string_round">गोल :</string>
+    <string name="string_done">हो गया</string>
+    <string name="string_customize">अनुकूलित करें</string>
+    <string name="string_adjust_total_times">कुल समय समायोजित करें</string>
+    <string name="string_adjust_the_number_of_rounds">राउंड की संख्या समायोजित करें</string>
+    <string name="string_reset">रीसेट</string>
+    <string name="string_do_you_want_to_reset_the_counter">क्या आप काउंटर रीसेट करना चाहते हैं</string>
+    <string name="string_continue_reading">पढ़ना जारी रखें - %s</string>
+
+    <string name="text_date_comparison" translatable="false">दिनांक तुलना</string>
+    <string name="text_gregrorian_calendar" translatable="false">ग्रेगोरियन कैलेंडर</string>
+    <string name="text_islamic_calendar" translatable="false">इस्लामी कैलेंडर</string>
+    <string name="text_praying_time" translatable="false">प्रार्थना का समय</string>
+    <string name="title_activity_islam_map" translatable="false">इस्लाम मानचित्र गतिविधि</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name='string_indonesian' translatable='false'>इंडोनेशियाई</string>
+    <string name='string_urdu' translatable='false'>उर्दू</string>
+    <string name='string_hindi' translatable='false'>हिन्दी</string>
+    <string name='string_turkish' translatable='false'>तुर्की</string>
+
+    <string name='string_salah' translatable='false'>सलाह</string>
+
+    <string name="string_please_select_language">कृपया भाषा चुनें</string>
+    <string name="string_please_connect_to_the_internet_to_use_this_feature">कृपया इस सुविधा का उपयोग करने के लिए इंटरनेट से कनेक्ट करें</string>
+    <string name="string_please_connect_to_the_internet_to_play_audio">कृपया ऑडियो चलाने के लिए इंटरनेट से कनेक्ट करें</string>
+    <string name="string_pin_app_widget_is_not_supported">पिन ऐप विजेट समर्थित नहीं है</string>
+    <string name="string_please_customize_the_number_of_round">कृपया राउंड की संख्या अनुकूलित करें</string>
+    <string name="string_please_enter_the_value_of_the_number_of_rounds">कृपया राउंड की संख्या का मान दर्ज करें!</string>
+    <string name="string_value_of_the_number_of_rounds_that_exist">मौजूद राउंड की संख्या का मान</string>
+    <string name="string_let_me_recommend_you_this_application">आइए मैं आपको इस एप्लिकेशन की अनुशंसा करता हूं</string>
+
+    <string name='text_location_1' translatable='false'>स्थान सक्षम नहीं है</string>
+    <string name='text_location_2' translatable='false'>कृपया इस ऐप की सभी सुविधाओं का उपयोग करने के लिए स्थान सक्षम करें</string>
+    <string name='text_bookmark_duas' translatable='false'>बुकमार्क में युगल जोड़ने के लिए बुकमार्क आइकन पर टैप करें</string>
+    <string name='text_bookmark_azkar' translatable='false'>बुकमार्क में azkar जोड़ने के लिए बुकमार्क आइकन पर टैप करें</string>
+
+    <string name="string_search">खोज</string>
+
+    <string name="string_add_to_home_screen">होम स्क्रीन में शामिल करें</string>
+
+    <string name="string_rotate_your_phone_until_the_mecca_appear">अपने फोन को घुमाएं जब तक कि मक्का की महान मस्जिद दिखाई देती है</string>
+
+    <string name='text_sample' translatable='false'>यह एक नमूना फ़ाइल है</string>
+    <string name="text_sleeping_1">हे मेरे प्रभु, तेरे नाम पर मैं लेटता हूं और तेरे नाम पर मैं उठता हूं, इसलिए यदि तू मेरी आत्मा ले ले, तो उस पर दया कर, और यदि तू मेरी आत्मा लौटा दे, तो उसकी विधिपूर्वक रक्षा कर। आप अपने धर्मी सेवकों के साथ ऐसा करते हैं</string>
+    <string name='text_sleeping_2'>हे अल्लाह, तूने ही मेरी आत्मा बनाई है और तू ही इसकी जान लेगा, इसका जीवन और मृत्यु भी तुझी का है। यदि तुम्हें मेरी आत्मा को जीवित रखना है तो उसकी रक्षा करो, और यदि तुम्हें उसका प्राण लेना है तो उसे क्षमा कर दो। हे अल्लाह, मैं आपसे मुझे अच्छा स्वास्थ्य प्रदान करने के लिए प्रार्थना करता हूं।\'</string>
+    <string name='text_sleeping_3'>हे अल्लाह, अपने सेवकों के पुनर्जीवित होने के दिन अपनी सजा से मेरी रक्षा कर।</string>
+    <string name='text_sleeping_4'>हे अल्लाह, मैं तेरे नाम पर जीता हूं और मरता हूं।</string>
+    <string name="text_sleeping_5">सारी प्रशंसा अल्लाह के लिए है, जिसने हमें खिलाया और हमें पिलाया, और जो हमारे लिए पर्याप्त है और उसने हमें आश्रय दिया, क्योंकि कितने लोगों के पास उन्हें पूरा करने या उन्हें आश्रय देने के लिए कोई नहीं है।</string>
+    <string name="text_sleeping_6">हे अल्लाह, देखे और देखे गए को जानने वाला, आकाशों और धरती का रचयिता, भगवान और सभी चीजों का स्वामी, मैं गवाही देता हूं कि तेरे अलावा किसी को भी पूजा करने का अधिकार नहीं है। मैं अपनी आत्मा की बुराई से और शैतान की बुराई और शिर्क से, और अपनी आत्मा के खिलाफ गलत काम करने से या किसी अन्य मुसलमान पर ऐसा करने से आपकी शरण लेता हूं।\' शिर्क: उन चीजों में अल्लाह के साथ दूसरों को शामिल करना जो विशिष्ट हैं उसे। यह (1) विश्वास में घटित हो सकता है, उदाहरणार्थ। यह विश्वास करना कि अल्लाह के अलावा किसी अन्य के पास लाभ या हानि पहुंचाने की शक्ति है, (2) भाषण, उदाहरणार्थ। अल्लाह के अलावा किसी और की कसम खाना और (3) कार्रवाई, जैसे अल्लाह के अलावा किसी और को झुकना या साष्टांग प्रणाम करना।</string>
+    <string name="text_sleeping_7">हे अल्लाह, मैं अपनी आत्मा तेरे हवाले करता हूं, और मैं अपना मामला तुझे सौंपता हूं, और मैं अपना चेहरा तेरी ओर कर देता हूं, और मैं पूरी तरह से तुझ पर भरोसा करता हूं, तुझसे आशा और भय के साथ। वास्तव में तेरे सिवा न कोई पनाह है और न सुरक्षित ठिकाना। मैं आपकी किताब पर विश्वास करता हूं जिसे आपने अवतरित किया है और आपके पैगंबर पर जिसे आपने भेजा है।</string>
+    <string name='text_sleeping_8'>अल्लाह! उसके अलावा कोई भी पूजा के योग्य नहीं है, वह सदैव जीवित है, जो अस्तित्व में मौजूद सभी चीजों का पालन-पोषण और रक्षा करता है। न तो तंद्रा और न ही निद्रा उस पर हावी होती है। उसी का है जो कुछ आकाशों में है और जो कुछ धरती पर है। वह कौन है जो उसकी अनुमति के बिना उसके साथ सिफ़ारिश कर सकता है? वह जानता है कि इस दुनिया में उनके साथ क्या होगा और आख़िरत में उनके साथ क्या होगा। और वे उसके ज्ञान में से किसी भी चीज़ को नज़रअंदाज़ नहीं करेंगे सिवाय उसके जो वह चाहेगा। उसका सिंहासन आकाश और पृथ्वी तक फैला हुआ है, और वह उनकी रक्षा और संरक्षण करने में कोई थकान महसूस नहीं करता है। और वह सबसे ऊँचा, सबसे महान है</string>
+    <string name="string_round_10"> राउंड की सबसे छोटी संख्या का मान 10 है</string>
+
+    <string name="string_step_1"><![CDATA[<b>चरण 1:</b>]]> सुनिश्चित करें कि आप कम से कम अपना अवारा कवर कर रहे हैं और आपने <![CDATA[<b>वुज़ू</b>]]> किया है . पुरुषों को अपनी नाभि और घुटनों सहित अपना पूरा शरीर ढकना चाहिए। एक महिला का शरीर उसके हाथ, पैर और चेहरे को छोड़कर हर जगह ढका होना चाहिए।</string>
+    <string name="string_step_2"><![CDATA[<b>चरण 2:</b>]]> एक बेदाग क्षेत्र की तलाश करें जहां आप अन्य लोगों को परेशान नहीं करेंगे, जैसे प्रार्थना चटाई पर। मक्का में काबा की ओर मुंह करके, यह क़िबला की दिशा है। यदि आप बीमार या विकलांग हैं और खड़े नहीं हो सकते तो आप बैठकर प्रार्थना कर सकते हैं।</string>
+    <string name="string_step_3"><![CDATA[<b>चरण 3:</b>]]> सलाह शुरू करने के लिए या तो ज़ोर से या चुपचाप अपना इरादा घोषित करें। आप इसे अरबी में या अपनी पसंद की भाषा में कर सकते हैं। घोषणा करें, \'मैं काबा की ओर मुंह करके अल्लाह के लिए तरावीह की दो रकअत नमाज़ पढ़ने का इरादा रखता हूं।\'</string>
+    <string name="string_step_4"><![CDATA[<b>चरण 4:</b>]]> कहें <![CDATA[<b><i>\"अल्लाहु अकबर\"</i></b>]]> और अपना नाम बढ़ाएं महिलाओं के लिए आपके कंधे तक हाथ और पुरुषों के लिए आपके कान की लौ। \'अल्लाह सबसे महान है,\' यह दर्शाता है। (यह चरण नीचे दिखाया गया है)। आप वर्तमान में इहराम की स्थिति में हैं, जो आपको सांसारिक कुछ भी करने से रोकता है जो आपका ध्यान भटका सकता है, जिसमें बातचीत करना, हंसना, खाना, पीना या किसी भी चीज़ के बारे में सोचना शामिल है।</string>
+    <string name="string_step_5"><![CDATA[<b>चरण 5:</b>]]> पुरुष अपना दाहिना हाथ अपने बाएं हाथ के ऊपर रखें, नाभि के ठीक नीचे। महिलाओं को अपने हाथ अपनी छाती पर रखने चाहिए।</string>
+    <string name="string_step_6"><![CDATA[<b>चरण 6:</b>]]> इस वाक्य को चुपचाप कहें <![CDATA[<b><i>\"सुभानक-अल्लाहुम्मा वा बिहामदीका,<br>वा तबारक-असमुका, वा ता-\"आला जद्दूका, वा ला इलाहा इल्ला ग़ैरुक\"</i></b>]]>. इसका मतलब है "हे अल्लाह, महिमा और प्रशंसा आपके लिए है; आपका नाम धन्य है; आपकी महिमा महान है; आपके अलावा कोई भगवान नहीं है"</string>
+    <string name="string_step_7"><![CDATA[<b>चरण 7:</b>]]> बाद में, धीरे से पढ़ें: <![CDATA[<b><i>\"औदु बि-लल्लाही मिन राख-शैतानिर राजिम बिस्मी-ललाहिर रहमानी रहीम \"</i></b>]]>. इसका तात्पर्य है "मैं सबसे दयालु, सबसे दयालु अल्लाह का नाम लेते हुए, अल्लाह से शैतान, शापित व्यक्ति से सुरक्षा मांगता हूं"।</string>
+    <string name="string_step_8"><![CDATA[<b>चरण 8:</b>]]> पढ़ना जारी रखें: <![CDATA[<b><i>\"सूरह अल-फातिहा\"</i></b>]]>, फिर <![CDATA[<b><i>\"अमीन\"</i></b>]]> के साथ समापन करें, जिसका अर्थ है "इसे मंजूर किया जा सकता है"। यदि आप प्रार्थना का नेतृत्व कर रहे हैं, तो तरावीह में सभी सूरह को ज़ोर से पढ़ना सुनिश्चित करें!</string>
+    <string name="string_step_9"><![CDATA[<b>चरण 9:</b>]]> बाद में, कोई अन्य सूरह पढ़ें। न्यूनतम पाठ तीन छंद है, या तीन छोटे छंद के बराबर एक लंबा छंद है। फिर भी, संपूर्ण सूरह का पाठ करना बेहतर है।</string>
+    <string name="string_step_10"><![CDATA[<b>चरण 10:</b>]]> आगे झुकें और बोलें <![CDATA[<b><i>\"अल्लाहु अकबर\"</i></b>]]> , जिसका अर्थ है "अल्लाह सबसे महान है", अपने हाथों को अपने घुटनों पर रखें, अपनी पीठ सीधी रखें। इस स्थिति में रुकें, जिसे रुकु (झुकना) कहा जाता है, और <![CDATA[<b><i>\"सुभाना रब्बिय-अल-अधीम\"</i></b>]]> को कम से कम तीन बार दोहराएं , जिसका अर्थ है \"मेरे महान प्रभु की जय हो\"।</string>
+    <string name="string_step_11"><![CDATA[<b>चरण 11:</b>]]> फिर से पूरी तरह से सीधी स्थिति में आते समय, उद्घोषणा करें, <![CDATA[<b><i>\"सामी-अल्लाहु लिमन हमीदा\"</i></b>]]> - \"अल्लाह ने उसकी सुनी जिसने उसकी प्रशंसा की।\" उसके बाद, घोषित करें, <![CDATA[<b><i>\"रब्बाना लाकल हम्द\"</i></b>]]> - "हे हमारे भगवान, सारी प्रशंसा आपकी है"।</string>
+    <string name="string_step_12"><![CDATA[<b>चरण 12:</b>]]> एक बार फिर कहें <![CDATA[<b><i>\"अल्लाहु अकबर\"</i></b>]]> और साष्टांग झुकना, जिसे "सुजूद" कहा जाता है। साष्टांग प्रणाम करते समय सुनिश्चित करें कि आपका माथा, नाक, दोनों हाथों की हथेलियाँ, घुटने और आगे की ओर इशारा करते पैर की उंगलियाँ फर्श से संपर्क में हों।</string>
+    <string name="string_step_13"><![CDATA[<b>चरण 13:</b>]]> कम से कम तीन बार दोहराएं, <![CDATA[<b><i>\"सुभाना रब्बिय-अल-आला\"</i></b>]]> - \"मेरे सर्वोच्च प्रभु की जय हो\"।</string>
+    <string name="string_step_14"><![CDATA[<b>चरण 14:</b>]]> कहते हुए बैठ जाएं <![CDATA[<b><i>\"अल्लाहु अकबर\"</i></b> ]]>. अपने हाथों की हथेलियों को अपने घुटनों पर रखें। अपने बाएं पैर के तलवे पर बैठें, दाहिने पैर की उंगलियों को सीधा रखें और आगे की ओर इशारा करें। महिलाओं के लिए, दोनों पैरों को दाईं ओर रखते हुए अपने बाएं कूल्हे पर झुकें।</string>
+    <string name="string_step_15"><![CDATA[<b>चरण 15:</b>]]> कुछ देर रुकने के बाद, <![CDATA[<b><i>\"अल्लाहु अकबर\"</i></b>]]> कहते हुए साष्टांग प्रणाम करें।, और चरण 13 दोहराएँ।</string>
+    <string name="string_step_16"><![CDATA[<b>चरण 16:</b>]]> कहते हुए पूरी तरह खड़े हो जाएं <![CDATA[<b><i>\"अल्लाहु अकबर\"</i></b>]]>. अब आपने तरावीह की अपनी पहली इकाई या रकअत पूरी कर ली है।</string>
+    <string name="string_step_17"><![CDATA[<b>चरण 17:</b>]]> चरण 8 से 15 तक एक बार फिर दोहराएं।</string>
+    <string name="string_step_18"><![CDATA[<b>चरण 18:</b>]]> चरण 8 से 15 को फिर से पूरा करने के बाद, चरण 14 में बताए अनुसार बैठने की स्थिति में लौट आएं।</string>
+    <string name="string_step_19"><![CDATA[<b>चरण 19:</b>]]> बैठने की स्थिति में, तशाहुद के प्रारंभिक खंड का पाठ करें: <![CDATA[<b><i>\"अत-तहिय्यातु लिल्लाह, वस-सलावातु वत-तैयिबात। अस-सलामु \'अलयका अय्युहान-नबियु वा रहमत-उल्लाही वा बरकातु। अस-सलामु अलायना, वा अला इबादी-ल्लाहिस सालिहीन\"</i></b>]]>। इसका मतलब है "सभी प्रशंसाएं अल्लाह के लिए हैं, और प्रार्थनाएं और भलाई के लिए हैं। आप पर शांति हो, हे पैगंबर, और अल्लाह की दया और उसके आशीर्वाद। शांति हम पर और अल्लाह के नेक सेवकों पर हो।"</string>
+    <string name="string_step_20"><![CDATA[<b>चरण 20:</b>]]> इसके बाद, अपने हाथों को अपने घुटनों पर टिकाते हुए, अपने दाहिने हाथ की अन्य उंगलियों को एक साथ पकड़ते हुए अपनी दाहिनी तर्जनी को उठाएं। फिर, तशाहुद का दूसरा भाग पढ़ें: <![CDATA[<b><i>\"अशहदु अन ला इलाहा इल्-अल्लाहु वा अशहदु अन्ना मुहम्मदन अब्दुहू वा रसूलुह\"</i></b>]]> . . . . इसका मतलब है "मैं गवाही देता हूं कि अल्लाह के अलावा कोई भगवान नहीं है, और मैं गवाही देता हूं कि मुहम्मद उनके सेवक और दूत हैं।"</string>
+    <string name="string_step_21"><![CDATA[<b>चरण 21:</b>]]> अपनी दाहिनी तर्जनी को नीचे करें, दोनों हथेलियों को अपने घुटनों पर रखें</string>
+    <string name="string_step_22"><![CDATA[<b>चरण 22:</b>]]> बैठे रहते हुए, पढ़ें: <![CDATA[<b><i>\"अल्लाह, शांति आप पर हो, पैगंबर मुहम्मद हैं, और शांति उन पर हो, पैगंबर इब्राहिम वा अला अली इब्राहिम, हमीदुम मजीद की मां। अल्लाहुम्मा बारिक \'अला मुहम्मदिव वा अला अली मुहम्मदिन, कामा हमीदुम मजीद की मां अला इब्राहिम वा अला अली इब्राहिम को आशीर्वाद दें\"</i></b>]]>। इसका अनुवाद इस प्रकार है "हे अल्लाह, मुहम्मद और मुहम्मद के परिवार पर अपनी दया भेजो, जैसे तुमने इब्राहीम और इब्राहिम के परिवार पर दया भेजी थी। वास्तव में आप प्रशंसनीय और गौरवशाली हैं। हे अल्लाह, मुहम्मद और मुहम्मद के परिवार पर आशीर्वाद भेजो।" मुहम्मद, जैसे आपने इब्राहीम और इब्राहीम के परिवार पर आशीर्वाद भेजा। वास्तव में आप प्रशंसनीय और गौरवशाली हैं।</string>
+    <string name="string_step_23"><![CDATA[<b>चरण 23:</b>]]> कुछ प्रार्थनाओं (दो) को पढ़ने की अत्यधिक अनुशंसा की जाती है। एक सीधी और व्यापक दुआ है, <![CDATA[<b><i>\"हे अल्लाह, हमें इस दुनिया में अच्छा बना और आख़िरत में अच्छा बना, और हमें आख़िरत में भी अच्छा बना।\"</i></b>]]>। इसका अर्थ है "हे हमारे भगवान, हमें इस दुनिया में अच्छा और उसके बाद में अच्छा दे और हमें आग की सजा से बचाए।"</string>
+    <string name="string_step_24"><![CDATA[<b>चरण 24:</b>]]> अपने सिर को दाईं ओर घुमाकर यह कहते हुए सलाह समाप्त करें <![CDATA[<b><i>\"अस्सलामु अलैकुम वा रहमत-उल्लाही वा आशीर्वाद\"</i></b>]]>. फिर अपना सिर बाईं ओर घुमाते हुए इन शब्दों को दोहराएं। उनका मतलब है, "शांति, अल्लाह की दया और उसका आशीर्वाद आप पर हो।"</string>
+    <string name="string_step_25"><![CDATA[<b>चरण 25:</b>]]> आपकी दो रकअत का प्रारंभिक सेट अब समाप्त हो गया है! कृपया अपनी अगली दो रकअत शुरू करने के लिए चरण 3 पर वापस जाएँ।</string>
+    <string name="string_tarawih">तरावीह</string>
+    <string name="string_tarawih_prayer">तरावीह की नमाज</string>
+    <string name="string_dialog_tarawih_1">हमारी नवीनतम सुविधाओं का परिचय: <![CDATA[<b>तरावीह</b>]]> &amp; <![CDATA[<b>रमांडा ग्रीटिंग्स</b>]]> गाइड अब उपलब्ध है!</string>
+    <string name='string_dialog_tarawih_2'>मुझे वहां ले चलो</string>
+
+    <string name='string_text_size'>पाठ का आकार</string>
+    <string name='string_text_shadow'>पाठ छाया</string>
+    <string name='string_background_blur'>पृष्ठभूमि धुंधला</string>
+    <string name='string_font_style_ramadan'>फ़ॉन्ट शैली</string>
+    <string name='string_color'>रंग</string>
+    <string name='string_send'>भेजें</string>
+    <string name='string_background'>पृष्ठभूमि</string>
+    <string name='string_app_download_link'>ऐप डाउनलोड लिंक</string>
+    <string name='string_share_image'>छवि साझा करें</string>
+    <string name='string_click_here_to_download_the_app'>ऐप डाउनलोड करने के लिए यहां क्लिक करें: %s</string>
+    <string name='string_greeting'>अभिवादन</string>
+
+    <string name="string_grant_permissions_later">अनुमतियाँ बाद में प्रदान करें</string>
+    <string name="string_notification">अधिसूचना</string>
+    <string name="string_location_permission">स्थान अनुमति</string>
+    <string name="string_notification_permission">अधिसूचना अनुमति</string>
+    <string name="string_appear_on_top_permission">शीर्ष अनुमति पर दिखाई दें</string>
+    <string name="string_des_location_quibla">किबला को सक्रिय करने के लिए ऐप को स्थान अनुमति की आवश्यकता है</string>
+    <string name="string_des_location_islam_map">इस्लाम मानचित्र को सक्रिय करने के लिए ऐप को स्थान अनुमति की आवश्यकता है</string>
+    <string name="string_des_location_widget">विजेट को सक्रिय करने के लिए ऐप को स्थान अनुमति की आवश्यकता है</string>
+    <string name="string_des_notification_widget">विजेट को सक्रिय करने के लिए ऐप को अधिसूचना अनुमति की आवश्यकता है</string>
+    <string name="string_des_appear_on_top_widget">विजेट को सक्रिय करने के लिए ऐप को शीर्ष पर दिखने की अनुमति की आवश्यकता है</string>
+    <string name="string_des_location_home">प्रार्थना के समय प्राप्त करने में सक्षम करने के लिए ऐप को स्थान अनुमति की आवश्यकता है</string>
+    <string name="string_des_notification_home">प्रार्थना का समय होने पर सूचनाओं की अनुमति देने के लिए ऐप को स्थान अनुमति की आवश्यकता होती है</string>
+    <string name="string_des_appear_on_top_home">प्रार्थना अधिसूचना स्क्रीन के प्रदर्शन की अनुमति देने के लिए ऐप को शीर्ष पर दिखने की अनुमति की आवश्यकता है</string>
+
+    <string name="string_you_can_select_location">आप स्थान का चयन कर सकते हैं</string>
+    <string name="string_you_can_select_notification">आप अधिसूचना का चयन कर सकते हैं</string>
+    <string name="string_you_can_select_appear_on_top">आप शीर्ष पर दिखें का चयन कर सकते हैं</string>
+
+    <string name="text_intro4" translatable="false">अपनी आत्मा को मजबूत रखने के लिए हर दिन कुरान पढ़ें और अज़कार को याद रखें</string>
+    <string name="title_intro4" translatable="false">कुरान और अज़कार</string>
+
+    <string name="string_continue">जारी रखें</string>
+    <string name="string_skip">छोड़ें</string>
+
+    <string name="string_go">जाओ</string>
+    <string name="string_are_you_sure_exit_the_app">क्या आप वाकई ऐप से बाहर निकलना चाहते हैं?</string>
+    <string name="string_yes">हाँ</string>
+    <string name="string_no">नहीं</string>
+    <string name="str_kareem">करीम</string>
+    <string name="ramadan_is_a_time_for_reflection_and_gratitude_may_you_be_granted_the_strength_to_practice_your_faith_the_patience_to_overcome_challenges_and_the_joy_in_every_moment_ramadan_mubarak">
+    रमज़ान आत्मचिंतन और कृतज्ञता का समय है। आपको अपने विश्वास का अभ्यास करने की शक्ति, चुनौतियों को पार करने का धैर्य, और हर क्षण में खुशी प्राप्त हो। रमज़ान मुबारक!
+</string>
+    <string name="str_picture_color">चित्र रंग</string>
+    <string name="title_intro_1">कुरान और दैनिक दुआएँ</string>
+    <string name="title_intro_2">किबला कम्पास</string>
+    <string name="title_intro_3">नमाज़ का समय</string>
+    <string name="title_intro_4">इस्लामी कैलेंडर</string>
+    <string name="content_intro_1">कुरान पढ़ें और सुनें, और दैनिक दुआओं और अज़कार को जानें।</string>
+    <string name="content_intro_2">अपनी किबला दिशा आसानी से खोजें, चाहे आप कहीं भी हों।</string>
+    <string name="content_intro_3">कभी भी नमाज़ न छोड़ें - सटीक समय, हमेशा समय पर।</string>
+    <string name="content_intro_4">महत्वपूर्ण तारीखों जैसे रमज़ान, ईद अल-फ़ित्र, ईद अल-अज़हा और अन्य को ट्रैक करें।</string>
+    <string name="please_select_language">कृपया अपनी भाषा चुनें</string>
+    <string name="str_zakat">ज़कात</string>
+    <string name="str_allah">अल्लाह</string>
+    <string name="continue_rotate_title">अपने फोन को तब तक घुमाएँ जब तक काबा बीच में न आ जाए।</string>
+    <string name="success_destination">यह किबला दिशा है!</string>
+    <string name="north_title">उत्तर (N)</string>
+    <string name="northeast_title">उत्तर-पूर्व (NE)</string>
+    <string name="east_title">पूर्व (E)</string>
+    <string name="southeast_title">दक्षिण-पूर्व (SE)</string>
+    <string name="south_title">दक्षिण (S)</string>
+    <string name="southwest_title">दक्षिण-पश्चिम (SW)</string>
+    <string name="west_title">पश्चिम (W)</string>
+    <string name="northwest_title">उत्तर-पश्चिम (NW)</string>
+    <string name="bookmark_title">बुकमार्क</string>
+    <string name="round_title">राउंड</string>
+    <string name="adjust_rounds_title">राउंड समायोजित करें</string>
+    <string name="currency_unit">मुद्रा इकाई</string>
+    <string name="calculate_zakat">ज़कात की गणना करें</string>
+    <string name="total_amount_of_zakat">ज़कात की कुल राशि</string>
+    <string name="property_information">संपत्ति जानकारी</string>
+    <string name="str_gold">सोना</string>
+    <string name="str_silver">चाँदी</string>
+    <string name="str_money">धन</string>
+    <string name="str_investment">निवेश</string>
+    <string name="business_assets">व्यवसायिक संपत्ति</string>
+    <string name="other_savings">अन्य बचत</string>
+    <string name="str_debt">ऋण</string>
+    <string name="str_nisab">निसाब</string>
+    <string name="str_find">खोजें</string>
+    <string name="str_unknown">अज्ञात</string>
+    <string name="loading_data_mosque_please_wait">मस्जिद डेटा लोड हो रहा है। कृपया प्रतीक्षा करें...</string>
+    <string name="allah_99_name_title">अल्लाह के 99 नाम</string>
+
+    <string name="the_most_or_entirely_merciful">सर्वाधिक या पूर्ण दयालु</string>
+    <string name="the_bestower_of_mercy">दया का प्रदाता</string>
+    <string name="the_king_and_owner_of_dominion">राजा और प्रभुत्व का स्वामी</string>
+    <string name="the_absolutely_pure">पूर्ण रूप से शुद्ध</string>
+    <string name="the_perfection_and_giver_of_peace">पूर्णता और शांति प्रदाता</string>
+    <string name="the_one_who_gives_emaan_and_security">वह जो ईमान और सुरक्षा देता है</string>
+    <string name="the_guardian">संरक्षक</string>
+    <string name="the_witness">साक्षी</string>
+    <string name="the_overseer">निरीक्षक</string>
+    <string name="the_all_mighty">सर्वशक्तिमान</string>
+    <string name="the_compeller">विजेता</string>
+    <string name="_the_restorer">पुनर्स्थापक</string>
+    <string name="the_supreme">सर्वोच्च</string>
+    <string name="_the_majestic">प्रतापी</string>
+    <string name="the_creator">सृष्टिकर्ता</string>
+    <string name="_the_maker">निर्माता</string>
+    <string name="the_originator">उत्पादक</string>
+    <string name="the_fashioner">रूप देने वाला</string>
+    <string name="the_all_and_oft_forgiving">सर्व और बार-बार क्षमा करने वाला</string>
+    <string name="the_subduer">दमन करने वाला</string>
+    <string name="the_ever_dominating">सदा प्रभुत्वशाली</string>
+    <string name="the_giver_of_gifts">उपहार देने वाला</string>
+    <string name="the_provider">प्रदाता</string>
+    <string name="the_opener">खोलने वाला</string>
+    <string name="_the_judge">न्यायाधीश</string>
+    <string name="the_all_knowing">सर्वज्ञ</string>
+    <string name="_the_omniscient">सर्वज्ञानी</string>
+    <string name="the_withholder">रोकने वाला</string>
+    <string name="the_extender">विस्तार करने वाला</string>
+    <string name="the_reducer">कम करने वाला</string>
+    <string name="the_abaser">अपमान करने वाला</string>
+    <string name="the_exalter">उन्नति करने वाला</string>
+    <string name="_the_elevator">उठाने वाला</string>
+    <string name="the_honourer">सम्मान देने वाला</string>
+    <string name="the_bestower">प्रदान करने वाला</string>
+    <string name="the_dishonourer">अपमान करने वाला</string>
+    <string name="the_humiliator">नीचा दिखाने वाला</string>
+    <string name="the_all_hearing">सर्व सुनने वाला</string>
+    <string name="the_all_seeing">सर्व देखने वाला</string>
+    <string name="the_judge">न्याय करने वाला</string>
+    <string name="_the_giver_of_justice">न्याय प्रदाता</string>
+    <string name="the_utterly_just">पूर्ण रूप से न्यायी</string>
+    <string name="the_subtle_one">सूक्ष्म</string>
+    <string name="the_most_gentle">सर्वाधिक कोमल</string>
+    <string name="the_acquainted">परिचित</string>
+    <string name="the_all_aware">सर्व जागरूक</string>
+    <string name="the_most_forbearing">सर्वाधिक धैर्यवान</string>
+    <string name="the_forgiving">क्षमा करने वाला</string>
+    <string name="the_exceedingly_forgiving">अत्यधिक क्षमा करने वाला</string>
+    <string name="the_most_appreciative">सर्वाधिक प्रशंसक</string>
+    <string name="the_most_high">सर्वोच्च</string>
+    <string name="_the_exalted">उत्कृष्ट</string>
+    <string name="the_greatest">सर्वश्रेष्ठ</string>
+    <string name="the_most_grand">सर्वाधिक भव्य</string>
+    <string name="the_preserver">संरक्षक</string>
+    <string name="the_all_heedful_and_all_protecting">सर्व सावधान और सर्व रक्षक</string>
+    <string name="the_sustainer">पालन करने वाला</string>
+    <string name="the_maintainer">रखने वाला</string>
+    <string name="the_reckoner">हिसाब करने वाला</string>
+    <string name="the_majestic">भव्य</string>
+    <string name="the_most_generous">सर्वाधिक उदार</string>
+    <string name="_the_most_esteemed">सर्वाधिक सम्मानित</string>
+    <string name="the_watchful">सजग</string>
+    <string name="the_all_watchful">सर्व सजग</string>
+    <string name="the_responsive">प्रतिक्रियाशील</string>
+    <string name="the_answerer">उत्तर देने वाला</string>
+    <string name="the_all_encompassing">सर्व समावेशी</string>
+    <string name="the_boundless">असीम</string>
+    <string name="the_all_wise">सर्व बुद्धिमान</string>
+    <string name="the_most_loving">सर्वाधिक प्रेम करने वाला</string>
+    <string name="the_glorious">गौरवशाली</string>
+    <string name="the_most_honorable">सर्वाधिक सम्माननीय</string>
+    <string name="the_infuser_of_new_life">नए जीवन का संचार करने वाला</string>
+    <string name="the_all_observing_witnessing">सर्व देखने वाला साक्षी</string>
+    <string name="absolute_truth">पूर्ण सत्य</string>
+    <string name="the_trustee">न्यासी</string>
+    <string name="the_disposer_of_affairs">कार्य संचालक</string>
+    <string name="the_all_strong">सर्व शक्तिशाली</string>
+    <string name="the_firm">दृढ़</string>
+    <string name="the_steadfast">स्थिर</string>
+    <string name="the_protecting_associate">रक्षक सहयोगी</string>
+    <string name="the_praiseworthy">प्रशंसनीय</string>
+    <string name="the_all_enumerating">सर्व गणना करने वाला</string>
+    <string name="the_counter">गणक</string>
+    <string name="the_initiator">प्रारंभकर्ता</string>
+    <string name="the_restorer">पुनर्स्थापक</string>
+    <string name="the_reinstater">पुनर्जनन करने वाला</string>
+    <string name="the_giver_of_life">जीवन देने वाला</string>
+    <string name="the_creator_of_death">मृत्यु का सृष्टिकर्ता</string>
+    <string name="ever_living">सदा जीवित</string>
+    <string name="the_self_subsisting">स्वयं निर्भर</string>
+    <string name="the_perceiver">अनुभव करने वाला</string>
+    <string name="the_illustrious">प्रसिद्ध</string>
+    <string name="the_magnificent">शानदार</string>
+    <string name="the_one">एकमात्र</string>
+    <string name="the_indivisible">अविभाज्य</string>
+    <string name="unique">अद्वितीय</string>
+    <string name="the_only_one">केवल एक</string>
+    <string name="the_eternal">शाश्वत</string>
+    <string name="satisfier_of_needs">आवश्यकताओं को पूरा करने वाला</string>
+    <string name="the_omnipotent">सर्वशक्तिमान</string>
+    <string name="the_powerful">शक्तिशाली</string>
+    <string name="the_expediter">तेज करने वाला</string>
+    <string name="the_promoter">प्रोत्साहक</string>
+    <string name="the_delayer">विलंब करने वाला</string>
+    <string name="the_first">प्रथम</string>
+    <string name="the_last">अंतिम</string>
+    <string name="the_utmost">सर्वोत्तम</string>
+    <string name="the_manifest">प्रकट</string>
+    <string name="the_all_surpassing">सर्वोपरि</string>
+    <string name="the_hidden_one">छिपा हुआ</string>
+    <string name="knower_of_the_hidden">छिपे हुए का जानने वाला</string>
+    <string name="the_sole_governor">एकमात्र शासक</string>
+    <string name="the_self_exalted">स्वयं उत्कृष्ट</string>
+    <string name="source_of_all_goodness">सभी अच्छाई का स्रोत</string>
+    <string name="the_ever_pardoning">सदा क्षमा करने वाला</string>
+    <string name="the_avenger">प्रतिशोधक</string>
+    <string name="the_pardoner">क्षमादाता</string>
+    <string name="the_most_kind">सर्वाधिक दयालु</string>
+    <string name="master_of_the_dominion">प्रभुत्व का स्वामी</string>
+    <string name="owner_of_the_kingdom">राज्य का मालिक</string>
+    <string name="possessor_of_glory_and_honour">गौरव और सम्मान का स्वामी</string>
+    <string name="the_just_one">न्यायपूर्ण</string>
+    <string name="the_gatherer">एकत्र करने वाला</string>
+    <string name="the_uniter">संयोजक</string>
+    <string name="the_self_sufficient">स्वयं पर्याप्त</string>
+    <string name="the_wealthy">धनवान</string>
+    <string name="the_enricher">समृद्ध करने वाला</string>
+    <string name="the_distresser">संकट देने वाला</string>
+    <string name="the_propitious">शुभ</string>
+    <string name="the_benefactor">उपकारी</string>
+    <string name="the_light">प्रकाश</string>
+    <string name="the_guide">मार्गदर्शक</string>
+    <string name="the_incomparable_originator">अतुलनीय उत्पत्तिकर्ता</string>
+    <string name="the_ever_lasting">सदा स्थायी</string>
+    <string name="the_inheritor">उत्तराधिकारी</string>
+    <string name="the_guide_to_the_right_path">सही मार्ग का मार्गदर्शक</string>
+    <string name="the_patient">धैर्यवान</string>
+    <string name="no_data">कोई डेटा नहीं</string>
+    <string name="get_started_title">शुरू करें</string>
+    <string name="radar_title">रडार</string>
+    <string name="radar_content">यह डिवाइस इस सुविधा का समर्थन नहीं करता।</string>
+    <string name="exit_the_app_title">क्या आप ऐप से बाहर निकलना चाहते हैं?</string>
+    <string name="what_problems_you_encounter_during_use">उपयोग के दौरान आपको किन समस्याओं का सामना करना पड़ा?</string>
+    <string name="restart">पुनः प्रारंभ करें</string>
+    <string name="nothing_interesting_anymore">अब कुछ भी रोचक नहीं</string>
+    <string name="explore">अन्वेषण करें</string>
+    <string name="still_uninstall">फिर भी अनइंस्टॉल करें</string>
+    <string name="why_uninstall_application">ऐप को अनइंस्टॉल क्यों कर रहे हैं?</string>
+    <string name="difficult_to_use">इस्तेमाल करने में कठिन</string>
+    <string name="too_many_ads">बहुत अधिक विज्ञापन</string>
+    <string name="others">अन्य</string>
+    <string name="please_enter_the_reason_why_uninstall_application">कृपया ऐप अनइंस्टॉल करने का कारण दर्ज करें</string>
+    <string name="don_t_uninstall_yet">अभी अनइंस्टॉल न करें</string>
+    <string name="loading_0">लोड हो रहा है (0%)...</string>
+    <string name="loading_splash">"लोड हो रहा है "</string>
+    <string name="prayer_reminder_not_working">नमाज़ अनुस्मारक काम नहीं कर रहा</string>
+    <string name="qibla_compass_not_working">क़िबला कंपास काम नहीं कर रहा</string>
+    <string name="uninstall">अनइंस्टॉल करें</string>
+
+</resources>

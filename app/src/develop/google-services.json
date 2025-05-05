@@ -1,0 +1,485 @@
+{
+  "project_info": {
+    "project_number": "719391556278",
+    "project_id": "ar-drawing-sketch-paint-68fa8",
+    "storage_bucket": "ar-drawing-sketch-paint-68fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:36a078010aa79c13ec5c17",
+        "android_client_info": {
+          "package_name": "com.autoclicker.automatictap.tap.clicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:185718e6d22f6b4fec5c17",
+        "android_client_info": {
+          "package_name": "com.battery.charging.animation.screen.superbattery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:087728ba5165fe2fec5c17",
+        "android_client_info": {
+          "package_name": "com.controlcenter.ios.notificationcenter.applecontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:4106e1b6b8d6b211ec5c17",
+        "android_client_info": {
+          "package_name": "com.controlcenter.notificationcenter.ios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:9b204e7483af9d1eec5c17",
+        "android_client_info": {
+          "package_name": "com.djmixer.remixsong.music.bassbooster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:9537e0b97ebdcb8dec5c17",
+        "android_client_info": {
+          "package_name": "com.findmyphone.by.clapfinder.lostphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:977986af4f5ac91dec5c17",
+        "android_client_info": {
+          "package_name": "com.flashlight.flashalert.torch.light.led"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:2e86780c12b9c33dec5c17",
+        "android_client_info": {
+          "package_name": "com.hkt.image.trasnlate.picture.language.text"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:d7a88a78e0c25b4aec5c17",
+        "android_client_info": {
+          "package_name": "com.hkt.verse.audio.holybible"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:1f12ef086d9447c6ec5c17",
+        "android_client_info": {
+          "package_name": "com.holybible.kjvbible.biblestudy.bibleoffline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:0fa1a81f70df7f18ec5c17",
+        "android_client_info": {
+          "package_name": "com.joke.joking.tool.prank.jokesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:cb911a490a38545aec5c17",
+        "android_client_info": {
+          "package_name": "com.ledbanner.ledscroller.sunfire.ledboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:db5aa05fde03284aec5c17",
+        "android_client_info": {
+          "package_name": "com.loan.cash.trading.smart.money"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:3a88754db0df3620ec5c17",
+        "android_client_info": {
+          "package_name": "com.loan.quick.cash.advance.personally"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:cfe936c935a95630ec5c17",
+        "android_client_info": {
+          "package_name": "com.loan.quick.instant.loans.cash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:52bb57f53d53f398ec5c17",
+        "android_client_info": {
+          "package_name": "com.lockscreen.phone.passcode.protector.free"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:f36a8b8a9d36ef49ec5c17",
+        "android_client_info": {
+          "package_name": "com.logomaker.generator.designer.createlogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:8dda5aed9b20501aec5c17",
+        "android_client_info": {
+          "package_name": "com.musicplayer.audioplayer.playermusic.musicapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:c2ec5d0670bcc1c2ec5c17",
+        "android_client_info": {
+          "package_name": "com.qibla.muslimday.app2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:d8b38b985fd51ae6ec5c17",
+        "android_client_info": {
+          "package_name": "com.padi.todo_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:0a5f72c6409ef8a5ec5c17",
+        "android_client_info": {
+          "package_name": "com.qibla.compass.calendar.prayertime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:0d4a5ae26b4998a2ec5c17",
+        "android_client_info": {
+          "package_name": "com.video.downloader.videoplayer.videodownloader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:87069d6d93f48a20ec5c17",
+        "android_client_info": {
+          "package_name": "com.voicescreenlock.voicelock.applock.lockscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:d340f6f19607d2d6ec5c17",
+        "android_client_info": {
+          "package_name": "com.zipperlockscreen.screenlock.ziplock.ziptheme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719391556278:android:a33aa480f6153b92ec5c17",
+        "android_client_info": {
+          "package_name": "drawing.sketch.paint.amazic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiAGtrv4cNStF8ufyu25FRXoE-WFg1Mis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

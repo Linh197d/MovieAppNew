@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_this_action_can_contain_ads">Bu işlem reklam içerebilir</string>
+    <string name="string_language">Dil</string>
+    <string name="string_next">Sonraki</string>
+    <string name="string_permission">İzin</string>
+    <string name="string_allow_per_we_muslim">Muslim Prayer - Quran Compass, cihazın konumunu kullanma, üstte görünme ve bildirim izni gerektirir (Android 13 ve üzeri)</string>
+    <string name="string_location">Konum</string>
+    <string name="string_appear_on_top">Üstte görün</string>
+    <string name="string_allow_notification">Bildirime izin ver</string>
+    <string name="string_you_need_to_accept_full_permission">Uygulamayı kullanmak için tam izni kabul etmeniz gerekiyor</string>
+    <string name="string_you_need_to_enable_permission_to_use_this_features">Bu özellikleri kullanmak için izni etkinleştirmeniz gerekiyor</string>
+    <string name="go_to_setting">Ayara git</string>
+    <string name="string_cancel">İptal etmek</string>
+    <string name="string_save">Kaydetmek</string>
+    <string name="string_juristic_method">Hukuki Yöntem</string>
+    <string name="string_adjust_islamic_calendar">İslami Takvimi Ayarlayın</string>
+
+    <!--Azkar-->
+    <string name="string_azkar">Azkar</string>
+    <string name="string_daily_dhikr">Günlük Zikir</string>
+    <string name="string_daily_dhikr_1">Darood-E-Ibraheemi</string>
+    <string name="string_daily_dhikr_2">Apter Salah(Preyer) Tasbeeh</string>
+    <string name="string_daily_dhikr_3">Günlük Dualar</string>
+    <string name="string_daily_dhikr_4">Herhangi bir şeye başlamadan önce</string>
+    <string name="string_daily_dhikr_5">Bu Kelime ve Aakhira İçin</string>
+    <string name="string_daily_dhikr_6">Allah\'tan korunma ve yardım için</string>
+    <string name="string_daily_dhikr_7">Kur\'an-ı Kerim\'in üçte biri sevabı</string>
+
+    <string name="string_daily_rememberence">Günlük Hatırlama</string>
+    <string name="string_daily_rememberence_1">Sabah anısı</string>
+    <string name="string_daily_rememberence_2">Akşam hatırası</string>
+
+    <string name="string_after_prayer">Namazdan Sonra</string>
+    <string name="string_after_prayer_1">namazdan sonra (namaz) tesbih</string>
+    <string name="string_after_prayer_2">namaz sonrası hatıralar</string>
+    <string name="string_after_prayer_3">düzenli olarak namaz kıl</string>
+    <string name="string_after_prayer_4">Allah\'tan korunma ve yardım için</string>
+
+    <string name="string_Rizq_sustenance">Rızk (Rızık)</string>
+    <string name="string_Rizq_sustenance_1">Rızk için (rızık)</string>
+    <string name="string_Rizq_sustenance_2">ihtiyacın olduğunda</string>
+    <string name="string_Rizq_sustenance_3">bağışlanma ve Allah\'ın rahmeti için</string>
+    <string name="string_Rizq_sustenance_4">Allah\'ı övdüğün için</string>
+    <string name="string_Rizq_sustenance_5">başarı için</string>
+
+    <string name="string_knowledge">Bilgi</string>
+    <string name="string_knowledge_1">bilgi artışı</string>
+    <string name="string_knowledge_2">bana güven ve güzel söz ver</string>
+    <string name="string_knowledge_3">cehaletten korunmak için</string>
+    <string name="string_knowledge_4">aptallıktan korunmak</string>
+
+    <string name="string_faith">İnanç</string>
+    <string name="string_faith_1">İmanını güçlendir</string>
+    <string name="string_faith_2">bizi müslüman yapmak için</string>
+    <string name="string_faith_3">bağışlanma dileyin ve imanınızı güçlendirin</string>
+    <string name="string_faith_4">Allah\'a söz ver</string>
+    <string name="string_faith_5">dürüst şirket için</string>
+
+    <string name="string_day_of_judgement">Yargı Günü</string>
+    <string name="string_day_of_judgement_1">bu dünya ve aakhira için</string>
+    <string name="string_day_of_judgement_2">af dileyin ve cehennemden korunun</string>
+    <string name="string_day_of_judgement_3">anne babanın ve tüm müslümanların bağışlanması için</string>
+    <string name="string_day_of_judgement_4">cennet için</string>
+
+    <string name="string_forgiveness">Bağışlama</string>
+    <string name="string_forgiveness_1">bağışlanma dileyin ve imanınızı güçlendirin</string>
+    <string name="string_forgiveness_2">affedilmek için</string>
+    <string name="string_forgiveness_3">bağışlanma ve Allah\'ın rahmeti için</string>
+    <string name="string_forgiveness_4">af dileyin ve cehennemden korunun</string>
+    <string name="string_forgiveness_5">anne babanın ve tüm müslümanların bağışlanması için</string>
+    <string name="string_forgiveness_6">kardeşlerin için af</string>
+    <string name="string_forgiveness_7">Kendin ve evine giren herkes için bağışlanma dilediğin için</string>
+    <string name="string_forgiveness_8">pişmanlık için</string>
+    <string name="string_forgiveness_9">İmanını güçlendir</string>
+    <string name="string_forgiveness_10">Allah\'ın rızasını aramak</string>
+
+    <string name="string_praising_allah">Allah\'a hamd etmek</string>
+    <string name="string_praising_allah_1">Allah\'ı övmek ve yüceltmek için</string>
+    <string name="string_praising_allah_2">Allah\'a teşekkür ettiğin için</string>
+    <string name="string_praising_allah_3">Allah\'a şükrettiğiniz için</string>
+    <string name="string_praising_allah_4">iyi haberler duyunca</string>
+    <string name="string_praising_allah_5">Rızk için (rızık)</string>
+    <string name="string_praising_allah_6">herşeyi Allah\'ın ellerine bıraktığın için</string>
+
+    <string name="string_protection">Koruma</string>
+    <string name="string_protection_1">Allah\'ın koruması ve yardımı</string>
+    <string name="string_protection_2">af dileyin ve cehennemden korunun</string>
+    <string name="string_protection_3">şeytandan/şeytandan korunmak için</string>
+    <string name="string_protection_4">nazardan korunmak için</string>
+    <string name="string_protection_5">ailenizi suçlulardan korumak için</string>
+    <string name="string_protection_6">çocuğunuzun güvenliği için</string>
+    <string name="string_protection_7">zalimlerden korunmak için</string>
+    <string name="string_protection_8">düşmanlara karşı korunmak için</string>
+    <string name="string_protection_9">korkuyu dizginlemek için</string>
+    <string name="string_protection_10">zalimlerden korunmak için</string>
+    <string name="string_protection_11">ebeveynler için</string>
+    <string name="string_protection_12">şirk koşmaktan korktuğum için</string>
+    <string name="string_protection_13">bu dünya ve aakhira için</string>
+    <string name="string_protection_14">dindar bir müslüman olmak</string>
+    <string name="string_protection_15">dürüst şirket için</string>
+    <string name="string_protection_16">doğal afet ve felaketlerden korunma</string>
+
+    <string name="string_family">Aile</string>
+    <string name="string_family_1">ebeveyn için</string>
+    <string name="string_family_2">anne babanın ve tüm müslümanların bağışlanması için</string>
+    <string name="string_family_3">kardeşleriniz için bağışlanma</string>
+    <string name="string_family_4">mutlu bir aile için</string>
+    <string name="string_family_5">Allah\'tan sana bir çocuk vermesini diliyorum</string>
+    <string name="string_family_6">çocuğunuzun güvenliği için</string>
+
+    <string name="string_health_liness">Sağlık / Iness</string>
+    <string name="string_health_liness_1">sağlıklı bir yaşam için</string>
+    <string name="string_health_liness_2">hastaları ziyaret ederken</string>
+    <string name="string_health_liness_3">acıyı hafifletmek</string>
+    <string name="string_health_liness_4">hastalık sırasında</string>
+    <string name="string_health_liness_5">birinin bir sınavdan veya sıkıntıdan geçtiğini görmek</string>
+    <string name="string_health_liness_6">eğer zor zamanlar geçirirsen</string>
+    <string name="string_health_liness_7">ölüme yaklaştığında</string>
+    <string name="string_health_liness_8">kabirleri ziyaret ederken</string>
+
+    <string name="string_loss_failure">Kayıp / Başarısızlık</string>
+    <string name="string_loss_failure_1">bir şeyde başarısız olduğunuzda veya kaybettiğinizde</string>
+    <string name="string_loss_failure_2">bir kayıp meydana geldiğinde</string>
+    <string name="string_loss_failure_3">bir trajediye maruz kaldığında</string>
+    <string name="string_loss_failure_4">birinin bir sınavdan veya sıkıntıdan geçtiğini görmek</string>
+    <string name="string_loss_failure_5">Allah\'ın yardımını dilediğin için</string>
+
+    <string name="string_sorrow_joy">Acı / Sevinç</string>
+    <string name="string_sorrow_joy_1">endişelendiğinde ve üzüldüğünde</string>
+    <string name="string_sorrow_joy_2">sıkıntıdayken</string>
+    <string name="string_sorrow_joy_3">zayıflıklarınızın üstesinden gelmek için</string>
+    <string name="string_sorrow_joy_4">bir trajediyle karşı karşıya kaldığında</string>
+    <string name="string_sorrow_joy_5">birinin bir sınavdan veya sıkıntıdan geçtiğini görmek</string>
+    <string name="string_sorrow_joy_6">kötü bir haber duyunca</string>
+    <string name="string_sorrow_joy_7">eğer zor zamanlar geçirirsen</string>
+    <string name="string_sorrow_joy_8">zor zamanlarda sabır için</string>
+    <string name="string_sorrow_joy_9">birisi sana hakaret ettiğinde</string>
+    <string name="string_sorrow_joy_10">korktuğunu hissettiğinde</string>
+    <string name="string_sorrow_joy_11">zalimlerden korunmak için</string>
+    <string name="string_sorrow_joy_12">Allah\'ın yardımını dilediğin için</string>
+    <string name="string_sorrow_joy_13">Allah\'a güvenmek</string>
+    <string name="string_sorrow_joy_14">iyi haberler duyunca</string>
+    <string name="string_sorrow_joy_15">birisi seni övdüğünde</string>
+
+    <string name="string_patience">Sabır</string>
+    <string name="string_patience_1">sabır için</string>
+    <string name="string_patience_2">zor zamanlarda sabır için</string>
+    <string name="string_patience_3">öfkeni kontrol ettiğin için</string>
+    <string name="string_patience_4">birisi sana hakaret ettiğinde</string>
+
+    <string name="string_debt">Borç</string>
+    <string name="string_debt_1">borcu kapatmak</string>
+    <string name="string_debt_2">sana para ödünç veren biri için</string>
+    <string name="string_debt_3">başarı için</string>
+    <string name="string_debt_4">Rızk için (rızık)</string>
+
+    <string name="string_during_menstruation">Menstruasyon sırasında</string>
+    <string name="string_during_menstruation_1">Darood-e-ibraheemi</string>
+    <string name="string_during_menstruation_2">bu dünya ve aakhira için</string>
+    <string name="string_during_menstruation_3">bağışlanma ve Allah\'ın rahmeti için</string>
+    <string name="string_during_menstruation_4">İmanını güçlendir</string>
+    <string name="string_during_menstruation_5">bizi müslüman yapmak için</string>
+    <string name="string_during_menstruation_6">Allah\'a teşekkür ettiğin için</string>
+    <string name="string_during_menstruation_7">dindar müslümanlar olmak</string>
+    <string name="string_during_menstruation_8">sağlıklı bir yaşam için</string>
+    <string name="string_during_menstruation_9">acıyı hafifletmek</string>
+    <string name="string_during_menstruation_10">eğer zor zamanlar geçirirsen</string>
+    <string name="string_during_menstruation_11">Allah\'ın yardımını dilediğin için</string>
+    <string name="string_during_menstruation_12">sıkıntıdayken</string>
+    <string name="string_during_menstruation_13">zor zamanlarda sabır için</string>
+    <string name="string_during_menstruation_14">Allah\'a güvenmek</string>
+
+    <!--Duas-->
+    <string name="string_duas">Dualar</string>
+    <string name="string_daily">Günlük</string>
+
+    <string name="string_sleeping">Uyuyor</string>
+    <string name="string_sleeping_1">Uyandığında</string>
+    <string name="string_sleeping_2">Uyumadan önce</string>
+
+    <string name="string_toilet">Tuvalet</string>
+    <string name="string_toilet_1">Tuvalete girmeden önce</string>
+    <string name="string_toilet_2">tuvaletten çıktıktan sonra</string>
+
+    <string name="string_ablution">Abdest</string>
+    <string name="string_ablution_1">Abdest almaya ne zaman başlanır</string>
+    <string name="string_ablution_2">abdesti tamamlarken</string>
+
+    <string name="string_mosque">Cami</string>
+    <string name="string_mosque_1">Camiye giderken</string>
+    <string name="string_mosque_2">Camiye girince</string>
+    <string name="string_mosque_3">Camiden çıkınca</string>
+
+    <string name="string_prayer">Namaz</string>
+    <string name="string_prayer_1">Ezan sırasında</string>
+    <string name="string_prayer_2">ezanı dinledikten sonra</string>
+    <string name="string_prayer_3">Tekbirden sonra (namazın başlaması)</string>
+    <string name="string_prayer_4">Ruku sırasında (namazda eğilmek)</string>
+    <string name="string_prayer_5">Allah\'ın huzurunda secde ederken (secdede)</string>
+    <string name="string_prayer_6">2 secde arasında otururken</string>
+    <string name="string_prayer_7">Kur\'an okurken secde etmek</string>
+    <string name="string_prayer_8">avda otururken (teshahhud)</string>
+    <string name="string_prayer_9">Darood-e-ibraheemi</string>
+    <string name="string_prayer_10">Teşehhüdden sonra</string>
+    <string name="string_prayer_11">Dua e kunoot (vitir namazında okunur)</string>
+    <string name="string_prayer_12">sabah namazından sonra</string>
+
+    <string name="string_home">Ev</string>
+    <string name="string_home_1">evden ayrılırken</string>
+    <string name="string_home_2">eve girdikten sonra</string>
+    <string name="string_home_3">Merdivenlerden çıkarken/bir yere çıkarken</string>
+    <string name="string_home_4">Merdivenlerden inerken/yüksek bir yerden inerken</string>
+
+    <string name="string_garment">Giysi</string>
+    <string name="string_garment_1">kıyafet giyerken</string>
+    <string name="string_garment_2">yeni kıyafetler giyerken</string>
+    <string name="string_garment_3">aynaya bakarken</string>
+
+    <string name="string_travel">Seyahat</string>
+    <string name="string_travel_1">seyahat için</string>
+    <string name="string_travel_2">seyahatten dönerken</string>
+    <string name="string_travel_3">yolculuk sırasında gece yaklaştığında</string>
+    <string name="string_travel_4">konaklama için</string>
+    <string name="string_travel_5">seyahat sırasında gece uyumadan önce</string>
+
+    <string name="string_food">Yiyecek</string>
+    <string name="string_food_1">yemeğe başlarken</string>
+    <string name="string_food_2">Eğer kişi başlangıçta Allah\'ı anmayı unutursa</string>
+    <string name="string_food_3">Yemeği bitirdikten sonra</string>
+    <string name="string_food_4">bir içki verildiğinde</string>
+    <string name="string_food_5">Süt içtikten sonra</string>
+    <string name="string_food_6">birinin evinde yemek yerken</string>
+    <string name="string_food_7">sana yemek teklif eden biri için</string>
+    <string name="string_food_8">orucunuzu açarken</string>
+    <string name="string_food_9">sana iftar veren birine</string>
+
+    <string name="string_occasional">ara sıra</string>
+
+    <string name="string_deceased">Merhum</string>
+    <string name="string_deceased_1">Bir kayıp meydana geldiğinde</string>
+    <string name="string_deceased_2">Kabirleri ziyaret ederken</string>
+    <string name="string_deceased_3">Başsağlığı dilerken</string>
+    <string name="string_deceased_4">Ölen kişinin gözleri kapatıldığında</string>
+    <string name="string_deceased_5">Cenaze namazında ölenler için</string>
+    <string name="string_deceased_6">Ölen kişiyi mezara koyarken</string>
+
+    <string name="string_haj_umrah">Hac / Umre</string>
+    <string name="string_haj_umrah_1">tabihya</string>
+    <string name="string_haj_umrah_2">siyah taşın yanından geçerken tekbir</string>
+    <string name="string_haj_umrah_3">Tavaf sırasında yemeni köşesine varıldığında</string>
+    <string name="string_haj_umrah_4">Safa dağına giderken</string>
+    <string name="string_haj_umrah_5">Safa Dağı ve Merve Dağı\'ndayken</string>
+    <string name="string_haj_umrah_6">Meş\'ar-i Haram\'da (Müzdelife) okunduğu için</string>
+    <string name="string_haj_umrah_7">Cemaraat\'a taş atarken</string>
+    <string name="string_haj_umrah_8">Arafat\'ta</string>
+    <string name="string_haj_umrah_9">kurban keserken</string>
+
+    <string name="string_ramadan">Ramazan</string>
+    <string name="string_ramadan_1">Orucunuzu açarken</string>
+    <string name="string_ramadan_2">Kadir Gecesi (Kadir Gecesi) için</string>
+    <string name="string_ramadan_3">Sana iftar veren biri için</string>
+    <string name="string_ramadan_4">hilalin görülmesi üzerine</string>
+
+    <string name="string_nature">Doğa</string>
+    <string name="string_nature_1">yağmur için</string>
+    <string name="string_nature_2">yağmur yağdığında</string>
+    <string name="string_nature_3">yağıştan sonra</string>
+    <string name="string_nature_4">aşırı yağmur yağdığında</string>
+    <string name="string_nature_5">gök gürültüsünü duyunca</string>
+    <string name="string_nature_6">bir fırtına sırasında</string>
+
+    <string name="string_good_ettiquete">İyi davranışlar</string>
+    <string name="string_good_ettiquete_1">insanları selamlamak için</string>
+    <string name="string_good_ettiquete_2">selama karşılık verirken</string>
+    <string name="string_good_ettiquete_3">birine teşekkür etmek için</string>
+    <string name="string_good_ettiquete_4">hapşırınca</string>
+    <string name="string_good_ettiquete_5">birinin hapşırdığını duyunca</string>
+    <string name="string_good_ettiquete_6">hapşıranlar yanıt verir</string>
+    <string name="string_good_ettiquete_7">çarşıya girerken</string>
+    <string name="string_good_ettiquete_8">bir toplantı/meclis sonunda</string>
+    <string name="string_good_ettiquete_9">birisi seni övdüğünde</string>
+
+    <string name="string_decision_guidance">karar / rehberlik</string>
+    <string name="string_decision_guidance_1">istikhara için</string>
+    <string name="string_decision_guidance_2">Adalet için</string>
+    <string name="string_decision_guidance_3">Allah\'ın rehberliğini arayın</string>
+    <string name="string_decision_guidance_4">Allah\'ın rızasını aramak</string>
+    <string name="string_decision_guidance_5">başarı için</string>
+    <string name="string_decision_guidance_6">İmanını güçlendir</string>
+    <string name="app_widget_description_time">Müslüman Namaz Vakitleri Widget\'ı</string>
+    <string name="app_widget_description_azkar">Widget Müslüman Azkar</string>
+
+    <!--    When you wake up-->
+    <string name="text_wake_up_1" translatable="false">Bana sağlığımı veren, ruhumu geri veren ve kendisini zikretmemi sağlayan Allah\'a hamd olsun.</string>
+    <string name="text_wake_up_2" translatable="false">Peygamber şöyle buyurmuştur: "Kim geceleyin uyanır ve sonra: \'Tek ve ortaksız Allah\'tan başka ilah yoktur, mülk ve hamd O\'nundur ve O, her şeye kadirdir\' derse. Allah ne kadar mükemmeldir, hamd Allah\'a mahsustur, Allah\'tan başka ilah yoktur, Allah en büyüktür ve yüce ve yüce olan Allah\'tan başka güç ve kuvvet yoktur ve sonra şöyle dua eder:\' Ya Rabbim beni affet.\' …affedilir\' “veya şöyle dedi: \'sonra sorar, cevaplanır. Sonra abdest alıp dua ederse, duası kabul olur\'.</string>
+    <string name="text_wake_up_3" translatable="false">Hamd, bizden aldıktan sonra bize hayat veren Allah\'a mahsustur ve diriliş O\'nadır.</string>
+
+    <!--    Before entering toilet-->
+    <string name="text_entering_toilet_1" translatable="false">(Allah adına). Allah\'ım, bütün kötülüklerden ve kötülük yapanlardan sana sığınırım.</string>
+    <!--    After leaving toilet-->
+    <string name="text_leaving_toilet_1" translatable="false">Senden (Allah\'tan) mağfiret dilerim.</string>
+    <!--    When starting ablution-->
+    <string name="text_starting_ablution_1" translatable="false">Allah adına.</string>
+    <!--    when completing ablution-->
+    <string name="text_completing_ablution_1" translatable="false">Tek ve ortağı olmayan Allah\'tan başka ibadete layık ilah olmadığına ve Muhammed\'in O\'nun kulu ve elçisi olduğuna şahitlik ederim.</string>
+    <string name="text_completing_ablution_2" translatable="false">Allah\'ım, beni sana çokça tevbe edenlerden eyle, temiz ve temiz kalanlardan eyle.</string>
+    <string name="text_completing_ablution_3" translatable="false">Allah\'ım, sen ne kadar mükemmelsin, sana hamdederim, senden başka ilah olmadığına şehadet ederim, senden mağfiret diler ve sana tevbe ederim.</string>
+    <!--    When going to Mosque-->
+    <string name="text_going_to_mosque_1" translatable="false">Allah\'ım, kalbime nur, dilime nur, kulaklarıma nur, gözlerime nur, arkama nur, önüme nur, üstüme nur, altıma nur kıl. Allah\'ım bana nur ver.</string>
+    <!--    Upon entering Mosque-->
+    <string name="text_entering_osque1" translatable="false">Kovulmuş şeytandan Yüce Allah\'a, O\'nun Yüce Zâtına ve sonsuz saltanatına sığınırım. Allah\'ın adıyla, salat ve selam Resulullah\'ın üzerine olsun. Allahım bana rahmetinin kapılarını aç.</string>
+    <!--    Upon Leaving Mosque-->
+    <string name="text_leaving_mosque_1" translatable="false">Allah\'ın adıyla, salat ve selam Resulullah\'ın üzerine olsun. Allah\'ım senden lütfunu isterim. Allah\'ım, beni kovulmuş şeytandan koru.</string>
+    <!--    During athan-->
+    <string name="text_during_athan_1" translatable="false">Allah\'tan başka güç ve kuvvet yoktur.</string>
+    <!--    after listening athan-->
+    <string name="text_listening_athan_1" translatable="false">Ey bu mükemmel davetin ve namazın Rabbi olan Allah\'ım. Muhammed\'e şefaat ve lütufta bulun ve onu, kendisine vaad ettiğin şerefli makama yükselt;</string>
+    <!--    After Takbeer-->
+    <string name="text_after_takbeer_1" translatable="false">Ben yüzümü ihlasla gökleri ve yeri yaratana çevirdim ve ben ortak koşanlardan değilim. Şüphesiz benim namazım, kurbanım, hayatım ve ölümüm âlemlerin Rabbi olan Allah içindir, O\'nun ortağı yoktur, ben bununla emrolundum ve ben Müslümanlardanım. Allah\'ım, mülk Sensin, Senden başka ibadete layık yoktur. Sen benim Rabbimsin, ben de senin kulunum, ben nefsime zulmettim ve günahımı itiraf ettim, o halde bütün günahlarımı bağışla, çünkü günahları senden başka kimse bağışlamaz. Beni ahlâkların en hayırlısına ilet, çünkü ona senden başkası hidayet edemez ve beni en kötü ahlâklardan kurtar, çünkü ondan başkası beni kurtaramaz. İşte çağrınıza yanıt olarak size hizmet etmekten mutluluk duyuyorum. Bütün iyilikler Senin elindedir ve kötülük Senden kaynaklanmaz. Ben senin isteğinle varım ve sana döneceğim. Sen mübarek ve yücesin, senden mağfiret dilerim ve sana tövbe ederim</string>
+    <string name="text_after_takbeer_2" translatable="false">Allah\'ım! Doğuyu batıdan ayırdığın gibi beni de günahlarımdan uzaklaştır. Allah\'ım, beyaz elbisenin lekelerden temizlendiği gibi beni de günahlarımdan arındır. Allah\'ım! Günahlarımı buzla, suyla ve donla yıka.</string>
+    <string name="text_after_takbeer_3" translatable="false">Allah\'ım, hamd ve senalar sana mahsustur. Adınız Mübarektir ve Majesteleri Yücedir. Senden başka ibadete layık ilah yoktur.</string>
+    <!--    During Ruku-->
+    <string name="text_during_ruku_1" translatable="false">Yüce Rabbime hamdolsun.</string>
+    <string name="text_during_ruku_2" translatable="false">Ey Rabbimiz olan Allah, Sen noksanlardan münezzehtir ve hamd sana mahsustur. Allahım beni affet.</string>
+    <string name="text_during_ruku_3" translatable="false">(Sen) çok yücesin, (Sen) çok kutsalsın, meleklerin ve Ruh\'un Rabbisin.</string>
+    <string name="text_during_ruku_4" translatable="false">Allah\'ım! Sana boyun eğdim (dua ettim), sana inandım ve sana teslim oldum. Senden önce işitmem, görmem, aklım, kemiklerim, sinirlerim ve (seyahat için) ayaklarımın bastığı şeyler alçaktır.</string>
+    <string name="text_during_ruku_5" translatable="false">Gücün, mülkün, azametin ve büyüklüğün sahibi Sen, yücesin.</string>
+    //While prostrating before Allah
+    <string name="text_before_allah_1" translatable="false">Yüce olan Rabbimin şanı yücedir.</string>
+    <string name="text_before_allah_2" translatable="false">Ey Rabbimiz olan Allah, Sen noksanlardan münezzehtir ve hamd sana mahsustur. Allahım beni affet.</string>
+    <string name="text_before_allah_3" translatable="false">(Sen) çok yücesin, (Sen) çok kutsalsın, meleklerin ve Ruh\'un Rabbisin.</string>
+    <string name="text_before_allah_4" translatable="false">Allah\'ım sana secde ediyorum ve sana inanıyorum. Sana teslim oldum. Yüzüm, onu yaratan, biçimlendiren, ona işitme ve görme veren Allah\'a secde etmiştir. Yaratıcıların en güzeli olan Allah ne yücedir.</string>
+    <string name="text_before_allah_5" translatable="false">Gücün, mülkün, azametin ve büyüklüğün sahibi Sen, yücesin.</string>
+    <string name="text_before_allah_6" translatable="false">Allah\'ım, gazabından rızanla, azabından affınla sığınırım. Senden Senden sığınırım. Övgülerini sayamam. Kendini övdüğün gibisin.</string>
+    <string name="text_before_allah_7" translatable="false">Allah\'ım, günahlarımın büyüğünü, küçüğünü, ilkini, sonunu, açığını ve gizlisini bağışla.</string>
+    //When sitting between two Sujood
+    <string name="text_two_sujood_1" translatable="false">Tanrım, beni affet. Rabbim beni bağışla.</string>
+    <string name="text_two_sujood_2" translatable="false">Allah\'ım beni bağışla, bana merhamet et, bana hidayet ver, bana yardım et, beni koru, beni rızıklandır ve beni yücelt.</string>
+    //prostration during quran recitation
+    <string name="text_quran_recitation_1" translatable="false">Yüzümü, onu yaratana, kudret ve kudretiyle ona işitme ve görme verene secde ettim. Yaratıcıların en güzeli olan Allah\'ın şanı yücedir.</string>
+    //when sitting in preyer
+    <string name="text_in_preyer_1" translatable="false">Bütün tevazu ve selamlar Allah içindir, bütün dualar ve iyilikler. Selam sana ey Peygamber, Allah\'ın rahmeti ve bereketi sana olsun. Selam bize ve Allah\'ın salih kullarının üzerine olsun. Şehadet ederim ki Allah\'tan başka ibadete layık ilah yoktur ve Muhammed\'in O\'nun kulu ve Resulü olduğuna şahitlik ederim.</string>
+    //darood-e-ibraheemi
+    <string name="text_ibraheemi_1" translatable="false">Allah\'ım, İbrahim\'e ve İbrahim ailesine lütufta bulunduğun gibi, Muhammed\'e ve Muhammed\'in ailesine de lütufta bulun; Sen övülmeye layıksın, yücesin. Allah\'ım, İbrahim\'e ve İbrahim ailesine bereket verdiğin gibi, Muhammed\'e ve Muhammed\'in ailesine de salat eyle; Sen övülmeye layıksın, yücesin.</string>
+    //After tashahhud
+    <string name="text_after_tashahhud_1" translatable="false">Allah\'ım, kabir azabından sana sığınırım, sahte Mesih\'in fitnesinden sana sığınırım, hayat ve ölümün fitnesinden sana sığınırım. Allah\'ım günahlardan ve borçlardan sana sığınırım.</string>
+    <string name="text_after_tashahhud_2" translatable="false">Allah\'ım ben nefsime çok zulmettim ve senden başka günahları bağışlayan yoktur. O halde beni bağışla ve bana merhamet et. Şüphesiz sen çok bağışlayıcısın, çok merhametlisin.</string>
+    <string name="text_after_tashahhud_3" translatable="false">Allah\'ım, benden önce gönderdiklerimi, arkamda bıraktıklarımı, gizlediklerimi, açıkça yaptıklarımı, aşırı yaptıklarımı ve senin benden daha iyi bildiğin şeyleri bağışla. Öne çıkaran da Sensin, erteleyen de Sensin. Senden başka ibadete layık ilah yoktur.</string>
+    //Dua e qunoot (recited in witr prayer)
+    <string name="text_e_qunoot_1" translatable="false">Allah\'ım! Senden yardım diler, senden mağfiret dileriz, sana inanırız, sana güveniriz, seni yüceltiriz, sana şükrederiz, sana nankörlük etmeyiz, sana isyan edenleri uzaklaştırırız ve terk ederiz. Allah\'ım! Yalnız sana ibadet eder, senin için dua eder, secde eder, seni razı etmek için dua eder, senin yolunda hizmete sunulur, senin rahmetini umar ve azabından korkarız. Hiç şüphesiz senin azabın kâfirlere ulaşacaktır Allah’ım!</string>
+    //after fajr prayer
+    <string name="text_fajr_prayer_1" translatable="false">Allah\'ım, Senden faydalı ilim istiyorum, onlar güzel ve uygun bir anlayışa sahip oldular.</string>
+    //when leaving home
+    <string name="text_leaving_home_1" translatable="false">Allah\'ın adıyla Allah\'a tevekkül ettim ve Allah\'tan başka güç ve kuvvet yoktur.</string>
+    <string name="text_leaving_home_2" translatable="false">Allah\'ım, sapmaktan, saptırılmaktan, kaymaktan, takılıp düşmekten, zulmetmekten, zulme uğramaktan, aptalca davranmaktan veya aptalca muameleye maruz kalmaktan sana sığınırım.\' Kayma: yani bilmeden günah işlemek.</string>
+    //upon entering home
+    <string name="text_entering_home_1" translatable="false">Allah\'ın adıyla gireriz, Allah\'ın adıyla çıkarız ve Rabbimize tevekkül ettik.</string>
+    <string name="text_the_stairs_1">Benden hiçbir güç ve kudret olmaksızın bu elbiseyi bana giydiren ve onu bana rızık kılan Allah\'a hamd olsun.</string>
+    <string name="text_the_stairs_2">Allah en büyüktür</string>
+    <string name="text_the_stairs_3">Tanrıya şükürler olsun</string>
+    //yeni kıyafetler giyerken
+    <string name="text_new_clothes_1">Allah\'ım, hamd sana mahsustur. Beni giydirdin. Senden onun hayrını ve ne için yaratıldığının hayırını isterim, onun şerrinden ve ne için yaratıldığı şeyin şerrinden de Sana sığınırım.</string>
+    //aynaya bakarken
+    <string name="text_the_mirror_1">Allah\'ım, dış özelliklerimi güzel kıldığın gibi, karakterimi de güzel kıl.</string>
+    //Seyahat
+    //seyahat için
+    <string name="text_for_travel_1">Biz onu kendi başımıza yaratamadığımız halde, bu ulaşımı bizim için yaratan Allah\'a şükürler olsun. Ve biz Rabbimize döneceğiz.</string>
+    <string name="text_for_travel_2">Lordum! Girişim (Medine\'ye) hayırlı olsun, çıkışım da (Mekke\'den) hayırlı olsun. Ve bana katından bana yardım edecek bir yetki (veya kesin bir işaret veya bir delil) ver.</string>
+    //seyahat formundan geri dönerken
+    <string name="text_form_travel_1">Allah en büyüktür, Allah en büyüktür, Allah en büyüktür.\nTek ve ortağı olmayan Allah\'tan başka ibadet edilmeye hak olan hiçbir şey yoktur. Bütün mülk ve hamd O\'nundur ve O, her şeye kadirdir. Rabbimize döneriz, tövbe ederiz, ibadet ederiz ve hamd ederiz. Allah vaadini yerine getirdi, kuluna yardım etti ve müttefikleri tek başına mağlup etti.</string>
+    /seyahat sırasında gece yaklaştığında
+    <string name="text_approaches_during_travel_1">Ey yeryüzü, benim de Rabbim, sizin de Rabbiniz Allah\'tır. Sizin şirkinizden, içinizde bulunanın şerrinden, sizde yarattığının şerrinden ve üzerinizde sürünen şeyin şerrinden Allah\'a sığınırım. Aslanlardan, büyük kara yılanlardan, diğer yılanlardan, akreplerden ve topraklarda yaşayan cinlerin şerrinden Allah\'a sığınırım. Bu bir baba ve onun çocuğudur</string>
+    //konaklama için
+    <string name="text_accommodation_1">Rabbim, beni mübarek bir iniş yerine indir. Sen, [bizi] ağırlayacak en hayırlısın.</string>
+    //seyahat sırasında gece uyumadan önce
+    <string name="text_during_travel_1">Lordum! Şeytanların vesveselerinden (telkinlerinden) Sana sığınırım. Ve Sana sığınırım Rabbim! benimle ilgilenmesinler (ya da yanıma yaklaşmasınlar).</string>
+    <string name="text_during_travel_2">Kovulmuş Şeytan\'dan Allah\'a sığınırım.</string>
+    <string name="text_during_travel_3">Yarattığı şeylerin şerrinden Allah\'ın Mükemmel Sözlerine sığınırım.</string>
+    //Yiyecek
+    //yemeğe başlarken
+    <string name="text_beginning_a_meal_1">Bismillahirrahmanirrahim, Rahman ve Rahim olan Allah\'ın adıyla.</string>
+    //başta Allah\'ı söylemeyi unutursak
+    <string name="text_the_beginning_1">Başlangıcı ve sonu olan Allah\'ın adıyla</string>
+    //yemeği bitirdikten sonra
+    <string name="text_finishing_a_meal_1">Bize yediren, içiren ve bizi Müslüman kılan Allah\'a hamd olsun.</string>
+    //içecek verildiğinde
+    <string name="text_a_drink_1">Ey Allah\'ım! Beni doyuranı doyur, bana içirene de içir.</string>
+    //süt içtikten sonra
+    <string name="text_drinking_milk_1">Ey Allah\'ım! Onu bize bereketli kıl ve bize onu artırmayı nasip et.</string>
+    //birinin evinde yemek yerken
+    <string name="text_house_1">Ey Allah\'ım! Kendilerine verdiğin rızıklardan onlara bereket ver, onları bağışla ve onlara merhamet et.</string>
+    //size yemek teklif eden biri için
+    <string name="text_you_a_meal_1">Allah\'ım, bana yemek yedirene yedir, bana içecek verene de iç.</string>
+    //orucunuzu açarken
+    <string name="text_your_fast_1">Ey Allah\'ım! Senin için oruç tuttum, sana inanıyorum, sana tevekkül ediyorum ve senin rızkınla orucumu açıyorum</string>
+    //Size iftar veren biri için
+    <string name="text_with_iftar_1">Seninle birlikte oruçlular da iftar etti, salihlere yemek verdin ve melekler sana dualarını okuyor.</string>
+
+
+    //Deceased
+    //when a loss occurs
+    <string name="text_loss_occurs_1" translatable="false">Şüphesiz biz Allah\'ız ve şüphesiz O\'na döneceğiz.</string>
+    //when visiting graves
+    <string name="text_visiting_graves_1" translatable="false">Ey burada ikamet eden Müslümanlar, size selam olsun, Allah\'ın izniyle biz de size geleceğiz. Kendimiz ve sizin için emniyet arıyoruz.</string>
+    //when offering condolenca
+    <string name="text_offering_condolenca_1" translatable="false">Şüphesiz Allah, kendisine ait olanı alır, verdiği de kendisine aittir ve her şey için bir süre belirlemiştir. Bu yüzden sabırlı olun ve ödüllendirilin</string>
+    //when closing the eyes of the deceased
+    //For the deceased at the funeral prayer
+    <string name="text_funeral_prayer_1" translatable="false">Allah\'ım, onu bağışla, ona merhamet et, ona güç ver ve onu affet. Ona cömert davran, girişini genişlet ve onu su, kar ve dolu ile yıka. Beyaz elbisenin lekelerden temizlendiği gibi onu da günahlarından temizle. Ona evinden daha hayırlı bir yer, ailesinden daha hayırlı bir aile, hanımından daha hayırlı bir eş ver. Onu cennete koy ve onu kabir azabından [ve cehennem azabından] koru.</string>
+    <string name="text_funeral_prayer_2" translatable="false">Allah\'ım, dirilerimizi, ölülerimizi, yanımızda bulunanları ve bulunmayanlarımızı, gencimizi, yaşlımızı, erkeklerimizi ve kadınlarımızı bağışla. Allah\'ım, bizden kimi diriltirsen onu İslam üzere dirilt, bizden kimi uzaklaştırırsan onu imanla uzaklaştır. Allah\'ım, onların sevabını bize yasaklama ve onların ardından bizi saptırma.</string>
+    //When placing the deceased in the grave
+    <string name="text_the_graver_1" translatable="false">Allah\'ın adıyla ve Resulullah\'ın sünnetine göre</string>
+
+    //Hajj / Umrah
+    //tabihya
+    <string name="text_tabihya_1" translatable="false">Daima hizmetinizdeyiz, Allah\'ım, herkes hizmetinizdedir. Daima Hizmetinizdedir, Hiçbir ortağınız yoktur, Hizmetinizdedir. Şüphesiz hamd, bereket ve mülk senindir. ortağın yok</string>
+    //takbeer when passing the black stone
+    <string name="text_black_stone_1" translatable="false">Allah en büyüktür!</string>
+    //upon reaching the yemeni corner during tawaf
+    <string name="text_during_tawaf_1" translatable="false">Efendimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.</string>
+    //while going to mount safa
+    <string name="text_mount_safa_1" translatable="false">Allah\'ın başladığı şeyle başlıyorum. Allah en büyüktür, Allah en büyüktür, Allah en büyüktür. Tek ve ortağı olmayan Allah\'tan başka ibadet edilmeye hak yoktur. Bütün mülk ve hamd O\'nundur ve O, her şeye kadirdir. Yalnızca Allah\'tan başkasına ibadet edilmeye hak yoktur. Vaadini yerine getirdi, kuluna yardım etti ve müttefikleri tek başına mağlup etti.</string>
+    //When at Mount Safa and Mount Marwah
+    <string name="text_mount_marwah_1" translatable="false">Allah\'ın başladığı şeyle başlıyorum. Allah en büyüktür, Allah en büyüktür, Allah en büyüktür. Tek ve ortağı olmayan Allah\'tan başka ibadet edilmeye hak yoktur. Bütün mülk ve hamd O\'nundur ve O, her şeye kadirdir. Yalnızca Allah\'tan başkasına ibadet edilmeye hak yoktur. Vaadini yerine getirdi, kuluna yardım etti ve müttefikleri tek başına mağlup etti.</string>
+    //for reciting at al-mash’ar al-haraam (muzdalifah)
+    <string name="text_al_haraam_1" translatable="false">Allah en büyüktür. Allah tektir. Allah\'tan başka ibadete layık ilah yoktur.</string>
+    //when throwing stone at jamaraat
+    <string name="text_at_jamaraat_1" translatable="false">Allah en büyüktür!</string>
+    //at arafat
+    <string name="text_at_arafat_1" translatable="false">Tek ve ortağı olmayan Allah\'tan başka ibadet edilmeye hak yoktur. Mülk ve hamd O\'nundur ve O, her şeye kadirdir.</string>
+    //When sacrificing an animal
+    <string name="text_an_animal_1" translatable="false">Allah ismiyle Allah en büyüktür! [Ya Allah, Senden ve Sana.] Allah\'ım, onu benden kabul et.</string>
+
+    //Ramadan
+    //When openning your fast
+    <string name="text_openning_your_fast_1" translatable="false">Allah\'ım! Senin için oruç tuttum, sana inanıyorum, sana tevekkül ediyorum ve senin rızkınla orucumu açıyorum.</string>
+    //For the night of destiny
+    <string name="text_of_destiny_1" translatable="false">Allah\'ım sen çok affedensin, affetmeyi seversin, beni de affet</string>
+    //For someone who provides you with Iftar
+    <string name="text_you_with_iftar_1" translatable="false">Seninle beraber oruçlular da iftar etmiş, salihlere yemek yedirmişsin ve melekler sana dua ediyor.</string>
+    //on the sighting of the crescent moon
+    <string name="text_crescent_moon_1" translatable="false">Allah en büyüktür. Allah\'ım, hilali bize güvenlik ve imanla, huzurla, İslam\'la, Rabbimizin sevdiği ve razı olduğu şeylerle uyumlu kıl. Bizim de Rabbimiz, sizin de Rabbiniz Allah\'tır.</string>
+
+    //Nature
+    //For rain
+    <string name="text_for_rain_1" translatable="false">Allah\'ım, üzerimize zararlı değil faydalı, çabuk ve gecikmeyen bol yağmur yağdır.</string>
+    //when it rains
+    <string name="text_it_rains_1" translatable="false">Allah\'ım, faydalı yağmur bulutları getir.</string>
+    //after rainfall
+    <string name="text_after_rainfall_1" translatable="false">Allah\'ın lütfu ve rahmeti sayesinde bize yağmur verildi.</string>
+    <string name="text_after_rainfall_2" translatable="false">Allah\'ım, faydalı yağmur bulutları getir.</string>
+    <string name="text_after_rainfall_3" translatable="false">Allah\'ım, üzerimizden geçip gitmesin, tepelere, dağlara, vadilerin ortalarına ve ormanlık alanlara yağsın.</string>
+    //Upon hearing thunder
+    <string name="text_hearing_thunder_1" translatable="false">Gök gürlemesi ve meleklerin korkusundan dolayı tesbih ettikleri Allah\'ın şanı yücedir.</string>
+    //During a windstorm
+    <string name="text_a_windstorm_1" translatable="false">Allah\'ım, senden onun hayrını isterim, şerrinden de sana sığınırım.</string>
+
+    //Good ettiquete
+    //For greeting people
+    <string name="text_greeting_people_1" translatable="false">Allah\'ın selamı, rahmeti ve bereketi üzerinize olsun</string>
+    //When responding to Salam
+    <string name="text_to_Salam_1" translatable="false">Ve aleyküm selam ve rahmetullahi ve berekatuhu</string>
+    //For thanking someone
+    <string name="text_thanking_someone_1" translatable="false">Allah sizi hayırla mükafatlandırsın.</string>
+    //upon hearing someone sneeze
+    <string name="text_someone_sneeze_1" translatable="false">Allah sana rahmet etsin</string>
+    //Upon sneezing
+    <string name="text_Upon_sneezing_1" translatable="false">Bütün övgüler Allah\'a mahsustur.</string>
+    //Sneezers replies back
+    <string name="text_replies_back_1" translatable="false">Allah sana hidayet versin ve durumunu düzeltsin.</string>
+    //At the end of a Gathering/Majlis
+    <string name="text_a_Gathering_1" translatable="false">Allah\'ım, sen yücesin, hamd sana mahsustur. Senden başka ibadete layık ilah olmadığına şahitlik ederim. Senden bağışlanma diler ve sana tövbe ederim.</string>
+    //When entering market
+    <string name="text_entering_market_1" translatable="false">Allah\'tan başka Rab yoktur. O birdir ve ortağı yoktur. Mülk O\'nundur ve hamdler O\'nadır. O, hayat verir ve ölüm verir. O, sonsuzdur, sonsuzdur, hayırlar O\'nun kontrolündedir ve O, her şeye gücü yetendir.</string>
+    //When someone praises you
+    <string name="text_praises_you_1" translatable="false">Allah\'ım, onların söylediklerinden beni sorumlu tutma ve onların bilmedikleri şeylerden dolayı beni bağışla [ve beni düşündüklerinden daha hayırlı kıl.</string>
+
+    //decision / guidance
+    //For Istikhara
+    <string name="text_For_Istikhara_1" translatable="false">Allah\'ım, ilminden nasihat isterim, kudret-i kudretinden yardım isterim ve büyük lütfun için sana yalvarırım. Şüphesiz Sen Kadirsin, ben değilim. Sen bilirsin, ben bilmem. Sen gaybı bilensin. Allah\'ım, eğer bu işin [karar verilmesi gereken şeyi söyle] benim için dinimde, hayatımda ve ahirette refahım için hayırlı olduğunu biliyorsan, - [veya de ki: bu dünyada ve ahirette]] -Öyleyse onu bana takdir et ve onu bana kolaylaştır, sonra onu bana bereketlendir. Eğer bu işin benim dinim, hayatım ve ahiretteki refahım için kötü olduğunu biliyorsan (ya da şöyle söyle: dünya ve ahirette) onu benden uzaklaştır ve beni uzaklaştır. Ondan bana ver, nerede olursa olsun hayırlı olanı bana ver ve onunla yetinmem için bana yardım et. Kim Yaradan\'ın öğüdünü ararsa pişman olmaz ve kim müminlerin öğüdünü ararsa verdiği kararlardan emin olur. Allah Kuran\'da şöyle buyurmuştur: "İş konusunda onlarla istişarede bulunun. Sonra karar verince de Allah\'a tevekkül edin."</string>
+    //For Justice
+    <string name="text_For_Justice_1" translatable="false">Efendimiz! Bizimle kavmimiz arasında sen hakla karar ver; çünkü sen karar verenlerin en hayırlısısın.</string>
+    //Seek Allah\'s guidance
+    <string name="text_guidance_1" translatable="false">Bizi buna hidayet eden Allah\'a hamdolsun; Eğer Allah bize hidayet etmeseydi, asla hidayet bulamazdık.</string>
+    <string name="text_guidance_2" translatable="false">Allah, en iyi koruyandır ve O, merhametlilerin en merhametlisidir.</string>
+    //Seek Allah\'s satisfaction
+    <string name="text_satisfaction_2" translatable="false">Efendimiz! Bizleri Senin iradesine boyun eğen Müslümanlar, neslimizi de Senin iradesine boyun eğen Müslümanlardan eyle; ve (gerekli) törenlerin kutlanacağı yerimizi bize göster; ve (merhametle) bize yönel; Çünkü sen çok tövbe edensin, çok merhametlisin.</string>
+    //For success
+    <string name="text_for_success_1" translatable="false">Benim başarım ancak Allah\'ın sayesindedir. Ona güvendim ve O\'na döndüm.</string>
+    //strengthen your imaan
+    <string name="text_your_imaan_1" translatable="false">Benim başarım ancak Allah\'ın sayesindedir. Ben O\'na güvendim ve O\'na döndüm.</string>
+    <string name="text_your_imaan_2" translatable="false">Rab olarak Allah\'tan, din olarak İslam\'dan, Peygamber olarak Muhammed aleyhisselam\'dan razı oldum. (üç kere)</string>
+    <string name="text_your_imaan_3" translatable="false">Allah\'a sığınırım.</string>
+    <string name="text_your_imaan_4" translatable="false">Allah\'a ve Resulüne inanıyorum.</string>
+    <string name="text_your_imaan_5" translatable="false">Efendimiz! Bizi doğru yola ilettikten sonra kalplerimizi saptırma ve bize katından bir rahmet bağışla. Gerçekten Sen ihsan edensin.</string>
+
+    <string name="text_book_mark_duas" translatable="false">Yer İşareti - Duas</string>
+    <string name="text_book_mark_azkar" translatable="false">Yer İşareti - Azkar</string>
+    <string name="text_book_mark_quran" translatable="false">Yer imi</string>
+    <string name="text_ayah" translatable="false">Ayah</string>
+    <string name="text_islam_map" translatable="false">İslam haritası</string>
+    <string name="text_islam_map2" translatable="false">Yakındaki Camiler</string>
+    <string name="text_islam_map3" translatable="false">Yakındaki Restoranlar</string>
+    <string name="text_islam_map4" translatable="false">Yakınlardaki Helal Restoranlar</string>
+    <string name="text_days" translatable="false">Günler</string>
+    <string name="text_day" translatable="false">Gün</string>
+    <string name="text_no_wifi" translatable="false">Wifi Bağlantısı Yok</string>
+    <string name="text_no_wifi2" translatable="false">Bu uygulamanın tüm özelliklerini kullanmak için lütfen kablosuz ağa bağlanın</string>
+    <string name="text_connect" translatable="false">Bağlamak</string>
+    <string name="text_calculation_method" translatable="false">Hesaplama yöntemi</string>
+    <string name="text_default_font" translatable="false">Varsayılan yazı tipi</string>
+    <string name="text_uthmanic_hafs" translatable="false">Osman Hafs</string>
+    <string name="text_qibla" translatable="false">Kıble</string>
+    <string name="text_pray_now" translatable="false">Şimdi dua et</string>
+    <string name="text_praying_time_adj" translatable="false">Namaz Vakitlerinin Ayarlanması</string>
+    <string name="text_All" translatable="false">Tüm</string>
+    <string name="text_Fajrl" translatable="false">sabah</string>
+    <string name="text_Sunrise" translatable="false">gündoğumu</string>
+    <string name="text_Dhuhr" translatable="false">Öğle yemeği</string>
+    <string name="text_Asr" translatable="false">İkindi</string>
+    <string name="text_Maghrib" translatable="false">Akşam</string>
+    <string name="text_Isha" translatable="false">Yatsı</string>
+    <string name="text_Inaccurate" translatable="false">Yanlış konum mu? için bana dokun</string>
+    <string name="text_feedback" translatable="false">Geri bildirim</string>
+    <string name="text_Notification" translatable="false">Bildiri</string>
+    <string name="text_Vibrate" translatable="false">Titreşim</string>
+    <string name="Fajr" translatable="false">sabah</string>
+    <string name="Sunrise" translatable="false">gündoğumu</string>
+    <string name="Dhuhr" translatable="false">Öğle yemeği</string>
+    <string name="Asr" translatable="false">İkindi</string>
+    <string name="Maghrib" translatable="false">Akşam</string>
+    <string name="Isha" translatable="false">Yatsı</string>
+    <string name="text_minute" translatable="false">dakika</string>
+    <string name="text_minutes" translatable="false">dakika</string>
+    <string name="text_share_reminder" translatable="false">Hatırlatıcıyı Paylaş</string>
+    <string name="text_Min" translatable="false">Min.</string>
+    <string name="text_Next_prayer_in" translatable="false">Sonraki namaz:</string>
+    <string name="text_Pre_Notification" translatable="false">Ön Bildirim</string>
+    <string name="text_Hanafi" translatable="false">Hanefi</string>
+    <string name="text_Shafi_Maliki_Hanbali" translatable="false">Şafi/Maliki/Hanbeli</string>
+    <string name="text_Widget" translatable="false">Araç</string>
+    <string name="text_Convenient" translatable="false">Uygun</string>
+    <string name="text_Pray_anytime" translatable="false">İstediğiniz zaman, istediğiniz yerde dua edin.\n Nerede olursanız olun inancınızla bağlantı kurun</string>
+    <string name="text_intro1" translatable="false">Namaz Vakitlerinin Geri Sayımı &amp; Hatırlatma</string>
+    <string name="text_intro2" translatable="false">Namaz vaktinizi fark etmenize yardımcı olun \n Hiçbir günlük namazı kaçırmayın</string>
+    <string name="text_intro3" translatable="false">Manevi ve mutfak yolculuğunuz için mükemmel rehber</string>
+    <string name="text_Prayer_Time" translatable="false">Namaz Vakti</string>
+    <string name="text_share_image" translatable="false">Fotoğraf paylaşmak</string>
+    <string name="text_translation" translatable="false">Tercüme:</string>
+    <string name="text_tap_to_test" translatable="false">Ses efektini test etmek için dokunun</string>
+    <string name="text_Sound_Setting" translatable="false">Ses Ayarı</string>
+    <string name="text_Page_Background" translatable="false">Sayfa arkaplanı</string>
+    <string name="text_Pre_Adhan_reminder" translatable="false">Ezan Öncesi Hatırlatma</string>
+    <string name="text_all_the_setting" translatable="false">Aşağıdaki ayarların tümü Duas ve Duas için de uygulanacaktır. Azkar</string>
+    <string name="text_next_prayer" translatable="false">Sonraki Dua</string>
+    <string name="text_coming_prayers" translatable="false">Yaklaşan Dualar</string>
+    // Daily Dhikr
+    // Darood-e-ibraheemi
+    <string name="text_e_ibraheemi_1" translatable="false">Allah\'ım, İbrahim\'e ve İbrahim ailesine lütufta bulunduğun gibi, Muhammed\'e ve Muhammed\'in ailesine de lütufta bulun; Sen övülmeye layıksın, yücesin. Allah\'ım, İbrahim\'e ve İbrahim ailesine bereket verdiğin gibi, Muhammed\'e ve Muhammed\'in ailesine de salat eyle; Sen övülmeye layıksın, yücesin.</string>
+    //after salah (preyer) tasbeeh
+    <string name="text_tasbeeh_1" translatable="false">Allah\'ı tesbih ederim Allah\'a hamd olsun Allah en büyüktür</string>
+    //everyday duas
+    <string name="text_duas_1" translatable="false">Allah\'ım senden faydalı ilim, güzel rızık ve kabul olunacak amel isterim.</string>
+    <string name="text_duas_2" translatable="false">Allah\'ım, senden cenneti isterim ve ateşten sana sığınırım.</string>
+    <string name="text_duas_3" translatable="false">Allah\'ı tesbih ederim, hamd Allah\'a mahsustur, Allah en büyüktür!</string>
+    <string name="text_duas_4" translatable="false">Senden başka ibadete layık ilah yoktur, sen yücesin. Şüphesiz ben zalimlerdendim.</string>
+    //before starting anything
+    <string name="text_starting_anything_1" translatable="false">Rahman ve Rahim olan Allah\'ın adıyla.</string>
+    //for this word and the aakhira
+    <string name="text_the_aakhira_1" translatable="false">Efendimiz! Bize dünyada iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru!</string>
+    <string name="text_the_aakhira_2" translatable="false">Rabbimiz, şüphesiz sen, geleceğinde şüphe olmayan bir günde insanları toplayacaksın. Şüphesiz Allah vaadinden caymaz.</string>
+    //reward of one-third of quran
+    ////Daily Rememberence
+    //morning rememberence
+    <string name="text_morning_rememberence_1" translatable="false">Sabaha ulaştık ve bu saatte bütün mülk Allah\'ındır ve hamd Allah\'a mahsustur. Tek ve ortağı olmayan Allah\'tan başka ibadete hak yoktur, mülk ve hamd O\'nundur ve O, her şeye kadirdir. Rabbim, Senden bu günün ve ondan sonrakinin hayrını isterim, bu günün şerrinden ve ondan sonrakinin şerrinden Sana sığınırım. Rabbim, tembellikten ve ihtiyarlıktan sana sığınırım. Rabbim, ateş azabından, kabir azabından sana sığınırım.</string>
+    <string name="text_morning_rememberence_2" translatable="false">Allah\'ım, senin izninle sabahladık, senin izninle akşama ulaştık, senin izninle yaşar ve ölürüz ve yeniden dirilişimiz sanadır.</string>
+    <string name="text_morning_rememberence_3" translatable="false">Allah\'ım sen benim Rabbimsin, senden başka ilah yoktur, beni sen yarattın, ben senin kulunum, gücüm yettiğince senin ahdine ve vaadine uyuyorum, şerrinden sana sığınırım. taahhüt etmişlerdir. Bana olan nimetini de itiraf ediyorum, günahımı da itiraf ediyorum; o halde beni bağışla; çünkü günahı Senden başkası bağışlayamaz.</string>
+    <string name="text_morning_rememberence_4" translatable="false">Allah\'ım, doğrusu sabaha ulaştım ve seni, arşını taşıyanları, meleklerini ve bütün mahlûkatını şahit olmaya çağırıyorum ki, Sen Allah\'sın, Sen\'den başka hiçbir ilah yoktur, tek ve ortağı yoktur. Muhammed\'in senin kulun ve elçin olduğunu. (dört kere).</string>
+    <string name="text_morning_rememberence_5" translatable="false">Allah\'ım, benim ve yarattıklarından herhangi birinin üzerine yükseldiği nimetler yalnızca sendendir, ortağı yoktur, hamd sanadır ve hamd sanadır.</string>
+    <string name="text_morning_rememberence_6" translatable="false">Allah\'ım, bedenime sağlık ver, Allah\'ım, işitmeme sağlık ver, Allah\'ım, görmeme sağlık ver. Senden başka ilah yoktur. (Üç defa) Allah\'ım, küfürden ve fakirlikten sana sığınırım, kabir azabından da sana sığınırım. Senden başkasının ibadete hakkı yoktur. (üç kere)</string>
+    <string name="text_morning_rememberence_7" translatable="false">Allah bana yeter, O\'ndan başka ibadet edilecek yoktur, O\'na tevekkül ettim ve O, yüce Arş\'ın Rabbidir. (sabah ve akşam yedi defa)</string>
+    <string name="text_morning_rememberence_8" translatable="false">Yarattığı kötülüklerden Allah\'ın mükemmel sözlerine sığınırım. (akşam üç kez)</string>
+    <string name="text_morning_rememberence_9" translatable="false">Allah\'ım, Senden dünya ve ahirette af ve afiyet diliyorum. Allah\'ım, senden dinimde, dünyevimde, ailemde ve malımda afiyet ve afiyet dilerim. Allah\'ım, zaaflarımı perdele ve dehşetimi gider. Allah\'ım, beni önümden, arkamdan, sağımdan, solumdan ve üstümden koru; yerin beni yutmasından sana sığınırım.</string>
+    <string name="text_morning_rememberence_10" translatable="false">Ey görüleni de görülmeyeni de bilen, gökleri ve yeri yaratan, her şeyin Rabbi ve Hakimi olan Allah\'ım, şahitlik ederim ki Senden başka ilah yoktur. Nefsimin şerrinden, şeytanın şerrinden ve şirkinden, nefsime zulmetmekten ve bunu başka bir Müslümanın üzerine getirmekten sana sığınırım.</string>
+    <string name="text_morning_rememberence_11" translatable="false">İsmiyle yerde ve gökte hiçbir şeye zarar verilmeyen ve O, her şeyi gören, her şeyi bilen Allah\'ın adıyla.(Üç kez)</string>
+    <string name="text_morning_rememberence_12" translatable="false">Rab olarak Allah\'tan, din olarak İslam\'dan, Peygamber olarak Muhammed aleyhisselam\'dan razı oldum. (üç kere)</string>
+    <string name="text_morning_rememberence_13" translatable="false">Allah ne kadar mükemmeldir ve yarattıklarının sayısınca, rızası ile, arşının ağırlığıyla ve kelimelerinin mürekkebiyle O\'na hamdederim. (üç kere)</string>
+    <string name="text_morning_rememberence_14" translatable="false">Allah ne kadar mükemmeldir ve O\'na hamd ederim.(yüz defa)</string>
+    <string name="text_morning_rememberence_15" translatable="false">Ey diri, ey her şeyden önce var olan ve her şeye destek olan, rahmetinle yardım diliyorum, bütün işlerimi düzelt ve beni göz açıp kapayıncaya kadar bile nefsimle baş başa bırakma.</string>
+    <string name="text_morning_rememberence_16" translatable="false">Tek ve ortağı olmayan Allah\'tan başka ilah yoktur, mülk ve hamd O\'na aittir ve O, her şeye kadirdir. (yüz kez)</string>
+    <string name="text_morning_rememberence_17" translatable="false">Sabaha ulaştık ve bu saatte bütün egemenlik alemlerin Rabbi olan Allah\'ındır. Allah\'ım, Senden bu günün hayrını, fethini, zaferini, nurunu, bereketini ve hidayetini isterim, bu günün şerrinden ve ondan sonraki şerlerden sana sığınırım.</string>
+    //evening rememberence
+    <string name="text_evening_rememberence_1" translatable="false">Akşama ulaştık ve işte o anda bütün mülk Allah\'ındır ve hamd Allah\'a mahsustur. Tek ve ortağı olmayan Allah\'tan başka ibadete hak yoktur, mülk ve hamd O\'nundur ve O, her şeye kadirdir. Rabbim, Senden bu gecenin hayrını ve ondan sonrakinin hayrını isterim ve bu gecenin şerrinden ve ondan sonrakinin şerrinden Sana sığınırım. Rabbim, tembellikten ve ihtiyarlıktan sana sığınırım. Rabbim, ateş azabından, kabir azabından sana sığınırım.</string>
+    <string name="text_evening_rememberence_2" translatable="false">Allah\'ım, Senin izninle akşama ulaştık, Senin izninle sabaha ulaştık, Senin izninle yaşar ve ölürüz ve dönüşümüz Sanadır.</string>
+    <string name="text_evening_rememberence_3" translatable="false">Allah\'ım sen benim Rabbimsin, senden başka ilah yoktur, beni sen yarattın, ben senin kulunum, gücüm yettiğince senin ahdine ve vaadine uyuyorum, şerrinden sana sığınırım. taahhüt etmişlerdir. Bana olan nimetini de itiraf ediyorum, günahımı da itiraf ediyorum; o halde beni bağışla; çünkü günahı Senden başkası bağışlayamaz.</string>
+    <string name="text_evening_rememberence_4" translatable="false">Ey Allah\'ım, akşama ulaştık, seni şahit tutuyoruz, arşını taşıyanları, meleklerini ve bütün yarattıklarını şahit tutuyoruz ki sen Allah\'sın, senden başka ilah yoktur. Tek başına, ortağız ve Muhammed (S.A.V.) senin kulun ve elçindir.</string>
+    <string name="text_evening_rememberence_5" translatable="false">Allah\'ım, benim ve yarattıklarından herhangi birinin üzerine yükseldiği nimetler yalnızca sendendir, ortağı yoktur, hamd sanadır ve hamd sanadır.</string>
+    <string name="text_evening_rememberence_6" translatable="false">Allah\'ım, bedenime sağlık ver, Allah\'ım, işitmeme sağlık ver, Allah\'ım, görmeme sağlık ver. Senden başka ilah yoktur. (Üç defa) Allah\'ım, küfürden ve fakirlikten sana sığınırım, kabir azabından da sana sığınırım. Senden başkasının ibadete hakkı yoktur. (üç kere)</string>
+    <string name="text_evening_rememberence_7" translatable="false">Allah bana yeter, O\'ndan başka ibadet edilecek yoktur, O\'na tevekkül ettim ve O, yüce Arş\'ın Rabbidir. (sabah ve akşam yedi defa)</string>
+    <string name="text_evening_rememberence_8" translatable="false">Yarattığı kötülüklerden Allah\'ın mükemmel sözlerine sığınırım. (akşam üç kez)</string>
+    <string name="text_evening_rememberence_9" translatable="false">Allah\'ım, Senden dünya ve ahirette af ve afiyet diliyorum. Allah\'ım, senden dinimde, dünyevimde, ailemde ve malımda afiyet ve afiyet dilerim. Allah\'ım, zaaflarımı perdele ve dehşetimi gider. Allah\'ım, beni önümden, arkamdan, sağımdan, solumdan ve üstümden koru; yerin beni yutmasından sana sığınırım.</string>
+    <string name="text_evening_rememberence_10" translatable="false">Ey görüleni de görülmeyeni de bilen, gökleri ve yeri yaratan, her şeyin Rabbi ve Hakimi olan Allah\'ım, şahitlik ederim ki Senden başka ilah yoktur. Nefsimin şerrinden, şeytanın şerrinden ve şirkinden, nefsime zulmetmekten ve bunu başka bir Müslümanın üzerine getirmekten sana sığınırım.</string>
+    <string name="text_evening_rememberence_11" translatable="false">İsmiyle yerde ve gökte hiçbir şeye zarar verilmeyen ve O, her şeyi gören, her şeyi bilen Allah\'ın adıyla.(Üç defa)</string>
+    <string name="text_evening_rememberence_12" translatable="false">Rab olarak Allah\'tan, din olarak İslam\'dan, Peygamber olarak Muhammed aleyhisselam\'dan razı oldum. (üç kere)</string>
+    <string name="text_evening_rememberence_13" translatable="false">Allah ne kadar mükemmeldir ve yarattıklarının sayısınca, rızası ile, arşının ağırlığıyla ve kelimelerinin mürekkebiyle O\'na hamdederim. (üç kere)</string>
+    <string name="text_evening_rememberence_14" translatable="false">Allah ne kadar mükemmeldir ve O\'na hamd ederim.(yüz defa)</string>
+    <string name="text_evening_rememberence_15" translatable="false">Ey diri, ey her şeyden önce var olan ve her şeye destek olan, rahmetinle yardım diliyorum, bütün işlerimi düzelt ve beni göz açıp kapayıncaya kadar bile nefsimle baş başa bırakma.</string>
+    <string name="text_evening_rememberence_16" translatable="false">Tek ve ortağı olmayan Allah\'tan başka ilah yoktur, mülk ve hamd O\'na aittir ve O, her şeye kadirdir. (yüz kez)</string>
+    <string name="text_evening_rememberence_17" translatable="false">Sabaha ulaştık ve bu saatte bütün egemenlik alemlerin Rabbi olan Allah\'ındır. Allah\'ım, Senden bu günün hayrını, fethini, zaferini, nurunu, bereketini ve hidayetini isterim, bu günün şerrinden ve ondan sonraki şerlerden sana sığınırım.</string>
+    //After Prayers
+    //after salah (prayer) tasbeeh
+
+    //after prayer remembrances
+    <string name="text_remembrances_1" translatable="false">Allah\'tan mağfiret dilerim. (Üç kez) Allah\'ım, Sen Es-Selâm\'sın ve selâm Sendendir, ne mübareksin, Ey Celâl ve İkram Sahibi.\' Es-Selâm: Her türlü kusurdan ve her türlü kusurdan münezzeh olan. eksiklikler.</string>
+    <string name="text_remembrances_2" translatable="false">Allah\'tan başka hiçbir ilah yoktur, tektir, ortağı yoktur, mülk ve hamd O\'na aittir ve O, her şeye kadirdir. Allah\'ım, senin dilediğine hiç kimse engel olamaz ve senin dilediğini hiç kimse ihsan edemez. engel olur ve hiçbir zenginlik ve azamet kimseye fayda sağlayamaz; zira bütün zenginlik ve azamet Sendendir.</string>
+    <string name="text_remembrances_3" translatable="false">Allah ne kadar mükemmeldir, hamd Allah\'a mahsustur ve Allah en büyüktür." (otuz üç defa) Allah\'tan başka ilah yoktur, tektir, ortağı yoktur, mülk ve hamd O\'nundur ve O, her şeyden münezzehtir. her şeye gücü yeten her şey.</string>
+    <string name="text_remembrances_4" translatable="false">De ki: O, Allah\'tır, Allahüs-Samad\'dır (Bütün yaratıkların kendisine muhtaç olduğu, ne yer, ne içer). O, doğurmadı ve doğmadı; Ve O\'na eş ve benzeri hiçbir şey yoktur. [İhlas] De ki: Yarattığı şeylerin şerrinden, sabahın Rabbi olan Allah\'a sığınırım; Ve karanlığıyla birlikte gelen kararmanın (gecenin) şerrinden; (veya batarken veya uzaklaşırken ay). Düğümlere estiği zaman büyünün şerrinden ve haset ettiği zaman hasetçinin şerrinden. Felak De ki: İnsanların efendisi, insanların meliki, insanların ilahı, vesvese verenin (insanların kalplerine kötülük fısıldayan şeytanın) şerrinden sığınırım. (Allah\'ı andıktan sonra, kalbine fısıldamaktan geri çekilen), insanların göğüslerine ve cinlere ve insanlara vesvese verendir. [En-Nas] Sabah ve akşam namazlarından sonra 3 defa. Diğer namazlardan sonra 1 defa.</string>
+    <string name="text_remembrances_5" translatable="false">Allah! O\'ndan başka ibadete layık hiçbir ilah yoktur; O, diridir, var olan her şeyi ayakta tutan ve koruyandır. O\'na ne uyku, ne uyku yetişir. Göklerde ne varsa, yerde ne varsa O\'nundur. O\'nun izni dışında O\'nun katında şefaat edebilecek kimdir? Onların bu dünyada ne olacağını, ahirette ne olacağını bilir. Ve onlar, O\'nun dilediği dışında O\'nun ilminden hiçbir şeyi kavrayamazlar. Arşı gökleri ve yeri kaplamıştır ve onları korumak ve muhafaza etmek konusunda hiçbir yorgunluk hissetmez. Ve O, en yücedir, en büyüktür.</string>
+    <string name="text_remembrances_6" translatable="false">Allah\'tan başka hiçbir ilah yoktur, tektir, ortağı yoktur, mülk ve hamd O\'nundur, O diriltir ve öldürür ve O her şeye kadirdir. (Akşam ve sabah namazlarından sonra on defa)</string>
+    <string name="text_remembrances_7" translatable="false">Allah\'ım, Senden faydalı ilim, hayırlı rızık ve makbul amel isterim. (Sabah namazında selam verdikten sonra söylenir.)</string>
+    //offer salah regularly
+    <string name="text_regularly_1" translatable="false">Şüphesiz Rabbim duayı işitendir. Rabbim, beni ve neslimin çoğunu namazı dosdoğru kılanlardan eyle. Rabbimiz, duamı kabul et.</string>
+
+
+    //Rizq (Sustenance)
+    //for rizq (sustenance)
+    <string name="text_rizq_1" translatable="false">Allah\'ım senden faydalı ilim, güzel rızık ve kabul olunacak amel isterim.</string>
+    <string name="text_rizq_2" translatable="false">Allah\'ım beni bağışla, bana merhamet et, bana hidayet ver, bana yardım et, beni koru, beni rızıklandır ve beni yücelt.</string>
+    <string name="text_rizq_3" translatable="false">Allah\'ım senden lütuf isterim.</string>
+    <string name="text_rizq_4" translatable="false">Allah kullarına karşı çok merhametli ve şefkatlidir. Dilediğine rızık verir. Ve O, güçlüdür, güçlüdür.</string>
+    <string name="text_rizq_5" translatable="false">Ey Rabbimiz Allah! Bize gökten bir sofra gönder ki, bizim için -öncelerimiz ve geleceklerimiz için- büyük bir bayram ve senden bir ayet olsun; Rızkımızı ver, çünkü sen (ihtiyaçlarımızın) en hayırlısısın.</string>
+    //when you are in need
+    <string name="text_need_1" translatable="false">Efendim! Gerçekten bana vereceğin her hayra muhtacım!</string>
+    //for forgiveness and allah’s mercy
+    <string name="text_allah_mercy_1" translatable="false">(Rabbim) Sen bizim Mevlamızsın, bizi bağışla ve bize merhamet et; Sen bağışlayanların en hayırlısısın. Bize dünyada da, ahirette de iyiliği emret. Şüphesiz biz Sana yöneldik.</string>
+    <string name="text_allah_mercy_2" translatable="false">Efendim! Bağışla ve merhamet et, zira Sen merhamet edenlerin en hayırlısısın!</string>
+    <string name="text_allah_mercy_3" translatable="false">Efendimiz! Biz nefsimize zulmettik. Eğer bizi bağışlamaz ve bize rahmetini bağışlamazsan, mutlaka hüsrana uğrarız.</string>
+    <string name="text_allah_mercy_4" translatable="false">Efendimiz! Bize katından bir rahmet bağışla ve işimizi bizim için doğru bir şekilde hallet!</string>
+    <string name="text_allah_mercy_5" translatable="false">Efendimiz! İman ettik, bizi bağışla ve bize merhamet et, çünkü Sen merhamet edenlerin en hayırlısısın!</string>
+    //for praising allah
+    <string name="text_praising_allah_1" translatable="false">Allah\'ım! Ey mülk sahibi, Sen mülkü dilediğine verirsin, mülkü dilediğinden alırsın, dilediğine şeref verirsin, dilediğini alçaltırsın. İyilik Senin Elinde. Şüphesiz Sen her şeye Kadirsin. Sen geceyi gündüze katarsın, gündüzü de geceye katarsın (yani gecenin ve gündüzün saatlerinin artıp azalmasını kış ve yaz aylarında sağlarsın), ölüden diriyi çıkarırsın ve Ölüleri dirilerden çıkarırsın. Ve dilediğine sınırsız (ölçü ve hesap) mal ve rızık verirsin.</string>
+    <string name="text_praising_allah_2" translatable="false">O halde, akşama geldiğinizde (yani, Allah\'ı) [onların ortak koştukları (kötülüklerin) üstünde] Allah\'ı tesbih edin. (Akşam) güneşin batışını ve (yatsı) namazını kılın] ve sabaha girdiğinizde (yani (sabah) sabah namazını kılın). Göklerde ve yerde, ikindi vaktinde (yani ikindi namazını kıldığınızda) ve günün çökmeye başladığı vakte (yani öğle namazını kıldığınızda) bütün hamd ve şükürler O\'nundur. namaz). (İbn Abbas şöyle demiştir: "Bunlar, Kur\'an\'da zikredilen beş farz cemaat namazıdır)." O, ölüden diriyi çıkarır, diriden de ölüyü çıkarır. Ve yeryüzünü ölümünden sonra diriltir. İşte böylece çıkarılacaksınız (diriltileceksiniz).</string>
+    <string name="text_praising_allah_3" translatable="false">Allah münezzehtir ve O\'na hamdolsun. Allah en büyüktür.</string>
+    <string name="text_praising_allah_4" translatable="false">Allah\'ın şanı yücedir, hamd Allah\'ındır, Allah\'tan başka ibadete layık ilah yoktur ve Allah en büyüktür.</string>
+    <string name="text_praising_allah_5" translatable="false">Allah ne kadar mükemmel</string>
+    <string name="text_praising_allah_6" translatable="false">Allah\'tan başka güç ve kuvvet yoktur.</string>
+    <string name="text_praising_allah_7" translatable="false">Allah, büyüklerden münezzehtir ve O\'na hamd edilir.</string>
+    <string name="text_praising_allah_8" translatable="false">O, kendisinden başka ilah olmayan, görülmeyeni de görüleni de bilen Allah\'tır. O, çok Rahmandır, özellikle Rahimdir. O, kendisinden başka ilah olmayan, mülk sahibi, tertemiz, kamil, iman veren, gözetici, kudret ve kuvvet sahibi, zorlayıcı, üstün olan Allah\'tır. Allah, onların ortak koştuklarından münezzehtir. O, yaratan, var eden, şekil veren Allah\'tır; En güzel isimler O\'nundur. Göklerde ve yerde ne varsa O\'nu yüceltir. Ve O, güçlü olandır, Hakimdir.</string>
+    <string name="text_praising_allah_9" translatable="false">Allah\'ın dilediği (oluşmuştur), Allah\'tan başka güç yoktur.</string>
+    //for success
+    <string name="text_for_success_4" translatable="false">Benim başarım ancak Allah\'ın sayesindedir. Ben O\'na güvendim ve O\'na döndüm.</string>
+    //increase in knowledge
+    <string name="text_knowledge_1" translatable="false">Efendim! ilmimi arttır</string>
+    <string name="text_knowledge_2" translatable="false">Allah\'ım senden faydalı ilim, güzel rızık ve kabul olunacak amel isterim.</string>
+    <string name="text_knowledge_3" translatable="false">Efendim! Bana hükmet (dini ilim, işlerin doğru hükmü ve Nübüvvet) ihsan et ve beni salihlerin arasına kat. Ve sonraki nesillerde bana şerefle anıl. Beni de nimet cennetinin varislerinden eyle. Ve babamı bağışla. Gerçekten o, sapıklardan olmuştur. Ve (tüm yaratıkların) yeniden diriltileceği günde beni rezil etme. O gün ki, kimseye ne mal ne de evlat fayda verir; ancak Allah\'a temiz bir kalple gelenler vardır.</string>
+    //grant me confidence and eloquence
+    <string name="text_eloquence_1" translatable="false">Ey Rabbim! Benim için göğsümü aç. Ve benim için işimi kolaylaştır. Dilimin düğümünü çöz ki, sözümü anlasınlar."</string>
+    <string name="text_eloquence_2" translatable="false">Sen yücesin, bize öğrettiğinden başka hiçbir bilgimiz yok. Şüphesiz sen, her şeyi bilen, hikmet sahibi olansın.</string>
+    //for protection from ignorance
+    <string name="text_ignorance_1" translatable="false">Cahillerden olmaktan Allah\'a sığınırım.</string>
+    //protection from foolishness
+    <string name="text_foolishness_1" translatable="false">Allah\'ım, başkalarını saptırmaktan, başkaları tarafından saptırılmaktan, başkalarını saptırmaktan veya beni yanıltmaktan, başkalarına sövmekten veya sövülmekten, ahmakça davranmaktan veya ahmaklarla karşılaşmaktan sana sığınırım. başkalarının aptallığı.</string>
+    //Faith
+    //strengthen your imaan
+    <string name="text_strengthen_your_imaan_1" translatable="false">Rab olarak Allah\'tan, din olarak İslam\'dan, Peygamber olarak Muhammed aleyhisselam\'dan razı oldum. (üç kere)</string>
+    <string name="text_strengthen_your_imaan_2" translatable="false">Allah\'a sığınırım.</string>
+    <string name="text_strengthen_your_imaan_3" translatable="false">Allah\'a ve Resulüne inanıyorum.</string>
+    <string name="text_strengthen_your_imaan_4" translatable="false">Efendimiz! Bizi doğru yola ilettikten sonra kalplerimizi saptırma ve bize katından bir rahmet bağışla. Gerçekten Sen ihsan edensin.</string>
+    <string name="text_strengthen_your_imaan_5" translatable="false">Efendimiz! Bizim günahlarımızı ve (Sana karşı görevlerimizi yerine getirirken) taşkınlıklarımızı bağışla, ayaklarımızı sağlam bas ve kâfirler topluluğuna karşı bize zafer ver.</string>
+    //to make us practicing muslims
+    <string name="text_practicing_muslims_1" translatable="false">Efendimiz! Biz senin indirdiğine iman ettik ve Resûl\'e uyduk. O halde bizi şahit olanlar arasına yaz.</string>
+    //seek forgiveness and strengthen your imaan
+
+    //pledge to allah
+    <string name="text_to_allah_1" translatable="false">Doğrusu ben, hakikate yönelerek yüzümü gökleri ve yeri yaratana çevirdim ve ben Allah\'a ortak koşanlardan değilim.</string>
+    <string name="text_to_allah_2" translatable="false">Şüphesiz benim namazım, ibadetlerim, hayatım ve ölümüm alemlerin Rabbi olan Allah içindir. Ortağı yoktur. Ben bununla emrolundum ve ben Müslümanların ilkiyim.</string>
+    //for righteous company
+    <string name="text_righteous_company_1" translatable="false">Göklerin ve yerin yaratıcısı, sen benim dünyada ve ahirette koruyucumsun. Beni Müslüman olarak öldür ve beni salihlerin arasına kat.</string>
+    <string name="text_righteous_company_2" translatable="false">Efendimiz! İnanıyoruz; bizi şahitlerin arasına yaz</string>
+    //seek forgiveness and protection from hell
+    <string name="text_from_hell_1" translatable="false">Rabbimiz, sen rahmet ve ilimle her şeyi kuşattın, o halde tövbe edip senin yoluna uyanları bağışla ve onları cehennem azabından koru.</string>
+    <string name="text_from_hell_2" translatable="false">Efendimiz! Biz gerçekten iman ettik, artık bizim günahlarımızı bağışla ve bizi ateş azabından koru.</string>
+    <string name="text_from_hell_3" translatable="false">Efendimiz! Sen bunları boş yere yaratmadın, ne yücesin! (Sen, onların sana ortak koştuklarından yücesin.) Bize ateş azabından kurtuluş ver. *Efendimiz! Muhakkak ki sen, kimi ateşe sokarsan, onu rezil etmişsindir ve Zâlimûn (müşrikler ve zalimler) asla bir yardımcı bulamazlar. *Efendimiz! Gerçekten biz, imana çağıran birinin (Muhammed (s.a.v.)) "Rabbinize iman edin" çağrısını işittik ve iman ettik. *Efendimiz! Bizim günahlarımızı bağışla, kötülüklerimizi bağışla ve bizi Ebrar (Allah\'a itaat eden ve O\'nun emirlerine tam olarak uyanlarla) birlikte salih bir şekilde vefat ettir. *Efendimiz! Bize, peygamberlerin aracılığıyla vaad ettiğin şeyleri ver ve kıyamet gününde bizi rezil etme; zira sen, vaadinden asla dönmezsin.</string>
+    <string name="text_from_hell_4" translatable="false">Allah hiç kimseye gücünün ötesinde bir yük yüklemez. Kazandığı (iyiliğin) karşılığını alır, kazandığı (kötülüğün) cezası da kendisine verilir. "Rabbimiz, unutursak veya yanılırsak bizi cezalandırma, Rabbimiz! Bizden öncekilere yüklediğin gibi bize de yük yükleme, Rabbimiz! Gücümüzün yetmeyeceği kadar ağır bir yükü bize yükleme. bizi bağışla ve bizi bağışla. Bize merhamet et. Sen bizim Mevlamızsın (Mâlimiz, Destekçimiz, Koruyucumuz vb.) ve kâfirler topluluğuna karşı bize zafer ver."</string>
+    <string name="text_from_hell_5" translatable="false">Efendimiz! Nurumuzu bizim için tamamla ve bizi bağışla; zira sen her şeye kadirsin.</string>
+    //for forgiveness for your parent and all muslims
+    <string name="text_all_muslims_1" translatable="false">Ey Rabbimiz! Hesap görülecek günde beni, ana-babamı ve bütün mü\'minleri mağfiretiyle kuşat!</string>
+    //for jannah
+    <string name="text_for_jannah_1" translatable="false">Efendimiz! Cehennemin azabını bizden uzaklaştır, çünkü onun gazabı elem verici bir azaptır; o, ne kötü bir mesken ve bir barınma yeridir.</string>
+    <string name="text_for_jannah_2" translatable="false">Efendimiz! Ve onları, babalarından, eşlerinden ve zürriyetlerinden salih olanları, kendilerine vaad ettiğin Adn Cennetlerine (ebedi cennetlere) koy! Şüphesiz sen güçlüsün, hikmet sahibisin. Ve onları (yaptıklarının cezasından dolayı) günahlardan koru ve kimi (yaptıklarının cezasından) kurtarırsan, o gün onu günahlarından (yani bağışlamalarından) kurtarırsın. merhamete." İşte bu, en büyük başarıdır."</string>
+    //for forgiveness
+    <string name="text_forgiveness_1" translatable="false">Ey Rabbim! Hakkında hiçbir bilgimin olmadığı şeyi Senden istemekten Sana sığınırım. Ve eğer beni bağışlamaz ve bana merhamet etmezsen, şüphesiz ben hüsrana uğrayanlardan olurum.</string>
+    <string name="text_forgiveness_2" translatable="false">Tanrım, beni affet. Rabbim beni bağışla.</string>
+    <string name="text_forgiveness_3" translatable="false">Allah\'ım beni bağışla, bana merhamet et, bana hidayet ver, bana yardım et, beni koru, beni rızıklandır ve beni yücelt.</string>
+    <string name="text_forgiveness_4" translatable="false">Allah\'ım, günahlarımın büyüğünü, küçüğünü, ilkini, sonunu, açığını ve gizlisini bağışla.</string>
+    <string name="text_forgiveness_5" translatable="false">Allah\'ım, gazabından rızanla, azabından affınla sığınırım. Senden Senden sığınırım. Övgülerini sayamam. Kendini övdüğün gibisin.</string>
+    <string name="text_forgiveness_6" translatable="false">Allah\'tan bağışlanma diler ve O\'na tövbe ederim.</string>
+    <string name="text_forgiveness_7" translatable="false">Allah\'ım ben nefsime çok zulmettim ve senden başka günahları bağışlayan yoktur. O halde beni bağışla ve bana merhamet et. Şüphesiz sen çok bağışlayıcısın, çok merhametlisin.</string>
+    <string name="text_forgiveness_8" translatable="false">Allah\'ım sen benim Rabbimsin, senden başka ilah yoktur, beni sen yarattın, ben senin kulunum, gücüm yettiğince senin ahdine ve vaadine uyuyorum, şerrinden sana sığınırım. taahhüt etmişlerdir. Bana olan nimetini de itiraf ediyorum, günahımı da itiraf ediyorum; o halde beni bağışla; çünkü günahı Senden başkası bağışlayamaz.</string>
+    <string name="text_forgiveness_9" translatable="false">Allah\'ım, senden her şeyi kuşatan rahmetinle beni bağışlamanı diliyorum.</string>
+    <string name="text_forgiveness_10" translatable="false">Rabbim, beni bağışla ve tövbemi kabul et, Sen tevbeleri kabul edensin, bağışlayansın.</string>
+    //forgiveness for your siblings
+    <string name="text_siblings_1" translatable="false">Ey Rabbim! Beni ve kardeşimi bağışla ve bizi rahmetine sok; çünkü sen merhamet edenlerin en merhametlisisin.</string>
+    //for asking forgiveness for youself and anyone who enters your house
+    <string name="text_your_house_1" translatable="false">Rabbim, beni, ana-babamı, mü\'min olarak evime gireni, mü\'min erkekleri ve mü\'min kadınları bağışla. Zalimlerin helakinden başkasını arttırmayın.</string>
+    //for repentance
+    <string name="text_repentance_1" translatable="false">Kendisinden başka ibadete layık olmayan, diri ve ebedi olan Allah\'tan bağışlanma diler ve O\'na tövbe ederim, ordunun saflarını terk etse bile Allah onu affeder.</string>
+    <string name="text_repentance_2" translatable="false">(Ve bu müşriklere ya Muhammed aleyhisselam de ki:) İşte, kendisine tevekkül ettiğim, her işimde ve tövbemde O\'na yöneldiğim Rabbim Allah\'tır.</string>
+    //for thanking allah
+    <string name="text_thanking_allah_1" translatable="false">Allah\'tan başka ibadete değer ilah yoktur, ortağı yoktur, mülk O\'nundur, hamd O\'na aittir ve O, her şeye kadirdir. Yüce Allah\'a mahsustur. Hamd Allah\'a mahsustur. Allah\'tan başka ibadete değer hiçbir ilah yoktur. Allah en büyüktür. Yüce ve Azîz olan Allah\'ın izni dışında hiçbir güç ve kuvvet yoktur. Rabbim beni bağışla.</string>
+    <string name="text_thanking_allah_2" translatable="false">Yüce Rabbime hamdolsun.</string>
+    <string name="text_thanking_allah_3" translatable="false">Ey Rabbimiz olan Allah, Sen noksanlardan münezzehtir ve hamd sana mahsustur. Allahım beni affet.</string>
+    <string name="text_thanking_allah_4" translatable="false">(Sen) çok yücedir, çok mukaddessin, meleklerin ve Ruh\'un Rabbidir</string>
+    <string name="text_thanking_allah_5" translatable="false">Gücün, mülkün, azametin ve büyüklüğün sahibi Sen, yücesin.</string>
+    <string name="text_thanking_allah_6" translatable="false">Tek olan, ortağı olmayan Allah\'tan başka ibadet edilmeye hak yoktur. Mülk O\'nundur, hamd O\'nundur. O, diriltir ve öldürür; O, her şeye kadirdir.</string>
+    <string name="text_thanking_allah_7" translatable="false">Allah\'tan başka ilah yoktur, O\'nun ortağı yoktur, mülk O\'nundur, hamd O\'nundur ve O, her şeye kadirdir. Allah\'tan başka güç ve kudret yoktur. Allah\'tan başka ibadet edilmeye hak yoktur ve biz O\'ndan başkasına ibadet etmeyiz. Lütuf O\'nundur, lütuf O\'nundur ve en güzel hamd O\'na aittir. Allah\'tan başka ibadet edilmeye hak yoktur. (Biz) kâfirler hoşlanmasa da, O\'na olan bağlılığımızda samimiyiz.</string>
+    <string name="text_thanking_allah_8" translatable="false">Yarattıklarının çokluğu, rızası, Arş\'ının ağırlığı ve kelamlarının genişliği itibarıyla Allah\'ı tesbih ve hamd O\'na mahsustur.</string>
+    <string name="text_thanking_allah_9" translatable="false">Allah\'ı tesbih ederim, hamd Allah\'a mahsustur, Allah en büyüktür!</string>
+    <string name="text_thanking_allah_10" translatable="false">Bize yiyecek ve içecek sağlayan, bize yeten, rızıksız ve yurtsuz nice insan için bize yer veren Allah\'a hamd olsun.</string>
+    <string name="text_thanking_allah_11" translatable="false">Allah, çok güzel mübarek bir hamdle, bitmeyen bir hamdle, asla veda etmeyeceğimiz bir hamdle ve vazgeçilmez bir hamdle övülsün, O bizim Rabbimizdir.</string>
+    //for being grateful to allah
+    <string name="text_grateful_to_allah_1" translatable="false">Rabbim, bana ve ana-babama verdiğin nimetlere şükretmeyi, razı olacağın salih amellerde bulunmayı ve benim evladımı salih kılmayı bana nasip et. Gerçekten ben sana tövbe ettim ve gerçekten ben Müslümanlardanım.</string>
+    <string name="text_grateful_to_allah_2" translatable="false">Rabbim, bana ve ana-babama verdiğin nimete şükretmeyi ve razı olacağın salih amellerde bulunmayı bana nasip eyle. Ve rahmetinle beni salih kullarının arasına kat.</string>
+    //on hearing good news
+    <string name="text_good_new_1" translatable="false">Hamd Allah\'a mahsustur, Allah\'ın dilediği gibi.</string>
+    //for leaving everything in the hands of
+    //protection and help from allah
+    <string name="text_help_from_allah_1" translatable="false">Kitabı indiren Allah, hesabı çabuk verendir, (kâfirlerin) gruplarını mağlup eder. Allah\'ım onları mağlup et ve sars.</string>
+    <string name="text_help_from_allah_2" translatable="false">O, Allah\'tır (birdir). Tüm yaratıkların ihtiyaç duyduğu, Kendi Kendine Yeten Efendi, doğurmamıştır ve doğmamıştır ve O\'nun eşi yoktur.</string>
+    <string name="text_help_from_allah_3" translatable="false">Allah! O\'ndan başka ibadete layık hiçbir ilah yoktur; O, diridir, var olan her şeyi ayakta tutan ve koruyandır. O\'na ne uyku, ne uyku yetişir. Göklerde ne varsa, yerde ne varsa O\'nundur. O\'nun izni dışında O\'nun katında şefaat edebilecek kimdir? Onların bu dünyada ne olacağını, ahirette ne olacağını bilir. Ve onlar, O\'nun dilediği dışında O\'nun ilminden hiçbir şeyi kavrayamazlar. Arşı gökleri ve yeri kaplamıştır ve onları korumak ve muhafaza etmek konusunda hiçbir yorgunluk hissetmez. Ve O, en yücedir, en büyüktür.</string>
+    <string name="text_help_from_allah_4" translatable="false">Yarattığı şeylerin şerrinden, karanlığıyla birlikte kararan gecenin şerrinden ve büyücülük yapanların şerrinden, sabahın Rabbi olan Allah\'a sığınırım. Düğümlere üfle ve haset ettiği zaman hasetçinin şerrinden.</string>
+    <string name="text_help_from_allah_5" translatable="false">Cinlerden ve insanlardan, insanların göğüslerine vesvese veren vesvese verenin şerrinden, insanların Rabbi, insanların Melik\'i, insanların İlahı olan Allah\'a sığınırım.</string>
+    <string name="text_help_from_allah_6" translatable="false">Allah\'ım, kabir azabından sana sığınırım, sahte Mesih\'in fitnesinden sana sığınırım, hayat ve ölümün fitnesinden sana sığınırım. Allah\'ım günahlardan ve borçlardan sana sığınırım.</string>
+    <string name="text_help_from_allah_7" translatable="false">Allah\'ım, kullarını dirilteceğin günde beni azabından koru.</string>
+    <string name="text_help_from_allah_8" translatable="false">Ey gaybı ve aşikarı bilen, gökleri ve yeri yaratan, her şeyin Rabbi ve sahibi olan Allah\'ım, Senden başka ibadete layık ilah olmadığına şahitlik ederim. Nefsimin şerrinden, şeytanın ve yardımcılarının şerrinden sana sığınırım. Nefsime kötülük getirmekten ve herhangi bir Müslümana zarar vermekten (Sana sığınırım).</string>
+    <string name="text_help_from_allah_9" translatable="false">Allah\'ım, dünyada ve ahirette senden bağışlanmanı ve korumanı dilerim. Allah\'ım, dinimde, dünya işlerimde, ailemde ve malımda senden mağfiret ve koruma dilerim. Allah\'ım sırlarımı gizle ve beni sıkıntıdan koru. Allah\'ım, beni önümden, arkamdan, solumdan, sağımdan ve üstümden olanlardan koru. Altımdan vurulmaktan senin azametine sığınırım.</string>
+    <string name="text_help_from_allah_10" translatable="false">Yeni bir güne girdik ve onunla birlikte bütün hakimiyet Allah\'ındır. Hamd Allah\'a mahsustur. Tek olan, ortağı olmayan Allah\'tan başka ibadet edilmeye hak yoktur. Mülk Allah\'ındır, hamd O\'nadır ve O, her şeye kadirdir. Rabbim, Senden bu günün ve bundan sonraki günlerin hayrını ister, bu günün ve ondan sonraki günlerin şerrinden Sana sığınırım. Rabbim, tembellikten ve çaresiz yaşlılıktan sana sığınırım. Rabbim, cehennem azabından ve kabir azabından sana sığınırım. Akşam bunu söylediğinizde şöyle demelisiniz: "Emsaynâ ve\'msel-mülku lillaah: "Bir günü daha bitirdik ve onunla birlikte bütün mülk Allah\'ındır" ve Rabbi \'as\'aluke hayra maa fe\' haathihil-laylati, wa khayra maa ba\'dahaa, wa \'a\'oothu bike min şerri maa fe haathihil-laylati ve şerri maa ba\'dahaa: "Senden bu gecenin ve gecelerin hayırlarını istiyorum Bu gecenin ve ondan sonra gelecek gecelerin şerrinden sana sığınırım."</string>
+    <string name="text_help_from_allah_11" translatable="false">Biliniz ki, sizin koruyucunuz Allah\'tır. Mükemmel koruyucudur ve mükemmel yardımcıdır.</string>
+    //for protection from satan/shaytan
+    <string name="text_shaytan_1" translatable="false">Efendim! Şeytanların vesveselerinden (telkinlerinden) Sana sığınırım. Ve Sana sığınırım Rabbim! ta ki yanıma gelmesinler (ya da yanıma yaklaşmasınlar).</string>
+    <string name="text_shaytan_2" translatable="false">Kovulmuş şeytanın şerrinden Allah\'a sığınırım.</string>
+    <string name="text_shaytan_3" translatable="false">Yarattığı şeylerin şerrinden Allah\'ın mükemmel kelimelerine sığınırım.</string>
+    //to keep your family safe from transgressors
+    <string name="text_transgressors_1" translatable="false">Efendim! Beni ve ailemi onların yaptıklarından koru.</string>
+    //for your child’s protection
+    <string name="text_protection_1" translatable="false">Seni her türlü şeytandan, her türlü hayvandan ve her türlü kıskanç, kınayıcı gözden Allah\'ın mükemmel kelimeleri ile koruma diliyorum.</string>
+    //for protection from oppressors
+    <string name="text_oppressors_1" translatable="false">Efendimiz! Halkı zalim olan bu beldeden bizi kurtar; Bize katından koruyacak birini, katından da bize yardım edecek birini gönder.</string>
+    <string name="text_oppressors_2" translatable="false">Allah\'ım sen benim gücümsün, desteğimsin. Senin uğruna yürüyorum, senin uğruna ilerliyorum ve senin uğruna savaşıyorum.</string>
+    //for curbing fear
+    <string name="text_fear_1" translatable="false">Allah\'ım, dilediğin gibi beni onlara karşı koru.</string>
+    //for protection from the wrongdoers
+    <string name="text_wrongdoers_1" translatable="false">Biz Allah\'a güveniyoruz. Rabbimiz, bizi zalimler topluluğu adına fitneye düşürme. Ve bizi rahmetinle kâfir kavimden kurtar.</string>
+    <string name="text_wrongdoers_2" translatable="false">Ey Rabbimiz! Şüphesiz sen, gizlediğimizi de, açığa vurduğumuzu da bilirsin; çünkü ne yerde, ne gökte hiçbir şey Allah\'a gizli kalmaz.</string>
+    <string name="text_wrongdoers_3" translatable="false">Efendimiz! Bize karşı küstahça davranmasından veya her türlü haddi aşmasından korkarız.</string>
+    //for parents
+    <string name="text_parents_1" translatable="false">Ey Rabbim! Beni, (ayrıca) soyumdan da, namazı kılanlardan eyle, Rabbimiz! Ve duamı kabul et.</string>
+    <string name="text_parents_2" translatable="false">Rabbim, beni küçükken büyüttükleri gibi, sen de onlara (anne-babama) merhamet et.</string>
+    //for fear of committing shirk
+    <string name="text_shirk_1" translatable="false">Allah\'ım, bilerek sana bir şeyi ortak koşmaktan sana sığınırım ve bilmediğim şeylerden dolayı da senden mağfiret dilerim.</string>
+    //for this wolrd and the aakhira
+    <string name="text_aakhira_1" translatable="false">Efendimiz! Bize dünyada iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru!</string>
+    <string name="text_aakhira_2" translatable="false">Rabbimiz, şüphesiz sen, geleceğinde şüphe olmayan bir günde insanları toplayacaksın. Şüphesiz Allah vaadinden caymaz.</string>
+    //to be a pious muslim
+    <string name="text_pious_muslim_1" translatable="false">Efendimiz! Bizi Zalimûn (müşrik ve zalimler) kavmi ile aynı seviyeye getirme.</string>
+    <string name="text_pious_muslim_2" translatable="false">Rabbim, o halde beni zalimler topluluğunun arasına koyma.</string>
+
+    //seek allah’s satisfaction
+    <string name="text_allah_satisfaction_1" translatable="false">Efendimiz! Bizden (bu hizmeti) kabul et: Çünkü sen her şeyi işitensin, her şeyi bilensin.</string>
+    <string name="text_allah_satisfaction_2" translatable="false">Efendimiz! Bizleri Senin iradesine boyun eğen Müslümanlar, neslimizi de Senin iradesine boyun eğen Müslümanlardan eyle; ve (gerekli) törenlerin kutlanacağı yerimizi bize göster; ve (merhametle) bize yönel; Çünkü sen çok tövbe edensin, çok merhametlisin.</string>
+
+    //Family
+    //for parent
+    //for a blissfull family
+    <string name="text_family_1" translatable="false">Ey Rabbim! Bize gözümüzü aydınlatacak eşler ve evlatlar bağışla ve bize salihlere önderlik etme lütfunu ver.</string>
+    //asking allah to grant you a child
+    <string name="text_a_child_1" translatable="false">Ey Rabbim! Bana katından hayırlı bir nesil bağışla. Sen gerçekten duayı işitensin.</string>
+    <string name="text_a_child_2" translatable="false">Ey Rabbim! Beni bekar (çocuksuz) bırakma, halbuki sen mirasçıların en hayırlısısın.</string>
+
+
+    //Health / Iiness
+    //for a healthy life
+    <string name="text_healthy_life_1" translatable="false">Allah\'ım beni bedenimde sağlıklı kıl. Allah\'ım, işitmemi bana muhafaza et. Allah\'ım, görüşümü bana muhafaza et. Senden başka ibadete layık ilah yoktur. Allah\'ım, küfürden ve fakirlikten sana sığınırım, kabir azabından da sana sığınırım. Senden başka ibadete layık ilah yoktur.</string>
+    //when visiting the sick
+    <string name="text_the_sick_1" translatable="false">Merak etmeyin, Allah\'ın izniyle bu sizin için bir arınma olacaktır.</string>
+    <string name="text_the_sick_2" translatable="false">Yüce ve Arş\'ın Rabbi olan Allah\'tan sana şifa vermesini dilerim\n(Peygamber Efendimiz (S.A.V.) bu duayı yedi defa okumakla hasta kişinin sağlığına kavuşacağını, eğer ölüm olursa o zaman ( ölüm) farklı bir konudur (yani ölümün önlenemeyeceği yazılmıştır))</string>
+    //to alleviate pain
+    <string name="text_alleviate_pain_1" translatable="false">Bulduğum ve sakındığım şeylerin şerrinden Allah\'ın adıyla Allah\'a ve O\'nun kudretine sığınırım.</string>
+    //upon seeing someone going through a trial or tribulation
+    <string name="text_tribulation_1" translatable="false">Hamd, sana verdiği musibetten beni esirgeyen ve beni, yarattığı şeylerin çoğundan üstün kılan Allah\'a mahsustur.</string>
+    //if you fall on hard times
+    <string name="text_hard_times_1" translatable="false">Gerçekten bana bir sıkıntı dokundu ve sen merhametlilerin en merhametlisisin.</string>
+    <string name="text_hard_times_2" translatable="false">Allah\'tan başka ibadete layık ilah yoktur, Allah en büyüktür. Yalnızca Allah\'tan başka ibadet edilmeye hak yoktur. Tek olan, ortağı olmayan Allah\'tan başka ibadet edilmeye hak yoktur. Allah\'tan başka ibadete layık ilah yoktur, mülk O\'nundur, hamd O\'nadır. Allah\'tan başka ibadete layık ilah yoktur, Allah\'tan başka güç ve kudret yoktur.</string>
+    //when you are nearing your death
+    <string name="text_nearing_your_death_1" translatable="false">Allah\'tan başka ibadete layık ilah yoktur</string>
+    <string name="text_nearing_your_death_2" translatable="false">Şehadet ederim ki, tek olan, ortağı bulunmayan Allah\'tan başka ibadete layık yoktur; Muhammed\'in O\'nun kulu ve elçisi olduğuna şahitlik ederim.</string>
+
+    //Loss / Failure
+    //when you fail or lose at something
+    <string name="text_something_1" translatable="false">Bu Allah\'ın takdiridir ve O dilediğini yapar.</string>
+    //when a loss occurs
+    <string name="text_occurs_1" translatable="false">Şüphesiz biz Allah\'ız ve şüphesiz O\'na döneceğiz.</string>
+    //when stricken by tragedy
+    <string name="text_tragedy_1" translatable="false">Biz Allah\'tan geldik ve O\'na dönüyoruz. Allah\'ım beni içinde bulunduğum durumdan kurtar ve bundan sonra bana daha hayırlısını getir.</string>
+    <string name="text_tragedy_2" translatable="false">Allah bize yeter ve güvenileceklerin en hayırlısıdır.</string>
+    //for seeking allah’s help
+    <string name="text_allah_help_1" translatable="false">Allah bize yeter ve güvenileceklerin en hayırlısıdır.</string>
+    <string name="text_allah_help_2" translatable="false">Ben sıkıntımı ve kederimi ancak Allah\'a şikayet ederim ve ben Allah\'tan sizin bilmediğiniz şeyleri bilirim.</string>
+    //at time of worry and sorry
+    <string name="text_worry_sorry_1" translatable="false">Allah\'ım, keder ve üzüntüden, acizlik ve tembellikten, cimrilik ve korkaklıktan, borca yenilmekten ve insanların (başkalarının) galip gelmesinden sana sığınırım.</string>
+    //when in distress
+    <string name="text_in_distress_1" translatable="false">Senden başka ibadete layık olan yoktur (Allahım), Sen münezzehsin. Gerçekten ben zalimlerden oldum.</string>
+    <string name="text_in_distress_2" translatable="false">Allah\'ım senin rahmetini umuyorum. Göz açıp kapayıncaya kadar (yani bir an) bile beni nefsimle baş başa bırakma. Bütün işlerimi benim için düzelt. Senden başka ibadete layık ilah yoktur.</string>
+    <string name="text_in_distress_3" translatable="false">Azîz ve Halim olan Allah\'tan başka ibadete layık ilah yoktur. Yüce Arş\'ın Rabbi olan Allah\'tan başka ibadete layık ilah yoktur. Göklerin Rabbi, yerlerin Rabbi ve Arş\'ın Rabbi olan Allah\'tan başka ibadete layık ilah yoktur.</string>
+    //for overcoming your weaknesses
+    <string name="text_weaknesses_1" translatable="false">Allah\'ım! Kederden, üzüntüden, acizlik ve tembellikten, cimrilik ve korkaklıktan, borç batağına düşmekten ve insanların galip gelmesinden sana sığınırım.</string>
+    //when striken by tragedy
+    <string name="text_by_tragedy_1" translatable="false">Biz Allah\'tan geldik ve O\'na dönüyoruz. Allah\'ım beni içinde bulunduğum durumdan kurtar ve bundan sonra bana daha hayırlısını getir.</string>
+    <string name="text_by_tragedy_2" translatable="false">Allah bize yeter ve güvenileceklerin en hayırlısıdır.</string>
+    //on hearing a bad news
+    <string name="text_a_bad_1" translatable="false">Hamd her halükarda Allah\'a mahsustur.</string>
+    //when someone insults you
+    <string name="text_insults_you_1" translatable="false">Rabbim, (aramızda) hak ile hükmet. Ve Rabbimiz, çok merhametli olandır, anlattıklarınıza karşı kendisinden yardım istenendir.</string>
+    //when feeling frightened
+    <string name="text_frightened_1" translatable="false">Allah\'tan başka ibadete layık ilah yoktur.</string>
+    //to trust upon allah
+    <string name="text_upon_allah_1" translatable="false">Allah bana yeter. La ilahe illa Huwa (O\'ndan başka ibadet edilecek hak yoktur), O\'na tevekkül ettim ve O, büyük Arş\'ın Rabbidir.</string>
+    <string name="text_upon_allah_2" translatable="false">Ve benim sana söylediklerimi hatırlayacaksın ve ben işimi Allah\'a havale ediyorum. Şüphesiz Allah, kullarını görmektedir.</string>
+
+
+    //Patience
+    //for patience
+    <string name="text_for_patience_1" translatable="false">Efendimiz! Bize sabır ver, dayanacağımız yeri sağlam kıl ve kâfirler topluluğuna karşı bize yardım eyle.</string>
+    <string name="text_for_patience_2" translatable="false">Efendimiz! Üzerimize sabır yağdır ve bizi Müslüman olarak öldür.</string>
+    ////for controlling your anger
+    <string name="text_your_anger_1" translatable="false">Kovulmuş şeytanın şerrinden Allah\'a sığınırım.</string>
+
+
+    //Debt
+    //settle a debt
+    <string name="text_a_debt_1" translatable="false">Allah\'ım, haram kıldığın şeyler yerine helal kıldığın şeylerle bana yet, senden başkalarından beni müstağni eyle.</string>
+    //for someone who lens you money
+    <string name="text_you_money_1" translatable="false">Allah, ailenizde ve mallarınızda size bereket versin, şüphesiz borcun karşılığı, hamd ve (alınan borcun) karşılığıdır.</string>
+
+
+    //During Menstruation
+    //to be pious muslims
+    <string name="text_pious_muslims_1" translatable="false">Efendimiz! Bizi Zalimûn (müşrik ve zalimler) kavmi ile aynı seviyeye getirme.</string>
+    //for forgiveness for your parents and all muslims
+    <string name="text_and_all_muslims_1" translatable="false">Ey Rabbimiz! Hesap görülecek günde beni, ana-babamı ve bütün mü\'minleri mağfiretiyle kuşat!</string>
+    //seek forgiveness and strengthen your imaan
+    <string name="text_and_strengthen_your_imaan_1" translatable="false">Allah hiç kimseye gücünün ötesinde bir yük yüklemez. Kazandığı (iyiliğin) karşılığını alır, kazandığı (kötülüğün) cezası da kendisine verilir. "Rabbimiz, unutursak veya yanılırsak bizi cezalandırma, Rabbimiz! Bizden öncekilere yüklediğin gibi bize de yük yükleme, Rabbimiz! Gücümüzün yetmeyeceği kadar ağır bir yükü bize yükleme. bizi bağışla ve bizi bağışla. Bize merhamet et. Sen bizim Mevlamızsın (Mâlimiz, Destekçimiz, Koruyucumuz vb.) ve kâfirler topluluğuna karşı bize zafer ver."</string>
+    //for protection from the evil eye
+    <string name="text_evil_eye_1" translatable="false">Yarattığı şeylerin şerrinden Allah\'ın mükemmel sözlerine sığınırım</string>
+    //for protection against enemies
+    <string name="text_against_enemies_1" translatable="false">Ey kitabı indiren, çabuk hüküm veren, tarafları mağlup eden Allah\'ım, ey onları mağlup eden ve sarsan Allah\'ım.</string>
+    //protection from natural disasters calamities
+    <string name="text_calamities_1" translatable="false">  İsmiyle yerde ve gökte hiçbir şeyin zarar görmediği, O, her şeyi gören, her şeyi bilen Allah\'ın adıyla. (üç kere)</string>
+    //forgiviness for you siblings
+    <string name="text_you_siblings_1" translatable="false">Ey Rabbim! Beni ve kardeşimi bağışla ve bizi rahmetine sok; çünkü sen merhamet edenlerin en merhametlisisin.</string>
+    //during illness
+    <string name="text_during_illness_1" translatable="false">[İhlas Suresi] De ki: O, Allah\'tır, birdir. Tanrı sonsuzdur. O doğurmadı, doğmadı ve O\'na eşit kimse yoktu. (Felak Suresi) De ki: "Yarattığı şeylerin şerrinden, yaklaştığı zaman kararmanın şerrinden, düğümlere üflemenin şerrinden ve karanlıkların şerrinden, Yaratılışın Rabbine sığınırım. düğümlere üflemekten ve haset ettiği zaman haset edenden düğümlere üflemenin kötülüğünden. [İhlas Suresi] De ki: "İnsanların kalplerine vesvese veren vesvese verenin şerrinden, cinlerden, insanların Rabbine, insanların Melik\'ine, insanların İlahı\'na sığınırım." ve insanlık.”</string>
+    //for patience during difficult times
+    <string name="text_difficult_times_1" translatable="false">Rabbimiz üzerimize sabır yağdır ve bizi Müslüman olarak öldür.</string>
+    //reward of one-third of quran
+    <string name="text_of_quran_1" translatable="false">[İhlas Suresi] De ki: O, Allah\'tır, birdir. Tanrı sonsuzdur. O doğurmadı, doğmadı ve O\'na eşit kimse yoktu</string>
+
+    <string name="string_prayer_time_will_begin">Namaz vakti %s dakika içinde başlayacak</string>
+    <string name="string_prayer_time_will_begin_s">Namaz vakti %s dakika içinde başlayacak</string>
+
+    <!-- Hijri Months -->
+    <string name="string_praying_time_adjustment">%s dk.</string>
+    <string name="string_plus_praying_time_adjustment">+%s dakika</string>
+    <string name="string_not_adjusted">Ayarlanmadı</string>
+    <string name="string_it_will_correct_the_corresponding">İlgili İslami takvim tarihini Gregoryen takvimine göre düzeltecektir.</string>
+    <string name="string_settings">Ayarlar</string>
+    <string name="string_english">İngilizce</string>
+    <string name="string_time_calculator">Zaman Hesaplayıcı</string>
+    <string name="string_calculator_method">Hesap Makinesi Yöntemi</string>
+    <string name="string_manual_setting">Manuel Ayar</string>
+    <string name="string_praying_time_adjustment_setting">Namaz Vakitlerinin Ayarlanması</string>
+    <string name="string_date_correction">Tarih Düzeltme</string>
+    <string name="string_notification_bar">Bildirim çubuğu</string>
+    <string name="string_fixed_countdown_on_notification">Bildirimde Sabit Geri Sayım</string>
+    <string name="string_other">Diğer</string>
+    <string name="string_share">Paylaşmak</string>
+    <string name="string_rate">Oran</string>
+    <string name="string_private_policy">Özel politika</string>
+
+    <string name="string_exit">çıkış</string>
+
+    <string name="string_oh_no">Oh hayır!</string>
+    <string name="string_please_give_us_some_feedback">Lütfen bize geri bildirimde bulunun</string>
+    <string name="string_we_love_you_too">Biz de seni seviyoruz!</string>
+    <string name="string_thanks_for_your_feedback">geri bildiriminiz için teşekkürler</string>
+    <string name="string_do_you_like_the_app">Uygulamayı beğendin mi?</string>
+    <string name="string_let_us_know_your_experience">Deneyiminizi bize bildirin</string>
+    <string name="Please_feedback">Lütfen geri bildirimde bulunun</string>
+    <string name="string_quran">Kuran</string>
+    <string name="string_thank_for_rate">Uygulamayı derecelendirdiğiniz için teşekkür ederiz</string>
+    <string name="string_surah">Sure</string>
+    <string name="string_juz">Cüz</string>
+    <string name="string_quran_settings">Kuran Ayarları</string>
+    <string name="string_translation">Tercüme</string>
+    <string name="string_display">Görüntülemek</string>
+    <string name="string_language_selection">Dil seçimi</string>
+    <string name="string_content">İçerik</string>
+    <string name="string_font_amp_size"><![CDATA[Yazı Tipi ve Boyut]]></string>
+    <string name="string_audio">Ses</string>
+    <string name="string_reciter">Okuyucu</string>
+    <string name="string_translation_display">Çeviri Ekranı</string>
+    <string name="string_phonetic_translation">Fonetik Çeviri</string>
+    <string name="string_language_translation">Dil çevirisi</string>
+    <string name="string_preview">Ön izleme</string>
+    <string name="string_enable_audio">Sesi Etkinleştir</string>
+    <string name="string_auto_scroll_with_audio">Sesle otomatik kaydırma</string>
+    <string name="string_font_size">Yazı Boyutu</string>
+    <string name="string_font_style">Yazı stili</string>
+    <string name="string_tasbih">tesbih</string>
+    <string name="string_round">Yuvarlak :</string>
+    <string name="string_done">Tamamlamak</string>
+    <string name="string_customize">Özelleştirmek</string>
+    <string name="string_adjust_total_times">Toplam süreleri ayarla</string>
+    <string name="string_adjust_the_number_of_rounds">Tur sayısını ayarlayın</string>
+    <string name="string_reset">Sıfırla</string>
+    <string name="string_do_you_want_to_reset_the_counter">Sayacı sıfırlamak istiyor musunuz?</string>
+    <string name="string_continue_reading">Okumaya Devam Et - %s</string>
+
+    <string name="text_date_comparison" translatable="false">Tarih karşılaştırması</string>
+    <string name="text_gregrorian_calendar" translatable="false">Gregoryen takvimi</string>
+    <string name="text_islamic_calendar" translatable="false">İslami takvim</string>
+    <string name="text_praying_time" translatable="false">Namaz Vakitleri</string>
+    <string name="title_activity_islam_map" translatable="false">IslamMapActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="string_indonesian" translatable="false">Endonezce</string>
+    <string name="string_urdu" translatable="false">Urduca</string>
+    <string name="string_hindi" translatable="false">Hintçe</string>
+    <string name="string_turkish" translatable="false">Türkçe</string>
+
+    <string name="string_salah" translatable="false">Namaz</string>
+
+    <string name="string_please_select_language">Lütfen dili seçin</string>
+    <string name="string_please_connect_to_the_internet_to_use_this_feature">Bu özelliği kullanmak için lütfen internete bağlanın</string>
+    <string name="string_please_connect_to_the_internet_to_play_audio">Sesi çalmak için lütfen internete bağlanın</string>
+    <string name="string_pin_app_widget_is_not_supported">Pin uygulaması widget\'ı desteklenmiyor</string>
+    <string name="string_please_customize_the_number_of_round">Lütfen tur sayısını özelleştirin</string>
+    <string name="string_please_enter_the_value_of_the_number_of_rounds">Lütfen tur sayısının değerini girin!</string>
+    <string name="string_value_of_the_number_of_rounds_that_exist">Mevcut tur sayısının değeri</string>
+    <string name="string_let_me_recommend_you_this_application">Size bu uygulamayı tavsiye edeyim</string>
+
+    <string name="string_search">Aramak</string>
+
+    <string name="string_add_to_home_screen">Ana ekrana ekle</string>
+
+    <string name="text_location_1" translatable="false">Konum etkin değil</string>
+    <string name="text_location_2" translatable="false">Bu uygulamanın tüm özelliklerini kullanmak için lütfen konumu etkinleştirin</string>
+    <string name="text_bookmark_duas" translatable="false">Yer imlerine dua eklemek için yer imi simgesine dokunun</string>
+    <string name="text_bookmark_azkar" translatable="false">Azkar\'ı yer imlerine eklemek için yer imi simgesine dokunun</string>
+
+    <string name="string_rotate_your_phone_until_the_mecca_appear">Mekke\'nin büyük camisi görünene kadar telefonunuzu döndürün</string>
+
+    <string name="text_sample" translatable="false">Bu bir örnek dosyadır</string>
+    <string name="text_sleeping_1">En ton nom mon Seigneur, je me couche et en ton nom je me lève, donc si tu prends mon âme, aie pitié d\'elle, et si tu me rends mon âme, protège-la de la manière Tu le fais avec Tes justes serviteurs.</string>
+    <string name="text_sleeping_2">Ô Allah, en vérité Tu as créé mon âme et Tu lui prendras la vie, à Toi appartiennent sa vie et sa mort. Si tu dois garder mon âme en vie, protège-la, et si tu lui ôtes la vie, pardonne-lui. Ô Allah, je Te demande de m\'accorder une bonne santé.\'</string>
+    <string name="text_sleeping_3">Ô Allah, protège-moi de Ton châtiment le jour où Tes serviteurs seront ressuscités.</string>
+    <string name="text_sleeping_4">En ton nom Ô Allah, je vis et je meurs.</string>
+    <string name="text_sleeping_5">Toute louange est à Allah, Qui nous a nourris et nous a donné à boire, et Qui nous suffit et nous a abrité, car combien n\'ont personne pour leur suffire ou les abriter.</string>
+    <string name="text_sleeping_6">Ô Allah, Connaisseur du visible et de l\'invisible, Créateur des cieux et de la terre, Seigneur et Souverain de toutes choses, j\'atteste que nul n\'a le droit d\'être adoré en dehors de Toi. Je me réfugie auprès de Toi contre le mal de mon âme et contre le mal et le shirk du diable, et contre le mal envers mon âme ou contre un autre musulman.\' Shirk : associer les autres à Allah dans les choses qui sont spécifiques à Lui. Cela peut se produire dans (1) la croyance, par ex. croire qu\'un autre qu\'Allah a le pouvoir de bénéficier ou de nuire, (2) la parole, par ex. jurer par un autre qu\'Allah et (3) l\'action, par ex. s\'incliner ou se prosterner devant un autre qu\'Allah.</string>
+    <string name="text_sleeping_7">O Allah, je te soumets mon âme, et je te confie mes affaires, et je tourne mon visage vers toi, et je m\'appuie totalement sur toi, dans l\'espoir et la crainte de toi. En vérité, il n’y a de refuge ni de refuge contre Toi que près de Toi. Je crois en Ton Livre que Tu as révélé et en Ton Prophète que Tu as envoyé.</string>
+    <string name="text_sleeping_8">Allah! Il n’y a personne digne d’adoration à part Lui, le Vivant, Celui qui soutient et protège tout ce qui existe. Ni le sommeil ni le sommeil ne le rattrapent. A Lui appartient tout ce qui est dans les cieux et tout ce qui est sur la terre. Qui est celui qui peut intercéder auprès de Lui sans sa permission ? Il sait ce qui leur arrive dans ce monde et ce qui leur arrivera dans l’au-delà. Et ils n’assimileront jamais rien de Sa Connaissance, sauf ce qu’Il veut. Son trône s\'étend sur les cieux et la terre, et il ne ressent aucune fatigue à les garder et à les préserver. Et Il est le Très-Haut, le Très Grand.</string>
+    <string name="string_round_10">La valeur du plus petit nombre de tours est 10</string>
+
+    <string name="string_step_1"><![CDATA[<b>Adım 1:</b>]]> En azından avret yerinizi kapattığınızdan ve yaptığınızdan emin olun <![CDATA[<b>abdest</b>]]> . Erkekler göbek deliği ve dizler dahil tüm vücutlarını örtmelidir. Kadının elleri, ayakları ve yüzü dışında her yeri örtülmelidir.</string>
+    <string name="string_step_2"><![CDATA[<b>Adım 2:</b>]]> Başkalarını rahatsız etmeyeceğiniz, seccade gibi tertemiz bir alan arayın. Mekke\'de Kabe\'ye dönük olan bu yön, kıble yönüdür. Hasta veya engelliyseniz ve ayakta duramıyorsanız oturarak namaz kılabilirsiniz.</string>
+    <string name="string_step_3"><![CDATA[<b>Adım 3:</b>]]> Namazın başlamasına yönelik niyetinizi sesli veya sessiz olarak bildirin. Bunu Arapça veya istediğiniz dilde yapabilirsiniz. "Teravih namazını Allah\'ın Kâbe\'ye dönük olarak iki rekat kılmaya niyet ettim" de.</string>
+    <string name="string_step_4"><![CDATA[<b>Adım 4:</b>]]> <![CDATA[<b><i>\"Allahu Ekber\"</i></b>]]> deyin ve elinizi kaldırın Kadınlar için ellerinizi omuzlarınıza, erkekler için ise kulak memelerinize koyun. "Allah en büyüktür" demektir. (Bu adım aşağıda gösterilmiştir). Şu anda, sohbet etmek, gülmek, yemek yemek, içmek veya herhangi bir şey düşünmek dahil, dikkatinizi dağıtacak dünyevi her şeyi yapmanızı yasaklayan ihramdasınız.</string>
+    <string name="string_step_5"><![CDATA[<b>Adım 5:</b>]]> Sağ elinizi sol elinizin üzerine, donanmanın hemen altına koyun. Kadınlar ellerini göğüslerinin üzerine koymalıdır.</string>
+    <string name="string_step_6"><![CDATA[<b>Adım 6:</b>]]> Bu cümleyi sessizce söyleyin <![CDATA[<b><i>\"SubhanaK-Allahumma wa bihamdiKa,<br>wa tabaarak-asmuKa, wa ta-aala cedduKa, ve la ilaaha illa gayruK\"</i></b>]]>. Bu, "Allah\'ım, izzet ve hamd sana mahsustur, ismin mübarektir, azametin yücedir, senden başka ilah yoktur" manasına gelir.</string>
+    <string name="string_step_7"><![CDATA[<b>Adım 7:</b>]]> Daha sonra yavaşça şunu okuyun: <![CDATA[<b><i>\"Auudhu bi-Llahi min ash-Shaitaanir rajeem bismi-Llahir Rahmaani Raheem \"</i></b>]]>. Bu, "Rahman ve Rahim olan Allah\'ın adını anarak, kovulmuş şeytandan Allah\'a sığınırım" anlamına gelir.</string>
+    <string name="string_step_8"><![CDATA[<b>Adım 8:</b>]]> Okumaya devam edin: <![CDATA[<b><i>\"Fatiha Suresi\"</i></b>]]>, ardından \"kabul edilsin\" anlamına gelen <![CDATA[<b><i>\"Amin\"</i></b>]]> ile bitirin. Namaz kılıyorsanız Teravih\'teki tüm sureleri yüksek sesle okumayı unutmayın!</string>
+    <string name="string_step_9"><![CDATA[<b>Adım 9:</b>]]> Daha sonra herhangi bir sureyi okuyun. Asgari okuma üç ayet veya üç kısa ayete eşdeğer bir uzun ayettir. Ancak bir surenin tamamını okumak daha tercih edilir.</string>
+    <string name="string_step_10"><![CDATA[<b>Adım 10:</b>]]> Öne doğru eğilin ve şunu söyleyin: <![CDATA[<b><i>\"Allahu Ekber\"</i></b>]]> "Allah en büyüktür" anlamına gelen , ellerinizi dizlerinizin üzerine koyarak sırtınızı dik tutun. Ruku (rüku) olarak bilinen bu pozisyonda duraklayın ve <![CDATA[<b><i>\"Subhaana Rabbiy-al-Adheem\"</i></b>]]> \'i en az üç kez tekrarlayın. "Büyük olan Rabbimi tesbih ederim" anlamına gelir.</string>
+    <string name="string_step_11"><![CDATA[<b>Adım 11:</b>]]> Tekrar tam dik pozisyona kalktığınızda, <![CDATA[<b><i>\"Sami-Allahu liman hamidaH\"</i></b>]]> - "Allah, kendisine hamd edeni işitti". Ardından <![CDATA[<b><i>\"Rabbana laKal hamd\"</i></b>]]> - "Ey Rabbimiz, hamd sana mahsustur" deyin.</string>
+    <string name="string_step_12"><![CDATA[<b>Adım 12:</b>]]> Bir kez daha <![CDATA[<b><i>\"Allahu Ekber\"</i></b>]]> deyin ve "Secde" olarak bilinen secdeye varılır. Secdedeyken alnınızın, burnunuzun, avuç içlerinizin, dizlerinizin ve ayak parmaklarınızın öne doğru yere temas etmesine dikkat edin.</string>
+    <string name="string_step_13"><![CDATA[<b>Adım 13:</b>]]> En az üç kez tekrarlayın, <![CDATA[<b><i>\"Subhaana Rabbiy-al-Aalaa\"</i></b>]]> - \"En Yüce Rabbimi tesbih ederim\".</string>
+    <string name="string_step_14"><![CDATA[<b>Adım 14:</b>]]> <![CDATA[<b><i>\"Allahu Ekber\"</i></b> diyerek oturma pozisyonuna yükselin ]]>. Avuç içlerinizi dizlerinizin üzerine yerleştirin. Sol ayağınızın düz kısmına oturun, sağ ayağınızın ayak parmaklarını dik ve ileriye dönük tutun. Kadınlar için, her iki ayağı da sağ tarafa bakacak şekilde sol kalçalarına yaslanın.</string>
+    <string name="string_step_15"><![CDATA[<b>Adım 15:</b>]]> Kısa bir aradan sonra <![CDATA[<b><i>\"Allahu Ekber\"</i></b>]]>  diyerek secdeye dönün 13. adımı tekrarlayın.</string>
+    <string name="string_step_16"><![CDATA[<b>Adım 16:</b>]]> <![CDATA[<b><i>\"Allahu Ekber\"</i></b diyerek tam ayakta durma pozisyonuna gelin >]]>. Artık Teravih\'in ilk rekatını veya rekatını tamamladınız.</string>
+    <string name="string_step_17"><![CDATA[<b>Adım 17:</b>]]> 8\'den 15\'e kadar olan adımları bir kez daha tekrarlayın.</string>
+    <string name="string_step_18"><![CDATA[<b>Adım 18:</b>]]> 8\'den 15\'e kadar olan adımları tekrar tamamladıktan sonra, 14. adımda anlatıldığı gibi oturma pozisyonuna dönün.</string>
+    <string name="string_step_19"><![CDATA[<b>Adım 19:</b>]]> Oturur pozisyondayken, Teshaahud\'un ilk bölümünü okuyun: <![CDATA[<b><i>\"Et-tahiyyatu lillah, ves-salavatu vet-tayyibaat. Es-selamu aleyke eyyuhan-Nebiyyu ve rahmetullahi ve berekatu. Es-salamu aleyna ve alaa ibaadi-llahis salalihin\"</i></b>]]>. Bu, "Bütün iltifatlar, dualar ve iyilikler Allah içindir. Selam sana, ey Peygamber, Allah\'ın rahmeti ve bereketleri senin üzerine olsun. Selam bize ve Allah\'ın salih kullarının üzerine olsun."</string>
+    <string name="string_step_20"><![CDATA[<b>Adım 20:</b>]]> Daha sonra elleriniz dizlerinizin üzerindeyken, sağ elinizin diğer parmaklarını bir arada tutarken sağ işaret parmağınızı kaldırın. Sonra teşehhüdün ikinci kısmını okuyun: <![CDATA[<b><i>\"Eşhedü en lâ ilahe illallahu ve eşhedu enne Muhammeden abduHu ve Rasooluh\"</i></b>]]> . . . . Bu, "Şehadet ederim ki Allah\'tan başka ilah yoktur ve şahitlik ederim ki Muhammed O\'nun kulu ve elçisidir".</string>
+    <string name="string_step_21"><![CDATA[<b>Adım 21:</b>]]> Sağ işaret parmağınızı indirin, her iki avucunuzu da dizlerinizin üzerine koyun.</string>
+    <string name="string_step_22"><![CDATA[<b>Adım 22:</b>]]> Otururken şunu okuyun: <![CDATA[<b><i>\"Allah, selam üzerinize olsun, Peygamber Muhammed\'dir ve Allahümme Barik \'ala Muhammediw ve ala Ali Muhammedin, kamaa, Hamidum Mecid\'in annesi Ala İbrahim ve ala Ali İbrahim\'e salat etsin\"</i></i></i></i> b>]]>. Bu, şu anlama gelir: "Allah\'ım, İbrahim\'e ve İbrahim ailesine merhamet ettiğin gibi, Muhammed\'e ve Muhammed\'in ailesine de merhamet et. Gerçekten sen övülmeye layık ve yücesin. Allah\'ım, Muhammed\'e ve Muhammed\'in ailesine salât eyle. Muhammed, tıpkı İbrahim\'e ve İbrahim\'in ailesine bereketler gönderdiğin gibi. Gerçekten sen övülmeye layıksın, yücesin."</string>
+    <string name="string_step_23"><![CDATA[<b>Adım 23:</b>]]> Bazı duaları (iki) okumanız önemle tavsiye edilir. Basit ve kapsamlı bir dua şudur: <![CDATA[<b><i>\"Allah\'ım, bizi bu dünyada, ahirette iyi eyle ve ahirette de iyi eyle\"</i></b>]]>. Bu, "Ey Rabbimiz, bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru" demektir.</string>
+    <string name="string_step_24"><![CDATA[<b>Adım 24:</b>]]> Başınızı sağa çevirerek <![CDATA[<b><i>\"Asselamu aleikum wa rahmat-Ullahi wa diyerek namazı sonlandırın. korusunH\"</i></b>]]>. Daha sonra başınızı sola çevirerek bu kelimeleri tekrarlayın. "Allah\'ın selamı, rahmeti ve bereketi üzerinize olsun" demek istiyorlar.</string>
+    <string name="string_step_25"><![CDATA[<b>Adım 25:</b>]]> İlk iki rekatlık setiniz artık bitti! Sonraki iki rekatınıza başlamak için lütfen 3. Adıma geri dönün.</string>
+    <string name="string_tarawih">Teravih</string>
+    <string name="string_tarawih_prayer">Teravih Namazı</string>
+    <string name="string_dialog_tarawih_1">En son özelliklerimizle tanışın: <![CDATA[<b>Tarawih</b>]]> &amp; <![CDATA[<b>Ramanda Selamları</b>]]> kılavuzu artık mevcut!</string>
+    <string name="string_dialog_tarawih_2">Beni oraya götür</string>
+
+    <string name="string_text_size">Metin Boyutu</string>
+    <string name="string_text_shadow">Metin Gölgesi</string>
+    <string name="string_background_blur">Arka Plan Bulanıklığı</string>
+    <string name="string_font_style_ramadan">Yazı Tipi Stili</string>
+    <string name="string_color">Renk</string>
+    <string name="string_send">Gönder</string>
+    <string name="string_background">Arka Plan</string>
+    <string name="string_app_download_link">Uygulama İndirme Bağlantısı</string>
+    <string name="string_share_image">Resmi Paylaş</string>
+    <string name="string_click_here_to_download_the_app">Uygulamayı indirmek için burayı tıklayın: %s</string>
+    <string name="string_greeting">Selamlar</string>
+
+    <string name="string_grant_permissions_later">İzinleri daha sonra ver</string>
+    <string name="string_notification">Bildiri</string>
+    <string name="string_location_permission">Konum İzni</string>
+    <string name="string_notification_permission">Bildirim İzni</string>
+    <string name="string_appear_on_top_permission">Üstte görünme izni</string>
+    <string name="string_des_location_quibla">Uygulamanın Kıble\'yi etkinleştirmek için Konum İznine ihtiyacı var</string>
+    <string name="string_des_location_islam_map">Uygulamanın İslam haritasını etkinleştirmek için Konum İznine ihtiyacı var</string>
+    <string name="string_des_location_widget">Uygulamanın Widget\'ı etkinleştirmek için Konum İznine ihtiyacı var</string>
+    <string name="string_des_notification_widget">Uygulamanın Widget\'ı etkinleştirmek için Bildirim İznine ihtiyacı var</string>
+    <string name="string_des_appear_on_top_widget">Uygulamanın Widget\'ı etkinleştirmek için Üstte Görünme İznine ihtiyacı var</string>
+    <string name="string_des_location_home">Uygulamanın namaz vakitlerini alabilmesi için Konum İznine ihtiyacı var</string>
+    <string name="string_des_notification_home">Uygulamanın namaz vakti geldiğinde bildirimlere izin vermesi için Konum İznine ihtiyacı var</string>
+    <string name="string_des_appear_on_top_home">Uygulamanın dua bildirim ekranının görüntülenmesine izin vermesi için Üstte Görünme İznine ihtiyacı var</string>
+
+    <string name="string_you_can_select_location">Konum Seçebilirsiniz</string>
+    <string name="string_you_can_select_notification">Bildirimi Seçebilirsiniz</string>
+    <string name="string_you_can_select_appear_on_top">Üstte Görün\'ü Seçebilirsiniz</string>
+
+    <string name="text_intro4" translatable="false">Ruhunuzu Güçlü Tutmak İçin Kuran\'ı Okuyun ve Her Gün Azkar\'ı Hatırlayın</string>
+    <string name="title_intro4" translatable="false">Kuran &amp; Azkar</string>
+
+    <string name="string_continue">Devam et</string>
+    <string name="string_skip">Atla</string>
+
+    <string name="string_go">Git</string>
+    <string name="string_are_you_sure_exit_the_app">Uygulamadan çıkmak istediğinizden emin misiniz?</string>
+    <string name="string_yes">Evet</string>
+    <string name="string_no">Hayır</string>
+    <string name="str_kareem">Kareem</string>
+    <string name="ramadan_is_a_time_for_reflection_and_gratitude_may_you_be_granted_the_strength_to_practice_your_faith_the_patience_to_overcome_challenges_and_the_joy_in_every_moment_ramadan_mubarak">
+    Ramazan, düşünme ve şükran zamanıdır. İnancınızı yaşamak için güç, zorlukların üstesinden gelmek için sabır ve her anın tadını çıkarma mutluluğu diliyoruz. Ramazan Mübarek!
+</string>
+    <string name="str_picture_color">Resim Rengi</string>
+    <string name="title_intro_1">Quran ve Günlük Dualar</string>
+    <string name="title_intro_2">Qibla Pusulası</string>
+    <string name="title_intro_3">Namaz Vakitleri</string>
+    <string name="title_intro_4">İslami Takvim</string>
+    <string name="content_intro_1">Quran\'ı okuyun ve dinleyin, günlük duaları ve zikirleri keşfedin.</string>
+    <string name="content_intro_2">Nerede olursanız olun Qibla yönünüzü kolayca bulun.</string>
+    <string name="content_intro_3">Asla bir namazı kaçırmayın - doğru vakitler, her zaman zamanında.</string>
+    <string name="content_intro_4">Ramazan, Bayram-ul Fitr, Bayram-ul Adha gibi önemli tarihleri takip edin.</string>
+    <string name="please_select_language">Lütfen dilinizi seçin</string>
+    <string name="str_zakat">Zakat</string>
+    <string name="str_allah">Allah</string>
+    <string name="continue_rotate_title">Kabe merkezde olana kadar telefonunuzu çevirin.</string>
+    <string name="success_destination">Bu Qibla yönüdür!</string>
+    <string name="north_title">Kuzey (N)</string>
+    <string name="northeast_title">Kuzeydoğu (NE)</string>
+    <string name="east_title">Doğu (E)</string>
+    <string name="southeast_title">Güneydoğu (SE)</string>
+    <string name="south_title">Güney (S)</string>
+    <string name="southwest_title">Güneybatı (SW)</string>
+    <string name="west_title">Batı (W)</string>
+    <string name="northwest_title">Kuzeybatı (NW)</string>
+    <string name="bookmark_title">Yer İmi</string>
+    <string name="round_title">Tur</string>
+    <string name="adjust_rounds_title">Turları Ayar Yap</string>
+    <string name="currency_unit">Para Birimi</string>
+    <string name="calculate_zakat">Zakat Hesapla</string>
+    <string name="total_amount_of_zakat">Zakat Toplam Miktarı</string>
+    <string name="property_information">Mülk Bilgileri</string>
+    <string name="str_gold">Altın</string>
+    <string name="str_silver">Gümüş</string>
+    <string name="str_money">Para</string>
+    <string name="str_investment">Yatırım</string>
+    <string name="business_assets">Ticari Varlıklar</string>
+    <string name="other_savings">Diğer Tasarruflar</string>
+    <string name="str_debt">Borç</string>
+    <string name="str_nisab">Nisab</string>
+    <string name="str_find">Bul</string>
+    <string name="str_unknown">Bilinmeyen</string>
+    <string name="loading_data_mosque_please_wait">Camii verileri yükleniyor. Lütfen bekleyin...</string>
+    <string name="allah_99_name_title">Allah\'ın 99 İsmi</string>
+
+    <string name="the_most_or_entirely_merciful">En Merhametli veya Tamamen Merhametli</string>
+    <string name="the_bestower_of_mercy">Merhamet Veren</string>
+    <string name="the_king_and_owner_of_dominion">Kral ve Hâkimiyetin Sahibi</string>
+    <string name="the_absolutely_pure">Mutlak Temiz</string>
+    <string name="the_perfection_and_giver_of_peace">Mükemmeliyet ve Barış Veren</string>
+    <string name="the_one_who_gives_emaan_and_security">İman ve Güvenlik Veren</string>
+    <string name="the_guardian">Koruyucu</string>
+    <string name="the_witness">Tanık</string>
+    <string name="the_overseer">Gözetmen</string>
+    <string name="the_all_mighty">Her Şeye Gücü Yeten</string>
+    <string name="the_compeller">Zorlayıcı</string>
+    <string name="_the_restorer">Yenileyici</string>
+    <string name="the_supreme">Yüce</string>
+    <string name="_the_majestic">Muhteşem</string>
+    <string name="the_creator">Yaratıcı</string>
+    <string name="_the_maker">Yapıcı</string>
+    <string name="the_originator">Başlatıcı</string>
+    <string name="the_fashioner">Şekil Veren</string>
+    <string name="the_all_and_oft_forgiving">Her Şeyi ve Sıkça Bağışlayan</string>
+    <string name="the_subduer">Boyun Eğdirici</string>
+    <string name="the_ever_dominating">Her Zaman Hâkim</string>
+    <string name="the_giver_of_gifts">Hediye Veren</string>
+    <string name="the_provider">Rızık Veren</string>
+    <string name="the_opener">Açıcı</string>
+    <string name="_the_judge">Hâkim</string>
+    <string name="the_all_knowing">Her Şeyi Bilen</string>
+    <string name="_the_omniscient">Her Şeyi Gören</string>
+    <string name="the_withholder">Tutucu</string>
+    <string name="the_extender">Genişletici</string>
+    <string name="the_reducer">Azaltıcı</string>
+    <string name="the_abaser">Alçaltıcı</string>
+    <string name="the_exalter">Yükselten</string>
+    <string name="_the_elevator">Kaldırıcı</string>
+    <string name="the_honourer">Onur Veren</string>
+    <string name="the_bestower">Bahşeden</string>
+    <string name="the_dishonourer">Onursuz Kılan</string>
+    <string name="the_humiliator">Aşağılayıcı</string>
+    <string name="the_all_hearing">Her Şeyi İşiten</string>
+    <string name="the_all_seeing">Her Şeyi Gören</string>
+    <string name="the_judge">Yargıç</string>
+    <string name="_the_giver_of_justice">Adalet Veren</string>
+    <string name="the_utterly_just">Tamamen Adil</string>
+    <string name="the_subtle_one">İnce</string>
+    <string name="the_most_gentle">En Nazik</string>
+    <string name="the_acquainted">Haberdar</string>
+    <string name="the_all_aware">Her Şeyden Haberdar</string>
+    <string name="the_most_forbearing">En Sabırlı</string>
+    <string name="the_forgiving">Bağışlayıcı</string>
+    <string name="the_exceedingly_forgiving">Çok Bağışlayıcı</string>
+    <string name="the_most_appreciative">En Takdir Edici</string>
+    <string name="the_most_high">En Yüce</string>
+    <string name="_the_exalted">Yüceltilmiş</string>
+    <string name="the_greatest">En Büyük</string>
+    <string name="the_most_grand">En Görkemli</string>
+    <string name="the_preserver">Koruyucu</string>
+    <string name="the_all_heedful_and_all_protecting">Her Şeye Dikkat Eden ve Her Şeyi Koruyan</string>
+    <string name="the_sustainer">Destekleyici</string>
+    <string name="the_maintainer">Sürdürücü</string>
+    <string name="the_reckoner">Hesaplayıcı</string>
+    <string name="the_majestic">Görkemli</string>
+    <string name="the_most_generous">En Cömert</string>
+    <string name="_the_most_esteemed">En Saygın</string>
+    <string name="the_watchful">Dikkatli</string>
+    <string name="the_all_watchful">Her Şeyi İzleyen</string>
+    <string name="the_responsive">Cevap Veren</string>
+    <string name="the_answerer">Yanıtlayıcı</string>
+    <string name="the_all_encompassing">Her Şeyi Kapsayan</string>
+    <string name="the_boundless">Sınırsız</string>
+    <string name="the_all_wise">Her Şeyi Bilge</string>
+    <string name="the_most_loving">En Sevecen</string>
+    <string name="the_glorious">Şanlı</string>
+    <string name="the_most_honorable">En Onurlu</string>
+    <string name="the_infuser_of_new_life">Yeni Hayat Veren</string>
+    <string name="the_all_observing_witnessing">Her Şeyi Gözlemleyen Tanık</string>
+    <string name="absolute_truth">Mutlak Gerçek</string>
+    <string name="the_trustee">Emanetçi</string>
+    <string name="the_disposer_of_affairs">İşleri Düzenleyen</string>
+    <string name="the_all_strong">Her Şeye Güçlü</string>
+    <string name="the_firm">Sağlam</string>
+    <string name="the_steadfast">Sabit</string>
+    <string name="the_protecting_associate">Koruyucu Yardımcı</string>
+    <string name="the_praiseworthy">Övülmeye Değer</string>
+    <string name="the_all_enumerating">Her Şeyi Sayan</string>
+    <string name="the_counter">Sayacı</string>
+    <string name="the_initiator">Başlatıcı</string>
+    <string name="the_restorer">Yenileyici</string>
+    <string name="the_reinstater">Yeniden Yerleştirici</string>
+    <string name="the_giver_of_life">Hayat Veren</string>
+    <string name="the_creator_of_death">Ölüm Yaratıcısı</string>
+    <string name="ever_living">Her Zaman Yaşayan</string>
+    <string name="the_self_subsisting">Kendi Kendine Yeter</string>
+    <string name="the_perceiver">Algılayıcı</string>
+    <string name="the_illustrious">Ünlü</string>
+    <string name="the_magnificent">Muhteşem</string>
+    <string name="the_one">Tek</string>
+    <string name="the_indivisible">Bölünmez</string>
+    <string name="unique">Eşsiz</string>
+    <string name="the_only_one">Tek Olan</string>
+    <string name="the_eternal">Ebedi</string>
+    <string name="satisfier_of_needs">İhtiyaçları Karşılayan</string>
+    <string name="the_omnipotent">Her Şeye Kadir</string>
+    <string name="the_powerful">Güçlü</string>
+    <string name="the_expediter">Hızlandırıcı</string>
+    <string name="the_promoter">Teşvik Edici</string>
+    <string name="the_delayer">Geciktirici</string>
+    <string name="the_first">İlk</string>
+    <string name="the_last">Son</string>
+    <string name="the_utmost">En Üstün</string>
+    <string name="the_manifest">Açık</string>
+    <string name="the_all_surpassing">Her Şeyi Aşan</string>
+    <string name="the_hidden_one">Gizli</string>
+    <string name="knower_of_the_hidden">Gizliyi Bilen</string>
+    <string name="the_sole_governor">Tek Yönetici</string>
+    <string name="the_self_exalted">Kendi Kendini Yücelten</string>
+    <string name="source_of_all_goodness">Tüm İyiliğin Kaynağı</string>
+    <string name="the_ever_pardoning">Her Zaman Affeden</string>
+    <string name="the_avenger">İntikam Alan</string>
+    <string name="the_pardoner">Affedici</string>
+    <string name="the_most_kind">En Nazik</string>
+    <string name="master_of_the_dominion">Hâkimiyetin Efendisi</string>
+    <string name="owner_of_the_kingdom">Krallığın Sahibi</string>
+    <string name="possessor_of_glory_and_honour">Şan ve Şeref Sahibi</string>
+    <string name="the_just_one">Adil</string>
+    <string name="the_gatherer">Toplayıcı</string>
+    <string name="the_uniter">Birleştirici</string>
+    <string name="the_self_sufficient">Kendi Kendine Yeter</string>
+    <string name="the_wealthy">Zengin</string>
+    <string name="the_enricher">Zenginleştirici</string>
+    <string name="the_distresser">Sıkıntı Veren</string>
+    <string name="the_propitious">Hayırsever</string>
+    <string name="the_benefactor">İyilik Yapan</string>
+    <string name="the_light">Işık</string>
+    <string name="the_guide">Rehber</string>
+    <string name="the_incomparable_originator">Eşsiz Başlatıcı</string>
+    <string name="the_ever_lasting">Sonsuza Dek Süren</string>
+    <string name="the_inheritor">Mirasçı</string>
+    <string name="the_guide_to_the_right_path">Doğru Yola Kılavuz</string>
+    <string name="the_patient">Sabırlı</string>
+    <string name="no_data">Veri yok</string>
+    <string name="get_started_title">Başlayın</string>
+    <string name="radar_title">Radar</string>
+    <string name="radar_content">Cihaz bu özelliği desteklemiyor.</string>
+    <string name="exit_the_app_title">Uygulamadan çıkmak istiyor musunuz?</string>
+    <string name="what_problems_you_encounter_during_use">Kullanım sırasında hangi sorunlarla karşılaştınız?</string>
+    <string name="restart">Yeniden başlat</string>
+    <string name="nothing_interesting_anymore">Artık ilginç bir şey yok</string>
+    <string name="explore">Keşfet</string>
+    <string name="still_uninstall">Yine de kaldır</string>
+    <string name="why_uninstall_application">Uygulamayı neden kaldırıyorsunuz?</string>
+    <string name="difficult_to_use">Kullanımı zor</string>
+    <string name="too_many_ads">Çok fazla reklam var</string>
+    <string name="others">Diğer</string>
+    <string name="please_enter_the_reason_why_uninstall_application">Lütfen uygulamayı kaldırma sebebinizi girin</string>
+    <string name="don_t_uninstall_yet">Henüz kaldırmayın</string>
+    <string name="loading_0">Yükleniyor (0%)...</string>
+    <string name="loading_splash">"Yükleniyor "</string>
+    <string name="prayer_reminder_not_working">Namaz hatırlatıcısı çalışmıyor</string>
+    <string name="qibla_compass_not_working">Kıble pusulası çalışmıyor</string>
+    <string name="uninstall">Kaldır</string>
+
+</resources>

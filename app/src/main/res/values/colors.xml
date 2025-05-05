@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_main">#058F66</color>
+    <color name="bottom_nav_text_color">#B8C2CC</color>
+    <color name="bottom_nav_text_color_selected"></color>
+    <color name="color_view_line">#226A64</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="blue">#3F51B5</color>
+    <color name="green">#4CAF50</color>
+    <color name="color_f">#99FFFFFF</color>
+    <color name="color_BFBFBF">#BFBFBF</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_bound">#FFBD68</color>
+    <color name="main_color">#FFBD68</color>
+    <color name="color_0E8C62">#0E8C62</color>
+    <color name="color_008040">#008040</color>
+    <color name="color_2D3640">#2D3640</color>
+    <color name="color_EAAE15">#EAAE15</color>
+    <color name="color_DAE0E5">#DAE0E5</color>
+    <color name="color_bg_home">#FAFAFA</color>
+    <color name="color_fffef5">#FFFEF5</color>
+    <color name="color_C18E43">#C18E43</color>
+    <color name="color_FED786">#FED786</color>
+    <color name="color_CC7B19">#CC7B19</color>
+    <color name="color_84620C">#84620C</color>
+    <color name="color_238C83">#238C83</color>
+    <color name="color_8d99a6">#8D99A6</color>
+    <color name="color_EBEFF2">#EBEFF2</color>
+    <color name="color_74b2ad">#74B2AD</color>
+    <color name="color_B8C2CC">#B8C2CC</color>
+
+</resources>

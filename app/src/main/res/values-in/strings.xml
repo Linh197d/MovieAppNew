@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_this_action_can_contain_ads">Tindakan ini dapat berisi iklan</string>
+    <string name="string_language">Bahasa</string>
+    <string name="string_next">Berikutnya</string>
+    <string name="string_permission">Izin</string>
+    <string name="string_allow_per_we_muslim">Muslim Prayer - Quran Compass memerlukan izin untuk menggunakan lokasi perangkat, muncul di atas, dan notifikasi (dengan Android 13 ke atas)</string>
+    <string name="string_location">Lokasi</string>
+    <string name="string_appear_on_top">Muncul di atas</string>
+    <string name="string_allow_notification">Izinkan pemberitahuan</string>
+    <string name="string_you_need_to_accept_full_permission">Anda harus menerima izin penuh untuk menggunakan aplikasi ini</string>
+    <string name="string_you_need_to_enable_permission_to_use_this_features">Anda perlu mengaktifkan izin untuk menggunakan fitur ini</string>
+    <string name="go_to_setting">Pergi ke pengaturan</string>
+    <string name="string_cancel">Membatalkan</string>
+    <string name="string_save">Menyimpan</string>
+    <string name="string_juristic_method">Metode Yuristis</string>
+    <string name="string_adjust_islamic_calendar">Sesuaikan Kalender Islam</string>
+
+    <!--Azkar-->
+    <string name="string_azkar">Azkar</string>
+    <string name="string_daily_dhikr">Dzikir Harian</string>
+    <string name="string_daily_dhikr_1">Darood-E-Ibraheemi</string>
+    <string name="string_daily_dhikr_2">Apter Salah (Preyer) Tasbih</string>
+    <string name="string_daily_dhikr_3">Doa Sehari-hari</string>
+    <string name="string_daily_dhikr_4">Sebelum memulai Apapun</string>
+    <string name="string_daily_dhikr_5">Untuk Kata Ini Dan Aakhira</string>
+    <string name="string_daily_dhikr_6">Untuk perlindungan dan pertolongan dari Allah</string>
+    <string name="string_daily_dhikr_7">Pahala sepertiga Al Quran</string>
+
+    <string name="string_daily_rememberence">Ingatan Harian</string>
+    <string name="string_daily_rememberence_1">Ingatan pagi</string>
+    <string name="string_daily_rememberence_2">Ingatan malam</string>
+
+    <string name="string_after_prayer">Setelah Sholat</string>
+    <string name="string_after_prayer_1">setelah shalat, tasbih</string>
+    <string name="string_after_prayer_2">setelah salat zikir</string>
+    <string name="string_after_prayer_3">menawarkan shalat secara teratur</string>
+    <string name="string_after_prayer_4">memohon perlindungan dan pertolongan dari Allah</string>
+
+    <string name="string_Rizq_sustenance">Rizq (Rezeki)</string>
+    <string name="string_Rizq_sustenance_1">untuk rezeki (rezeki)</string>
+    <string name="string_Rizq_sustenance_2">ketika kamu sedang membutuhkan</string>
+    <string name="string_Rizq_sustenance_3">untuk ampunan dan rahmat Allah</string>
+    <string name="string_Rizq_sustenance_4">karena memuji Allah</string>
+    <string name="string_Rizq_sustenance_5">untuk sukses</string>
+
+    <string name="string_knowledge">Pengetahuan</string>
+    <string name="string_knowledge_1">peningkatan pengetahuan</string>
+    <string name="string_knowledge_2">beri aku kepercayaan diri dan kefasihan</string>
+    <string name="string_knowledge_3">untuk perlindungan dari ketidaktahuan</string>
+    <string name="string_knowledge_4">perlindungan dari kebodohan</string>
+
+    <string name="string_faith">Keyakinan</string>
+    <string name="string_faith_1">kuatkan imanmu</string>
+    <string name="string_faith_2">untuk membuat kita menjadi muslim yang taat</string>
+    <string name="string_faith_3">mohon ampun dan kuatkan imanmu</string>
+    <string name="string_faith_4">berjanji kepada Allah</string>
+    <string name="string_faith_5">untuk teman yang saleh</string>
+
+    <string name="string_day_of_judgement">Hari penghakiman</string>
+    <string name="string_day_of_judgement_1">untuk dunia ini dan akhirat</string>
+    <string name="string_day_of_judgement_2">mohon ampun dan perlindungan dari neraka</string>
+    <string name="string_day_of_judgement_3">mohon ampun kepada orang tuamu dan seluruh umat islam</string>
+    <string name="string_day_of_judgement_4">untuk Jannah</string>
+
+    <string name="string_forgiveness">Pengampunan</string>
+    <string name="string_forgiveness_1">mohon ampun dan kuatkan imanmu</string>
+    <string name="string_forgiveness_2">untuk pengampunan</string>
+    <string name="string_forgiveness_3">untuk ampunan dan rahmat Allah</string>
+    <string name="string_forgiveness_4">mohon ampun dan perlindungan dari neraka</string>
+    <string name="string_forgiveness_5">mohon ampun kepada orang tuamu dan seluruh umat islam</string>
+    <string name="string_forgiveness_6">maafkan aku untuk saudara-saudaramu</string>
+    <string name="string_forgiveness_7">karena memohon ampun bagi diri sendiri dan siapapun yang memasuki rumahmu</string>
+    <string name="string_forgiveness_8">untuk pertobatan</string>
+    <string name="string_forgiveness_9">kuatkan imanmu</string>
+    <string name="string_forgiveness_10">mencari keridhaan Allah</string>
+
+    <string name="string_praising_allah">Memuji Allah</string>
+    <string name="string_praising_allah_1">karena memuji dan memuliakan Allah</string>
+    <string name="string_praising_allah_2">karena bersyukur kepada Allah</string>
+    <string name="string_praising_allah_3">karena bersyukur kepada Allah</string>
+    <string name="string_praising_allah_4">saat mendengar kabar baik</string>
+    <string name="string_praising_allah_5">untuk rezeki (rezeki)</string>
+    <string name="string_praising_allah_6">karena menyerahkan segalanya pada tangan Allah</string>
+
+    <string name="string_protection">Perlindungan</string>
+    <string name="string_protection_1">perlindungan dan pertolongan dari Allah</string>
+    <string name="string_protection_2">mohon ampun dan perlindungan dari neraka</string>
+    <string name="string_protection_3">untuk perlindungan dari setan/setan</string>
+    <string name="string_protection_4">untuk perlindungan dari mata jahat</string>
+    <string name="string_protection_5">untuk menjaga keluarga Anda aman dari pelanggar</string>
+    <string name="string_protection_6">untuk perlindungan anak Anda</string>
+    <string name="string_protection_7">untuk perlindungan dari penindas</string>
+    <string name="string_protection_8">untuk perlindungan terhadap musuh</string>
+    <string name="string_protection_9">untuk mengekang rasa takut</string>
+    <string name="string_protection_10">untuk perlindungan dari orang-orang yang zalim</string>
+    <string name="string_protection_11">untuk orang tua</string>
+    <string name="string_protection_12">karena takut melakukan perbuatan syirik</string>
+    <string name="string_protection_13">untuk dunia ini dan aakhira</string>
+    <string name="string_protection_14">menjadi seorang muslim yang bertakwa</string>
+    <string name="string_protection_15">untuk teman yang saleh</string>
+    <string name="string_protection_16">perlindungan dari bencana alam dan malapetaka</string>
+
+    <string name="string_family">Keluarga</string>
+    <string name="string_family_1">untuk orang tua</string>
+    <string name="string_family_2">mohon ampun bagi kedua orang tuamu dan seluruh umat islam</string>
+    <string name="string_family_3">ampunan buat kalian saudaraku</string>
+    <string name="string_family_4">untuk keluarga yang bahagia</string>
+    <string name="string_family_5">memohon kepada Allah untuk memberimu seorang anak</string>
+    <string name="string_family_6">untuk perlindungan anak Anda</string>
+
+    <string name="string_health_liness">Kesehatan / Kesehatan</string>
+    <string name="string_health_liness_1">untuk hidup sehat</string>
+    <string name="string_health_liness_2">saat menjenguk orang sakit</string>
+    <string name="string_health_liness_3">untuk meringankan rasa sakit</string>
+    <string name="string_health_liness_4">selama sakit</string>
+    <string name="string_health_liness_5">ketika melihat seseorang mengalami cobaan atau kesengsaraan</string>
+    <string name="string_health_liness_6">jika kamu terjatuh pada masa-masa sulit</string>
+    <string name="string_health_liness_7">ketika kamu mendekati kematianmu</string>
+    <string name="string_health_liness_8">ketika mengunjungi kuburan</string>
+
+    <string name="string_loss_failure">Kerugian/Kegagalan</string>
+    <string name="string_loss_failure_1">ketika Anda gagal atau kalah dalam sesuatu</string>
+    <string name="string_loss_failure_2">ketika kerugian terjadi</string>
+    <string name="string_loss_failure_3">ketika dilanda tragedi</string>
+    <string name="string_loss_failure_4">ketika melihat seseorang mengalami cobaan atau kesengsaraan</string>
+    <string name="string_loss_failure_5">karena mencari pertolongan Allah</string>
+
+    <string name="string_sorrow_joy">Kesedihan / Kegembiraan</string>
+    <string name="string_sorrow_joy_1">pada saat khawatir dan menyesal</string>
+    <string name="string_sorrow_joy_2">ketika dalam kesusahan</string>
+    <string name="string_sorrow_joy_3">untuk mengatasi kelemahanmu</string>
+    <string name="string_sorrow_joy_4">ketika dilanda tragedi</string>
+    <string name="string_sorrow_joy_5">ketika melihat seseorang mengalami cobaan atau kesengsaraan</string>
+    <string name="string_sorrow_joy_6">saat mendengar kabar buruk</string>
+    <string name="string_sorrow_joy_7">jika kamu terjatuh pada masa-masa sulit</string>
+    <string name="string_sorrow_joy_8">untuk kesabaran selama masa-masa sulit</string>
+    <string name="string_sorrow_joy_9">ketika seseorang menghinamu</string>
+    <string name="string_sorrow_joy_10">ketika merasa ketakutan</string>
+    <string name="string_sorrow_joy_11">untuk perlindungan dari orang-orang yang zalim</string>
+    <string name="string_sorrow_joy_12">karena mencari pertolongan Allah</string>
+    <string name="string_sorrow_joy_13">untuk percaya kepada Allah</string>
+    <string name="string_sorrow_joy_14">saat mendengar kabar baik</string>
+    <string name="string_sorrow_joy_15">ketika seseorang memujimu</string>
+
+    <string name="string_patience">Kesabaran</string>
+    <string name="string_patience_1">untuk kesabaran</string>
+    <string name="string_patience_2">untuk kesabaran selama masa-masa sulit</string>
+    <string name="string_patience_3">untuk mengendalikan amarahmu</string>
+    <string name="string_patience_4">ketika seseorang menghinamu</string>
+
+    <string name="string_debt">Utang</string>
+    <string name="string_debt_1">melunasi hutang</string>
+    <string name="string_debt_2">untuk seseorang yang memberi Anda uang</string>
+    <string name="string_debt_3">untuk sukses</string>
+    <string name="string_debt_4">untuk rezeki (rezeki)</string>
+
+    <string name="string_during_menstruation">Selama Menstruasi</string>
+    <string name="string_during_menstruation_1">darood-e-ibraheemi</string>
+    <string name="string_during_menstruation_2">untuk dunia ini dan akhirat</string>
+    <string name="string_during_menstruation_3">untuk ampunan dan rahmat Allah</string>
+    <string name="string_during_menstruation_4">kuatkan imanmu</string>
+    <string name="string_during_menstruation_5">untuk membuat kita menjadi muslim yang taat</string>
+    <string name="string_during_menstruation_6">karena bersyukur kepada Allah</string>
+    <string name="string_during_menstruation_7">menjadi umat Islam yang bertakwa</string>
+    <string name="string_during_menstruation_8">untuk hidup sehat</string>
+    <string name="string_during_menstruation_9">untuk meringankan rasa sakit</string>
+    <string name="string_during_menstruation_10">jika kamu terjatuh pada masa-masa sulit</string>
+    <string name="string_during_menstruation_11">karena mencari pertolongan Allah</string>
+    <string name="string_during_menstruation_12">ketika dalam kesusahan</string>
+    <string name="string_during_menstruation_13">untuk kesabaran selama masa-masa sulit</string>
+    <string name="string_during_menstruation_14">untuk percaya kepada Allah</string>
+
+    <!--Duas-->
+    <string name="string_duas">Doa</string>
+    <string name="string_daily">Sehari-hari</string>
+
+    <string name="string_sleeping">Sedang tidur</string>
+    <string name="string_sleeping_1">Saat kamu bangun</string>
+    <string name="string_sleeping_2">Sebelum tidur</string>
+
+    <string name="string_toilet">Toilet</string>
+    <string name="string_toilet_1">Sebelum memasuki toilet</string>
+    <string name="string_toilet_2">setelah meninggalkan toilet</string>
+
+    <string name="string_ablution">Pembersihan</string>
+    <string name="string_ablution_1">Kapan mulai berwudhu</string>
+    <string name="string_ablution_2">saat menyelesaikan wudhu</string>
+
+    <string name="string_mosque">Masjid</string>
+    <string name="string_mosque_1">Saat pergi ke masjid</string>
+    <string name="string_mosque_2">Saat memasuki masjid</string>
+    <string name="string_mosque_3">Setelah meninggalkan masjid</string>
+
+    <string name="string_prayer">Doa</string>
+    <string name="string_prayer_1">Saat azan</string>
+    <string name="string_prayer_2">setelah mendengarkan athan</string>
+    <string name="string_prayer_3">setelah takbir (mulai shalat)</string>
+    <string name="string_prayer_4">saat ruku (sujud dalam shalat)</string>
+    <string name="string_prayer_5">sambil sujud di hadapan Allah (dalam sujud)</string>
+    <string name="string_prayer_6">ketika duduk di antara 2 sujud (sujud)</string>
+    <string name="string_prayer_7">sujud saat mengaji</string>
+    <string name="string_prayer_8">ketika duduk dimangsa (tashahhud)</string>
+    <string name="string_prayer_9">darood-e-ibraheemi</string>
+    <string name="string_prayer_10">Setelah tasyahhud</string>
+    <string name="string_prayer_11">Dua e qunoot (dibacakan dalam doa witir)</string>
+    <string name="string_prayer_12">setelah shalat subuh</string>
+
+    <string name="string_home">Rumah</string>
+    <string name="string_home_1">ketika meninggalkan rumah</string>
+    <string name="string_home_2">saat memasuki rumah</string>
+    <string name="string_home_3">saat menaiki tangga/naik suatu tempat</string>
+    <string name="string_home_4">saat menuruni tangga/turun dari tempat tinggi</string>
+
+    <string name="string_garment">Pakaian</string>
+    <string name="string_garment_1">sambil mengenakan pakaian</string>
+    <string name="string_garment_2">saat memakai baju baru</string>
+    <string name="string_garment_3">saat melihat ke cermin</string>
+
+    <string name="string_travel">Bepergian</string>
+    <string name="string_travel_1">Untuk perjalanan</string>
+    <string name="string_travel_2">saat kembali dari perjalanan</string>
+    <string name="string_travel_3">ketika malam menjelang selama perjalanan</string>
+    <string name="string_travel_4">untuk akomodasi</string>
+    <string name="string_travel_5">sebelum tidur malam selama traval</string>
+
+    <string name="string_food">Makanan</string>
+    <string name="string_food_1">saat memulai makan</string>
+    <string name="string_food_2">Jika seseorang lupa menyebut Allah di awal</string>
+    <string name="string_food_3">Setelah selesai makan</string>
+    <string name="string_food_4">saat diberi minuman</string>
+    <string name="string_food_5">Setelah minum susu</string>
+    <string name="string_food_6">saat makan di rumah seseorang</string>
+    <string name="string_food_7">untuk seseorang yang menawarimu makan</string>
+    <string name="string_food_8">saat membuka puasa</string>
+    <string name="string_food_9">untuk seseorang yang memberimu buka puasa</string>
+
+    <string name="string_occasional">Sesekali</string>
+
+    <string name="string_deceased">Almarhum</string>
+    <string name="string_deceased_1">Ketika kerugian terjadi</string>
+    <string name="string_deceased_2">Saat mengunjungi kuburan</string>
+    <string name="string_deceased_3">Saat menyampaikan belasungkawa</string>
+    <string name="string_deceased_4">Saat menutup mata almarhum</string>
+    <string name="string_deceased_5">Untuk almarhum saat salat jenazah</string>
+    <string name="string_deceased_6">Saat menempatkan orang yang meninggal di dalam kubur</string>
+
+    <string name="string_haj_umrah">Haji/Umrah</string>
+    <string name="string_haj_umrah_1">tabihya</string>
+    <string name="string_haj_umrah_2">takbir ketika melewati batu hitam</string>
+    <string name="string_haj_umrah_3">setelah mencapai sudut yaman selama tawaf</string>
+    <string name="string_haj_umrah_4">saat hendak mendaki gunung Safa</string>
+    <string name="string_haj_umrah_5">ketika di gunung safa dan gunung marwah</string>
+    <string name="string_haj_umrah_6">untuk membaca di al-mash\'ar al-haraam (muzdalifah)</string>
+    <string name="string_haj_umrah_7">ketika melempar batu ke jamaraat</string>
+    <string name="string_haj_umrah_8">di Arafat</string>
+    <string name="string_haj_umrah_9">saat menyembelih hewan kurban</string>
+
+    <string name="string_ramadan">Ramadan</string>
+    <string name="string_ramadan_1">Saat membuka puasa</string>
+    <string name="string_ramadan_2">untuk malam takdir (lailatul qadr)</string>
+    <string name="string_ramadan_3">Untuk seseorang yang memberimu buka puasa</string>
+    <string name="string_ramadan_4">pada penampakan bulan sabit</string>
+
+    <string name="string_nature">Alam</string>
+    <string name="string_nature_1">untuk hujan</string>
+    <string name="string_nature_2">saat hujan</string>
+    <string name="string_nature_3">setelah hujan</string>
+    <string name="string_nature_4">ketika terjadi hujan berlebihan</string>
+    <string name="string_nature_5">setelah mendengar guntur</string>
+    <string name="string_nature_6">saat terjadi badai angin</string>
+
+    <string name="string_good_ettiquete">Etiket yang bagus</string>
+    <string name="string_good_ettiquete_1">untuk menyapa orang</string>
+    <string name="string_good_ettiquete_2">saat membalas salam</string>
+    <string name="string_good_ettiquete_3">untuk berterima kasih kepada seseorang</string>
+    <string name="string_good_ettiquete_4">saat bersin</string>
+    <string name="string_good_ettiquete_5">setelah mendengar seseorang bersin</string>
+    <string name="string_good_ettiquete_6">sneezer membalas kembali</string>
+    <string name="string_good_ettiquete_7">saat memasuki pasar</string>
+    <string name="string_good_ettiquete_8">di akhir suatu pertemuan/majlis</string>
+    <string name="string_good_ettiquete_9">ketika seseorang memujimu</string>
+
+    <string name="string_decision_guidance">keputusan/bimbingan</string>
+    <string name="string_decision_guidance_1">untuk istikharah</string>
+    <string name="string_decision_guidance_2">untuk Keadilan</string>
+    <string name="string_decision_guidance_3">mencari bimbingan Allah</string>
+    <string name="string_decision_guidance_4">mencari keridhaan Allah</string>
+    <string name="string_decision_guidance_5">untuk sukses</string>
+    <string name="string_decision_guidance_6">kuatkan imanmu</string>
+    <string name="app_widget_description_time">Widget Waktu Sholat Muslim</string>
+    <string name="app_widget_description_azkar">Widget Muslim Azkar</string>
+
+    <!--    When you wake up-->
+    <string name="text_wake_up_1" translatable="false">Segala puji bagi Allah yang telah memulihkan kesehatanku dan mengembalikan ruhku serta membuatku dapat mengingat-Nya.</string>
+    <string name="text_wake_up_2" translatable="false">Nabi bersabda : Barangsiapa yang terbangun di malam hari kemudian berkata: \'Tidak ada yang berhak disembah kecuali Allah, sendirian tanpa sekutu, milik-Nya kekuasaan dan pujian dan Dia Mahakuasa atas segala sesuatu. Betapa sempurnanya Allah, dan segala puji bagi Allah, dan tidak ada yang berhak disembah kecuali Allah, Allah Maha Besar dan tidak ada daya dan keperkasaan kecuali dengan Allah Yang Maha Tinggi lagi Maha Agung. lalu berdoa:\' Ya Tuhanku, maafkan aku.\' …akan diampuni\' “atau dia berkata: \'lalu bertanya, dia akan dikabulkan. Jika dia kemudian berwudhu dan shalat, maka doanya akan diterima\'.</string>
+    <string name="text_wake_up_3" translatable="false">Segala puji bagi Allah yang telah memberi kita kehidupan setelah mengambilnya dari kita dan hanya kepada-Nya kebangkitan.</string>
+
+    <!--    Before entering toilet-->
+    <string name="text_entering_toilet_1" translatable="false">(Dengan menyebut nama Allah). Ya Allah, aku berlindung kepada-Mu dari segala keburukan dan orang-orang yang berbuat jahat.</string>
+    <!--    After leaving toilet-->
+    <string name="text_leaving_toilet_1" translatable="false">Aku mohon ampun kepada-Mu (Allah).</string>
+    <!--    When starting ablution-->
+    <string name="text_starting_ablution_1" translatable="false">Dengan menyebut nama Allah.</string>
+    <!--    when completing ablution-->
+    <string name="text_completing_ablution_1" translatable="false">Aku bersaksi bahwa tidak ada yang berhak disembah kecuali Allah, sendirian tanpa sekutu, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya.</string>
+    <string name="text_completing_ablution_2" translatable="false">Ya Allah, jadikanlah aku termasuk orang-orang yang sering kembali kepada-Mu dalam keadaan bertaubat, dan jadikanlah aku termasuk orang-orang yang bersih dan suci.</string>
+    <string name="text_completing_ablution_3" translatable="false">Betapa sempurnanya Engkau ya Allah, dan aku memuji-Mu, aku bersaksi bahwa tidak ada yang berhak disembah kecuali Engkau, aku memohon ampun kepada-Mu dan bertaubat kepada-Mu.</string>
+    <!--    When going to Mosque-->
+    <string name="text_going_to_mosque_1" translatable="false">Ya Allah, jadikanlah cahaya di dalam hatiku, di atas lidahku, cahaya, dan di dalam telingaku, cahaya, dan di dalam mataku, dan letakkan cahaya di belakangku, di depanku, cahaya di atasku, dan cahaya di bawahku. Ya Allah, berikan kepadaku cahaya.</string>
+    <!--    Upon entering Mosque-->
+    <string name="text_entering_osque1" translatable="false">Aku berlindung kepada Allah Yang Maha Esa, dengan Wajah-Nya yang Mulia, dan kekuasaan-Nya yang kekal dari setan yang terkutuk. Bismillah, sholawat dan salam atas Rasulullah. Ya Allah, bukakanlah pintu rahmat-Mu untukku.</string>
+    <!--    Upon Leaving Mosque-->
+    <string name="text_leaving_mosque_1" translatable="false">Bismillah, sholawat dan salam atas Rasulullah. Ya Allah, aku memohon kepada-Mu atas nikmat-Mu. Ya Allah, lindungilah aku dari setan yang terkutuk.</string>
+    <!--    During athan-->
+    <string name="text_during_athan_1" translatable="false">Tidak ada daya dan kekuatan kecuali dengan izin Allah.</string>
+    <!--    after listening athan-->
+    <string name="text_listening_athan_1" translatable="false">Ya Allah, Tuhan atas panggilan yang sempurna dan doa yang ditegakkan ini. Berilah Muhammad syafaat dan nikmat, dan angkat dia ke kedudukan terhormat yang telah Engkau janjikan kepadanya, [sesungguhnya Engkau tidak mengabaikan janji].</string>
+    <!--    After Takbeer-->
+    <string name="text_after_takbeer_1" translatable="false">Aku telah memalingkan wajahku dengan ikhlas kepada Dia yang telah melahirkan langit dan bumi dan aku bukanlah termasuk orang-orang yang menyekutukan (orang lain dengan Allah). Sesungguhnya sholatku, kurbanku, hidup dan matiku hanya untuk Allah, Tuhan semesta alam, tidak ada sekutu bagi-Nya, dengan itu aku diperintahkan dan aku termasuk kaum muslimin. Ya Allah, Engkaulah Yang Berdaulat, tidak ada yang berhak disembah kecuali Engkau. Engkau Tuhanku dan aku hambaMu, aku telah menganiaya jiwaku sendiri dan telah mengakui dosaku, maka ampunilah segala dosaku, karena tidak ada yang mengampuni dosa kecuali Engkau. Bimbinglah aku pada sifat-sifat yang terbaik, karena tidak ada seorang pun yang dapat membimbingku selain Engkau, dan bebaskan aku dari sifat-sifat yang paling buruk, karena tidak ada seorang pun yang dapat melepaskan aku darinya selain Engkau. Inilah saya, sebagai jawaban atas panggilan Anda, dengan senang hati melayani Anda. Segala kebaikan ada di tangan-Mu dan kejahatan tidak berasal dari-Mu. Aku ada atas kemauanmu dan akan kembali padamu. Maha Suci dan Tinggi Engkau, aku memohon ampun kepada-Mu dan bertaubat kepada-Mu</string>
+    <string name="text_after_takbeer_2" translatable="false">Ya Allah! pisahkan aku dari dosa-dosaku sebagaimana Engkau telah memisahkan Timur dari Barat. Ya Allah, bersihkan aku dari pelanggaran-pelanggaranku seperti halnya pakaian putih dibersihkan dari noda. Ya Allah! bersihkanlah dosa-dosaku dengan es, air, dan embun beku.</string>
+    <string name="text_after_takbeer_3" translatable="false">Maha Suci Engkau ya Allah, dan puji syukur. Terpujilah Namamu dan Maha Mulia Yang Mulia. Tidak ada yang berhak disembah selain Engkau.</string>
+    <!--    During Ruku-->
+    <string name="text_during_ruku_1" translatable="false">Maha Suci Tuhanku Yang Maha Agung.</string>
+    <string name="text_during_ruku_2" translatable="false">Maha Suci Engkau ya Allah Tuhan kami dan puji bagiMu. Ya Allah, maafkan aku.</string>
+    <string name="text_during_ruku_3" translatable="false">Kemuliaan (bagi-Mu), Yang Maha Suci (adalah Engkau), Tuhan para malaikat dan Ruh.</string>
+    <string name="text_during_ruku_4" translatable="false">Ya Allah! kepada-Mu aku bersujud (dalam shalat), kepada-Mu aku beriman, dan kepada-Mu aku berserah diri. Dihadapan-Mu pendengaranku direndahkan, demikian pula penglihatanku, pikiranku, tulang-tulangku, syaraf-syarafku, dan apa yang dinaiki kakiku (untuk bepergian).</string>
+    <string name="text_during_ruku_5" translatable="false">Kemuliaan bagi-Mu, Penguasa kekuasaan, kekuasaan, keagungan dan keagungan.</string>
+    //While prostrating before Allah
+    <string name="text_before_allah_1" translatable="false">Maha Suci Tuhanku Yang Maha Tinggi.</string>
+    <string name="text_before_allah_2" translatable="false">Maha Suci Engkau ya Allah Tuhan kami dan puji bagiMu. Ya Allah, maafkan aku.</string>
+    <string name="text_before_allah_3" translatable="false">Kemuliaan (bagi-Mu), Yang Maha Suci (adalah Engkau), Tuhan para malaikat dan Ruh.</string>
+    <string name="text_before_allah_4" translatable="false">Ya Allah, kepadaMu aku bersujud dan kepadaMu aku beriman. KepadaMu aku telah serahkan. Wajahku sujud kepada Dzat yang menciptakannya, membentuknya, dan memberinya pendengaran dan penglihatan. Maha Suci Allah, Yang Maha Pencipta.</string>
+    <string name="text_before_allah_5" translatable="false">Kemuliaan bagi-Mu, Penguasa kekuasaan, kekuasaan, keagungan dan keagungan.</string>
+    <string name="text_before_allah_6" translatable="false">Ya Allah, aku berlindung pada keridhaan-Mu dari kemarahan-Mu, dan aku berlindung pada ampunan-Mu dari siksa-Mu. Aku mencari perlindungan pada-Mu dari-Mu. Aku tidak dapat menghitung pujian-Mu. Anda seperti Anda telah memuji diri Anda sendiri.</string>
+    <string name="text_before_allah_7" translatable="false">Ya Allah, ampunilah aku segala dosaku, besar dan kecil, yang pertama dan yang terakhir, yang nyata dan yang tersembunyi.</string>
+    //When sitting between two Sujood
+    <string name="text_two_sujood_1" translatable="false">Tuhan, maafkan aku. Tuhanku, maafkan aku.</string>
+    <string name="text_two_sujood_2" translatable="false">Ya Allah ampunilah aku, kasihanilah aku, bimbing aku, dukung aku, lindungi aku, rezeki aku, dan tinggikan aku.</string>
+    //prostration during quran recitation
+    <string name="text_quran_recitation_1" translatable="false">Aku telah sujudkan wajahku kepada Yang menciptakannya, dan aku memberinya pendengaran dan penglihatan dengan keperkasaan dan kekuasaan-Nya. Maha Suci Allah, Pencipta Yang Terbaik.</string>
+    //when sitting in preyer
+    <string name="text_in_preyer_1" translatable="false">Segala salam kerendahan hati hanya untuk Allah, dan segala doa serta kebaikan. Salam sejahtera bagimu wahai Nabi, dan rahmat Allah dan berkah-Nya. Salam sejahtera bagi kami dan atas hamba-hamba Allah yang saleh. Aku bersaksi bahwa tidak ada Tuhan yang berhak disembah selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan rasul-Nya.</string>
+    //darood-e-ibraheemi
+    <string name="text_ibraheemi_1" translatable="false">Ya Allah, limpahkanlah nikmat-Mu kepada Muhammad dan keluarga Muhammad sebagaimana Engkau melimpahkan nikmat-Mu kepada Ibrahim dan keluarga Ibrahim, Engkau Maha Terpuji lagi Maha Mulia. Ya Allah, berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkati Ibrahim dan keluarga Ibrahim, Engkau Maha Terpuji lagi Maha Mulia.</string>
+    //After tashahhud
+    <string name="text_after_tashahhud_1" translatable="false">Ya Allah, aku berlindung kepada-Mu dari siksa kubur, dan aku berlindung kepada-Mu dari cobaan Al-Masih Palsu, dan aku berlindung kepada-Mu dari cobaan hidup dan mati. Ya Allah, aku berlindung kepada-Mu dari dosa dan hutang.</string>
+    <string name="text_after_tashahhud_2" translatable="false">Ya Allah, aku telah sangat menganiaya diriku sendiri dan tidak ada yang mengampuni dosaku kecuali Engkau. Jadi, berilah aku pengampunan dan kasihanilah aku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang.</string>
+    <string name="text_after_tashahhud_3" translatable="false">Ya Allah, ampunilah aku apa yang telah aku kirimkan sebelum aku dan apa yang aku tinggalkan di belakangku, apa yang aku sembunyikan dan apa yang aku kerjakan secara terang-terangan, apa yang telah aku kerjakan secara berlebihan, dan apa yang lebih Engkau ketahui dari pada aku. Engkaulah yang mengutus dan Engkaulah yang menunda. Tidak ada yang berhak disembah selain Engkau.</string>
+    //Dua e qunoot (recited in witr prayer)
+    <string name="text_e_qunoot_1" translatable="false">Ya Allah! Kami mohon pertolongan-Mu dan memohon ampunan-Mu serta beriman kepada-Mu dan bersandar kepada-Mu serta mengagungkan-Mu dan kami bersyukur kepada-Mu dan tidak ingkar kepada-Mu serta kami mengasingkan dan meninggalkan orang-orang yang durhaka kepada-Mu. Ya Allah! Hanya kepada-Mu saja kami beribadah, hanya kepada-Mu kami berdoa dan bersujud, dan kami bertekad untuk menyenangkan-Mu dan mempersembahkan diri kami untuk mengabdi di jalan-Mu, dan kami mengharap rahmat-Mu dan takut akan azab-Mu. Tidak diragukan lagi, siksa-Mu akan menimpa orang-orang kafir Ya Allah!</string>
+    //after fajr prayer
+    <string name="text_fajr_prayer_1" translatable="false">Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, dan mereka menerima dengan baik dan sesuai</string>
+    //when leaving home
+    <string name="text_leaving_home_1" translatable="false">Bismillah, aku bertawakal kepada Allah, dan tidak ada daya dan kekuatan kecuali dengan izin Allah.</string>
+    <string name="text_leaving_home_2" translatable="false">Ya Allah, aku berlindung kepada-Mu agar aku tidak tersesat atau disesatkan, atau terpeleset atau tersandung, atau tertindas atau tertindas, atau berperilaku dungu atau diperlakukan dungu.’ slip: yaitu melakukan dosa tanpa sengaja</string>
+    //upon entering home
+    <string name="text_entering_home_1" translatable="false">Dengan nama Allah kami masuk dan dengan nama Allah kami keluar, dan kepada Tuhan kami kami bertawakal.</string>
+    //when going up the stairs / ascending a place
+    <string name="text_the_stairs_1" translatable="false">Segala puji bagi Allah yang telah memberiku pakaian ini dan memberikannya kepadaku, tanpa ada daya dan tenaga dari diriku sendiri.</string>
+    <string name="text_the_stairs_2" translatable="false">Allah Maha Besar</string>
+    <string name="text_the_stairs_3" translatable="false">Puji Tuhan</string>
+    //when wearing new clothes
+    <string name="text_new_clothes_1" translatable="false">Ya Allah, segala puji bagiMu. Kamu telah memberiku pakaian. Aku memohon kepadaMu kebaikannya dan kebaikan dari apa yang diciptakannya, dan aku memohon perlindungan kepadaMu dari keburukan dan keburukan dari apa yang diciptakannya.</string>
+    //when looking into the mirror
+    <string name="text_the_mirror_1" translatable="false">Ya Allah, sebagaimana Engkau telah menjadikan penampilan luarku indah, jadikanlah karakterku indah pula.</string>
+    //Travel
+    //for travel
+    <string name="text_for_travel_1" translatable="false">Maha Suci Dia yang menciptakan transportasi ini, untuk kami, meskipun kami tidak mampu menciptakannya sendiri. Dan kepada Tuhan kami, kami akan kembali.</string>
+    <string name="text_for_travel_2" translatable="false">Tuanku! Biarlah jalan masukku (ke kota Madinah) baik, begitu pula jalan keluarku (dari kota Makkah) baik. Dan berilah aku wewenang dari-Mu untuk menolongku (atau tanda atau bukti yang kuat).</string>
+    //while returning form travel
+    <string name="text_form_travel_1" translatable="false">Allah Maha Besar, Allah Maha Besar, Allah Maha Besar.\nTidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu. Kepunyaan-Nya segala kekuasaan dan segala puji-pujian, dan Dia Mahakuasa atas segala sesuatu. Kami kembali, bertobat, menyembah dan memuji Tuhan kami. Allah menepati janji-Nya, membantu Hamba-Nya, dan seorang diri mengalahkan sekutu.</string>
+    /when night approaches during travel
+    <string name="text_approaches_during_travel_1" translatable="false">Wahai bumi, Tuhanku dan Tuhanmu adalah Tuhan. Aku berlindung kepada Allah dari kemusyrikanmu, dari keburukan apa yang ada dalam dirimu, dari keburukan apa yang Dia ciptakan dalam dirimu, dan dari keburukan apa yang merayapimu. Aku berlindung kepada Allah dari singa, dari ular hitam besar, dari ular lain, dari kalajengking, dan dari kejahatan jin yang menghuni bumi. Itu adalah ayah dan keturunannya</string>
+    //for accommodation
+    <string name="text_accommodation_1" translatable="false">Ya Tuhanku, izinkan aku mendarat di tempat pendaratan yang diberkati, dan Engkaulah yang terbaik untuk menampung [kami].</string>
+    //before sleeping at night during travel
+    <string name="text_during_travel_1" translatable="false">Tuanku! Aku berlindung kepadaMu dari bisikan (saran) setan. Dan aku berlindung kepada-Mu, Ya Tuhanku! jangan sampai mereka mendatangi (atau mendekati) saya.</string>
+    <string name="text_during_travel_2" translatable="false">Aku berlindung kepada Allah dari setan yang terbuang.</string>
+    <string name="text_during_travel_3" translatable="false">Aku berlindung pada Kalimat Allah yang Sempurna dari keburukan apa yang diciptakan-Nya.</string>
+    //Food
+    //when beginning a meal
+    <string name="text_beginning_a_meal_1" translatable="false">Dengan menyebut nama Allah Yang Maha Penyayang lagi Maha Penyayang.</string>
+    //if one forget to mention allah at the beginning
+    <string name="text_the_beginning_1" translatable="false">Atas nama Tuhan, awal dan akhir</string>
+    //after finishing a meal
+    <string name="text_finishing_a_meal_1" translatable="false">Segala puji bagi Allah yang telah memberi kami makan, memberi kami minuman, dan menjadikan kami Muslim.</string>
+    //when given a drink
+    <string name="text_a_drink_1" translatable="false">Ya Allah! Beri dia makan yang memberiku makan dan beri dia minum yang memberiku minum.</string>
+    //upon drinking milk
+    <string name="text_drinking_milk_1" translatable="false">Ya Allah! Memberkati kami di dalamnya dan memberi kami peningkatannya.</string>
+    //when dining at someone’s house
+    <string name="text_house_1" translatable="false">Ya Allah! Memberkati mereka dengan apa yang telah Engkau berikan kepada mereka, dan ampunilah mereka serta kasihanilah mereka.</string>
+    //for someone who offers you a meal
+    <string name="text_you_a_meal_1" translatable="false">Ya Allah, berilah makan kepada orang yang memberiku makan dan minumlah kepada orang yang memberiku minum.</string>
+    //when openning your fast
+    <string name="text_your_fast_1" translatable="false">Ya Allah! Aku berpuasa karena Engkau dan aku beriman kepada-Mu dan aku bertawakal kepada-Mu dan aku berbuka puasa dengan rezeki-Mu</string>
+    //For someone who provides you with Iftar
+    <string name="text_with_iftar_1" translatable="false">Bersamamu, orang-orang yang berpuasa telah berbuka, kamu telah memberi makan kepada orang-orang yang bertakwa, dan para malaikat membacakan doanya kepadamu.</string>
+
+    //Deceased
+    //when a loss occurs
+    <string name="text_loss_occurs_1" translatable="false">Sesungguhnya kita milik Allah, dan sesungguhnya kepada-Nyalah kita kembali.</string>
+    //when visiting graves
+    <string name="text_visiting_graves_1" translatable="false">Wahai umat Islam yang tinggal di sini, salam untuk kalian, insya Allah kami juga akan mendatangi kalian. Kami mencari keamanan bagi kami dan Anda.</string>
+    //when offering condolenca
+    <string name="text_offering_condolenca_1" translatable="false">Sesungguhnya Allah mengambil apa yang menjadi milik-Nya, dan apa yang Dia berikan adalah milik-Nya, dan segala sesuatu telah Dia tetapkan waktunya. Jadi, bersabarlah dan dapatkan imbalan</string>
+    //when closing the eyes of the deceased
+    //For the deceased at the funeral prayer
+    <string name="text_funeral_prayer_1" translatable="false">Ya Allah, ampunilah dia dan kasihanilah dia, berikan dia kekuatan dan ampunilah dia. Bersikaplah murah hati padanya dan buatlah pintu masuknya lebar-lebar dan basuhlah dia dengan air, salju, dan hujan es. Sucikan dia dari pelanggarannya seperti kain putih dibersihkan dari noda. Beri dia tempat tinggal yang lebih baik dari rumahnya, dan keluarga yang lebih baik dari keluarganya, dan istri yang lebih baik dari istrinya. Bawalah dia ke surga dan lindungi dia dari siksa kubur [dan dari siksa api neraka].</string>
+    <string name="text_funeral_prayer_2" translatable="false">Ya Allah, ampunilah kami yang masih hidup dan yang telah meninggal, orang-orang yang bersama kami dan orang-orang yang tidak hadir, orang-orang muda dan tua kami, laki-laki dan perempuan kami. Ya Allah, barangsiapa yang Engkau beri kehidupan di antara kami, berilah dia kehidupan dalam Islam, dan siapa pun yang Engkau ambil dari kami, berilah dia kehidupan dalam Iman. Ya Allah, jangan larang kami pahala mereka dan jangan biarkan kami tersesat setelahnya.</string>
+    //When placing the deceased in the grave
+    <string name="text_the_graver_1" translatable="false">Dengan Nama Allah dan sesuai Sunnah Rasulullah</string>
+
+    //Hajj / Umrah
+    //tabihya
+    <string name="text_tabihya_1" translatable="false">Selalu melayani-Mu, ya Allah, setiap melayani-Mu. Selalu Melayani Anda, Anda tidak memiliki mitra, yang pernah melayani Anda. Sesungguhnya segala puji, nikmat, dan kekuasaan adalah milik-Mu. Anda tidak memiliki pasangan</string>
+    //takbeer when passing the black stone
+    <string name="text_black_stone_1" translatable="false">Allah Maha Besar!</string>
+    //upon reaching the yemeni corner during tawaf
+    <string name="text_during_tawaf_1" translatable="false">Tuhan kami! Berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari siksa Neraka</string>
+    //while going to mount safa
+    <string name="text_mount_safa_1" translatable="false">Saya mulai dengan apa yang Allah mulai. Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Tidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu. Kepunyaan-Nya segala kekuasaan dan segala puji-pujian, dan Dia Mahakuasa atas segala sesuatu. Tidak ada seorang pun yang berhak disembah kecuali Allah saja. Dia memenuhi janji-Nya, membantu Hamba-Nya dan seorang diri mengalahkan sekutu.</string>
+    //When at Mount Safa and Mount Marwah
+    <string name="text_mount_marwah_1" translatable="false">Saya mulai dengan apa yang Allah mulai. Allah Maha Besar, Allah Maha Besar, Allah Maha Besar. Tidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu. Kepunyaan-Nya segala kekuasaan dan segala puji-pujian, dan Dia Mahakuasa atas segala sesuatu. Tidak ada seorang pun yang berhak disembah kecuali Allah saja. Dia memenuhi janji-Nya, membantu Hamba-Nya dan seorang diri mengalahkan sekutu.</string>
+    //for reciting at al-mash’ar al-haraam (muzdalifah)
+    <string name="text_al_haraam_1" translatable="false">Allah Maha Besar. Allah itu Esa. Tidak ada yang patut disembah selain Allah.</string>
+    //when throwing stone at jamaraat
+    <string name="text_at_jamaraat_1" translatable="false">Allah Maha Besar!</string>
+    //at arafat
+    <string name="text_at_arafat_1" translatable="false">Tidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu. Kepunyaan-Nya kekuasaan dan segala puji, dan Dialah yang Maha Kuasa atas segala sesuatu.</string>
+    //When sacrificing an animal
+    <string name="text_an_animal_1" translatable="false">Dengan Nama Allah, Allah Maha Besar! [Ya Allah, dariMu dan kepadaMu.] Ya Allah, terimalah dariku.</string>
+
+    //Ramadan
+    //When openning your fast
+    <string name="text_openning_your_fast_1" translatable="false">Ya Allah! Aku berpuasa karena Engkau dan aku beriman kepada-Mu dan aku bertawakal kepada-Mu dan aku berbuka puasa dengan rezeki-Mu</string>
+    //For the night of destiny
+    <string name="text_of_destiny_1" translatable="false">Ya Allah, Engkaulah Yang Maha Pemaaf, dan suka memaafkan, maka ampunilah aku</string>
+    //For someone who provides you with Iftar
+    <string name="text_you_with_iftar_1" translatable="false">Bersamamu, orang-orang yang berpuasa telah berbuka, kamu telah memberi makan kepada orang-orang yang bertakwa, dan para malaikat membacakan doanya kepadamu.</string>
+    //on the sighting of the crescent moon
+    <string name="text_crescent_moon_1" translatable="false">Allah Maha Besar. Ya Allah, hadirkan kami bulan baru dengan keamanan dan keimanan, dengan kedamaian dan Islam, dan selaras dengan apa yang dicintai Tuhan kami dan apa yang diridhai-Nya. Tuhan kami dan Tuhanmu adalah Allah.</string>
+
+    //Nature
+    //For rain
+    <string name="text_for_rain_1" translatable="false">Ya Allah, turunkanlah kami hujan yang melimpah, bermanfaat dan tidak merugikan, cepat dan tidak tertunda.</string>
+    //when it rains
+    <string name="text_it_rains_1" translatable="false">Ya Allah, (datangkanlah) awan hujan yang bermanfaat.</string>
+    //after rainfall
+    <string name="text_after_rainfall_1" translatable="false">Kita telah diberi hujan atas karunia dan rahmat Allah.</string>
+    <string name="text_after_rainfall_2" translatable="false">Ya Allah, (datangkanlah) awan hujan yang bermanfaat.</string>
+    <string name="text_after_rainfall_3" translatable="false">Ya Allah, biarlah ia melewati kami dan tidak menimpa kami, melainkan ke bukit-bukit, gunung-gunung, tengah-tengah lembah, dan ke kawasan hutan.</string>
+    //Upon hearing thunder
+    <string name="text_hearing_thunder_1" translatable="false">Maha Suci Dia yang dimuliakan oleh guruh dan malaikat karena takut kepada-Nya.</string>
+    //During a windstorm
+    <string name="text_a_windstorm_1" translatable="false">Ya Allah, aku memohon kepada-Mu kebaikannya dan berlindung kepada-Mu dari keburukannya.</string>
+
+    //Good ettiquete
+    //For greeting people
+    <string name="text_greeting_people_1" translatable="false">Semoga shalawat, rahmat, dan keberkahan Allah tercurah padamu</string>
+    //When responding to Salam
+    <string name="text_to_Salam_1" translatable="false">Wa’alaikum assalam wa rahmatullahi wa barakatuh</string>
+    //For thanking someone
+    <string name="text_thanking_someone_1" translatable="false">Semoga Allah membalas Anda dengan kebaikan.</string>
+    //upon hearing someone sneeze
+    <string name="text_someone_sneeze_1" translatable="false">Semoga Allah mengampuni Anda</string>
+    //Upon sneezing
+    <string name="text_Upon_sneezing_1" translatable="false">Segala puji bagi Allah.</string>
+    //Sneezers replies back
+    <string name="text_replies_back_1" translatable="false">Semoga Allah membimbing Anda dan memperbaiki kondisi Anda.</string>
+    //At the end of a Gathering/Majlis
+    <string name="text_a_Gathering_1" translatable="false">Maha Suci bagi-Mu ya Allah, dan puji bagi-Mu. Aku bersaksi bahwa tidak ada yang berhak disembah selain Engkau. Aku mohon ampun kepada-Mu dan bertaubat kepada-Mu.</string>
+    //When entering market
+    <string name="text_entering_market_1" translatable="false">Tidak ada Tuhan selain Allah. Dia adalah Yang Esa dan tidak mempunyai sekutu. Milik-Nya Kerajaan dan bagi-Nya segala puji. Dia memberi kehidupan dan memberikan kematian. Dialah yang kekal dan abadi. Di dalam kendali-Nya terdapat kebaikan, dan Dia Maha Kuasa atas segala sesuatu.</string>
+    //When someone praises you
+    <string name="text_praises_you_1" translatable="false">Ya Allah, jangan panggil aku untuk mempertanggungjawabkan apa yang mereka katakan dan maafkan aku atas apa yang mereka tidak tahu tentangnya [dan jadikan aku lebih baik dari yang mereka bayangkan].</string>
+
+    //decision / guidance
+    //For Istikhara
+    <string name="text_For_Istikhara_1" translatable="false">Ya Allah, aku mohon nasihat Ilmu-Mu, dan aku mohon pertolongan Yang Maha Kuasa, dan aku mohon kepada-Mu Rahmat-Mu yang Maha Besar. Tentunya Anda Mampu dan saya tidak. Engkau mengetahui dan aku tidak mengetahui, dan Engkaulah yang mengetahui yang ghaib. Ya Allah, jika Engkau mengetahui bahwa perkara ini [sebutkan hal yang akan diputuskan] itu baik bagiku agamaku dan hidupku serta kesejahteraanku di akhirat, - [atau katakanlah: di dunia dan akhirat ] - kemudian ditahbiskan untukku dan dimudahkan bagiku, lalu berkahi aku di dalamnya. Dan jika Engkau mengetahui bahwa perkara ini buruk bagiku agamaku, hidupku, dan kesejahteraanku di akhirat nanti, - [atau katakanlah: di dunia dan di akhirat] - maka jauhkanlah dariku, dan jauhkanlah aku. darinya, dan jadikanlah bagiku apa yang baik di mana pun berada, dan bantulah aku untuk merasa puas dengannya. Siapa pun yang mencari nasihat dari Sang Pencipta tidak akan menyesalinya dan siapa pun yang meminta nasihat orang-orang beriman akan merasa yakin dengan keputusannya. Allah berfirman dalam Al-Qur\'an: “Dan berundinglah dengan mereka dalam suatu urusan. Kemudian apabila kamu sudah mengambil keputusan, bertawakallah kepada Allah.”</string>
+    //For Justice
+    <string name="text_For_Justice_1" translatable="false">Tuhan kami! Putuskanlah Engkau antara kami dan kaum kami dengan sebenar-benarnya, karena Engkaulah yang terbaik mengambil keputusan.</string>
+    //Seek Allah's guidance
+    <string name="text_guidance_1" translatable="false">Segala puji bagi Allah yang telah membimbing kami dalam hal ini; dan kita tidak akan mendapat petunjuk jika Allah tidak memberi petunjuk kepada kita.</string>
+    <string name="text_guidance_2" translatable="false">Allah adalah sebaik-baik penjaga, dan Dialah Yang Maha Penyayang di antara Yang Maha Penyayang.</string>
+    //Seek Allah's satisfaction
+    <string name="text_satisfaction_2" translatable="false">Tuhan kami! Jadikanlah kami sebagai orang Islam yang tunduk pada (kehendak-Mu), dan jadikanlah keturunan kami sebagai umat Islam yang tunduk pada (kehendak-Mu); dan tunjukkan kepada kami tempat kami untuk merayakan upacara-upacara; dan kembalilah kepada kami (dalam Rahmat); karena Engkaulah Yang Maha Kembali lagi Maha Penyayang.</string>
+    //For success
+    <string name="text_for_success_1" translatable="false">Kesuksesanku tidak lain hanyalah karena Allah. Kepada-Nya aku bersandar, dan kepada-Nya aku kembali.</string>
+    //strengthen your imaan
+    <string name="text_your_imaan_1" translatable="false">Kesuksesanku tidak lain hanyalah karena Allah. Kepada-Nya aku bersandar, dan kepada-Nya aku kembali.</string>
+    <string name="text_your_imaan_2" translatable="false">Aku ridha kepada Allah sebagai Tuhan, Islam sebagai agama, dan Muhammad SAW sebagai Nabi. (tiga kali)</string>
+    <string name="text_your_imaan_3" translatable="false">Aku berlindung kepada Allah.</string>
+    <string name="text_your_imaan_4" translatable="false">Aku beriman kepada Allah dan Rasul-Nya.</string>
+    <string name="text_your_imaan_5" translatable="false">Tuhan kami! Janganlah hati kami menyimpang (dari kebenaran) setelah Engkau memberi petunjuk kepada kami, dan berilah kami rahmat dari-Mu. Sesungguhnya Engkaulah Yang Maha Pemberi.</string>
+
+    <string name="text_book_mark_duas" translatable="false">Penanda - Duas</string>
+    <string name="text_book_mark_azkar" translatable="false">Penanda - Azkar</string>
+    <string name="text_book_mark_quran" translatable="false">Penanda buku</string>
+    <string name="text_ayah" translatable="false">Ayah</string>
+    <string name="text_islam_map" translatable="false">peta Islam</string>
+    <string name="text_islam_map2" translatable="false">Masjid Terdekat</string>
+    <string name="text_islam_map3" translatable="false">Restoran Terdekat</string>
+    <string name="text_islam_map4" translatable="false">Restoran Halal Terdekat</string>
+    <string name="text_days" translatable="false">Hari</string>
+    <string name="text_day" translatable="false">Hari</string>
+    <string name="text_no_wifi" translatable="false">Tidak Ada Koneksi Wifi</string>
+    <string name="text_no_wifi2" translatable="false">Silakan sambungkan ke wifi untuk menggunakan semua fitur aplikasi ini</string>
+    <string name="text_connect" translatable="false">Menghubung</string>
+    <string name="text_calculation_method" translatable="false">Metode kalkulasi</string>
+    <string name="text_default_font" translatable="false">Font Bawaan</string>
+    <string name="text_uthmanic_hafs" translatable="false">Hafs Utsman</string>
+    <string name="text_qibla" translatable="false">Kiblat</string>
+    <string name="text_pray_now" translatable="false">Berdoalah sekarang</string>
+    <string name="text_praying_time_adj" translatable="false">Penyesuaian Waktu Shalat</string>
+    <string name="text_All" translatable="false">Semua</string>
+    <string name="text_Fajrl" translatable="false">Subuh</string>
+    <string name="text_Sunrise" translatable="false">Matahari terbit</string>
+    <string name="text_Dhuhr" translatable="false">Dhuhur</string>
+    <string name="text_Asr" translatable="false">Asar</string>
+    <string name="text_Maghrib" translatable="false">Maghrib</string>
+    <string name="text_Isha" translatable="false">Isya</string>
+    <string name="text_Inaccurate" translatable="false">Lokasi tidak akurat? Ketuk aku untuk</string>
+    <string name="text_feedback" translatable="false">Masukan</string>
+    <string name="text_Notification" translatable="false">Pemberitahuan</string>
+    <string name="text_Vibrate" translatable="false">Bergetar</string>
+    <string name="Fajr" translatable="false">Subuh</string>
+    <string name="Sunrise" translatable="false">Matahari terbit</string>
+    <string name="Dhuhr" translatable="false">Dhuhur</string>
+    <string name="Asr" translatable="false">Asar</string>
+    <string name="Maghrib" translatable="false">Maghrib</string>
+    <string name="Isha" translatable="false">Isya</string>
+    <string name="text_minute" translatable="false">menit</string>
+    <string name="text_minutes" translatable="false">menit</string>
+    <string name="text_share_reminder" translatable="false">Bagikan Pengingat</string>
+    <string name="text_Min" translatable="false">Minimal</string>
+    <string name="text_Next_prayer_in" translatable="false">Selanjutnya doa masuk:</string>
+    <string name="text_Pre_Notification" translatable="false">Pra-Pemberitahuan</string>
+    <string name="text_Hanafi" translatable="false">Hanafi</string>
+    <string name="text_Shafi_Maliki_Hanbali" translatable="false">Syafii/ Maliki/ Hanbali</string>
+    <string name="text_Widget" translatable="false">Widget</string>
+    <string name="text_Convenient" translatable="false">Nyaman</string>
+    <string name="text_Pray_anytime" translatable="false">Berdoa kapan saja, di mana saja.\n Terhubung dengan iman Anda, di mana pun Anda berada</string>
+    <string name="text_intro1" translatable="false">Hitung Mundur &amp; Pengingat</string>
+    <string name="text_intro2" translatable="false">Membantu Anda memperhatikan waktu sholat Anda \n Jangan pernah melewatkan sholat harian apa pun</string>
+    <string name="text_intro3" translatable="false">Panduan sempurna untuk perjalanan spiritual dan kuliner Anda</string>
+    <string name="text_Prayer_Time" translatable="false">Waktunya sholat</string>
+    <string name="text_share_image" translatable="false">Bagikan gambar</string>
+    <string name="text_translation" translatable="false">Terjemahan:</string>
+    <string name="text_tap_to_test" translatable="false">Ketuk untuk menguji efek suara</string>
+    <string name="text_Sound_Setting" translatable="false">Pengaturan Suara</string>
+    <string name="text_Page_Background" translatable="false">Latar belakang halaman</string>
+    <string name="text_Pre_Adhan_reminder" translatable="false">Pengingat Sebelum Adzan</string>
+    <string name="text_all_the_setting" translatable="false">Semua pengaturan di bawah ini juga akan diterapkan untuk Doa &amp; Azkar</string>
+    <string name="text_next_prayer" translatable="false">Doa Selanjutnya</string>
+    <string name="text_coming_prayers" translatable="false">Doa Mendatang</string>
+    // Daily Dhikr
+    // Darood-e-ibraheemi
+    <string name="text_e_ibraheemi_1" translatable="false">Ya Allah, limpahkanlah nikmat-Mu kepada Muhammad dan keluarga Muhammad sebagaimana Engkau melimpahkan nikmat-Mu kepada Ibrahim dan keluarga Ibrahim, Engkau Maha Terpuji lagi Maha Mulia. Ya Allah, berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah memberkati Ibrahim dan keluarga Ibrahim, Engkau Maha Terpuji lagi Maha Mulia.</string>
+    //after salah (preyer) tasbeeh
+    <string name="text_tasbeeh_1" translatable="false">Maha Suci Allah Segala puji bagi Allah Allah Maha Besar</string>
+    //everyday duas
+    <string name="text_duas_1" translatable="false">Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima.</string>
+    <string name="text_duas_2" translatable="false">Ya Allah, aku memohon kepada-Mu surga dan memohon perlindungan-Mu dari api neraka.</string>
+    <string name="text_duas_3" translatable="false">Maha Suci Allah, Segala puji bagi Allah, Allah Maha Besar!</string>
+    <string name="text_duas_4" translatable="false">Tidak ada yang berhak disembah kecuali Engkau, Maha Suci Engkau. Sesungguhnya aku termasuk orang-orang yang zalim.</string>
+    //before starting anything
+    <string name="text_starting_anything_1" translatable="false">Dengan menyebut nama Allah Yang Maha Penyayang lagi Maha Penyayang.</string>
+    //for this word and the aakhira
+    <string name="text_the_aakhira_1" translatable="false">Tuhan kami! Berilah kami apa yang baik di dunia dan apa yang baik di akhirat, dan peliharalah kami dari siksa api neraka!</string>
+    <string name="text_the_aakhira_2" translatable="false">Ya Tuhan kami, sesungguhnya Engkau akan mengumpulkan manusia pada suatu hari yang tidak ada keraguannya. Sesungguhnya Allah tidak mengingkari janji-Nya.</string>
+    //reward of one-third of quran
+    ////Daily Rememberence
+    //morning rememberence
+    <string name="text_morning_rememberence_1" translatable="false">Kita telah tiba di pagi hari dan saat ini kepunyaan Allah segala kekuasaan, dan segala puji bagi Allah. Tidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu, hanya milik-Nya segala kekuasaan dan segala puji, dan Dia Maha Kuasa atas segala sesuatu. Ya Tuhanku, aku memohon kepadaMu kebaikan hari ini dan kebaikan hari berikutnya, dan aku berlindung kepadaMu dari keburukan hari ini dan keburukan hari berikutnya. Ya Tuhanku, aku berlindung kepada-Mu dari kemalasan dan kepikunan. Ya Tuhanku, aku berlindung kepadaMu dari siksa api neraka dan siksa kubur.</string>
+    <string name="text_morning_rememberence_2" translatable="false">Ya Allah, dengan izin-Mu kami telah mencapai pagi hari, dengan izin-Mu kami telah mencapai petang, dengan izin-Mu kami hidup dan mati, dan hanya kepada-Mu kami dibangkitkan.</string>
+    <string name="text_morning_rememberence_3" translatable="false">Ya Allah, Engkaulah Tuhanku, tidak ada yang berhak disembah kecuali Engkau, Engkaulah yang menciptakan aku dan aku adalah hamba-Mu, dan aku mentaati perjanjian dan janji-Mu sebaik mungkin, aku berlindung kepada-Mu dari keburukan yang aku alami. telah berkomitmen. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, maka ampunilah aku, karena sesungguhnya tidak ada yang dapat mengampuni dosa kecuali Engkau.</string>
+    <string name="text_morning_rememberence_4" translatable="false">Ya Allah, sesungguhnya aku telah sampai di pagi hari dan menyeru kepada-Mu, para pembawa singgasana-Mu, para malaikat-Mu, dan seluruh makhluk-Mu untuk menyaksikan bahwa Engkaulah Allah, tidak ada yang berhak disembah kecuali Engkau, sendiri, tanpa sekutu dan bahwa Muhammad adalah Hamba dan Utusan-Mu. (empat kali).</string>
+    <string name="text_morning_rememberence_5" translatable="false">Ya Allah, nikmat apa pun yang aku atau makhluk-Mu peroleh, berasal dari-Mu sendiri, tanpa sekutu, maka bagi-Mu segala puji dan bagi-Mu segala puji.</string>
+    <string name="text_morning_rememberence_6" translatable="false">Ya Allah, sehatkanlah tubuhku, Ya Allah, sehatkan pendengaranku, Ya Allah, sehatkan penglihatanku. Tidak ada yang berhak disembah kecuali Engkau. (tiga kali) Ya Allah, aku berlindung kepada-Mu dari kekafiran dan kemiskinan, dan aku berlindung kepada-Mu dari siksa kubur. Tidak ada seorang pun yang berhak disembah kecuali Engkau. (tiga kali)</string>
+    <string name="text_morning_rememberence_7" translatable="false">Cukuplah Allah bagiku, tidak ada yang berhak disembah selain Dia, kepada-Nya aku bersandar dan Dialah Rabb Arsy yang Maha Tinggi. (tujuh kali pagi dan sore)</string>
+    <string name="text_morning_rememberence_8" translatable="false">Aku berlindung pada kalimat Allah yang sempurna dari kejahatan yang Dia ciptakan. (tiga kali di malam hari)</string>
+    <string name="text_morning_rememberence_9" translatable="false">Ya Allah, aku mohon ampun dan kesejahteraan kepada-Mu dalam hidup ini dan akhirat. Ya Allah, aku memohon ampun kepada-Mu dan kesejahteraan dalam urusan agama dan duniaku, keluargaku, dan hartaku. Ya Allah, tutupi kelemahanku dan tenangkan kegelisahanku. Ya Allah peliharalah aku dari depan, belakang, kanan, kiri, dan atas, dan aku berlindung kepada-Mu agar aku tidak tertelan bumi.</string>
+    <string name="text_morning_rememberence_10" translatable="false">Ya Allah, Yang Maha Mengetahui yang ghaib dan yang kasat mata, Pencipta langit dan bumi, Tuhan dan Penguasa segala sesuatu, aku bersaksi bahwa tidak ada yang berhak disembah kecuali Engkau. Aku berlindung kepada-Mu dari keburukan jiwaku, dari keburukan dan kesyirikan setan, dan dari kezaliman terhadap jiwaku atau menimpakan hal-hal tersebut kepada muslim lainnya.</string>
+    <string name="text_morning_rememberence_11" translatable="false">Dengan menyebut nama Allah yang dengan nama-Nya tidak ada sesuatu pun yang membahayakan di bumi dan di langit, dan Dialah Yang Maha Melihat lagi Maha Mengetahui. (tiga kali)</string>
+    <string name="text_morning_rememberence_12" translatable="false">Aku ridha kepada Allah sebagai Tuhan, Islam sebagai agama, dan Muhammad SAW sebagai Nabi. (tiga kali)</string>
+    <string name="text_morning_rememberence_13" translatable="false">Betapa sempurnanya Allah dan aku memuji-Nya dengan banyaknya ciptaan-Nya, keridhaan-Nya, berat singgasana-Nya, dan tinta kalimat-kalimat-Nya. (tiga kali)</string>
+    <string name="text_morning_rememberence_14" translatable="false">Betapa sempurnanya Allah dan aku memuji-Nya.(seratus kali)</string>
+    <string name="text_morning_rememberence_15" translatable="false">Wahai Yang Selalu Hidup, Wahai Penopang Segalanya, atas rahmat-Mu aku mohon bantuan, luruskan segala urusanku dan jangan biarkan aku sendiri, walau sekejap mata.</string>
+    <string name="text_morning_rememberence_16" translatable="false">Tidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu, hanya milik-Nya segala kekuasaan dan segala puji, dan Dia Maha Kuasa atas segala sesuatu. (seratus kali)</string>
+    <string name="text_morning_rememberence_17" translatable="false">Kita telah tiba di pagi hari dan saat ini seluruh kedaulatan berada di tangan Allah SWT, Tuhan semesta alam. Ya Allah, aku memohon kepada-Mu kebaikan hari ini, kemenangan-kemenangannya dan kemenangan-kemenangannya, cahayanya, keberkahannya, dan petunjuknya, dan aku berlindung kepada-Mu dari keburukan hari ini dan keburukan yang mengikutinya.</string>
+    //evening rememberence
+    <string name="text_evening_rememberence_1" translatable="false">Kita telah sampai pada malam hari dan saat ini kepunyaan Allah segala kekuasaan dan segala puji bagi Allah. Tidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu, hanya milik-Nya segala kekuasaan dan segala puji, dan Dia Maha Kuasa atas segala sesuatu. Ya Tuhanku, aku memohon kepada-Mu kebaikan malam ini dan kebaikan malam berikutnya, dan aku berlindung kepada-Mu dari keburukan malam ini dan keburukan malam berikutnya. Ya Tuhanku, aku berlindung kepada-Mu dari kemalasan dan kepikunan. Ya Tuhanku, aku berlindung kepadaMu dari siksa api neraka dan siksa kubur.</string>
+    <string name="text_evening_rememberence_2" translatable="false">Ya Allah, dengan izinMu kami telah sampai pada sore hari, dengan izinMu kami telah sampai pada pagi hari, dengan izinMu kami hidup dan mati, dan hanya kepadaMulah kami kembali.</string>
+    <string name="text_evening_rememberence_3" translatable="false">Ya Allah, Engkaulah Tuhanku, tidak ada yang berhak disembah kecuali Engkau, Engkaulah yang menciptakan aku dan aku adalah hamba-Mu, dan aku mentaati perjanjian dan janji-Mu sebaik mungkin, aku berlindung kepada-Mu dari keburukan yang aku alami. telah berkomitmen. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, maka ampunilah aku, karena sesungguhnya tidak ada yang dapat mengampuni dosa kecuali Engkau.</string>
+    <string name="text_evening_rememberence_4" translatable="false">Ya Allah, kami telah sampai pada malam hari, memanggil-Mu untuk bersaksi, dan memanggil para pembawa Arsy-Mu untuk bersaksi, dan para malaikat-Mu, dan seluruh ciptaan-Mu, bahwa Engkaulah Allah, tidak ada yang berhak disembah selain Engkau, Sendirian, tanpa pasangan, dan bahwa Muhammad (S.A.W.) adalah hamba-Mu dan Utusan-Mu.</string>
+    <string name="text_evening_rememberence_5" translatable="false">Ya Allah, nikmat apa pun yang aku atau makhluk-Mu peroleh, berasal dari-Mu sendiri, tanpa sekutu, maka bagi-Mu segala puji dan bagi-Mu segala puji.</string>
+    <string name="text_evening_rememberence_6" translatable="false">Ya Allah, sehatkanlah tubuhku, Ya Allah, sehatkan pendengaranku, Ya Allah, sehatkan penglihatanku. Tidak ada yang berhak disembah kecuali Engkau. (tiga kali) Ya Allah, aku berlindung kepada-Mu dari kekafiran dan kemiskinan, dan aku berlindung kepada-Mu dari siksa kubur. Tidak ada seorang pun yang berhak disembah kecuali Engkau. (tiga kali)</string>
+    <string name="text_evening_rememberence_7" translatable="false">Cukuplah Allah bagiku, tidak ada yang berhak disembah selain Dia, kepada-Nya aku bersandar dan Dialah Rabb Arsy yang Maha Tinggi. (tujuh kali pagi dan sore)</string>
+    <string name="text_evening_rememberence_8" translatable="false">Aku berlindung pada kalimat Allah yang sempurna dari kejahatan yang Dia ciptakan. (tiga kali di malam hari)</string>
+    <string name="text_evening_rememberence_9" translatable="false">Ya Allah, aku mohon ampun dan kesejahteraan kepada-Mu dalam hidup ini dan akhirat. Ya Allah, aku memohon ampun kepada-Mu dan kesejahteraan dalam urusan agama dan duniaku, keluargaku, dan hartaku. Ya Allah, tutupi kelemahanku dan tenangkan kegelisahanku. Ya Allah peliharalah aku dari depan, belakang, kanan, kiri, dan atas, dan aku berlindung kepada-Mu agar aku tidak tertelan bumi.</string>
+    <string name="text_evening_rememberence_10" translatable="false">Ya Allah, Yang Maha Mengetahui yang ghaib dan yang kasat mata, Pencipta langit dan bumi, Tuhan dan Penguasa segala sesuatu, aku bersaksi bahwa tidak ada yang berhak disembah kecuali Engkau. Aku berlindung kepada-Mu dari keburukan jiwaku, dari keburukan dan kesyirikan setan, dan dari kezaliman terhadap jiwaku atau menimpakan hal-hal tersebut kepada muslim lainnya.</string>
+    <string name="text_evening_rememberence_11" translatable="false">Dengan menyebut nama Allah yang dengan nama-Nya tidak ada sesuatu pun yang membahayakan di bumi dan di langit, dan Dialah Yang Maha Melihat lagi Maha Mengetahui. (tiga kali)</string>
+    <string name="text_evening_rememberence_12" translatable="false">Aku ridha kepada Allah sebagai Tuhan, Islam sebagai agama, dan Muhammad SAW sebagai Nabi. (tiga kali)</string>
+    <string name="text_evening_rememberence_13" translatable="false">Betapa sempurnanya Allah dan aku memuji-Nya dengan banyaknya ciptaan-Nya, keridhaan-Nya, berat singgasana-Nya, dan tinta kalimat-kalimat-Nya. (tiga kali)</string>
+    <string name="text_evening_rememberence_14" translatable="false">Betapa sempurnanya Allah dan aku memuji-Nya.(seratus kali)</string>
+    <string name="text_evening_rememberence_15" translatable="false">Wahai Yang Selalu Hidup, Wahai Penopang Segalanya, atas rahmat-Mu aku mohon bantuan, luruskan segala urusanku dan jangan biarkan aku sendiri, walau sekejap mata.</string>
+    <string name="text_evening_rememberence_16" translatable="false">Tidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu, hanya milik-Nya segala kekuasaan dan segala puji, dan Dia Maha Kuasa atas segala sesuatu. (seratus kali)</string>
+    <string name="text_evening_rememberence_17" translatable="false">Kita telah tiba di pagi hari dan saat ini seluruh kedaulatan berada di tangan Allah SWT, Tuhan semesta alam. Ya Allah, aku memohon kepada-Mu kebaikan hari ini, kemenangan-kemenangannya dan kemenangan-kemenangannya, cahayanya, keberkahannya, dan petunjuknya, dan aku berlindung kepada-Mu dari keburukan hari ini dan keburukan yang mengikutinya.</string>
+    //After Prayers
+    //after salah (prayer) tasbeeh
+
+    //after prayer remembrances
+    <string name="text_remembrances_1" translatable="false">Aku memohon ampun kepada Allah.(tiga kali) Ya Allah, Engkau As-Salam dan dari-Mu segala kedamaian, diberkatilah Engkau, Wahai Pemilik keagungan dan kehormatan.\' AS-Salam: Yang Maha Esa yang bebas dari segala cacat dan kekurangan.</string>
+    <string name="text_remembrances_2" translatable="false">Tidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu, milik-Nya segala kekuasaan dan pujian dan Dia Maha Kuasa atas segala sesuatu. Ya Allah, tidak ada yang bisa menghalangi apa yang telah Engkau kehendaki dan tidak ada yang dapat melimpahkan apa yang telah Engkau kehendaki. untuk mencegahnya, dan tidak ada harta dan keagungan yang dapat bermanfaat bagi siapa pun, karena dari-Mulah segala kekayaan dan keagungan.</string>
+    <string name="text_remembrances_3" translatable="false">Betapa sempurnanya Allah, segala puji bagi Allah, dan Allah Maha Besar.\' (tiga puluh tiga kali) Tidak ada yang berhak disembah kecuali Allah, sendirian, tanpa sekutu, milik-Nya segala kekuasaan dan pujian, dan Dialah yang maha kuasa. segala sesuatu mahakuasa.</string>
+    <string name="text_remembrances_4" translatable="false">Katakanlah : Dialah Allah Yang Maha Esa, Allahus Samad ( Yang Maha Esa, Yang dibutuhkan semua makhluk, Dia tidak makan dan tidak minum ). Dia tidak memperanakkan, dan Dia juga tidak diperanakkan; Dan tidak ada satupun yang setara dan sebanding dengan-Nya. [Al-Ikhlas] Katakanlah : Aku berlindung kepada (Allah) Tuhan Fajar, dari keburukan apa yang diciptakan-Nya; Dan dari keburukan kegelapan (malam) yang datang bersama kegelapannya; (atau bulan saat terbenam atau terbenam). Dan dari kejahatan ilmu sihir ketika simpulnya meledak, Dan dari kejahatan orang yang iri ketika dia iri. [Al-Falaq] Katakanlah: Aku berlindung kepada (Allah) Tuhan umat manusia, Raja umat manusia, Ilah (Tuhan) umat manusia, Dari keburukan para pembisik (setan yang membisikan keburukan dalam hati manusia) , yang menarik diri ( dari bisikannya dalam hati setelah seseorang mengingat Allah ), Yang membisikan dalam dada manusia , Pada jin dan manusia. [An-Nas] Setelah sholat subuh dan magrib, 3 kali. Setelah sholat lainnya 1 waktu.</string>
+    <string name="text_remembrances_5" translatable="false">Allah! Tidak ada sesembahan yang berhak disembah selain Dia, Yang Maha Hidup, Yang memelihara dan melindungi segala yang ada. Baik tidur maupun tidur tidak menguasai Dia. Kepunyaan-Nya apa yang ada di langit dan apa yang ada di bumi. Siapakah yang dapat memberi syafaat kepada-Nya kecuali dengan Izin-Nya? Dia mengetahui apa yang terjadi pada mereka di dunia dan apa yang terjadi pada mereka di akhirat. Dan mereka tidak akan pernah menyia-nyiakan ilmu-Nya kecuali apa yang Dia kehendaki. Arsy-Nya terbentang di atas langit dan bumi, dan Dia tidak merasa lelah dalam menjaga dan melestarikannya. Dan Dialah Yang Maha Tinggi lagi Maha Agung.</string>
+    <string name="text_remembrances_6" translatable="false">Tidak ada yang berhak disembah kecuali Allah, sendiri, tanpa sekutu, milik-Nya segala kekuasaan dan segala puji, Dia menghidupkan dan mematikan, dan Dia Maha Kuasa atas segala sesuatu. (sepuluh kali setelah shalat maghrib dan subuh)</string>
+    <string name="text_remembrances_7" translatable="false">Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima. (Diucapkan setelah mengucapkan salam sholat subuh)</string>
+    //offer salah regularly
+    <string name="text_regularly_1" translatable="false">Sesungguhnya Tuhanku Maha Mendengar do\'a. Ya Tuhanku, jadikanlah aku sebagai orang yang mendirikan shalat, dan [banyak] dari keturunanku. Ya Tuhan kami, dan terimalah doaku.</string>
+
+
+    //Rizq (Sustenance)
+    //for rizq (sustenance)
+    <string name="text_rizq_1" translatable="false">Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima.</string>
+    <string name="text_rizq_2" translatable="false">Ya Allah ampunilah aku, kasihanilah aku, bimbing aku, dukung aku, lindungi aku, rezeki aku, dan tinggikan aku.</string>
+    <string name="text_rizq_3" translatable="false">Ya Allah, aku mohon nikmat-Mu.</string>
+    <string name="text_rizq_4" translatable="false">Allah sangat Maha Pemurah dan Baik terhadap hamba-hamba-Nya. Dia memberikan rezeki kepada siapa yang Dia kehendaki. Dan Dialah Yang Maha Kuat lagi Maha Perkasa.</string>
+    <string name="text_rizq_5" translatable="false">Ya Allah, Tuhan kami! Kirimkan kepada kami dari surga satu set meja (dengan makanan), agar bagi kami - untuk kami yang pertama dan yang terakhir - sebuah perayaan khidmat dan tanda darimu; dan rezeki kami, karena Engkaulah sebaik-baik Pemelihara (kebutuhan kami).</string>
+    //when you are in need
+    <string name="text_need_1" translatable="false">Tuanku! Sungguh, aku membutuhkan kebaikan apa pun yang Engkau anugerahkan kepadaku!</string>
+    //for forgiveness and allah’s mercy
+    <string name="text_allah_mercy_1" translatable="false">(Ya Tuhanku) Engkau adalah Pelindung kami, maka ampunilah kami dan kasihanilah kami; dan Engkaulah sebaik-baik pemaaf. Dan jadikanlah bagi kami kebaikan di dunia dan di akhirat. Sesungguhnya kami telah berpaling kepada-Mu.</string>
+    <string name="text_allah_mercy_2" translatable="false">Tuanku! Maafkan dan kasihanilah, karena Engkaulah Yang Terbaik di antara orang-orang yang menunjukkan belas kasihan!</string>
+    <string name="text_allah_mercy_3" translatable="false">Tuhan kami! Kami telah menganiaya jiwa kami sendiri: Jika Engkau tidak mengampuni kami dan tidak melimpahkan kepada kami Kerahiman-Mu, niscaya kami akan tersesat.</string>
+    <string name="text_allah_mercy_4" translatable="false">Tuhan kami! Anugerahi kami Rahmat dari Diri-Mu, dan selesaikan urusan kami dengan cara yang benar!</string>
+    <string name="text_allah_mercy_5" translatable="false">Tuhan kami! Kami beriman, maka ampunilah kami, dan kasihanilah kami, karena Engkaulah Yang Terbaik di antara semua orang yang menaruh belas kasihan!</string>
+    //for praising allah
+    <string name="text_praising_allah_1" translatable="false">Ya Allah! Pemilik kerajaan, Engkau berikan kerajaan itu kepada siapa yang Engkau kehendaki, dan Engkau ambil kerajaan dari siapa pun yang Engkau kehendaki, dan Engkau berikan kehormatan kepada siapa pun yang Engkau kehendaki, dan Engkau hinakan siapa pun yang Engkau kehendaki. Di TanganMu ada kebaikan. Sesungguhnya Engkau Maha Mampu melakukan segala sesuatu. Engkau jadikan malam masuk ke dalam siang, dan Engkau jadikan siang untuk masuk ke dalam malam (yakni menambah dan mengurangi waktu malam dan siang pada musim dingin dan musim panas), Engkau mengeluarkan yang hidup dari yang mati, dan Anda mengeluarkan yang mati dari yang hidup. Dan Engkau berikan harta dan rezeki kepada siapa saja yang Engkau kehendaki, tanpa batas (takaran dan hitungan).</string>
+    <string name="text_praising_allah_2" translatable="false">Maka bertasbihlah Allah [di atas segala (keburukan) yang mereka persekutukan dengan-Nya (wahai orang-orang yang beriman)], ketika kamu sampai di waktu petang [yaitu. salatlah (Maghrib) matahari terbenam dan salat malam (\'Isya\')], dan ketika memasuki pagi hari [yaitu salat subuh (Subuh). Dan milik-Nya segala puji dan syukur yang ada di langit dan di bumi, dan (memuliakan Dia) di sore hari (yakni salat Asar) dan ketika kamu sampai pada waktu, ketika hari mulai menurun (yaitu zuhur). doa). (Ibnu \'Abbas berkata: "Ini adalah shalat wajib berjamaah lima waktu yang disebutkan dalam Al-Qur\'an)." Dia mengeluarkan yang hidup dari yang mati dan mengeluarkan yang mati dari yang hidup. Dan Dia menghidupkan kembali bumi setelah matinya. Dan demikianlah kamu akan dikeluarkan (dibangkitkan).</string>
+    <string name="text_praising_allah_3" translatable="false">Maha Suci Allah dan Terpujilah Dia. Maha Suci Allah Yang Maha Besar.</string>
+    <string name="text_praising_allah_4" translatable="false">Maha Suci Allah, dan puji bagi Allah, dan tidak ada yang berhak disembah selain Allah, dan Allah Maha Besar.</string>
+    <string name="text_praising_allah_5" translatable="false">Betapa sempurnanya Allah</string>
+    <string name="text_praising_allah_6" translatable="false">Tidak ada daya dan kekuatan kecuali dengan izin Allah.</string>
+    <string name="text_praising_allah_7" translatable="false">Maha Suci Allah Yang Maha Besar dan Terpujilah Dia.</string>
+    <string name="text_praising_allah_8" translatable="false">Dialah Allah yang tidak ada Tuhan selain-Nya, Yang Maha Mengetahui apa yang ghaib dan yang disaksikan. Dialah Yang Maha Penyayang, Yang Maha Penyayang. Dialah Allah yang tidak ada Tuhan selainnya, Yang Maha Esa, Yang Maha Suci, Yang Maha Sempurna, Yang Maha Pemberi Iman, Yang Maha Melihat, Yang Maha Perkasa, Yang Maha Mempengaruhi, Yang Maha Unggul. Maha Suci Allah atas apa pun yang mereka persekutukan dengan-Nya. Dialah Allah, Pencipta, Penemu, Perancang; milik-Nyalah nama-nama yang terbaik. Apa pun yang ada di langit dan bumi berarti mengagungkan-Nya. Dan Dialah Yang Maha Perkasa lagi Maha Bijaksana.</string>
+    <string name="text_praising_allah_9" translatable="false">Apa yang dikehendaki Allah [telah terjadi], tidak ada daya kecuali pada Allah.</string>
+    //for success
+    <string name="text_for_success_4" translatable="false">Kesuksesanku tidak lain hanyalah karena Allah. Kepada-Nya aku bersandar, dan kepada-Nya aku kembali.</string>
+    //increase in knowledge
+    <string name="text_knowledge_1" translatable="false">Tuanku! menambah pengetahuanku</string>
+    <string name="text_knowledge_2" translatable="false">Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik, dan amal yang diterima.</string>
+    <string name="text_knowledge_3" translatable="false">Tuanku! Anugrahkan kepadaku Hukman (ilmu agama, penilaian yang benar dan kenabian) dan gabungkanlah aku dengan orang-orang shaleh. Dan berilah saya sebutan terhormat di generasi selanjutnya. Dan tempatkan aku di antara pewaris Taman Kenikmatan. Dan maafkan ayahku. Sesungguhnya dia termasuk orang-orang yang sesat. Dan janganlah aku mempermalukan aku pada hari (seluruh makhluk) dibangkitkan. Pada hari dimana tidak ada manfaat bagi [siapapun] harta dan anak, Melainkan hanya orang yang datang kepada Allah dengan hati yang sehat.</string>
+    //grant me confidence and eloquence
+    <string name="text_eloquence_1" translatable="false">Ya Tuhanku! Bukakan untukku dadaku. Dan meringankan tugasku untukku. Dan lepaslah simpul dari lidahku, agar mereka memahami ucapanku.”</string>
+    <string name="text_eloquence_2" translatable="false">Maha Suci Engkau, kami tidak mempunyai ilmu apa pun kecuali apa yang telah Engkau ajarkan kepada kami. Sesungguhnya Engkaulah Yang Maha Mengetahui lagi Maha Bijaksana.</string>
+    //for protection from ignorance
+    <string name="text_ignorance_1" translatable="false">Aku berlindung kepada Allah agar tidak termasuk orang-orang yang bodoh.</string>
+    //protection from foolishness
+    <string name="text_foolishness_1" translatable="false">Ya Allah, aku berlindung kepada-Mu agar aku tidak menyesatkan orang lain, atau aku disesatkan oleh orang lain, jangan sampai aku menyesatkan orang lain atau membuat aku berbuat salah, jangan sampai aku mencaci-maki atau mencaci orang lain, dan jangan sampai aku berlaku bodoh atau bertemu dengan orang-orang yang tidak bertanggung jawab. kebodohan orang lain.</string>
+    //Faith
+    //strengthen your imaan
+    <string name="text_strengthen_your_imaan_1" translatable="false">Aku ridha kepada Allah sebagai Tuhan, Islam sebagai agama, dan Muhammad SAW sebagai Nabi. (tiga kali)</string>
+    <string name="text_strengthen_your_imaan_2" translatable="false">Aku berlindung kepada Allah.</string>
+    <string name="text_strengthen_your_imaan_3" translatable="false">Aku beriman kepada Allah dan Rasul-Nya.</string>
+    <string name="text_strengthen_your_imaan_4" translatable="false">Tuhan kami! Janganlah hati kami menyimpang (dari kebenaran) setelah Engkau memberi petunjuk kepada kami, dan berilah kami rahmat dari-Mu. Sesungguhnya Engkaulah Yang Maha Pemberi.</string>
+    <string name="text_strengthen_your_imaan_5" translatable="false">Tuhan kami! Ampunilah kami atas segala dosa dan pelanggaran kami (dalam menjalankan kewajiban kami kepada-Mu), kokohkan kaki kami, dan berikan kami kemenangan atas orang-orang kafir.</string>
+    //to make us practicing muslims
+    <string name="text_practicing_muslims_1" translatable="false">Tuhan kami! Kami beriman kepada apa yang telah Engkau turunkan, dan kami mengikuti Rasulullah. Maka tulislah kami di antara orang-orang yang memberi kesaksian.</string>
+    //seek forgiveness and strengthen your imaan
+
+    //pledge to allah
+    <string name="text_to_allah_1" translatable="false">Sesungguhnya aku menghadapkan wajahku kepada Dia yang menciptakan langit dan bumi, condong kepada kebenaran, dan aku tidak termasuk orang-orang yang mempersekutukan Allah.</string>
+    <string name="text_to_allah_2" translatable="false">Sesungguhnya sholatku, ibadah kurbanku, hidupku dan matiku adalah untuk Allah, Tuhan semesta alam. Dia tidak punya pasangan. Dan tentang hal ini aku telah diperintahkan, dan aku adalah orang Islam yang pertama.</string>
+    //for righteous company
+    <string name="text_righteous_company_1" translatable="false">Pencipta langit dan bumi, Engkaulah pelindungku di dunia dan di akhirat. Matikan aku sebagai seorang Muslim dan bergabunglah dengan orang-orang yang saleh.</string>
+    <string name="text_righteous_company_2" translatable="false">Tuhan kami! Kami percaya; tuliskanlah kami di antara para saksi</string>
+    //seek forgiveness and protection from hell
+    <string name="text_from_hell_1" translatable="false">Ya Tuhan kami, Engkau telah melingkupi segala sesuatu dengan rahmat dan ilmu, maka ampunilah orang-orang yang bertaubat dan mengikuti jalan-Mu serta lindungi mereka dari siksa api neraka.</string>
+    <string name="text_from_hell_2" translatable="false">Tuhan kami! Kami sungguh-sungguh telah beriman, maka ampunilah dosa-dosa kami dan peliharalah kami dari siksa Neraka.</string>
+    <string name="text_from_hell_3" translatable="false">Tuhan kami! Engkau tidak menciptakan (semua) ini tanpa tujuan, puji bagiMu! (Maha Suci Engkau di atas segalanya yang mereka persekutukan dengan Anda sebagai mitra). Berilah kami keselamatan dari siksa api neraka. *Tuhan kami! Sesungguhnya siapa yang Engkau masukkan ke dalam Neraka, Sesungguhnya Engkau telah mempermalukannya, dan orang-orang Zaalimoon (orang-orang musyrik dan zalim) tidak akan mendapat penolong. *Tuhan kami! Sesungguhnya kami telah mendengar seruan seseorang (Muhammad p.b.u.h.) yang berseru kepada Iman: \'Percayalah kepada Tuhanmu,\' dan kami telah beriman. *Tuhan kami! Ampunilah dosa-dosa kami dan hapuskan amal keburukan kami, dan matikan kami dalam keadaan shaleh bersama Al-Abraar (orang-orang yang taat kepada Allah dan menaati perintah-perintah-Nya dengan tegas). *Tuhan kami! Berilah kami apa yang telah Engkau janjikan kepada kami melalui Rasul-rasul-Mu dan janganlah kami mempermalukan kami pada hari kiamat, karena Engkau tidak pernah mengingkari Janji (Anda).</string>
+    <string name="text_from_hell_4" translatable="false">Allah tidak membebani seseorang diluar kemampuannya. Dia mendapat pahala atas (kebaikan) yang dia usahakan, dan dia mendapat hukuman atas (keburukan) yang dia usahakan. "Ya Tuhan kami! Jangan menghukum kami jika kami lupa atau melakukan kesalahan, ya Tuhan kami! Jangan bebankan kepada kami beban seperti yang Engkau bebankan kepada orang-orang sebelum kami; Tuhan kami! Jangan bebankan kepada kami beban yang lebih besar dari kekuatan kami untuk menanggungnya." menanggung. Maafkan kami dan berikan kami Pengampunan. Kasihanilah kami. Anda adalah Maula kami (Pelindung, Pendukung dan Pelindung, dll.) dan memberi kami kemenangan atas orang-orang kafir."</string>
+    <string name="text_from_hell_5" translatable="false">Tuhan kami! Sempurnakan Cahaya kami untuk kami, dan berikan kami Pengampunan: karena Engkaulah yang berkuasa atas segala sesuatu.</string>
+    //for forgiveness for your parent and all muslims
+    <string name="text_all_muslims_1" translatable="false">Ya Tuhan kami! Lindungi (kami) dengan Ampunan-Mu - aku, orang tuaku, dan (semua) orang-orang beriman, pada hari ditegakkannya perhitungan!</string>
+    //for jannah
+    <string name="text_for_jannah_1" translatable="false">Tuhan kami! Jauhkanlah dari kami murka neraka, karena murkanya sungguh merupakan suatu penderitaan yang pedih, dan sesungguhnya jahatlah neraka itu sebagai tempat tinggal dan tempat beristirahat.</string>
+    <string name="text_for_jannah_2" translatable="false">Tuhan kami! Dan masukkan mereka ke dalam surga Adn (Eden) yang telah Engkau janjikan kepada mereka, dan termasuk orang-orang saleh di antara ayah mereka, istri-istri mereka, dan keturunan mereka! Sesungguhnya Engkaulah Yang Maha Perkasa lagi Maha Bijaksana. Dan peliharalah mereka dari (siksaan karena perbuatan mereka) dosa-dosa, dan barangsiapa yang Engkau selamatkan dari (siksaan karena perbuatan mereka) dosa-dosa (yakni maafkan mereka) pada hari itu, sesungguhnya dialah yang telah Engkau ambil. ke dalam rahmat." Dan itulah keberhasilan tertinggi."</string>
+    //for forgiveness
+    <string name="text_forgiveness_1" translatable="false">Ya Tuhanku! Aku berlindung kepada-Mu dari meminta kepada-Mu sesuatu yang tidak aku ketahui. Dan sekiranya Engkau tidak mengampuniku dan memberikan rahmat kepadaku, niscaya aku termasuk orang-orang yang merugi.</string>
+    <string name="text_forgiveness_2" translatable="false">Tuhan, maafkan aku. Tuhanku, maafkan aku.</string>
+    <string name="text_forgiveness_3" translatable="false">Ya Allah ampunilah aku, kasihanilah aku, bimbing aku, dukung aku, lindungi aku, rezeki aku, dan tinggikan aku.</string>
+    <string name="text_forgiveness_4" translatable="false">Ya Allah, ampunilah aku segala dosaku, besar dan kecil, yang pertama dan yang terakhir, yang nyata dan yang tersembunyi.</string>
+    <string name="text_forgiveness_5" translatable="false">Ya Allah, aku berlindung pada keridhaan-Mu dari kemarahan-Mu, dan aku berlindung pada ampunan-Mu dari siksa-Mu. Aku mencari perlindungan pada-Mu dari-Mu. Aku tidak dapat menghitung pujian-Mu. Anda seperti Anda telah memuji diri Anda sendiri.</string>
+    <string name="text_forgiveness_6" translatable="false">Aku memohon ampun kepada Allah dan bertaubat kepadanya.</string>
+    <string name="text_forgiveness_7" translatable="false">Ya Allah, aku telah sangat menganiaya diriku sendiri dan tidak ada yang mengampuni dosaku kecuali Engkau. Jadi, berilah aku pengampunan dan kasihanilah aku. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang.</string>
+    <string name="text_forgiveness_8" translatable="false">Ya Allah, Engkaulah Tuhanku, tidak ada yang berhak disembah kecuali Engkau, Engkaulah yang menciptakan aku dan aku adalah hamba-Mu, dan aku mentaati perjanjian dan janji-Mu sebaik mungkin, aku berlindung kepada-Mu dari keburukan yang aku alami. telah berkomitmen. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, maka ampunilah aku, karena sesungguhnya tidak ada yang dapat mengampuni dosa kecuali Engkau.</string>
+    <string name="text_forgiveness_9" translatable="false">Ya Allah, aku memohon kepada-Mu dengan rahmat-Mu yang meliputi segala sesuatu, agar Engkau mengampuni aku.</string>
+    <string name="text_forgiveness_10" translatable="false">Ya Tuhanku, ampunilah aku dan terimalah taubatku, Engkaulah Yang Maha Pengasih lagi Maha Pemaaf.</string>
+    //forgiveness for your siblings
+    <string name="text_siblings_1" translatable="false">Ya Tuhanku! Ampunilah aku dan saudaraku, dan masukkan kami ke dalam rahmat-Mu, karena Engkaulah Yang Maha Penyayang di antara orang-orang yang menaruh belas kasihan.</string>
+    //for asking forgiveness for youself and anyone who enters your house
+    <string name="text_your_house_1" translatable="false">Ya Tuhanku, ampunilah aku dan kedua orang tuaku, dan siapa pun yang masuk ke rumahku sebagai orang mukmin, laki-laki dan wanita mukmin yang beriman. Dan janganlah kamu menambah jumlah orang-orang yang zalim kecuali dengan kehancuran.</string>
+    //for repentance
+    <string name="text_repentance_1" translatable="false">Aku memohon ampun kepada Allah Yang Maha Perkasa, yang tidak ada sesembahan yang berhak disembah kecuali Dia yang Maha Hidup lagi Maha Abadi, dan aku bertaubat kepada-Nya, niscaya Allah akan mengampuninya walaupun dia telah meninggalkan barisan tentara.</string>
+    <string name="text_repentance_2" translatable="false">(Dan ucapkanlah wahai Muhammad SAW kepada orang-orang musyrik ini :) Demikianlah Allah, Tuhanku, kepada-Nya aku bertawakal, dan kepada-Nya aku menyerahkan segala urusanku dan bertaubat.</string>
+    //for thanking allah
+    <string name="text_thanking_allah_1" translatable="false">Tidak ada yang patut disembah selain Allah SWT, yang tidak mempunyai sekutu, milik-Nya kekuasaan dan milik-Nya segala puji, dan Dia maha kuasa atas segala sesuatu. Kemuliaan bagi Allah. Segala puji bagi Allah. Tidak ada yang patut disembah kecuali Allah. Allah Maha Besar. Tidak ada daya dan kekuatan kecuali dengan izin Allah Yang Maha Agung lagi Maha Perkasa. Tuhanku, maafkan aku.</string>
+    <string name="text_thanking_allah_2" translatable="false">Maha Suci Tuhanku Yang Maha Agung.</string>
+    <string name="text_thanking_allah_3" translatable="false">Maha Suci Engkau ya Allah Tuhan kami dan puji bagiMu. Ya Allah, maafkan aku.</string>
+    <string name="text_thanking_allah_4" translatable="false">Kemuliaan (bagi-Mu), Yang Maha Suci (adalah Engkau), Tuhan para malaikat dan Ruh</string>
+    <string name="text_thanking_allah_5" translatable="false">Kemuliaan bagi-Mu, Penguasa kekuasaan, kekuasaan, keagungan dan keagungan.</string>
+    <string name="text_thanking_allah_6" translatable="false">Tidak ada yang berhak disembah kecuali Allah saja, yang tidak mempunyai sekutu. Milik-Nya kekuasaan dan milik-Nya pujian. Dia menghidupkan dan mematikan, dan Dia Maha Kuasa melakukan segala sesuatu.</string>
+    <string name="text_thanking_allah_7" translatable="false">Tidak ada yang berhak disembah selain Allah saja, Dia tidak mempunyai sekutu, milik-Nya kekuasaan, milik-Nya segala puji, dan Dia Maha Kuasa melakukan segala sesuatu. Tidak ada daya dan keperkasaan kecuali dengan izin Allah. Tidak ada yang berhak disembah selain Allah, dan kami tidak menyembah selain Dia. Milik-Nya rahmat, milik-Nya karunia, dan milik-Nya puji-pujian yang paling baik. Tidak ada yang berhak disembah selain Allah. (Kami) ikhlas dalam beribadah kepada-Nya, meskipun orang-orang kafir mungkin tidak menyukainya.</string>
+    <string name="text_thanking_allah_8" translatable="false">Maha Suci Allah dan segala puji bagi-Nya, dengan banyaknya ciptaan-Nya, dengan keridhaan-Nya, dengan beratnya Arsy-Nya, dan dengan luasnya kalimat-kalimat-Nya.</string>
+    <string name="text_thanking_allah_9" translatable="false">Maha Suci Allah, Segala puji bagi Allah, Allah Maha Besar!</string>
+    <string name="text_thanking_allah_10" translatable="false">Segala puji bagi Allah yang telah memberi kami makanan dan minuman, mencukupkan kami dan memberi kami tempat tinggal, betapa banyaknya orang yang tidak mempunyai bekal dan rumah.</string>
+    <string name="text_thanking_allah_11" translatable="false">Segala puji bagi Allah dengan puji-pujian yang indah dan berlimpah berkah, puji-pujian yang tiada habisnya, puji-pujian yang tiada henti-hentinya kita ucapkan, dan puji-pujian yang tiada tergantikan, Dialah Tuhan kami.</string>
+    //for being grateful to allah
+    <string name="text_grateful_to_allah_1" translatable="false">Ya Tuhanku, berilah aku kemampuan untuk mensyukuri nikmat-Mu yang telah Engkau berikan kepadaku dan kedua orangtuaku, serta mengerjakan amal saleh yang Engkau ridhoi dan jadikanlah anak cucuku yang baik bagiku. Sesungguhnya aku telah bertaubat kepada-Mu, dan sesungguhnya aku termasuk kaum muslimin.</string>
+    <string name="text_grateful_to_allah_2" translatable="false">Ya Tuhanku, berilah aku kemampuan untuk mensyukuri nikmat-Mu yang telah Engkau berikan kepadaku dan kedua orang tuaku, serta untuk mengerjakan amal saleh yang Engkau ridhoi. Dan masukkan aku dengan rahmat-Mu ke dalam [golongan] hamba-hamba-Mu yang saleh.</string>
+    //on hearing good news
+    <string name="text_good_new_1" translatable="false">Segala puji bagi Allah, sebagaimana Allah menghendaki, Maha Suci Allah</string>
+    //for leaving everything in the hands of
+    //protection and help from allah
+    <string name="text_help_from_allah_1" translatable="false">Allah, Pengungkap Kitab, Cepat menghitung, mengalahkan kelompok (orang-orang kafir). Ya Allah, kalahkan mereka dan guncangkan mereka.</string>
+    <string name="text_help_from_allah_2" translatable="false">Dialah Allah (yang) Esa. Tuhan Yang Maha Esa, Yang dibutuhkan oleh semua makhluk, Dia tidak memperanakkan dan tidak dilahirkan-Nya, dan tidak ada seorangpun yang setara dengan-Nya.</string>
+    <string name="text_help_from_allah_3" translatable="false">Allah! Tidak ada sesembahan yang berhak disembah selain Dia, Yang Maha Hidup, Yang memelihara dan melindungi segala yang ada. Baik tidur maupun tidur tidak menguasai Dia. Kepunyaan-Nya apa yang ada di langit dan apa yang ada di bumi. Siapakah yang dapat memberi syafaat kepada-Nya kecuali dengan Izin-Nya? Dia mengetahui apa yang terjadi pada mereka di dunia dan apa yang terjadi pada mereka di akhirat. Dan mereka tidak akan pernah menyia-nyiakan ilmu-Nya kecuali apa yang Dia kehendaki. Arsy-Nya terbentang di atas langit dan bumi, dan Dia tidak merasa lelah dalam menjaga dan melestarikannya. Dan Dialah Yang Maha Tinggi lagi Maha Agung.</string>
+    <string name="text_help_from_allah_4" translatable="false">Aku berlindung kepada (Allah) Penguasa fajar, dari kejahatan apa yang Dia ciptakan, dan dari kejahatan kegelapan (malam) yang menyertai kegelapannya, dan dari kejahatan orang-orang yang mempraktekkan ilmu sihir ketika mereka meniup simpul, dan dari kejahatan orang yang iri ketika dia iri.</string>
+    <string name="text_help_from_allah_5" translatable="false">Aku berlindung kepada (Allah) Tuhan umat manusia, Raja umat manusia, Tuhan umat manusia, dari keburukan para pembisik penyendiri, yang membisikkan di dada manusia, jin dan manusia.</string>
+    <string name="text_help_from_allah_6" translatable="false">Ya Allah, aku berlindung kepada-Mu dari siksa kubur, dan aku berlindung kepada-Mu dari cobaan Al-Masih Palsu, dan aku berlindung kepada-Mu dari cobaan hidup dan mati. Ya Allah, aku berlindung kepada-Mu dari dosa dan hutang.</string>
+    <string name="text_help_from_allah_7" translatable="false">Ya Allah, peliharalah aku dari siksa-Mu pada hari Engkau membangkitkan hamba-hamba-Mu.</string>
+    <string name="text_help_from_allah_8" translatable="false">Ya Allah, Yang Maha Mengetahui yang ghaib dan yang nyata, Pencipta langit dan bumi, Tuhan segala sesuatu dan Pemiliknya, aku bersaksi bahwa tidak ada yang berhak disembah selain Engkau. Aku berlindung kepada-Mu dari kejahatan jiwaku dan dari kejahatan setan dan para pembantunya. (Aku berlindung kepada-Mu) dari mendatangkan keburukan pada jiwaku dan dari menyakiti setiap muslim.</string>
+    <string name="text_help_from_allah_9" translatable="false">Ya Allah, aku mohon ampun dan perlindungan-Mu di dunia dan akhirat. Ya Allah, aku memohon ampunan-Mu dan perlindungan-Mu dalam agamaku, dalam urusan duniaku, dalam keluargaku, dan dalam hartaku. Ya Allah, sembunyikan rahasiaku dan jauhkan aku dari kesedihan. Ya Allah, jagalah aku dari apa yang ada di depanku dan di belakangku, dari kiriku, dari kananku, dan dari atasku. Aku berlindung kepada Keagungan-Mu agar tidak dihantam dari bawahku.</string>
+    <string name="text_help_from_allah_10" translatable="false">Kita telah memasuki hari baru dan dengan itu semua kekuasaan ada di tangan Allah. Segala puji bagi Allah. Tidak ada yang berhak disembah kecuali Allah saja, yang tidak mempunyai sekutu. Kepunyaan Allah-lah kekuasaan, dan milik-Nya segala puji, dan Dia Maha Kuasa melakukan segala sesuatu. Ya Tuhanku, aku memohon kepada-Mu kebaikan hari ini dan hari-hari berikutnya, dan aku berlindung kepada-Mu dari keburukan hari ini dan hari-hari setelahnya. Ya Tuhanku, aku berlindung kepada-Mu dari kemalasan dan usia tua yang tidak berdaya. Ya Tuhanku, aku berlindung kepada-Mu dari siksa api neraka dan siksa kubur. Ketika kamu mengucapkan hal ini di malam hari, kamu harus mengucapkan: \'Amsaynaa wa\'amsal-mulku lillaah: "Kita telah mengakhiri hari yang lain dan dengan itu semua kekuasaan ada di tangan Allah" dan Rabi \'as\'aluka khayra maa fii haathihil-laylati, wa khayra maa ba\'dahaa, wa \'a\'oothu bika min sharri maa fee haathihil-laylati wa sharri maa ba\'dahaa: "Aku memohon kepada-Mu kebaikan malam ini dan malam-malam yang datang setelahnya dan aku berlindung kepada-Mu dari keburukan malam ini dan malam-malam setelahnya.”</string>
+    <string name="text_help_from_allah_11" translatable="false">Ketahuilah bahwa Allah adalah pelindungmu. Unggul adalah pelindung, dan Unggul adalah penolong.</string>
+    //for protection from satan/shaytan
+    <string name="text_shaytan_1" translatable="false">Tuanku! Aku berlindung kepadaMu dari bisikan (saran) setan. Dan aku berlindung kepada-Mu, Ya Tuhanku! jangan sampai mereka mendatangi (atau mendekati) saya.</string>
+    <string name="text_shaytan_2" translatable="false">Aku berlindung kepada Allah dari setan yang terbuang.</string>
+    <string name="text_shaytan_3" translatable="false">Aku berlindung pada Kalimat Allah yang Sempurna dari keburukan apa yang diciptakan-Nya.</string>
+    //to keep your family safe from transgressors
+    <string name="text_transgressors_1" translatable="false">Tuanku! Selamatkan aku dan keluargaku dari apa yang mereka lakukan.</string>
+    //for your child’s protection
+    <string name="text_protection_1" translatable="false">Aku memohon perlindungan bagimu dengan Kalimat Allah yang Sempurna dari setiap setan dan setiap binatang buas, dan dari setiap mata dengki yang tercela.</string>
+    //for protection from oppressors
+    <string name="text_oppressors_1" translatable="false">Tuhan kami! Selamatkan kami dari kota ini yang penduduknya penindas; dan angkat bagi kami dariMu orang yang dapat melindungi, dan angkat bagi kami dariMu orang yang dapat menolong.</string>
+    <string name="text_oppressors_2" translatable="false">Ya Allah, Engkaulah kekuatanku dan Engkaulah penopangku. Demi Engkau aku maju, demi Engkau aku maju, dan demi Engkau aku berjuang.</string>
+    //for curbing fear
+    <string name="text_fear_1" translatable="false">Ya Allah, cukuplah (yaitu melindungi) aku dari mereka sesuka-Mu.</string>
+    //for protection from the wrongdoers
+    <string name="text_wrongdoers_1" translatable="false">Kepada Allah kita bersandar. Ya Tuhan kami, jangan jadikan kami [objek] cobaan bagi orang-orang yang zalim. Dan peliharalah kami dengan rahmat-Mu dari orang-orang kafir.</string>
+    <string name="text_wrongdoers_2" translatable="false">Ya Tuhan kami! Sesungguhnya Engkau mengetahui apa yang kami sembunyikan dan apa yang kami nyatakan, tidak ada apa pun yang tersembunyi bagi Allah, baik di bumi maupun di surga.</string>
+    <string name="text_wrongdoers_3" translatable="false">Tuhan kami! Kami takut kalau-kalau dia bertindak kurang ajar terhadap kami, atau kalau-kalau dia melampaui batas</string>
+    //for parents
+    <string name="text_parents_1" translatable="false">Ya Tuhanku! Jadikanlah aku orang yang menunaikan As-Salaat (Iqaamat-as-Salaat), dan (juga) dari keturunanku, ya Tuhan kami! Dan terimalah doaku.</string>
+    <string name="text_parents_2" translatable="false">Ya Tuhanku, kasihanilah mereka (orang tua) yang membesarkanku [ketika aku] kecil.</string>
+    //for fear of committing shirk
+    <string name="text_shirk_1" translatable="false">Ya Allah, aku berlindung kepada-Mu agar aku tidak mempersekutukan sesuatu dengan-Mu dengan sengaja, dan aku memohon ampun kepada-Mu atas apa yang tidak aku ketahui.</string>
+    //for this wolrd and the aakhira
+    <string name="text_aakhira_1" translatable="false">Tuhan kami! Berilah kami apa yang baik di dunia dan apa yang baik di akhirat, dan peliharalah kami dari siksa api neraka!</string>
+    <string name="text_aakhira_2" translatable="false">Ya Tuhan kami, sesungguhnya Engkau akan mengumpulkan manusia pada suatu hari yang tidak ada keraguannya. Sesungguhnya Allah tidak mengingkari janji-Nya.</string>
+    //to be a pious muslim
+    <string name="text_pious_muslim_1" translatable="false">Tuhan kami! Jangan tempatkan kami bersama orang-orang yang Zaalimoon (musyrik dan zalim).</string>
+    <string name="text_pious_muslim_2" translatable="false">Ya Tuhanku, maka jangan tempatkan aku di antara orang-orang yang zalim.</string>
+
+    //seek allah’s satisfaction
+    <string name="text_allah_satisfaction_1" translatable="false">Tuhan kami! Terimalah (layanan ini) dari kami: Karena Engkaulah Yang Maha Mendengar lagi Maha Mengetahui</string>
+    <string name="text_allah_satisfaction_2" translatable="false">Tuhan kami! Jadikanlah kami sebagai orang Islam yang tunduk pada (kehendak-Mu), dan jadikanlah keturunan kami sebagai umat Islam yang tunduk pada (kehendak-Mu); dan tunjukkan kepada kami tempat kami untuk merayakan upacara-upacara; dan kembalilah kepada kami (dalam Rahmat); karena Engkaulah Yang Maha Kembali lagi Maha Penyayang.</string>
+
+    //Family
+    //for parent
+    //for a blissfull family
+    <string name="text_family_1" translatable="false">Ya Tuhanku! Berilah kami istri-istri dan keturunan yang menjadi penghiburan mata kami, dan berilah kami (rahmat) untuk memimpin orang-orang yang bertakwa.</string>
+    //asking allah to grant you a child
+    <string name="text_a_child_1" translatable="false">Ya Tuhanku! Berilah aku keturunan yang baik dariMu. Sesungguhnya Engkaulah Yang Maha Mendengar Doa.</string>
+    <string name="text_a_child_2" translatable="false">Ya Tuhanku! Jangan biarkan aku melajang (tanpa anak), padahal Engkaulah Yang Terbaik di antara ahli waris.</string>
+
+
+    //Health / Iiness
+    //for a healthy life
+    <string name="text_healthy_life_1" translatable="false">Ya Allah, sehatkanlah badanku. Ya Allah, jagalah pendengaranku. Ya Allah, peliharalah bagiku penglihatanku. Tidak ada yang berhak disembah selain Engkau. Ya Allah, aku berlindung kepada-Mu dari kekafiran dan kemiskinan, dan aku berlindung kepada-Mu dari siksa kubur. Tidak ada yang berhak disembah selain Engkau.</string>
+    //when visiting the sick
+    <string name="text_the_sick_1" translatable="false">Jangan khawatir, itu akan menjadi penyucian (bagimu), Insya Allah.</string>
+    <string name="text_the_sick_2" translatable="false">Aku memohon kepada Allah Yang Maha Tinggi dan Penguasa Arsy yang Perkasa agar Dia menyembuhkanmu\n(Nabi Muhammad (SAW.) bersabda bahwa dengan membaca doa ini tujuh kali, orang yang sakit akan kembali sehat dan jika terjadi kematian maka ( kematian) adalah masalah yang berbeda (yaitu kematian sudah tertulis, tidak dapat dicegah))</string>
+    //to alleviate pain
+    <string name="text_alleviate_pain_1" translatable="false">Dengan menyebut nama Allah aku berlindung kepada Allah dan kekuasaan-Nya dari keburukan apa yang aku jumpai dan apa yang aku jaga.</string>
+    //upon seeing someone going through a trial or tribulation
+    <string name="text_tribulation_1" translatable="false">Segala puji bagi Allah yang telah meridhoiku dari apa yang telah Dia derita kepadamu, dan lebih melebihkanku dari sebagian besar ciptaan-Nya.</string>
+    //if you fall on hard times
+    <string name="text_hard_times_1" translatable="false">Sesungguhnya kesusahan telah menimpaku, dan Engkaulah Yang Maha Penyayang di antara Yang Maha Penyayang.</string>
+    <string name="text_hard_times_2" translatable="false">Tidak ada yang berhak disembah selain Allah, Allah Maha Besar. Tidak ada yang berhak disembah kecuali Allah saja. Tidak ada yang berhak disembah kecuali Allah saja, yang tidak mempunyai sekutu. Tidak ada yang berhak disembah selain Allah, milik-Nya kekuasaan dan milik-Nya segala puji. Tidak ada yang berhak disembah selain Allah, tidak ada daya dan keperkasaan kecuali dengan izin Allah.</string>
+    //when you are nearing your death
+    <string name="text_nearing_your_death_1" translatable="false">Tidak ada yang patut disembah selain Allah</string>
+    <string name="text_nearing_your_death_2" translatable="false">Aku bersaksi bahwa tidak ada seorang pun yang berhak disembah selain Allah saja, yang tidak mempunyai sekutu; dan aku bersaksi bahwa Muhammad adalah hamba dan rasul-Nya.</string>
+
+    //Loss / Failure
+    //when you fail or lose at something
+    <string name="text_something_1" translatable="false">Itu adalah ketetapan Allah dan Dia melakukan apapun yang Dia kehendaki.</string>
+    //when a loss occurs
+    <string name="text_occurs_1" translatable="false">Sesungguhnya kita milik Allah, dan sesungguhnya kepada-Nyalah kita kembali.</string>
+    //when stricken by tragedy
+    <string name="text_tragedy_1" translatable="false">Kita berasal dari Allah dan kepada-Nya kita kembali. Ya Allah keluarkan aku dari kesusahanku dan berikan kepadaku sesuatu yang lebih baik setelahnya.</string>
+    <string name="text_tragedy_2" translatable="false">Cukuplah Allah bagi kita dan sebaik-baik orang yang menjadi sandaran kita.</string>
+    //for seeking allah’s help
+    <string name="text_allah_help_1" translatable="false">Cukuplah Allah bagi kita dan sebaik-baik orang yang menjadi sandaran kita.</string>
+    <string name="text_allah_help_2" translatable="false">Aku hanya mengadukan penderitaanku dan kesedihanku kepada Allah, dan aku mengetahui dari Allah apa yang tidak kamu ketahui.</string>
+    //at time of worry and sorry
+    <string name="text_worry_sorry_1" translatable="false">Ya Allah, aku berlindung kepada-Mu dari kesedihan dan kesedihan, dari kelemahan dan kemalasan, dari kekikiran dan dari kepengecutan, dari terlilit hutang dan dikuasai oleh manusia (yaitu orang lain).</string>
+    //when in distress
+    <string name="text_in_distress_1" translatable="false">Tidak ada seorang pun yang berhak disembah selain Engkau (Ya Allah), Maha Suci (dan Maha Tinggi) Engkau. Sesungguhnya aku termasuk orang-orang yang zalim.</string>
+    <string name="text_in_distress_2" translatable="false">Ya Allah, aku berharap rahmat-Mu. Jangan tinggalkan aku sendirian meski hanya sekejap mata (yaitu sesaat). Perbaiki semua urusanku untukku. Tidak ada yang berhak disembah selain Engkau.</string>
+    <string name="text_in_distress_3" translatable="false">Tidak ada yang berhak disembah kecuali Allah Yang Maha Perkasa lagi Penyayang. Tidak ada yang berhak disembah selain Allah, Rabb Arsy yang Agung. Tidak ada yang berhak disembah kecuali Allah, Tuhan langit dan bumi, dan Tuhan Arsy yang Mulia.</string>
+    //for overcoming your weaknesses
+    <string name="text_weaknesses_1" translatable="false">Ya Allah! Aku berlindung kepada-Mu dari kesedihan dan kesedihan, dari kelemahan dan kemalasan, dari kekikiran dan dari kepengecutan, dari terlilit hutang dan dari dikuasai oleh manusia (orang lain).</string>
+    //when striken by tragedy
+    <string name="text_by_tragedy_1" translatable="false">Kita berasal dari Allah dan kepada-Nya kita kembali. Ya Allah keluarkan aku dari kesusahanku dan berikan kepadaku sesuatu yang lebih baik setelahnya.</string>
+    <string name="text_by_tragedy_2" translatable="false">Cukuplah Allah bagi kita dan sebaik-baik orang yang menjadi sandaran kita.</string>
+    //on hearing a bad news
+    <string name="text_a_bad_1" translatable="false">Segala puji bagi Allah dalam segala keadaan.</string>
+    //when someone insults you
+    <string name="text_insults_you_1" translatable="false">Ya Tuhanku, hakimlah [di antara kami] dengan sebenarnya. Dan Tuhan kami Maha Penyayang, yang dimintai pertolongan terhadap apa yang kamu gambarkan itu.</string>
+    //when feeling frightened
+    <string name="text_frightened_1" translatable="false">Tidak ada yang patut disembah selain Allah.</string>
+    //to trust upon allah
+    <string name="text_upon_allah_1" translatable="false">Cukuplah Allah bagiku. Laa ilaaha illa Huwa (tidak ada yang berhak disembah selain Dia), kepada-Nya aku bertawakal dan Dia-lah Penguasa Arsy yang Maha Perkasa.</string>
+    <string name="text_upon_allah_2" translatable="false">Dan kamu akan ingat apa yang aku katakan kepadamu sekarang, dan aku mempercayakan urusanku kepada Allah. Sesungguhnya Allah Maha Melihat hamba-hamba [Nya].</string>
+
+
+    //Patience
+    //for patience
+    <string name="text_for_patience_1" translatable="false">Tuhan kami! Berikanlah kepada kami ketabahan, kokohkan pijakan kami, dan berilah kami pertolongan terhadap orang-orang kafir.</string>
+    <string name="text_for_patience_2" translatable="false">Tuhan kami! mencurahkan kesabaran kami, dan menyebabkan kami mati sebagai Muslim.</string>
+    ////for controlling your anger
+    <string name="text_your_anger_1" translatable="false">Aku berlindung kepada Allah dari setan yang terbuang.</string>
+
+
+    //Debt
+    //settle a debt
+    <string name="text_a_debt_1" translatable="false">Ya Allah, cukupkanlah aku dengan apa yang Engkau izinkan daripada apa yang telah Engkau larang, dan jadikan aku mandiri dari apa pun selain Engkau.</string>
+    //for someone who lens you money
+    <string name="text_you_money_1" translatable="false">Semoga Allah memberkahimu dalam keluarga dan hartamu, Sesungguhnya pahala suatu pinjaman adalah pujian dan pengembalian (apa yang dipinjam).</string>
+
+
+    //During Menstruation
+    //to be pious muslims
+    <string name="text_pious_muslims_1" translatable="false">Tuhan kami! Jangan tempatkan kami bersama orang-orang yang Zaalimoon (musyrik dan zalim).</string>
+    //for forgiveness for your parents and all muslims
+    <string name="text_and_all_muslims_1" translatable="false">Ya Tuhan kami! Lindungi (kami) dengan Ampunan-Mu - aku, orang tuaku, dan (semua) orang-orang beriman, pada hari ditegakkannya perhitungan!</string>
+    //seek forgiveness and strengthen your imaan
+    <string name="text_and_strengthen_your_imaan_1" translatable="false">Allah tidak membebani seseorang diluar kemampuannya. Dia mendapat pahala atas (kebaikan) yang dia usahakan, dan dia mendapat hukuman atas (keburukan) yang dia usahakan. "Ya Tuhan kami! Jangan menghukum kami jika kami lupa atau melakukan kesalahan, ya Tuhan kami! Jangan bebankan kepada kami beban seperti yang Engkau bebankan kepada orang-orang sebelum kami; Tuhan kami! Jangan bebankan kepada kami beban yang lebih besar dari kekuatan kami untuk menanggungnya." menanggung. Maafkan kami dan berikan kami Pengampunan. Kasihanilah kami. Anda adalah Maula kami (Pelindung, Pendukung dan Pelindung, dll.) dan memberi kami kemenangan atas orang-orang kafir."</string>
+    //for protection from the evil eye
+    <string name="text_evil_eye_1" translatable="false">Aku berlindung dengan kalimat Allah yang sempurna dari keburukan apa yang diciptakan-Nya</string>
+    //for protection against enemies
+    <string name="text_against_enemies_1" translatable="false">Ya Allah yang menurunkan Kitab, yang cepat menghakimi, kalahkan pihak-pihak yang berkepentingan, ya Allah, kalahkan dan goyangkan mereka.</string>
+    //protection from natural disasters calamities
+    <string name="text_calamities_1" translatable="false">  Dengan menyebut nama Allah yang dengan namanya tidak ada sesuatu pun yang membahayakan di bumi dan di langit, dan Dialah Yang Maha Melihat lagi Maha Mengetahui. (tiga kali)</string>
+    //forgiviness for you siblings
+    <string name="text_you_siblings_1" translatable="false">Ya Tuhanku! Ampunilah aku dan saudaraku, dan masukkan kami ke dalam rahmat-Mu, karena Engkaulah Yang Maha Penyayang di antara orang-orang yang menaruh belas kasihan.</string>
+    //during illness
+    <string name="text_during_illness_1" translatable="false">[Surat Al-Ikhlas] Katakanlah: Dialah Tuhan yang Maha Esa. Tuhan adalah yang kekal. Dia tidak memperanakkan dan tidak dilahirkan, dan tidak ada seorangpun yang setara dengan Dia. [Surat Al-Falaq] Katakanlah, “Aku berlindung kepada Tuhan Yang Maha Pencipta dari keburukan apa yang Dia ciptakan, dan dari keburukan kegelapan yang mendekat, dan dari keburukan tertiup angin, dan dari keburukan angin. meniup simpul, dan dari kejahatan meniup simpul dari orang yang iri ketika dia iri. [Surat Al-Ikhlas] Katakanlah, “Aku berlindung kepada Tuhan manusia, Raja manusia, Tuhan manusia, dari kejahatan para pembisik yang membisikkan ke dalam hati manusia, dari jin. dan kemanusiaan.”</string>
+    //for patience during difficult times
+    <string name="text_difficult_times_1" translatable="false">Ya Tuhan kami, curahkanlah kepada kami kesabaran dan matikan kami sebagai Muslim.</string>
+    //reward of one-third of quran
+    <string name="text_of_quran_1" translatable="false">[Surat Al-Ikhlas] Katakanlah: Dialah Tuhan yang Maha Esa. Tuhan adalah yang kekal. Dia tidak memperanakkan dan tidak dilahirkan, dan tidak ada seorangpun yang setara dengan Dia</string>
+    <string name="string_prayer_time_will_begin">Waktu sholat akan dimulai dalam %s menit</string>
+    <string name="string_prayer_time_will_begin_s">Waktu sholat akan dimulai dalam %s menit</string>
+
+    <!-- Hijri Months -->
+    <string name="string_praying_time_adjustment">%s mnt</string>
+    <string name="string_plus_praying_time_adjustment">+%s mnt</string>
+    <string name="string_not_adjusted">Tidak Disesuaikan</string>
+    <string name="string_it_will_correct_the_corresponding">Ini akan mengoreksi tanggal kalender Islam yang sesuai dengan kalender Masehi</string>
+    <string name="string_settings">Pengaturan</string>
+    <string name="string_english">Bahasa inggris</string>
+    <string name="string_time_calculator">Kalkulator Waktu</string>
+    <string name="string_calculator_method">Metode Kalkulator</string>
+    <string name="string_manual_setting">Pengaturan Manual</string>
+    <string name="string_praying_time_adjustment_setting">Penyesuaian Waktu Shalat</string>
+    <string name="string_date_correction">Koreksi Tanggal</string>
+    <string name="string_notification_bar">Bilah Pemberitahuan</string>
+    <string name="string_fixed_countdown_on_notification">Memperbaiki Hitung Mundur Pada Pemberitahuan</string>
+    <string name="string_other">Lainnya</string>
+    <string name="string_share">Membagikan</string>
+    <string name="string_rate">Kecepatan</string>
+    <string name="string_private_policy">Kebijakan Pribadi</string>
+
+    <string name="string_exit">KELUAR</string>
+
+    <string name="string_oh_no">Oh tidak!</string>
+    <string name="string_please_give_us_some_feedback">Tolong beri kami umpan balik</string>
+    <string name="string_we_love_you_too">Kami juga mencintaimu!</string>
+    <string name="string_thanks_for_your_feedback">Terima kasih atas tanggapan Anda</string>
+    <string name="string_do_you_like_the_app">Apakah Anda menyukai aplikasi ini?</string>
+    <string name="string_let_us_know_your_experience">Beri tahu kami pengalaman Anda</string>
+    <string name="Please_feedback">Mohon masukannya</string>
+    <string name="string_quran">Alquran</string>
+    <string name="string_thank_for_rate">Terima kasih telah memberi peringkat pada aplikasi</string>
+    <string name="string_surah">Surat</string>
+    <string name="string_juz">Juz</string>
+    <string name="string_quran_settings">Pengaturan Alquran</string>
+    <string name="string_translation">Terjemahan</string>
+    <string name="string_display">Menampilkan</string>
+    <string name="string_language_selection">Pilihan bahasa</string>
+    <string name="string_content">Isi</string>
+    <string name="string_font_amp_size"><![CDATA[Font & Ukuran]]></string>
+    <string name="string_audio">Audio</string>
+    <string name="string_reciter">Tukang deklamasi</string>
+    <string name="string_translation_display">Tampilan Terjemahan</string>
+    <string name="string_phonetic_translation">Terjemahan Fonetik</string>
+    <string name="string_language_translation">Terjemahan Bahasa</string>
+    <string name="string_preview">Pratinjau</string>
+    <string name="string_enable_audio">Aktifkan Audio</string>
+    <string name="string_auto_scroll_with_audio">Gulir otomatis dengan audio</string>
+    <string name="string_font_size">Ukuran huruf</string>
+    <string name="string_font_style">Gaya tulisan</string>
+    <string name="string_tasbih">Tasbih</string>
+    <string name="string_round">Bulat :</string>
+    <string name="string_done">Selesai</string>
+    <string name="string_customize">Sesuaikan</string>
+    <string name="string_adjust_total_times">Sesuaikan total waktu</string>
+    <string name="string_adjust_the_number_of_rounds">Sesuaikan jumlah putaran</string>
+    <string name="string_reset">Mengatur ulang</string>
+    <string name="string_do_you_want_to_reset_the_counter">Apakah Anda ingin mengatur ulang penghitung</string>
+    <string name="string_continue_reading">Lanjutkan Membaca - %s</string>
+
+    <string name="text_date_comparison" translatable="false">Perbandingan tanggal</string>
+    <string name="text_gregrorian_calendar" translatable="false">Kalender Masehi</string>
+    <string name="text_islamic_calendar" translatable="false">kalender Islam</string>
+    <string name="text_praying_time" translatable="false">Waktu Sholat</string>
+    <string name="title_activity_islam_map" translatable="false">Aktivitas Peta Islam</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="string_indonesian" translatable="false">Bahasa Indonesia</string>
+    <string name="string_urdu" translatable="false">Bahasa Urdu</string>
+    <string name="string_hindi" translatable="false">Bahasa Hindi</string>
+    <string name="string_turkish" translatable="false">Bahasa Turki</string>
+
+    <string name="string_salah" translatable="false">Salah</string>
+
+    <string name="string_please_select_language">Silakan pilih bahasa</string>
+    <string name="string_please_connect_to_the_internet_to_use_this_feature">Silakan terhubung ke internet untuk menggunakan fitur ini</string>
+    <string name="string_please_connect_to_the_internet_to_play_audio">Silakan sambungkan ke internet untuk memutar audio</string>
+    <string name="string_pin_app_widget_is_not_supported">Widget aplikasi pin tidak didukung</string>
+    <string name="string_please_customize_the_number_of_round">Silakan sesuaikan jumlah putarannya</string>
+    <string name="string_please_enter_the_value_of_the_number_of_rounds">Silakan masukkan nilai jumlah putaran!</string>
+    <string name="string_value_of_the_number_of_rounds_that_exist">Nilai dari jumlah putaran yang ada</string>
+    <string name="string_let_me_recommend_you_this_application">Izinkan saya merekomendasikan Anda aplikasi ini</string>
+
+    <string name="text_location_1" translatable="false">Lokasi tidak diaktifkan</string>
+    <string name="text_location_2" translatable="false">Harap aktifkan lokasi untuk menggunakan semua fitur aplikasi ini</string>
+    <string name="text_bookmark_duas" translatable="false">Ketuk ikon bookmark untuk menambahkan doa ke dalam bookmark</string>
+    <string name="text_bookmark_azkar" translatable="false">Ketuk ikon bookmark untuk menambahkan azkar ke dalam bookmark</string>
+
+    <string name="string_search">Mencari</string>
+
+    <string name="string_add_to_home_screen">Tambahkan ke layar beranda</string>
+
+    <string name="string_rotate_your_phone_until_the_mecca_appear">Putar ponsel Anda sampai masjid besar Mekah muncul</string>
+
+    <string name="text_sample" translatable="false">Ini adalah file contoh</string>
+    <string name="text_sleeping_1">Dengan nama-Mu ya Tuhanku, aku berbaring dan dengan nama-Mu aku bangkit, maka jika Engkau mengambil jiwaku maka kasihanilah, dan jika Engkau mengembalikan jiwaku maka lindungilah dengan cara yang sama. Engkau melakukannya dengan hamba-hamba-Mu yang saleh.</string>
+    <string name="text_sleeping_2">Ya Allah, sesungguhnya Engkau telah menciptakan jiwaku dan Engkau akan mencabut nyawanya, milik-Mulah hidup dan matinya. Jika Engkau harus menjaga jiwaku tetap hidup maka lindungi dia, dan jika Engkau harus mencabut nyawanya maka maafkanlah. Ya Allah, aku memohon kepada-Mu untuk memberiku kesehatan yang baik.\'</string>
+    <string name="text_sleeping_3">Ya Allah, lindungi aku dari siksa-Mu di hari kebangkitan hamba-Mu.</string>
+    <string name="text_sleeping_4">Dengan nama-Mu ya Allah, aku hidup dan mati.</string>
+    <string name="text_sleeping_5">Segala puji bagi Allah, yang memberi kami makan dan minum, dan yang mencukupkan kami dan memberi kami perlindungan, betapa banyak orang yang tidak mempunyai seorang pun yang dapat mencukupkan dan memberi kami perlindungan.</string>
+    <string name="text_sleeping_6">Ya Allah, Yang Mengetahui yang kasat mata dan yang tak kasat mata, Pencipta langit dan bumi, Tuhan dan Penguasa segala sesuatu, aku bersaksi bahwa tidak ada yang berhak disembah kecuali Engkau. Aku berlindung kepada-Mu dari keburukan jiwaku, dari keburukan dan kesyirikan setan, dan dari kezaliman terhadap jiwaku atau mendatangkan hal-hal tersebut kepada orang Islam lain.\' kesyirikan: mempersekutukan Allah dengan hal-hal yang khusus untuknya. Dia. Hal ini dapat terjadi pada (1) keyakinan, mis. meyakini bahwa selain Allah mempunyai kuasa untuk memberikan manfaat atau bahaya, (2) ucapan, misalnya. bersumpah demi selain Allah dan (3) tindakan, mis. untuk membungkuk atau bersujud kepada selain Allah.</string>
+    <string name="text_sleeping_7">Ya Allah, aku menyerahkan jiwaku kepada-Mu, dan aku mempercayakan urusanku kepada-Mu, dan aku menghadapkan wajahku ke arah-Mu, dan aku bersandar sepenuhnya kepada-Mu, dalam harapan dan ketakutan kepada-Mu. Sesungguhnya tidak ada tempat berlindung dan tempat berlindung yang aman dari-Mu kecuali bersama-Mu. Aku beriman kepada Kitab-Mu yang Engkau turunkan dan kepada Nabi-Mu yang Engkau utus.</string>
+    <string name="text_sleeping_8">Allah! Tidak ada sesembahan yang berhak disembah selain Dia, Yang Maha Hidup, Yang memelihara dan melindungi segala yang ada. Baik tidur maupun tidur tidak menguasai Dia. Kepunyaan-Nya apa yang ada di langit dan apa yang ada di bumi. Siapakah yang dapat memberi syafaat kepada-Nya kecuali dengan Izin-Nya? Dia mengetahui apa yang terjadi pada mereka di dunia dan apa yang terjadi pada mereka di akhirat. Dan mereka tidak akan pernah menyia-nyiakan ilmu-Nya kecuali apa yang Dia kehendaki. Arsy-Nya terbentang di atas langit dan bumi, dan Dia tidak merasa lelah dalam menjaga dan melestarikannya. Dan Dialah Yang Maha Tinggi lagi Maha Agung.</string>
+    <string name="string_round_10">Nilai jumlah putaran terkecil adalah 10</string>
+
+    <string name="string_step_1"><![CDATA[<b>Langkah 1:</b>]]> Pastikan Anda setidaknya menutup aurat dan telah melakukan <![CDATA[<b>wudu</b>]]> . Laki-laki harus menutupi seluruh tubuhnya, termasuk pusar dan lutut. Seluruh tubuh wanita harus ditutupi kecuali tangan, kaki, dan wajahnya.</string>
+    <string name="string_step_2"><![CDATA[<b>Langkah 2:</b>]]> Carilah tempat yang bersih dan tidak akan mengganggu orang lain, seperti di atas sajadah. Menghadap Ka\'bah di Makkah, inilah arah Kiblat. Anda dapat berdoa sambil duduk jika Anda sakit atau cacat dan tidak dapat berdiri.</string>
+    <string name="string_step_3"><![CDATA[<b>Langkah 3:</b>]]> Nyatakan niat Anda untuk Sholat dengan suara keras atau diam-diam untuk memulai. Anda dapat melakukan ini dalam bahasa Arab atau bahasa pilihan Anda. Nyatakan, “Saya niat salat Tarawih dua rakaat karena Allah menghadap Ka’bah\”.</string>
+    <string name="string_step_4"><![CDATA[<b>Langkah 4:</b>]]> Ucapkan <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]> dan angkat tangan ke bahu untuk wanita dan daun telinga untuk pria. \"Allah Maha Besar,\" maksudnya. (Langkah ini ditunjukkan di bawah). Saat ini Anda sedang dalam keadaan ihram, yang melarang Anda melakukan segala sesuatu yang bersifat duniawi yang dapat mengalihkan perhatian Anda, termasuk mengobrol, tertawa, makan, minum, atau memikirkan apa pun.</string>
+    <string name="string_step_5"><![CDATA[<b>Langkah 5:</b>]]> Laki-laki letakkan tangan kanan Anda di atas tangan kiri, tepat di bawah angkatan laut. Wanita harus meletakkan tangannya di dada.</string>
+    <string name="string_step_6"><![CDATA[<b>Langkah 6:</b>]]> Ucapkan kalimat ini dengan tenang <![CDATA[<b><i>\"SubhanaK-Allahumma wa bihamdiKa,<br>wa tabaarak-asmuKa, wa ta-\'aala jadduKa, wa la ilaaha illa ghayruK\"</i></b>]]>. Artinya “Ya Allah, kemuliaan dan pujian bagi-Mu; terberkatilah Nama-Mu; Maha Mulia Paduka; tidak ada Tuhan selain Engkau”</string>
+    <string name="string_step_7"><![CDATA[<b>Langkah 7:</b>]]> Setelah itu, ucapkan dengan lembut: <![CDATA[<b><i>\"Auudhu bi-Llahi min ash-Shaitaanir rajeem bismi-Llahir Rahmaani Raheem \"</i></b>]]>. Artinya “Aku memohon perlindungan kepada Allah dari setan yang terkutuk, dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang”.</string>
+    <string name="string_step_8"><![CDATA[<b>Langkah 8:</b>]]> Lanjutkan membaca: <![CDATA[<b><i>\"Surah al-Fatihah\"</i></b>]]>, kemudian diakhiri dengan <![CDATA[<b><i>\"Amin\"</i></b>]]> yang berarti \"semoga dikabulkan\". Jika Anda sedang memimpin salat, pastikan untuk membaca semua Surat Tarawih dengan lantang!</string>
+    <string name="string_step_9"><![CDATA[<b>Langkah 9:</b>]]> Setelah itu, bacalah Surat lainnya. Minimal bacaannya adalah tiga ayat, atau satu ayat yang panjang setara dengan tiga ayat yang lebih pendek. Namun, lebih baik membaca seluruh Surat.</string>
+    <string name="string_step_10"><![CDATA[<b>Langkah 10:</b>]]> Membungkuk ke depan dan mengucapkan <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]> , yang berarti \"Allah Maha Besar\", letakkan tangan Anda di atas lutut, jaga punggung tetap lurus. Berhenti sejenak dalam posisi ini, yang disebut Ruku (membungkuk), dan ulangi <![CDATA[<b><i>\"Subhaana Rabbiy-al-Adheem\"</i></b>]]> setidaknya tiga kali , artinya \"Maha Suci Tuhanku Yang Agung\".</string>
+    <string name="string_step_11"><![CDATA[<b>Langkah 11:</b>]]> Saat kembali berdiri tegak, ucapkan, <![CDATA[<b><i>\"Sami-Allahu liman hamidaH\"</i></b>]]> - \"Allah mendengar orang yang memuji-Nya\". Setelah itu, nyatakan, <![CDATA[<b><i>\"Rabbana laKal hamd\"</i></b>]]> - \"Ya Tuhan kami, segala puji milik-Mu\".</string>
+    <string name="string_step_12"><![CDATA[<b>Langkah 12:</b>]]> Sekali lagi, ucapkan <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]> dan turunkan sujud yang dikenal dengan sebutan “Sujud”. Saat sujud, pastikan dahi, hidung, telapak kedua tangan, lutut, dan jari kaki mengarah ke depan menyentuh lantai.</string>
+    <string name="string_step_13"><![CDATA[<b>Langkah 13:</b>]]> Ulangi setidaknya tiga kali, <![CDATA[<b><i>\"Subhaana Rabbiy-al-Aalaa\"</i></b>]]> - \"Maha Suci Tuhanku Yang Maha Tinggi\".</string>
+    <string name="string_step_14"><![CDATA[<b>Langkah 14:</b>]]> Bangkit ke posisi duduk sambil mengucapkan <![CDATA[<b><i>\"Allahu Akbar\"</i></b> ]]>. Letakkan telapak tangan Anda di atas lutut. Duduklah dengan telapak kaki kiri Anda, jaga agar jari-jari kaki kanan tetap menempel dan mengarah ke depan. Bagi wanita, bersandar pada pinggul kiri dengan kedua kaki mengarah ke samping kanan.</string>
+    <string name="string_step_15"><![CDATA[<b>Langkah 15:</b>]]> Setelah jeda sejenak, kembali sujud sambil mengucapkan <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]>, dan ulangi langkah 13.</string>
+    <string name="string_step_16"><![CDATA[<b>Langkah 16:</b>]]> Berdiri tegak sambil mengucapkan <![CDATA[<b><i>\"Allahu Akbar\"</i></b>]]>. Anda sekarang telah menyelesaikan rakaat Tarawih pertama Anda.</string>
+    <string name="string_step_17"><![CDATA[<b>Langkah 17:</b>]]> Ulangi langkah 8 hingga 15 sekali lagi.</string>
+    <string name="string_step_18"><![CDATA[<b>Langkah 18:</b>]]> Setelah menyelesaikan kembali langkah 8 hingga 15, kembali ke posisi duduk seperti dijelaskan pada langkah 14.</string>
+    <string name="string_step_19"><![CDATA[<b>Langkah 19:</b>]]> Dalam posisi duduk, lafalkan ruas awal Tashaahud: <![CDATA[<b><i>\"At-tahiyyatu lillah, was-salawaatu wat-tayyibaat. As-salaamu \'alayka ayyuhan-Nabiyyu wa rahmat-Ullahi wa barakaatu. As-salaamu alayna, wa alaa ibaadi-llahis shaaliheen\"</i></b>]]>. Artinya, “Segala puji bagi Allah, shalawat, dan kebaikan. Salam sejahtera bagimu wahai Nabi, dan rahmat Allah serta berkah-Nya.</string>
+    <string name="string_step_20"><![CDATA[<b>Langkah 20:</b>]]> Selanjutnya, dengan tangan bertumpu pada lutut, angkat jari telunjuk kanan sambil menyatukan jari-jari tangan kanan lainnya. Kemudian, bacalah Tashaahud bagian kedua: <![CDATA[<b><i>\"Ashhadu an laa ilaaha ill-Allahu wa ashhadu anna Muhammadan abduHu wa Rasooluh\"</i></b>]]> . . . . Artinya “Aku bersaksi bahwa tidak ada Tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya”</string>
+    <string name="string_step_21"><![CDATA[<b>Langkah 21:</b>]]> Turunkan jari telunjuk kanan, kembalikan kedua telapak tangan bertumpu pada lutut</string>
+    <string name="string_step_22"><![CDATA[<b>Langkah 22:</b>]]> Sambil tetap duduk, bacalah: <![CDATA[<b><i>\"Allah, saw, adalah Nabi Muhammad, dan saw, Nabi Ibrahim wa ala Ali Ibrahim, ibu dari Hameedum Majeed. Allahumma Barik \'ala Muhammadiw wa ala Ali Muhammadin, kamaa memberkati Ala Ibrahim wa ala Ali Ibrahim, ibu dari Hameedum Majeed\"</i></b>]]>. Artinya, “Ya Allah, kirimkan rahmat-Mu kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau mengirimkan rahmat kepada Ibrahim dan keluarga Ibrahim. Muhammad, sebagaimana Engkau telah melimpahkan shalawat kepada Ibrahim dan keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji dan Mulia\".</string>
+    <string name="string_step_23"><![CDATA[<b>Langkah 23:</b>]]> Sangat dianjurkan untuk membaca beberapa doa (dua). Salah satu permohonan yang lugas dan komprehensif adalah, <![CDATA[<b><i>\"Ya Allah, jadikan kami baik di dunia dan baik di Akhirat, dan jadikan kami baik di Akhirat\"</i></b>]]>. Artinya “Ya Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat serta peliharalah kami dari siksa api neraka”</string>
+    <string name="string_step_24"><![CDATA[<b>Langkah 24:</b>]]> Akhiri Sholat dengan menoleh ke kanan sambil mengucapkan <![CDATA[<b><i>\"Assalamu alaikum wa rahmat-Ullahi wa memberkatiH\"</i></b>]]>. Kemudian ulangi kata-kata tersebut sambil menoleh ke kiri. Artinya, “Semoga damai, rahmat Allah, dan berkah-Nya tercurah atasmu”</string>
+    <string name="string_step_25"><![CDATA[<b>Langkah 25:</b>]]> Rangkaian dua rakaat awal Anda kini telah selesai! Silakan lanjutkan kembali ke Langkah 3 untuk memulai dua rakaat berikutnya.</string>
+    <string name="string_tarawih">Tarawih</string>
+    <string name="string_tarawih_prayer">Sholat Tarawih</string>
+    <string name="string_dialog_tarawih_1">Memperkenalkan fitur terbaru kami: <![CDATA[<b>Tarawih</b>]]> &amp; <![CDATA[<b>Salam Ramanda</b>]]> panduan kini tersedia!</string>
+    <string name="string_dialog_tarawih_2">Bawa saya ke sana</string>
+
+    <string name="string_text_size">Ukuran Teks</string>
+    <string name="string_text_shadow">Bayangan Teks</string>
+    <string name="string_background_blur">Latar Belakang Buram</string>
+    <string name="string_font_style_ramadan">Gaya Font</string>
+    <string name="string_color">Warna</string>
+    <string name="string_send">Kirim</string>
+    <string name="string_background">Latar Belakang</string>
+    <string name="string_app_download_link">Tautan Unduhan Aplikasi</string>
+    <string name="string_share_image">Bagikan Gambar</string>
+    <string name="string_click_here_to_download_the_app">Klik di sini untuk mengunduh aplikasi: %s</string>
+    <string name="string_greeting">Salam</string>
+
+    <string name="string_grant_permissions_later">Berikan izin nanti</string>
+    <string name="string_notification">Pemberitahuan</string>
+    <string name="string_location_permission">Izin Lokasi</string>
+    <string name="string_notification_permission">Izin Pemberitahuan</string>
+    <string name="string_appear_on_top_permission">Muncul di atas Izin</string>
+    <string name="string_des_location_quibla">Aplikasi ini memerlukan Izin Lokasi untuk mengaktifkan Kiblat</string>
+    <string name="string_des_location_islam_map">Aplikasi ini memerlukan Izin Lokasi untuk mengaktifkan peta Islam</string>
+    <string name="string_des_location_widget">Aplikasi ini memerlukan Izin Lokasi untuk mengaktifkan Widget</string>
+    <string name="string_des_notification_widget">Aplikasi ini memerlukan Izin Pemberitahuan untuk mengaktifkan Widget</string>
+    <string name="string_des_appear_on_top_widget">Aplikasi ini memerlukan Izin Muncul Di Atas untuk mengaktifkan Widget</string>
+    <string name="string_des_location_home">Aplikasi ini memerlukan Izin Lokasi untuk mengaktifkan waktu sholat</string>
+    <string name="string_des_notification_home">Aplikasi ini memerlukan Izin Lokasi untuk mengizinkan notifikasi ketika waktu sholat tiba</string>
+    <string name="string_des_appear_on_top_home">Aplikasi ini memerlukan Izin Muncul Di Atas untuk memungkinkan tampilan layar pemberitahuan doa</string>
+
+    <string name="string_you_can_select_location">Anda Dapat Memilih Lokasi</string>
+    <string name="string_you_can_select_notification">Anda Dapat Memilih Notifikasi</string>
+    <string name="string_you_can_select_appear_on_top">Anda Dapat Memilih Muncul di atas</string>
+
+    <string name="text_intro4" translatable="false">Bacalah Al Quran dan Ingatlah Azkar Setiap Hari Agar Semangatmu Tetap Kuat</string>
+    <string name="title_intro4" translatable="false">Quran &amp; Azkar</string>
+
+    <string name="string_continue">Lanjutkan</string>
+    <string name="string_skip">Lewati</string>
+
+    <string name="string_go">Pergi</string>
+    <string name="string_are_you_sure_exit_the_app">Apakah Anda yakin ingin keluar dari aplikasi?</string>
+    <string name="string_yes">Ya</string>
+    <string name="string_no">Tidak</string>
+    <string name="str_kareem">Kareem</string>
+    <string name="ramadan_is_a_time_for_reflection_and_gratitude_may_you_be_granted_the_strength_to_practice_your_faith_the_patience_to_overcome_challenges_and_the_joy_in_every_moment_ramadan_mubarak">
+    Ramadan adalah waktu untuk refleksi dan rasa syukur. Semoga Anda diberi kekuatan untuk menjalankan iman, kesabaran untuk mengatasi tantangan, dan kebahagiaan di setiap momen. Ramadan Mubarak!
+</string>
+    <string name="str_picture_color">Warna Gambar</string>
+    <string name="title_intro_1">Quran &amp; Doa Harian</string>
+    <string name="title_intro_2">Kompas Qibla</string>
+    <string name="title_intro_3">Waktu Sholat</string>
+    <string name="title_intro_4">Kalender Islam</string>
+    <string name="content_intro_1">Baca dan dengarkan Quran, serta jelajahi doa harian dan azkar.</string>
+    <string name="content_intro_2">Temukan arah Qibla Anda dengan mudah, di mana pun Anda berada.</string>
+    <string name="content_intro_3">Jangan pernah melewatkan sholat - waktu yang akurat, selalu tepat waktu.</string>
+    <string name="content_intro_4">Lacak tanggal penting seperti Ramadan, Eid al-Fitr, Eid al-Adha, dan lainnya.</string>
+    <string name="please_select_language">Silakan pilih bahasa Anda</string>
+    <string name="str_zakat">Zakat</string>
+    <string name="str_allah">Allah</string>
+    <string name="continue_rotate_title">Putar ponsel Anda sampai Kaaba berada di tengah.</string>
+    <string name="success_destination">Ini adalah arah Qibla!</string>
+    <string name="north_title">Utara (N)</string>
+    <string name="northeast_title">Timur Laut (NE)</string>
+    <string name="east_title">Timur (E)</string>
+    <string name="southeast_title">Tenggara (SE)</string>
+    <string name="south_title">Selatan (S)</string>
+    <string name="southwest_title">Barat Daya (SW)</string>
+    <string name="west_title">Barat (W)</string>
+    <string name="northwest_title">Barat Laut (NW)</string>
+    <string name="bookmark_title">Tanda Buku</string>
+    <string name="round_title">Putaran</string>
+    <string name="adjust_rounds_title">Sesuaikan Putaran</string>
+    <string name="currency_unit">Satuan Mata Uang</string>
+    <string name="calculate_zakat">Hitung Zakat</string>
+    <string name="total_amount_of_zakat">Jumlah Total Zakat</string>
+    <string name="property_information">Informasi Properti</string>
+    <string name="str_gold">Emas</string>
+    <string name="str_silver">Perak</string>
+    <string name="str_money">Uang</string>
+    <string name="str_investment">Investasi</string>
+    <string name="business_assets">Aset Bisnis</string>
+    <string name="other_savings">Tabungan Lain</string>
+    <string name="str_debt">Hutang</string>
+    <string name="str_nisab">Nisab</string>
+    <string name="str_find">Cari</string>
+    <string name="str_unknown">Tidak Diketahui</string>
+    <string name="loading_data_mosque_please_wait">Memuat data masjid. Harap tunggu...</string>
+    <string name="allah_99_name_title">99 Nama Allah</string>
+
+    <string name="the_most_or_entirely_merciful">Yang Paling atau Sepenuhnya Penyayang</string>
+    <string name="the_bestower_of_mercy">Pemberi Rahmat</string>
+    <string name="the_king_and_owner_of_dominion">Raja dan Pemilik Kekuasaan</string>
+    <string name="the_absolutely_pure">Yang Mutlak Suci</string>
+    <string name="the_perfection_and_giver_of_peace">Kesempurnaan dan Pemberi Damai</string>
+    <string name="the_one_who_gives_emaan_and_security">Yang Memberikan Iman dan Keamanan</string>
+    <string name="the_guardian">Pelindung</string>
+    <string name="the_witness">Saksi</string>
+    <string name="the_overseer">Pengawas</string>
+    <string name="the_all_mighty">Yang Maha Kuasa</string>
+    <string name="the_compeller">Pemaksa</string>
+    <string name="_the_restorer">Pemulih</string>
+    <string name="the_supreme">Yang Tertinggi</string>
+    <string name="_the_majestic">Yang Mulia</string>
+    <string name="the_creator">Pencipta</string>
+    <string name="_the_maker">Pembuat</string>
+    <string name="the_originator">Penggagas</string>
+    <string name="the_fashioner">Pembentuk</string>
+    <string name="the_all_and_oft_forgiving">Yang Maha Pengampun dan Sering Mengampuni</string>
+    <string name="the_subduer">Penakluk</string>
+    <string name="the_ever_dominating">Yang Selalu Berkuasa</string>
+    <string name="the_giver_of_gifts">Pemberi Hadiah</string>
+    <string name="the_provider">Penyedia</string>
+    <string name="the_opener">Pembuka</string>
+    <string name="_the_judge">Hakim</string>
+    <string name="the_all_knowing">Yang Maha Mengetahui</string>
+    <string name="_the_omniscient">Yang Maha Tahu</string>
+    <string name="the_withholder">Penahan</string>
+    <string name="the_extender">Pelebar</string>
+    <string name="the_reducer">Pengurang</string>
+    <string name="the_abaser">Pendirendah</string>
+    <string name="the_exalter">Peninggi</string>
+    <string name="_the_elevator">Pengangkat</string>
+    <string name="the_honourer">Pemberi Kehormatan</string>
+    <string name="the_bestower">Penganugerah</string>
+    <string name="the_dishonourer">Pencemar Nama</string>
+    <string name="the_humiliator">Penghina</string>
+    <string name="the_all_hearing">Yang Maha Mendengar</string>
+    <string name="the_all_seeing">Yang Maha Melihat</string>
+    <string name="the_judge">Hakim</string>
+    <string name="_the_giver_of_justice">Pemberi Keadilan</string>
+    <string name="the_utterly_just">Yang Sepenuhnya Adil</string>
+    <string name="the_subtle_one">Yang Halus</string>
+    <string name="the_most_gentle">Yang Paling Lembut</string>
+    <string name="the_acquainted">Yang Mengetahui</string>
+    <string name="the_all_aware">Yang Maha Sadar</string>
+    <string name="the_most_forbearing">Yang Paling Sabar</string>
+    <string name="the_forgiving">Pengampun</string>
+    <string name="the_exceedingly_forgiving">Yang Sangat Pengampun</string>
+    <string name="the_most_appreciative">Yang Paling Mensyukuri</string>
+    <string name="the_most_high">Yang Maha Tinggi</string>
+    <string name="_the_exalted">Yang Mulia</string>
+    <string name="the_greatest">Yang Terbesar</string>
+    <string name="the_most_grand">Yang Paling Agung</string>
+    <string name="the_preserver">Pelestari</string>
+    <string name="the_all_heedful_and_all_protecting">Yang Selalu Waspada dan Melindungi</string>
+    <string name="the_sustainer">Penopang</string>
+    <string name="the_maintainer">Pemelihara</string>
+    <string name="the_reckoner">Penghitung</string>
+    <string name="the_majestic">Yang Agung</string>
+    <string name="the_most_generous">Yang Paling Dermawan</string>
+    <string name="_the_most_esteemed">Yang Paling Terhormat</string>
+    <string name="the_watchful">Yang Waspada</string>
+    <string name="the_all_watchful">Yang Selalu Mengawasi</string>
+    <string name="the_responsive">Yang Responsif</string>
+    <string name="the_answerer">Pemberi Jawaban</string>
+    <string name="the_all_encompassing">Yang Meliputi Segala</string>
+    <string name="the_boundless">Yang Tanpa Batas</string>
+    <string name="the_all_wise">Yang Maha Bijaksana</string>
+    <string name="the_most_loving">Yang Paling Pengasih</string>
+    <string name="the_glorious">Yang Mulia</string>
+    <string name="the_most_honorable">Yang Paling Terhormat</string>
+    <string name="the_infuser_of_new_life">Pemberi Kehidupan Baru</string>
+    <string name="the_all_observing_witnessing">Saksi yang Selalu Mengamati</string>
+    <string name="absolute_truth">Kebenaran Mutlak</string>
+    <string name="the_trustee">Wali Amanat</string>
+    <string name="the_disposer_of_affairs">Pengatur Urusan</string>
+    <string name="the_all_strong">Yang Maha Kuat</string>
+    <string name="the_firm">Yang Kokoh</string>
+    <string name="the_steadfast">Yang Teguh</string>
+    <string name="the_protecting_associate">Pelindung Pendamping</string>
+    <string name="the_praiseworthy">Yang Terpuji</string>
+    <string name="the_all_enumerating">Yang Menghitung Segala</string>
+    <string name="the_counter">Penghitung</string>
+    <string name="the_initiator">Penggagas</string>
+    <string name="the_restorer">Pemulih</string>
+    <string name="the_reinstater">Pengembali</string>
+    <string name="the_giver_of_life">Pemberi Kehidupan</string>
+    <string name="the_creator_of_death">Pencipta Kematian</string>
+    <string name="ever_living">Yang Hidup Selamanya</string>
+    <string name="the_self_subsisting">Yang Mandiri</string>
+    <string name="the_perceiver">Pemaham</string>
+    <string name="the_illustrious">Yang Terkenal</string>
+    <string name="the_magnificent">Yang Megah</string>
+    <string name="the_one">Yang Satu</string>
+    <string name="the_indivisible">Yang Tak Terbagi</string>
+    <string name="unique">Unik</string>
+    <string name="the_only_one">Yang Satu-Satunya</string>
+    <string name="the_eternal">Yang Kekal</string>
+    <string name="satisfier_of_needs">Pemenuh Kebutuhan</string>
+    <string name="the_omnipotent">Yang Maha Kuasa</string>
+    <string name="the_powerful">Yang Berkuasa</string>
+    <string name="the_expediter">Penyegerah</string>
+    <string name="the_promoter">Peningkat</string>
+    <string name="the_delayer">Penunda</string>
+    <string name="the_first">Yang Pertama</string>
+    <string name="the_last">Yang Terakhir</string>
+    <string name="the_utmost">Yang Paling Utama</string>
+    <string name="the_manifest">Yang Nyata</string>
+    <string name="the_all_surpassing">Yang Melampaui Segala</string>
+    <string name="the_hidden_one">Yang Tersembunyi</string>
+    <string name="knower_of_the_hidden">Pengetahui yang Tersembunyi</string>
+    <string name="the_sole_governor">Penguasa Tunggal</string>
+    <string name="the_self_exalted">Yang Mengagungkan Diri</string>
+    <string name="source_of_all_goodness">Sumber Segala Kebaikan</string>
+    <string name="the_ever_pardoning">Yang Selalu Mengampuni</string>
+    <string name="the_avenger">Pembalas</string>
+    <string name="the_pardoner">Pengampun</string>
+    <string name="the_most_kind">Yang Paling Baik</string>
+    <string name="master_of_the_dominion">Penguasa Kekuasaan</string>
+    <string name="owner_of_the_kingdom">Pemilik Kerajaan</string>
+    <string name="possessor_of_glory_and_honour">Pemilik Kemuliaan dan Kehormatan</string>
+    <string name="the_just_one">Yang Adil</string>
+    <string name="the_gatherer">Pengumpul</string>
+    <string name="the_uniter">Penyatu</string>
+    <string name="the_self_sufficient">Yang Cukup Sendiri</string>
+    <string name="the_wealthy">Yang Kaya</string>
+    <string name="the_enricher">Pemberi Kekayaan</string>
+    <string name="the_distresser">Pemberi Kesulitan</string>
+    <string name="the_propitious">Yang Menguntungkan</string>
+    <string name="the_benefactor">Pemberi Manfaat</string>
+    <string name="the_light">Cahaya</string>
+    <string name="the_guide">Pemandu</string>
+    <string name="the_incomparable_originator">Penggagas yang Tak Tertandingi</string>
+    <string name="the_ever_lasting">Yang Abadi</string>
+    <string name="the_inheritor">Pewaris</string>
+    <string name="the_guide_to_the_right_path">Pemandu ke Jalan yang Benar</string>
+    <string name="the_patient">Yang Sabar</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="get_started_title">Mulai</string>
+    <string name="radar_title">Radar</string>
+    <string name="radar_content">Perangkat tidak mendukung fitur ini.</string>
+    <string name="exit_the_app_title">Keluar dari aplikasi?</string>
+    <string name="what_problems_you_encounter_during_use">Masalah apa yang Anda temui saat menggunakan?</string>
+    <string name="restart">Mulai ulang</string>
+    <string name="nothing_interesting_anymore">Tidak ada yang menarik lagi</string>
+    <string name="explore">Jelajahi</string>
+    <string name="still_uninstall">Tetap hapus</string>
+    <string name="why_uninstall_application">Mengapa menghapus aplikasi?</string>
+    <string name="difficult_to_use">Sulit digunakan</string>
+    <string name="too_many_ads">Terlalu banyak iklan</string>
+    <string name="others">Lainnya</string>
+    <string name="please_enter_the_reason_why_uninstall_application">Silakan masukkan alasan menghapus aplikasi</string>
+    <string name="don_t_uninstall_yet">Jangan hapus dulu</string>
+    <string name="loading_0">Memuat (0%)...</string>
+    <string name="loading_splash">"Memuat "</string>
+    <string name="prayer_reminder_not_working">Pengingat sholat tidak berfungsi</string>
+    <string name="qibla_compass_not_working">Kompas kiblat tidak berfungsi</string>
+    <string name="uninstall">Hapus</string>
+
+</resources>
