@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/img_splash"
+    android:background="@drawable/baseline_check_box_24"
     android:layoutDirection="ltr">
 
     <com.google.android.material.imageview.ShapeableImageView
@@ -11,7 +11,7 @@
         android:layout_width="@dimen/_80sdp"
         android:layout_height="@dimen/_80sdp"
         android:layout_marginTop="@dimen/_100sdp"
-        android:src="@drawable/logo_app"
+        android:src="@drawable/baseline_check_box_24"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -53,7 +53,7 @@
         android:layout_marginBottom="@dimen/_8sdp"
         android:max="100"
         android:progress="0"
-        android:progressDrawable="@drawable/progress_bar_custom"
+        android:progressDrawable="@drawable/baseline_check_box_24"
         app:layout_constraintBottom_toTopOf="@id/tvSplashDes" />
 
     <TextView

@@ -1,16 +1,10 @@
 package com.qibla.muslimday.app2025.util
 
-import com.qibla.muslimday.app2025.database.Quran.QuranEntity
-import com.qibla.muslimday.app2025.ui.ramadan.model.BackgroundRamadan
-import com.qibla.muslimday.app2025.ui.ramadan.model.ColorModel
-import com.qibla.muslimday.app2025.ui.ramadan.model.FontModel
-import com.qibla.muslimday.app2025.ui.ramadan.modelBackup.PrayerTimeBackup
+
 
 class Const {
     companion object {
-        @JvmField
-        var PrayTimeModel: PrayerTimeBackup? = null
-        var PrayTimeModelOld: PrayerTimeBackup? = null
+
         val CHANNEL_ID = "ALARM_SERVICE_CHANNEL"
 
         @JvmField
@@ -69,16 +63,7 @@ class Const {
         const val MEDIA_QURAN_PLAYING = 4
         const val MEDIA_QURAN_STOP = 5
         const val MEDIA_QURAN_PAUSE = 6
-         val listSurah = arrayListOf<QuranEntity>()
 
-         val listJuz = arrayListOf<QuranEntity>()
-        var isOpenTab = false
-
-        var listFont: ArrayList<FontModel> = arrayListOf()
-
-        var listColor: ArrayList<ColorModel> = arrayListOf()
-
-        var listBackgroundRamadan: ArrayList<BackgroundRamadan> = arrayListOf()
 
         val NOT_COLORIZE = IntArray(0)
 

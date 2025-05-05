@@ -14,9 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="CustomSearchView" parent="Widget.AppCompat.SearchView">
-        <item name="closeIcon">@drawable/custom_cancel_icon</item>
-    </style>
+
 
     <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
         <item name="android:windowBackground">@android:color/transparent</item>
